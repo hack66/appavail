@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.bleacherreport.android.teamstream',
+    appId: 'com.bleacherreport.android.teamstream',
+    title: 'Bleacher Report: sports news, scores, & highlights',
+    summary:
+     'Sports news, scores, & highlights for NBA, NFL, MLB, NHL, NCAA & more',
+    developer: 'Bleacher Report Inc.',
+    developerId: 'Bleacher+Report+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/gn1pLqq6Spr18bprP7i-sCRTzbfnd94dFmO5AKXLSpOTpS1j7sjJoiG_y6iLydTW9qU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.supercell.brawlstars',
+    appId: 'com.supercell.brawlstars',
+    title: 'Brawl Stars',
+    summary: 'Team Up and Jump Into Multiplayer Battles!',
+    developer: 'Supercell',
+    developerId: '6715068722362591614',
+    icon:
+     '//lh3.googleusercontent.com/l1J0x4Kg12WEsHw_R3AgyIJayRdQ7UVJXO4aQUj3eoeeWAdWSnHN8gdJ4wOTrfVvQCaO=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skava.hybridapp.bananarepublic',
+    appId: 'com.skava.hybridapp.bananarepublic',
+    title: 'BR',
+    summary:
+     'Shop Banana Republic in our new app. Find, share and buy products on the go!',
+    developer: 'Banana Republic Official',
+    developerId: 'Banana+Republic+Official',
+    icon:
+     'https://lh6.ggpht.com/gNLcAaXEl6GPHxnYx9ReCBZSII-Q_jsDBdhZTHO_n0gSSeGF2ClijKR0VwvsB_1Mpqg=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=br.mediathek',
+    appId: 'br.mediathek',
+    title: 'BR Mediathek',
+    summary:
+     'BR library - television broadcasts of the Bavarian Radio on the go',
+    developer: 'Bayerischer Rundfunk',
+    developerId: 'Bayerischer+Rundfunk',
+    icon:
+     '//lh3.googleusercontent.com/3IrtmewyUhrRkg1vWARV0akB5kNolQBPa8YuCDjQ1ZY96_hrZIVXlM6fAN-0JtBwfOxy=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.baskinrobbins.app',
+    appId: 'com.baskinrobbins.app',
+    title: 'Baskin-Robbins',
+    summary:
+     'Make every trip to Baskin-Robbins a little sweeter with our NEW Mobile App.',
+    developer: 'Baskin Robbins Mobile',
+    developerId: 'Baskin+Robbins+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/Q1LJZNWmlq-YtJunTlSKY0KsbsZNJomGWUAYi9Tz0S7NfWuZdYGPwZ4_e8EP1ApeN8R-=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ksmobile.cb',
+    appId: 'com.ksmobile.cb',
+    title: 'CM Browser - Ad Blocker , Fast Download , Privacy',
+    summary:
+     'Most secure browser, top video download with Ad Blocker and #1 Antivirus engine.',
+    developer: 'Cheetah Mobile Communications',
+    developerId: 'Cheetah+Mobile+Communications',
+    icon:
+     '//lh4.ggpht.com/PAGkrrp0ISxRO0ajsY0R6zHRUiVqWdc2SyjGZRJ-a_0YaHKXRjxadGnSQtNPJn4rVCo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.com.tapps.myboo',
+    appId: 'br.com.tapps.myboo',
+    title: 'My Boo - Your Virtual Pet Game',
+    summary:
+     '💙 The funniest virtual pet with 24 minigames in one game! 💙',
+    developer: 'Tapps Games',
+    developerId: '6615809648420562690',
+    icon:
+     '//lh3.googleusercontent.com/AICv0WInx5aTYmuE_iv9iFN3mBHLGRcACgKQ7_gJqiFRymnciHcRLe3Xa73a9OS6iHw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.com.rodriformiga.pixeldungeon',
+    appId: 'br.com.rodriformiga.pixeldungeon',
+    title: 'Pixel Dungeon ML',
+    summary:
+     'Pixel Dungeon ML is a traditional roguelike and pixeled game',
+    developer: 'Rodrigo Pan',
+    developerId: 'Rodrigo+Pan',
+    icon:
+     '//lh3.googleusercontent.com/mitfjESw9ISs_NcriECeVQn8LqpVrR2zGv3fTNoChpR6t7_gNDK-a-EpT96aZSG8gg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tohsoft.qrcode.pro',
+    appId: 'com.tohsoft.qrcode.pro',
+    title: 'QR Code Pro',
+    summary:
+     'Scan QR code, scan barcode. No ads, full features & 100% Money Back Guarantee.',
+    developer: 'Best App - Top Droid Team',
+    developerId: 'Best+App+-+Top+Droid+Team',
+    icon:
+     '//lh3.googleusercontent.com/3G1VbgKnISHbCy0lxl_lkhPq8Gkt5f0-0E0NJ79QXuMtKbiz0ST0tyboNKIxDshDSuk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '$4.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.br.sep.news.br24',
+    appId: 'de.br.sep.news.br24',
+    title: 'BR24',
+    summary: 'Latest news for Bavaria',
+    developer: 'Bayerischer Rundfunk',
+    developerId: 'Bayerischer+Rundfunk',
+    icon:
+     '//lh3.googleusercontent.com/jqRIDxlWG2BvrNpeIa_jngB2BM0BM1SResIGdoPLjzx03GJ7uvi89DhgbqnStYPKjx4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=tv.playerbr',
+    appId: 'tv.playerbr',
+    title: 'TV PLAYER BR',
+    summary: 'TV PLAYER BR CHANNELS FREE',
+    developer: 'js webdesigner',
+    developerId: 'js+webdesigner',
+    icon:
+     '//lh3.googleusercontent.com/jTh7J4rojECiuiaGucbjsW25sETJgXD5MUDgQycJ-qtURnv9YS5bk-thc5wHCa6tJ2L7=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=taptrendinggames.brparkingbusyroadparking',
+    appId: 'taptrendinggames.brparkingbusyroadparking',
+    title: 'Br. Parking - Busy road Parking 3D 2018',
+    summary:
+     'How fun it will be to park your car in busy road ? Let\'s Try. Here you go!!!!!!!',
+    developer: 'Tap Trending Games',
+    developerId: '7720725618142186320',
+    icon:
+     '//lh3.googleusercontent.com/S_85jllQbQyP-nlI7ZhvzRns8Evi0cE3_FninBJufswDQ-Pes2iEmeV0RLl9Lga6yw8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.benarom.brlogicpack',
+    appId: 'com.benarom.brlogicpack',
+    title: 'BR Logic Pack',
+    summary:
+     'Game bundle with 6 classic logical / puzzle games.Focused on random levels.',
+    developer: 'Benarom Games',
+    developerId: 'Benarom+Games',
+    icon:
+     '//lh3.googleusercontent.com/MiXawgtGgfa2LvFQD42yqMDHIZ3MQ6Kd8J6hbEsRKfQnnyofmQGl0Iv6JXMGoRgN9MI=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.toh.hdcamera.pro',
+    appId: 'com.toh.hdcamera.pro',
+    title: 'HD Camera Pro',
+    summary:
+     'Professional camera app. No ads, full feature & 100% Money Back Guarantee.',
+    developer: 'Best App - Top Droid Team',
+    developerId: 'Best+App+-+Top+Droid+Team',
+    icon:
+     '//lh3.googleusercontent.com/jBOvZKi1F-jG5YOYObQpkOWMtOnni4PWTVBLnKfvXxY6bjckR5Wx4_LpiO2Lbt27JA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$4.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.electrotoile.habilitation.br',
+    appId: 'eu.electrotoile.habilitation.br',
+    title: 'Habilitation électrique BR',
+    summary:
+     'Knowledge Validation Questionnaire for BR Electrical Accreditation.',
+    developer: 'CARPUAT Steed',
+    developerId: 'CARPUAT+Steed',
+    icon:
+     '//lh3.googleusercontent.com/hLIviPT5ZPuIP_CgpeiegRAHr0w3Su4p8UxyxiysJgxLv8BsOOuPCS-6DcIOlkk_EePS=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.dingtone.app.im',
+    appId: 'me.dingtone.app.im',
+    title: 'Free phone calls, free texting SMS on free number',
+    summary:
+     'Free phone calls & free texts message with free numberFree international calls',
+    developer: 'Dingtone, Inc.',
+    developerId: '7538110937782306003',
+    icon:
+     '//lh3.googleusercontent.com/o442WdilcjmsHYCM3Az8z_di2AyVy1-sZhr4-1sumYiQ8OkAMv0QPjBIMqj6_lAkeFaf=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brsoftech.brchat',
+    appId: 'com.brsoftech.brchat',
+    title: 'BR Chat',
+    summary:
+     'BR Chat is lighter, more functional and safer than competitive applications.',
+    developer: 'B R Softech pvt ltd',
+    developerId: 'B+R+Softech+pvt+ltd',
+    icon:
+     '//lh3.googleusercontent.com/0qsADD7SdyujuxTGd2bMbkNw9xqtuzjn88tdKVZA7ORrrb9fJjWFr0GcLc5E43Eqbo0=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tunein.player',
+    appId: 'tunein.player',
+    title: 'TuneIn: NBA Radio, Music, Sports & Podcasts',
+    summary:
+     'Live sports, breaking news, curated music, millions of podcasts & radio stations',
+    developer: 'TuneIn Inc',
+    developerId: '5756372639482561977',
+    icon:
+     '//lh3.googleusercontent.com/FCd8R1Hovq40hwCW4WlLSX3wtxjFXNpOSsuysPakaTXLRjADgIW-f58dgZ9tbNM1IrQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.futureplay.battleground',
+    appId: 'com.futureplay.battleground',
+    title: 'Battlelands Royale',
+    summary: '32-player real-time multiplayer Battle Royale game',
+    developer: 'Futureplay',
+    developerId: '9170985961245337722',
+    icon:
+     '//lh3.googleusercontent.com/hMzrlOiR1fLnzIa84AGSNcd5p8iHXQ-xdB70-wFFrHJhD_HlP1BQSZW-26U-FnzPxMuE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

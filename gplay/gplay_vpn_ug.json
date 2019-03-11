@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.tradinos.wasilni',
+    appId: 'com.tradinos.wasilni',
+    title: 'Wasilni',
+    summary:
+     'Wasilni is a car booking app that provides you with reliable ride at a low cost',
+    developer: 'Tradinos UG',
+    developerId: 'Tradinos+UG',
+    icon:
+     '//lh3.googleusercontent.com/LO4otVGHm5RZ1UAcWjRsvGrm2h3Ha6qIF1p4IlHx_9r0EMVYbZ7cuboKN6P18LzqvGM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.jatinderjyoti.juugcbcs',
+    appId: 'in.jatinderjyoti.juugcbcs',
+    title: 'JU(UG) CBCS',
+    summary:
+     'Complete Updates Related to Under Graduate Courses, University of Jammu.',
+    developer: 'JATINDER JYOTI',
+    developerId: 'JATINDER+JYOTI',
+    icon:
+     '//lh3.googleusercontent.com/U2HeIAkIr872qvnQ-McLpgDOLMwpBnnPWVnT1NL1tL54PKjvmWSXE-Zi-zUQFmxa9jE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobidoc.musawo',
+    appId: 'com.mobidoc.musawo',
+    title: 'Musawo UG',
+    summary:
+     'MUSAWO is a health necessisity APP designed to ensure that you are healthy.',
+    developer: 'Mobi-Doc',
+    developerId: 'Mobi-Doc',
+    icon:
+     '//lh3.googleusercontent.com/34qqu9QVzPQNQIioqQs0L11284w4E6Fbi6PvJidnsLGK508vGOmQ9YEslf-LQD99uWgn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ug.co.buzen.android.cinemaug',
+    appId: 'ug.co.buzen.android.cinemaug',
+    title: 'Cinema UG',
+    summary: 'This is an app for all movie and TV lovers.',
+    developer: 'Buzen Tech',
+    developerId: '5426997585131798235',
+    icon:
+     '//lh3.googleusercontent.com/U4M3ayo8ZVpX1OBZc_rCLfkKNAUW7WhpOe78erKyu2UQ4S-YspEmQK8uxEzBXRLLNO8z=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.logate.unifi',
+    appId: 'com.logate.unifi',
+    title: 'UniFi UG',
+    summary:
+     'Locate and view UNIFI and UNIFI Travel locations and connect to hotspots.',
+    developer: 'United Group B.V.',
+    developerId: 'United+Group+B.V.',
+    icon:
+     '//lh3.googleusercontent.com/y5yMJG2BcBVpKGwYu9YxHZxwT2KS6ZVjQAc843XmDR08f8DWbDPOoyLTMo9XfeYKpYQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UniversidadGuanajuato.SeguridadUG1',
+    appId: 'com.UniversidadGuanajuato.SeguridadUG1',
+    title: 'Seguridad UG',
+    summary:
+     'Generate reports of security incidents at the University of Guanajuato.',
+    developer: 'Universidad de Guanajuato',
+    developerId: 'Universidad+de+Guanajuato',
+    icon:
+     '//lh3.googleusercontent.com/iCmD5lW2_S20CnyWfdbxqQf_ZEmytiSDBC1bInprRxx1EojF7edx84d11GL37cz12YU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.muzurisana.birthday',
+    appId: 'com.muzurisana.birthday',
+    title: 'Birthdays',
+    summary:
+     'Easy to use birthday viewer with widgets and notification about upcoming events',
+    developer: 'Muzurisana UG (haftungsbeschränkt)',
+    developerId: 'Muzurisana+UG+(haftungsbeschr%C3%A4nkt)',
+    icon:
+     'https://lh6.ggpht.com/VIHO4cNHZHjRVLLnUlB92juwJ-fCR4xyPxEX1YDFESt9T86la-viMjDvhSHKsu-YCQI=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '$2.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ITGates.PulpoPlus_Ug',
+    appId: 'com.ITGates.PulpoPlus_Ug',
+    title: 'PulpoPlus-Ug',
+    summary:
+     'Fully Pharmaceutical CRM and Sales Integrated System Mobile App.',
+    developer: 'IT Gates',
+    developerId: 'IT+Gates',
+    icon:
+     '//lh3.googleusercontent.com/QCt83GFXCtc1WLcUbqd1jQezA0DVaQMOuFHzG4YFTYwNyyp-nzLiKqjxoaXW5M9cOQ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unitedglobalfx.android',
+    appId: 'com.unitedglobalfx.android',
+    title: 'UG Currency',
+    summary:
+     'Convert major currencies with a live rate offered by United Global F.X. Sdn Bhd.',
+    developer: 'United Global F.X. Sdn Bhd',
+    developerId: 'United+Global+F.X.+Sdn+Bhd',
+    icon:
+     '//lh3.googleusercontent.com/3GKZW_tA5qtGrezXCHJ5WPBBQEL6aylZ0pJmeUHs1I1BYLFFz444EG47K3NPrqlXgc7M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.kodular.vishwatechlogic.KUD_UG_NOTES',
+    appId: 'io.kodular.vishwatechlogic.KUD_UG_NOTES',
+    title: 'KUD UG NOTES',
+    summary:
+     'NOTES JOURNAL QUESTION PAPERS AVAILABLE OF BCA BCOM BSC BBA BA COURSES',
+    developer: 'Vishwa tech logic',
+    developerId: '8042858381945372426',
+    icon:
+     '//lh3.googleusercontent.com/VTnFqAJYIC974BJKziegIJM9CWLpUH0zo8PZkqZHHiZEaPIRXcFD9guz3iaVz-R1weU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ugstreams.android',
+    appId: 'com.ugstreams.android',
+    title: 'UG TV',
+    summary:
+     'Recordings (Major Update) - EPG Settings, Subtitle Settings Added- Bug Fixes',
+    developer: 'Hybridapps',
+    developerId: 'Hybridapps',
+    icon:
+     '//lh3.googleusercontent.com/bTMGJE_oy6PGjkp3Rq321Lmd77wR-Pp-1l7jsMmmVLbQpnfwzKD88FiFPI4GOm5dfQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Short Video Status & Video Downloader',
+    summary:
+     'Download & Share Funny Video, Status Video, and Trending Videos in UC Browser',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tinilabs.paul',
+    appId: 'com.tinilabs.paul',
+    title: 'PruMobi-UG',
+    summary:
+     'An insurance app from Prudential Uganda to answer all your questions',
+    developer: 'TiniLabs (Kenya) Limited',
+    developerId: 'TiniLabs+(Kenya)+Limited',
+    icon:
+     '//lh3.googleusercontent.com/RE-QV6flTPqV152FMBaJR0Qxe-7v46IE57CK96p6IWco4qGpil6NWSZGGxu-SMuvpDM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.papenmeier.wifibabymonitor',
+    appId: 'com.papenmeier.wifibabymonitor',
+    title: 'WiFi Baby Monitor',
+    summary:
+     'Turn your smartphone or tablet into a modern baby monitor! (full version)',
+    developer: 'Papenmeier Software UG (haftungsbeschränkt)',
+    developerId: 'Papenmeier+Software+UG+(haftungsbeschr%C3%A4nkt)',
+    icon:
+     '//lh5.ggpht.com/0JalCF0Mr7J_DDZcnQY6LcY9cPr7usY2AT1UpCxpgVSGeJFQDxwpnk5oe9U2YXaSedru=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$4.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=mx.ugto.culturaug',
+    appId: 'mx.ugto.culturaug',
+    title: 'Cultura UG',
+    summary: 'Application on culture within the university',
+    developer: 'Universidad de Guanajuato',
+    developerId: 'Universidad+de+Guanajuato',
+    icon:
+     '//lh3.googleusercontent.com/xIiPjXYeVC19PNnu3OyGD5JfDJ6isQqv3TLvfLSYqniHsPhHjJhiIUIfFcjaPRB6E6s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs',
+    appId: 'com.ultimateguitar.tabs',
+    title: 'Ultimate Guitar: Chords & Tabs',
+    summary:
+     'Discover over 1.400.000 free tabs & chords for guitar, bass or ukulele!',
+    developer: 'Ultimate Guitar USA LLC',
+    developerId: '7532879156454387436',
+    icon:
+     '//lh3.googleusercontent.com/aGJg8X4_nU58gIp-T7mKA9wRW2QxqChXf9ifpmqQtRqmWoXSuSK56fHSMQOlncAClCM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lancehenderson.ugcalculator',
+    appId: 'com.lancehenderson.ugcalculator',
+    title: 'UG Calculator',
+    summary:
+     'A simple Industrial Radiography Geometric Unsharpness Calculator',
+    developer: 'Lance Henderson',
+    developerId: 'Lance+Henderson',
+    icon:
+     '//lh3.googleusercontent.com/jlhAA2JegMYLFvxuKaPdA0XQmo7iUb4evHdmk4De43xCdDP7GOqq_nn15wDme190S8o=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mypthub.ugapp',
+    appId: 'com.mypthub.ugapp',
+    title: 'UG App',
+    summary: 'UG App Fitness App',
+    developer: 'Branded Apps by Fitii Ltd.',
+    developerId: 'Branded+Apps+by+Fitii+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/awvEdIdaq2qq08YHhAfyzolw8FZqjkBMFfoiaenhrxHCvhWIZ1JK9eh4eco2XLpTog=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jatinderjyotiapps.JU_EXAMS',
+    appId: 'com.jatinderjyotiapps.JU_EXAMS',
+    title: 'UG Exams Updates JU',
+    summary:
+     'Updates related to Under Graduation Examinations  from Jammu University',
+    developer: 'JATINDER JYOTI',
+    developerId: 'JATINDER+JYOTI',
+    icon:
+     '//lh3.googleusercontent.com/f1nwOoBfUA664dEj1qmYsakIBw6wsnUdLi554XTsrTA5TjLJ-AX70HWsKrxZU9n4Cg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ug.ienter_terminal',
+    appId: 'ug.ienter_terminal',
+    title: 'iEnter ug',
+    summary:
+     'This app allows your device to become a customer loyalty system\'s terminal',
+    developer: 'Robert Kaamu',
+    developerId: 'Robert+Kaamu',
+    icon:
+     '//lh3.googleusercontent.com/iAW_RBK5TVKgDhU66VRrPxVMfxwOkNVIdm-lQfSFLYIxdUln7WFUqPaciu7wx4r5mQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

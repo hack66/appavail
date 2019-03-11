@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.grarg.lilyeland',
+    appId: 'com.grarg.lilyeland',
+    title: 'Lil Ye Land',
+    summary:
+     'Join Lil Ye as you run, jump and tweet your way through a set of magical worlds!',
+    developer: 'GrArG Media',
+    developerId: 'GrArG+Media',
+    icon:
+     '//lh3.googleusercontent.com/O2F7lIUnOq_901IULV3C2FgD7pzPwVODl1E0uSArKdeZDNVPF8iu45aN2dvwoyIRfdY=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.etggames.mlg420trip3',
+    appId: 'com.etggames.mlg420trip3',
+    title: 'Ye Olde Meme Game',
+    summary: 'Ye old meme factory de la m e m e s',
+    developer: 'Ethan Sarif-Kattan',
+    developerId: 'Ethan+Sarif-Kattan',
+    icon:
+     '//lh3.googleusercontent.com/zegnjk7Vfx3TcXtHUvKU_V6rSkeJAamS049eJSMtLXD9Rad2_KZyQgOUusH0StE-zg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.thinkingimpairedstudios.yeoldemapmaker',
+    appId: 'air.com.thinkingimpairedstudios.yeoldemapmaker',
+    title: 'Ye Olde Map Maker',
+    summary: 'Design and print RPG game maps in the palm of your hand!',
+    developer: 'Kelsey Doherty',
+    developerId: 'Kelsey+Doherty',
+    icon:
+     '//lh3.ggpht.com/NQ5YmWFrhlFuddJUPtCNy4Mk0tdsVahN1uPdFyJxE-ghUxJYduUTLNhcS6IH47o4Gp8=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '$1.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cheetah.yellowball',
+    appId: 'com.cheetah.yellowball',
+    title: 'Ye-Lo Ball',
+    summary:
+     'Throw the yellow ball into the bucket, a simple and fun game！',
+    developer: 'FunsTime',
+    developerId: 'FunsTime',
+    icon:
+     '//lh3.googleusercontent.com/7WjmmQKAVaA0bR339wDFI7bM9nceu4yIBJyJuP6cdI8LLdkX5CghpykhCuCwbiLeLdii=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eyecon.global',
+    appId: 'com.eyecon.global',
+    title: 'Eyecon: Caller ID, Calls, Phone Book & Contacts',
+    summary:
+     'Better caller ID & dialer 📞 Get names and photos of unknown calls and contacts',
+    developer: 'Eyecon Phone Dialer & Contacts',
+    developerId: '5892064210267994756',
+    icon:
+     '//lh3.googleusercontent.com/PygEZPqDR0K7Ouo6SIvbk8qEqnbOZ_zoADDdqOn2_d8b4agRzdadQyU1TiDGlcMmvKw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.robert.Ye_duck',
+    appId: 'com.robert.Ye_duck',
+    title: 'Ye duck',
+    summary: 'Fun classic game, addictive.',
+    developer: 'Robert Tang',
+    developerId: 'Robert+Tang',
+    icon:
+     '//lh3.ggpht.com/kysl6ySWk-Y99jqao6cKM6HEd-u689EXUTsG1_R4TZaR8jGPWSiqH1Vw2NcXA-W35A=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mgc.miami.crime.simulator.two',
+    appId: 'com.mgc.miami.crime.simulator.two',
+    title: 'Vegas Crime Simulator',
+    summary:
+     'An entirely new level for you! Discover the world of criminal acts!',
+    developer: 'Naxeex LLC',
+    developerId: '4904364455782296418',
+    icon:
+     '//lh3.googleusercontent.com/0Bk7jyKPyzOuoev277cGCYKbfZ15b12HEj3VfQNKtKqv_q7qfvu4x3ZNvtmQJCp3GQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.PakApps.Ye_Chahatein_Ye_Shiddatein',
+    appId: 'com.PakApps.Ye_Chahatein_Ye_Shiddatein',
+    title: 'Ye Chahatain Ye Shiddatain Novel by Sumaira',
+    summary:
+     'Read Online & Offline, Goto Specific Page, Day & Night Reading Mode and Zooming',
+    developer: 'PakApps - Pakistani, Urdu Apps',
+    developerId: 'PakApps+-+Pakistani,+Urdu+Apps',
+    icon:
+     '//lh3.googleusercontent.com/ivgAMbhwtJa4AKfBdxdzCVbd_h3Zj7x-4E8gt5c48C2jvXXoGZGWZaLs4ycBb3TaAA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inovel.app.yemeksepeti',
+    appId: 'com.inovel.app.yemeksepeti',
+    title: 'Yemeksepeti -Order Food Easily',
+    summary: 'Worlds biggest kitchen.',
+    developer: 'Yemeksepeti',
+    developerId: '7597644040814984503',
+    icon:
+     '//lh3.ggpht.com/9lhWWhtRfs-4uFolooIiaNPSouF8syFYASlUlC7IrxcPxoVih47TIis9474kOhvcs38=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.siemreapdev.rathanakvibol',
+    appId: 'com.siemreapdev.rathanakvibol',
+    title: 'Rathanak Vibol: Yong Ye',
+    summary:
+     'Rathanak Vibol is  App that you can watch video from Rathanak Vibol Channel Full',
+    developer: 'Khmer Thai Movie Drama',
+    developerId: 'Khmer+Thai+Movie+Drama',
+    icon:
+     '//lh3.googleusercontent.com/Cu7AVS_7XFV9X36pbn6Yur7HtXKkeDEwxQZNvIVKKfhPEaYgsjszPE9eXiaMzPdb7DM=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yeecall.app',
+    appId: 'com.yeecall.app',
+    title: 'YeeCall - HD Video Calls for Friends & Family',
+    summary:
+     'FREE and FAST voice call, high definition video call, family and friends\' choice',
+    developer: 'YEECALL ONLINE PTE. LTD.',
+    developerId: '9030960344933824144',
+    icon:
+     '//lh3.googleusercontent.com/4fmIQPaIfwR0J903mjcgiwPLtnewZCPuIAMwJ2w_34b4vMIN8Vc7o-spPr29hleCwQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inflashcreative.inflash',
+    appId: 'com.inflashcreative.inflash',
+    title: 'Inflash - YE [AR] BOOK',
+    summary:
+     'inflash is an application for augmented reality yearbook by Inflash Creative.',
+    developer: 'Inflash Creative',
+    developerId: 'Inflash+Creative',
+    icon:
+     '//lh3.googleusercontent.com/kYXBQ4GgKwKrdkVziVOUu8K16q-_FIy5fypf13I4QOJzm1-LH6qTuieapX5lVmY1Jnnz=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pk.singharstudio.YeChahatainYeShiddatainNovelBySumairaPart1',
+    appId:
+     'pk.singharstudio.YeChahatainYeShiddatainNovelBySumairaPart1',
+    title: 'Ye Chahatain Ye Shiddatain Novel by Sumaira Part 1',
+    summary: 'Ye Chahatain Ye Shiddatain Novel by Sumaira Part 1',
+    developer: 'Singhar Studio',
+    developerId: 'Singhar+Studio',
+    icon:
+     '//lh3.googleusercontent.com/iwnQV-R3pWrCJvO2irzlavzWcxUHibQKnX44KHhb4w3Rw6t8sN6NJLnNJ7EAl2j-aMU=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aarishapps.YeChahatainYeShiddataintwo.Sumaira',
+    appId: 'com.aarishapps.YeChahatainYeShiddataintwo.Sumaira',
+    title: 'Ye Chahatain Ye Shiddatain Novel by Sumaira Part 2',
+    summary:
+     'Ye Chahatain Ye Shiddatain Part 2-Urdu Novel By "Sumaira" For Urdu Novel Lovers.',
+    developer: 'Aarish Apps',
+    developerId: 'Aarish+Apps',
+    icon:
+     '//lh3.googleusercontent.com/KfWLseJ3pJGsCAayDBhCl0UwrAfxsxvakWUkXHQYPsn_NJLe5dRJ1vJeviHLXwb2z2Y=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aarishapps.YeChahatainYeShiddatainOne.Sumaira',
+    appId: 'com.aarishapps.YeChahatainYeShiddatainOne.Sumaira',
+    title: 'Ye Chahatain Ye Shiddatain Novel by Sumaira Part 1',
+    summary:
+     'Ye Chahatain Ye Shiddatain Part 1-Urdu Novel By "Sumaira" For Urdu Novel Lovers.',
+    developer: 'Aarish Apps',
+    developerId: 'Aarish+Apps',
+    icon:
+     '//lh3.googleusercontent.com/EAYM5EBpPLMV1Acgmse-2IqEcAiqoLBRqiyd6O0Gurdki-6tgz4DQbw5ohY5iQh5XS3B=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.eye.ye',
+    appId: 'com.eye.ye',
+    title: 'Ye kaisa ishq ha urdu novel Anam Sana',
+    summary: 'Ye kaisa ishq ha urdu novel Anam Sana',
+    developer: 'eYe Developers',
+    developerId: 'eYe+Developers',
+    icon:
+     '//lh3.googleusercontent.com/xv2cc_7lkM0xIGIZVI1tp1_NkHyy1yBnnJZnrNLTm4TBv6KEKG7DnYJ4V6ot_Wn4YCNa=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mesutgungor.egitim.kpssyehazirlaniyorum',
+    appId: 'com.mesutgungor.egitim.kpssyehazirlaniyorum',
+    title: 'KPSS\'ye Hazırlanıyorum',
+    summary:
+     'I Preparing KPSS\'ye (GY-GK)Performance and Monitoring Application',
+    developer: 'Mesut GÜNGÖR',
+    developerId: 'Mesut+G%C3%9CNG%C3%96R',
+    icon:
+     '//lh3.googleusercontent.com/Cl3adKS-S5zKVE410OLS1NWUysi1jg6wuxdE0z0M2XYbTO87ospMxRBnzY7_pT9Qr2g=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.PakApps.Ye_Chahatein_Ye_Shiddatein_II',
+    appId: 'com.PakApps.Ye_Chahatein_Ye_Shiddatein_II',
+    title: 'Ye Chahatain Ye Shiddatain Novel Part 2',
+    summary:
+     'Read Online & Offline, Goto Specific Page, Day & Night Reading Mode and Zooming',
+    developer: 'PakApps - Pakistani, Urdu Apps',
+    developerId: 'PakApps+-+Pakistani,+Urdu+Apps',
+    icon:
+     '//lh3.googleusercontent.com/LCFPx6gkrC4-WuI-uxhWeiGeA6kTnFu-G2QtSj6DSxQk_6A0xYskcit60_tzsuZKgEg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cs.race.dubai.desert.free.apps',
+    appId: 'com.cs.race.dubai.desert.free.apps',
+    title: '4x4 Jeep Racer',
+    summary:
+     'An off road adventure of furious race with a simulation of crazy drive.',
+    developer: 'Coding Squares',
+    developerId: '6609243090034600037',
+    icon:
+     '//lh3.googleusercontent.com/yO9lTXBiXk7vTUgxreAlssJ6nfwwBOZG7JUXkdTD2_aGNOFkqYxCRl-EiCOg8KqV9dE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Rohaandroid.Romantic_Novel_By_Mariyam_Saddique',
+    appId: 'com.Rohaandroid.Romantic_Novel_By_Mariyam_Saddique',
+    title: 'Aah...!  Ye Mohabbat',
+    summary:
+     'Aah...!  Ye Mohabbat A Shot Story Written By Mariyam Siddiqui',
+    developer: 'Rohaandroid',
+    developerId: 'Rohaandroid',
+    icon:
+     '//lh3.googleusercontent.com/hGv4XXbnP8iTRIx-uI2kTJrSi31LvbhkCYRv9JaUL2PTZbtEy7Pfy1GuMXpst6RYj_Bt=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

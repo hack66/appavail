@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe',
+    appId: 'com.mojang.minecraftpe',
+    title: 'Minecraft',
+    summary:
+     'Millions of crafters have smashed billions of blocks! Now you can join the fun!',
+    developer: 'Mojang',
+    developerId: 'Mojang',
+    icon:
+     '//lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$6.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.marijuana_anonymous.MA_Mobile',
+    appId: 'org.marijuana_anonymous.MA_Mobile',
+    title: 'Marijuana Anonymous Δ MA',
+    summary:
+     'This is the official 12 Step recovery app of Marijuana Anonymous',
+    developer: 'MA World Services',
+    developerId: 'MA+World+Services',
+    icon:
+     '//lh4.ggpht.com/6o93KQP43gydVv90jFOfnZ7DfyBwI30zP6qDnGRijG_Iol7HqUXtjWDytoklPO9PUus=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nintendo.zara',
+    appId: 'com.nintendo.zara',
+    title: 'Super Mario Run',
+    summary: 'Control Mario with just a tap!',
+    developer: 'Nintendo Co., Ltd.',
+    developerId: '7277267556905944956',
+    icon:
+     '//lh3.googleusercontent.com/6geoqgXLoeCK4-A1xxkR9KcGcI_KF23SGeHX1sAM2gauaIhNp515feFNS3ML1zmCugI=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
+    appId: 'com.facebook.mlite',
+    title: 'Messenger Lite: Free Calls & Messages',
+    summary:
+     'A faster version of Messenger that works in all network conditions',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotterlook.driverstartma',
+    appId: 'com.spotterlook.driverstartma',
+    title: 'Permit Test Massachusetts MA RMV  Driver\'s test Ed',
+    summary:
+     'Permit Test Massachusetts RMV helps you to prepare for the RMV Knowledge Test MA',
+    developer: 'driver-start.com',
+    developerId: 'driver-start.com',
+    icon:
+     '//lh3.googleusercontent.com/duSsuj6K5iejty61phsMXApfyc-MTlM9VU1n_HIVaP5AUyR4VceWsiCQ5Pb_HSxihw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=biz.studioreel.app.ddt',
+    appId: 'biz.studioreel.app.ddt',
+    title: 'MA.YU.MO.RI',
+    summary: 'Let\'s journey with a bow and flowers!',
+    developer: 'studio R.E.E.L, Ltd.',
+    developerId: 'studio+R.E.E.L,+Ltd.',
+    icon:
+     '//lh6.ggpht.com/Gmvgp6aSmZEor0aG7mp2pZBLGiAGTpsRmSxzZ7PrXFbBjQi7ejDJ9SPPODRI304l1ag=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mdi.malottery',
+    appId: 'com.mdi.malottery',
+    title: 'MA Lottery 2nd Chance',
+    summary: 'MA Lottery 2nd Chance Mobile App',
+    developer: 'Scientific Games Corporation',
+    developerId: 'Scientific+Games+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/d0AlNUndxCLzrTwJ5b9MyCimz3zdFxpyaGHiV_-_Tq0ZlP_sUDgegXFBoGUxZ3ee6kEt=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row',
+    appId: 'com.ea.game.pvzfree_row',
+    title: 'Plants vs. Zombies FREE',
+    summary:
+     'Stem a zombie attack on your yard with the help of powerful plants!',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/fK7Va6zSVFjjxlWPG88yBLTQBKaoBzxV0ptcP8h8RW9vFt3M6Tix0xXk4UZAJl15mA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.gungho.cmg',
+    appId: 'jp.gungho.cmg',
+    title: 'CHRONO MA:GIA',
+    summary:
+     'Awaken, God of Victory! A new card game is born:CHRONO MA:GIA!!',
+    developer: 'GungHoOnlineEntertainment',
+    developerId: '7849776799175690127',
+    icon:
+     '//lh3.googleusercontent.com/rs5wFsW0SuE56ambEuNlPjNFKU3LsRnpIprf7r4PwZsXEWh3RSD5OKFdrSkOb8ga1KI=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.akabmedia.youngma',
+    appId: 'com.akabmedia.youngma',
+    title: 'Young Ma all songs',
+    summary: 'Young Ma app songs & lyrics collections',
+    developer: 'AKABMedia',
+    developerId: 'AKABMedia',
+    icon:
+     '//lh3.googleusercontent.com/ZMbdCHJbHCPBv4gTOVK25YMu2PJ3iCpKBL4Vfq5Oq_vjQuu5biwFurO1kEzklx7y1Q=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mac.lloyd.ghostobserver2',
+    appId: 'com.mac.lloyd.ghostobserver2',
+    title: 'Ghost Observer 👻 ghost detector & ghost radar app',
+    summary:
+     'Turn your camera into a real ghost detector👻. Scary Ghost Tracker & Ghost Radar',
+    developer: 'ETCO - ghost detector and ghost radar apps',
+    developerId: 'ETCO+-+ghost+detector+and+ghost+radar+apps',
+    icon:
+     '//lh3.googleusercontent.com/NOR66ClwaxwBW8WOm8WwC9zhaBygiqYnljzaSq6Cnmt6LPAfkNHS7j_6i8NODUf-mg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pragmistic.ezpassma',
+    appId: 'com.pragmistic.ezpassma',
+    title: 'EZPass MA',
+    summary:
+     'Manage your MassDOT\'s E-ZPass account through an easy-to-use app!',
+    developer: 'Pragmistic LLC',
+    developerId: 'Pragmistic+LLC',
+    icon:
+     '//lh3.googleusercontent.com/9kHU4YxBEOakFjAffEH9VMhtmqYE6oN0iLQ-cfFito2VhZ56ljkSAbezmbxqZcO_cUak=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dearead.cafe',
+    appId: 'com.dearead.cafe',
+    title: 'Cafe ma cherie -イケメンカフェの乙女-',
+    summary:
+     'イケメンだけが働けるカフェ『 Cafe ma cherie 』ひょんな出会いからバイトすることになった主人公は…女の子!?ドキドキの恋物語が今、始まる――',
+    developer: 'whomor Inc.',
+    developerId: 'whomor+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/tqToe4VdK19QVTBexWpaPnAHxreFzsGx1EsyEMYLtZDT8rfMZL-SmZ5IW9EwRw6ukQ8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hina.MAEnglishNotes',
+    appId: 'com.hina.MAEnglishNotes',
+    title: 'MA English Notes',
+    summary: 'MA English Notes',
+    developer: 'Hina',
+    developerId: 'Hina',
+    icon:
+     '//lh3.googleusercontent.com/gGWK7cbN2cr_y2dDOOMhI5_QUdk38C3cm71QPciwklBXB0PFkkZQnBIswkR9BbAmK9Q3=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vtcmobile.madaovolam',
+    appId: 'com.vtcmobile.madaovolam',
+    title: 'Ma Đạo Võ Lâm',
+    summary:
+     'Ma Dao Vo Lam - Làm Cỏ Giang Hồ game 3D siêu phẩm võ hiệp giữa Ma và Đạo.',
+    developer: 'NPH VTC Mobile',
+    developerId: 'NPH+VTC+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/dJZaH255UAy572MPDINL0GtzfBEEXwWJBaYXOXuqt_1fWOLDIVyFPGCg8mJc8cZKHykO=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.njcq.axx2avn',
+    appId: 'com.njcq.axx2avn',
+    title: 'Kỷ Nguyên Ma Thần  - Ky Nguyen Ma Than',
+    summary: 'Khám phá Lục địa Aden - Hành trình tìm kho báu',
+    developer: '1618GAME',
+    developerId: '1618GAME',
+    icon:
+     '//lh3.googleusercontent.com/I0A68SI4E0sxSEMHN89qUcsq9nRPxzX6YwGAvFHcOZB7T7Vinm0F_YhDYKDRFqVnZ_4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro',
+    appId: 'com.bitsmedia.android.muslimpro',
+    title: 'Muslim Pro - Prayer Times, Azan, Quran & Qibla',
+    summary:
+     'The most accurate prayer times app including the Quran (with 40+ translations)',
+    developer: 'Muslim Pro Limited',
+    developerId: '6337229670035066771',
+    icon:
+     '//lh3.googleusercontent.com/pDxO35VbSjDGRBUNcsQk0lL4uCS_60hHzNzLFz6waN4Rgpg8Q-uCD_hvM8JKLWr-4G3X=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

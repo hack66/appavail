@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.phonepe.app',
+    appId: 'com.phonepe.app',
+    title: 'PhonePe – UPI Payments, Recharges & Money Transfer',
+    summary:
+     'India\'s Payment App! Secure UPI money transfers & payments with bank accounts.',
+    developer: 'PhonePe',
+    developerId: 'PhonePe',
+    icon:
+     '//lh3.googleusercontent.com/wmhFvW_9_De7EXjQYKZj40dwjHg-dmK2qAMCOQxPmF_vVjg0ZVr73rDn1Hsm7bkUuoo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appblockgames.freecraftexploration',
+    appId: 'com.appblockgames.freecraftexploration',
+    title: 'MOD-MASTER for Minecraft PE (Pocket Edition) Free',
+    summary:
+     'MCPE Master Game Minecraft Free: Mods, Maps, Servers, Skins, Addons, Textures.',
+    developer: 'Multi Craft Studio',
+    developerId: '5713672414955811747',
+    icon:
+     '//lh3.googleusercontent.com/yQmhlfqYCNwpocSCGV622RYvPvPtTS6I28um-tJVkxIE8OAgrhR4I4lONI8_vOg2lwY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.groundhog.mcpemaster',
+    appId: 'com.groundhog.mcpemaster',
+    title: 'Master for Minecraft(Pocket Edition)-Mod Launcher',
+    summary:
+     'Download and Import maps, texture, skins, seeds and mods for MCPE for free',
+    developer: 'Nimo TV',
+    developerId: 'Nimo+TV',
+    icon:
+     '//lh3.googleusercontent.com/PfZlWI05Dwm_ggvPLVeZkK9-2ASehxuS-74akvSEHUOAydF9TojfYqvrWhseWJhS1LI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gov.va.mobilehealth.ncptsd.pecoach',
+    appId: 'gov.va.mobilehealth.ncptsd.pecoach',
+    title: 'PE Coach 2',
+    summary:
+     'PE Coach is for use with Prolonged Exposure therapy for PTSD with a therapist.',
+    developer: 'US Department of Veterans Affairs (VA)',
+    developerId: 'US+Department+of+Veterans+Affairs+(VA)',
+    icon:
+     '//lh3.googleusercontent.com/Q9d1w1_Q9p6b3UpDcXKem9D-yh7Je9N3Six9o47WsGwQRpodrxVKoM3Gmf5U8UR-rACr=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.mrarm.mctoolbox',
+    appId: 'io.mrarm.mctoolbox',
+    title: 'Toolbox for Minecraft: PE',
+    summary:
+     'With this mod you can give yourself items, change gamemode and much more!',
+    developer: 'MCMrARM',
+    developerId: 'MCMrARM',
+    icon:
+     '//lh3.googleusercontent.com/sTWO8NpBjXW6cgcPhOrslhFjeNWZpd6sS8b0RBBGt5HjKr6cI1kRreuDC7BeQ5obsSI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.tlauncher.tlauncherpe',
+    appId: 'org.tlauncher.tlauncherpe',
+    title: 'TLauncher PE for Minecraft',
+    summary:
+     'TLauncher PE will help you to install Minecraft PE addons, textures and skins',
+    developer: 'TLauncher Inc.',
+    developerId: 'TLauncher+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/69RrwOV04CNghTgl01UXm2Em6FQFA8XE3v8AO2J9_9Pw6Cxo9zXzEgG47yXgScM50QU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.craftblockstudio.modsforminecraftpe',
+    appId: 'com.craftblockstudio.modsforminecraftpe',
+    title: 'Mods for Minecraft PE',
+    summary: 'Collection of Mods for Minecraft PE (Pocket Edition)',
+    developer: 'Multi Craft Studio',
+    developerId: '5713672414955811747',
+    icon:
+     '//lh3.googleusercontent.com/Af7ntMeeiJ3R9sDAN3V_ajNo4A40HftPtGTrfUpEKmyDRehoKj4Vp1hqWsULYeOP4Zk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=theappmatch.pegames',
+    appId: 'theappmatch.pegames',
+    title: 'PE Games',
+    summary: 'The Ultimate Resource for Physical Educators',
+    developer: 'ConnectedPE',
+    developerId: 'ConnectedPE',
+    icon:
+     '//lh3.googleusercontent.com/snZ0kXPaCTegpAQrs35kBsXDfg10MVHf_0iNPhxChooZXjmFStAwseFf2aI5gUlyadU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$1.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lyxoto.mcbuilder.lite',
+    appId: 'com.lyxoto.mcbuilder.lite',
+    title: 'Builder for Minecraft PE Free',
+    summary:
+     'Builder for MCPE Master Games Minecraft Free: Houses and Buildings',
+    developer: 'Lyxoto Studios',
+    developerId: 'Lyxoto+Studios',
+    icon:
+     '//lh3.googleusercontent.com/js8Imju80VQq6_YJkSX07pS9aWZLKoUrc7uPVz_T72NPFv4LNm08JTk_wZEBxO7VxCw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kissapp.apptexturesminecraft',
+    appId: 'com.kissapp.apptexturesminecraft',
+    title: 'Texture Packs for Minecraft PE',
+    summary:
+     'Thousands of Textures for Minecraft PE. Automatically install textures packs',
+    developer: 'Kissapp S. L.',
+    developerId: '5004686940863976016',
+    icon:
+     '//lh3.googleusercontent.com/krnnBDAUi3pg95yJrh2NFOFp2btsYKZ1QxPEW1m2KfeBmBlm04ktsLjTuGCu0wiFRkg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kissapp.customyminecraftpe',
+    appId: 'com.kissapp.customyminecraftpe',
+    title: 'Customy Themes for Minecraft PE',
+    summary:
+     'Create and edit your own theme for Minecraft Pocket Edition',
+    developer: 'Kissapp S. L.',
+    developerId: '5004686940863976016',
+    icon:
+     '//lh3.googleusercontent.com/hhUDfSCnLX9tLYXD1RMOOrn4aTKw4rijDuYfBzbKjumVUQ92I2YXhn-WqeKWj6_k_ALq=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lyxoto.master.forminecraftpe',
+    appId: 'com.lyxoto.master.forminecraftpe',
+    title: 'Block-Master for Minecraft PE (Pocket Edition)Free',
+    summary:
+     'MCPE Master Games Minecraft Free: Mods, Maps, Skins, Addons, Buildings',
+    developer: 'Lyxoto Studios',
+    developerId: 'Lyxoto+Studios',
+    icon:
+     '//lh3.googleusercontent.com/0-_9MfTc3cTCsJPmiIheR4C3QukF6rFucarPIfsT-IAHUHgpiluaqFo88aXPCBxU2U0=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.classbreak.peshake',
+    appId: 'au.com.classbreak.peshake',
+    title: 'PE Shake - Games for Teachers',
+    summary:
+     'The PE Shake is a must have resource for all Physical Education Teachers',
+    developer: 'Dale Sidebottom',
+    developerId: 'Dale+Sidebottom',
+    icon:
+     '//lh6.ggpht.com/xgrJLYfNa5QBgMSpf4W5LC6J2AWUpAsuzz36aitnHpKGqmCs-YMb2MSs4nD9Mlc_WQ9x=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=com.quickpe',
+    appId: 'com.quickpe',
+    title: 'Quick.pe',
+    summary:
+     'con Quick.pe gane sin limites por hacer el trabajo de un niño: "tener amigos"',
+    developer: 'Escuela Angloamericana',
+    developerId: 'Escuela+Angloamericana',
+    icon:
+     '//lh3.googleusercontent.com/YfXbcQApoAq7rrJGTFQ99_ZOyx8zU0NPXnczzqPoJG9PX20vhu__eHHoZm3WrTZZ8zJY=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mrarm.tmipe',
+    appId: 'com.mrarm.tmipe',
+    title: 'TooManyItems PE',
+    summary: 'Too Many Items For Minecraft Pocket Edition',
+    developer: 'MrARM',
+    developerId: 'MrARM',
+    icon:
+     '//lh5.ggpht.com/WRuHWgig715W3Tvkn9-rsZWz5_7-qZN2dZro2aiexJ2pdsimLQrAmxnWIlRJXgpL=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.keeratipong.mapsforminecraftpe',
+    appId: 'com.keeratipong.mapsforminecraftpe',
+    title: 'Maps for Minecraft PE',
+    summary:
+     'The best maps for Minecraft Pocket Edition are waiting for you to play!',
+    developer: 'Remoro Studios',
+    developerId: '8187576823516042721',
+    icon:
+     '//lh3.googleusercontent.com/Wh3i6-4Hgop0X6rAFJPQ9tz1Hx5zfILooaadwqVc_CPDCNiLCkKwpPEsQ2QDIEirnA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mojang.minecraftpe',
+    appId: 'com.mojang.minecraftpe',
+    title: 'Minecraft',
+    summary:
+     'Millions of crafters have smashed billions of blocks! Now you can join the fun!',
+    developer: 'Mojang',
+    developerId: 'Mojang',
+    icon:
+     '//lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$6.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.tombailey.mapsforminecraftpelite',
+    appId: 'me.tombailey.mapsforminecraftpelite',
+    title: 'Maps for Minecraft PE',
+    summary:
+     'Over 30,000 of the best maps for Minecraft Pocket Edition! 🎮',
+    developer: 'Torgue Limited',
+    developerId: 'Torgue+Limited',
+    icon:
+     '//lh3.googleusercontent.com/gIYY4rRbp-8eN80Zv2tswGqWsxlAMU-1QD3etJ8_bepc7tEgJsgxn-WXIHqTHxz-8A=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lyxoto.mcbuilder.pro',
+    appId: 'com.lyxoto.mcbuilder.pro',
+    title: 'Builder PRO for Minecraft PE',
+    summary: 'Build awesome creations on your maps just by one click!',
+    developer: 'Lyxoto Studios',
+    developerId: 'Lyxoto+Studios',
+    icon:
+     '//lh3.googleusercontent.com/KY0SLWJq21iFLfDBq24faPxobbgMqtT_oTJgkYr7I2VOtCcWSWXjkOUsy3RkIGPiqWg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$1.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.craftblockstudio.mapsforminecraftpe',
+    appId: 'com.craftblockstudio.mapsforminecraftpe',
+    title: 'Maps for Minecraft PE',
+    summary: 'Catalog Maps for Minecraft PE (Pocket Edition)',
+    developer: 'Multi Craft Studio',
+    developerId: '5713672414955811747',
+    icon:
+     '//lh3.googleusercontent.com/rf1KuR1pGi7dmxcjor4SipzXPjBECXwudx6LvQSNAeVwrZRJJjNS60xqLRGhsfKhLmo-=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

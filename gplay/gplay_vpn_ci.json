@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.supercell.clashofclans',
+    appId: 'com.supercell.clashofclans',
+    title: 'Clash of Clans',
+    summary:
+     'Epic combat strategy game. Build your village, train your troops & go to battle!',
+    developer: 'Supercell',
+    developerId: '6715068722362591614',
+    icon:
+     '//lh3.googleusercontent.com/akv2Bdp7i5Vv-sl9FuP3_dhWpUO80zULf-Pkh6RFleomEp6pZorHuCNm3FbR9oAMunVK=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icq.mobile.client',
+    appId: 'com.icq.mobile.client',
+    title: 'ICQ — Video Calls & Chat Messenger',
+    summary:
+     'Instant messaging app with Chat rooms. Encrypted and safe free video calling!',
+    developer: 'LLC Mail.Ru',
+    developerId: 'LLC+Mail.Ru',
+    icon:
+     '//lh3.googleusercontent.com/evJrJh9qDWRbrji7pS3VqMIYWk5BLNISGffqkD2-IENesFNJ2cEzZ5SSXJ5wcnluliA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ci.generaladaptiveapps',
+    appId: 'com.ci.generaladaptiveapps',
+    title: 'ci',
+    summary: 'ci - 12th in "focus"',
+    developer: 'General Adaptive Apps Pty Ltd',
+    developerId: '5287980258369385464',
+    icon:
+     '//lh3.googleusercontent.com/2b97-96957OpfPjek9dSM08ktl9Gi8EP_8yev_ahchukmBf-pTyYH9Pg9w78dT8tJBk=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.patrickung.parisciandroid',
+    appId: 'com.patrickung.parisciandroid',
+    title: 'Paris ci la Sortie du Métro',
+    summary:
+     'Paris Metro Exit StrategyAll the maps to help you save minutes off every trip!',
+    developer: 'P UNG',
+    developerId: 'P+UNG',
+    icon:
+     'https://lh3.ggpht.com/_Bn4IzZths8AWbRBeLTrrPXJGy_7pyK1VpU9ucbPM8_Y8lrCXUyYxF8riiAY4_sFqss=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '$1.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.advancedBionics',
+    appId: 'com.advancedBionics',
+    title: 'myNaida CI',
+    summary:
+     'Dynamic & user-friendly guide to the Naída CI Q70 (Naída CI) sound processor.',
+    developer: 'Advanced Bionics LLC',
+    developerId: 'Advanced+Bionics+LLC',
+    icon:
+     '//lh3.ggpht.com/hXDt2vG9UrOQ4gesZaMi8csu4SbfBhGpicOjhJEw0-tadozCY6XKME-4BR60366CMw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cyworld.camera',
+    appId: 'com.cyworld.camera',
+    title: 'Cymera Camera - Collage, Selfie Camera, Pic Editor',
+    summary:
+     '* Free Photo Editor & Beauty Camera. * Christmas Effects & Selfie Camera.',
+    developer: 'SK Communications',
+    developerId: 'SK+Communications',
+    icon:
+     '//lh3.googleusercontent.com/ooY0cNvi2fLYbSCsjtr0jBwHoEmHmpWEWgd1sN6ipJYQ-TbTCjC1XH-UnhjEb9PPzRk=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.intelligence.cimobi',
+    appId: 'com.intelligence.cimobi',
+    title: 'CI MOBI',
+    summary:
+     'CI MOBI is an augmented reality based mobile application for Cyber safety.',
+    developer: 'Raycasts',
+    developerId: 'Raycasts',
+    icon:
+     '//lh3.googleusercontent.com/lY7sKhET4Tyv4ZC7ssUeqk8nNxpozAbMc0riGvvCwUxawBjHCQt1Yjr2GiwynXfTCJg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.newssynergy.wciaextramile',
+    appId: 'com.newssynergy.wciaextramile',
+    title: 'CI On The Go',
+    summary: 'WCIA-3 Lifestyle App powered by ciLiving',
+    developer: 'Nexstar Broadcasting',
+    developerId: 'Nexstar+Broadcasting',
+    icon:
+     '//lh3.googleusercontent.com/B1pJZ_EvjYCgMYRxbq__YF0P3iMudFLjTyssAfv7X_0E65euqwUR7BqZ2BixfAk7MQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alexuvarov.android.iqtest',
+    appId: 'com.alexuvarov.android.iqtest',
+    title: 'IQ Test',
+    summary:
+     'Find out how smart you are! Compare your mind with your friends!',
+    developer: 'Aliaksandr Uvarau',
+    developerId: 'Aliaksandr+Uvarau',
+    icon:
+     '//lh3.googleusercontent.com/547bbPvgLYX_P38ims14GDLldeBTHrojc4A9Mj-fCubhqvoafIRnJfbKY7ewZv_1Lw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.openci',
+    appId: 'com.openci',
+    title: 'OpenCI for Travis CI (Unreleased)',
+    summary: 'Open-source Travis CI client built from ground zero.',
+    developer: 'Brijesh Shah',
+    developerId: 'Brijesh+Shah',
+    icon:
+     '//lh3.googleusercontent.com/IMIcOoQUd3KieNs5AWLcIauYa6TOMHdGHOfkFf4GiyqP1HG8L9SpJxV3FL5zd-C9ug=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping',
+    appId: 'com.amazon.mShop.android.shopping',
+    title: 'Amazon Shopping',
+    summary:
+     'Browse, search & buy millions of products right from your Android device.',
+    developer: 'Amazon Mobile LLC',
+    developerId: 'Amazon+Mobile+LLC',
+    icon:
+     '//lh3.googleusercontent.com/Pzhl8z9sJAQk8e1ZiL_XnX3WZPEminhbw5I0S5nrqmTtzdbzb1TCydGZJ9FoUmlD_WjO=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nexudusspaces.sohoci',
+    appId: 'com.nexudusspaces.sohoci',
+    title: 'SOHO CI',
+    summary:
+     'O aplicativo SOHO CI te dá acesso a nossa comunidade de membros.',
+    developer: 'Nexudus Ltd',
+    developerId: 'Nexudus+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/wjWyLBvn9rArDBUCxXG2LQCj1flUn3YuO9dmvMEdTMpe_GyO7v0q08Td0w8uEessIaNJ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pixellot.cistream',
+    appId: 'pixellot.cistream',
+    title: 'CI Stream',
+    summary: 'Para ver deporte amateur en vivo',
+    developer: 'seeUplay S.A. de C.V.',
+    developerId: 'seeUplay+S.A.+de+C.V.',
+    icon:
+     '//lh3.googleusercontent.com/EIOsq-HLKpvAR2MUIMnyS1GBzxsUYEBtZeppRk8zvMvhGn0VciGIox_SF3ztf8riZHrO=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thejakamo.valmetci',
+    appId: 'com.thejakamo.valmetci',
+    title: 'Valmet CI Tool',
+    summary: 'Valmet CI Tool mobile application',
+    developer: 'Jakamo',
+    developerId: 'Jakamo',
+    icon:
+     '//lh3.googleusercontent.com/qwxZCwwXARBBHy_UHogaKhuR9T4ieshCgNsHXbWwhEwAApN2kevdOa21-niK_PLc5mnH=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cloud.client',
+    appId: 'com.cloud.client',
+    title: 'CI-X100 Series',
+    summary:
+     'View Cloud Intelligence NVRs/Hybrid DVRs/IP Cameras and play back recorded video',
+    developer: 'Cloud Intelligence Pty Ltd',
+    developerId: 'Cloud+Intelligence+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/czu7GAxKnCWQhbUF4xvcWbfAyfLqi_cpi3in-QX8A58uBg_T_EuMGVKR-L0ManVyUOO4=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.cloudintelligence.smartview',
+    appId: 'au.com.cloudintelligence.smartview',
+    title: 'CI View',
+    summary:
+     'View your XVR Surveillance system cameras live and play back recorded footage.',
+    developer: 'Cloud Intelligence Pty Ltd',
+    developerId: 'Cloud+Intelligence+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ZQuFz3UClvj2-RgNCjtvfBNAkcdCJ2j6km4CsYNgjfqR4SVCwCjE_zmNa4BiBO0pxaI=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.GAMEsPORT.QiPro',
+    appId: 'com.GAMEsPORT.QiPro',
+    title: 'IQ Pro',
+    summary:
+     'Two calibrated and reliable tests to measure your intelligence.',
+    developer: 'GeeS',
+    developerId: '6095565457588829956',
+    icon:
+     '//lh3.googleusercontent.com/9y-x2w6BgLCynVCNfGLLAVk9WCZNap0AYI2l_wFIr13gJFQoi1Oj49t7b0xdXVAvpSE=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cricbuzz.android',
+    appId: 'com.cricbuzz.android',
+    title: 'Cricbuzz - Live Cricket Scores & News',
+    summary:
+     'Live Cricket Scores, Commentary, News and everything else related to Cricket.',
+    developer: 'Cricbuzz.com',
+    developerId: 'Cricbuzz.com',
+    icon:
+     'https://lh5.ggpht.com/3z09fC48t4igPsjnohFu1Zbm1POROtwBRR4pAC4ZpDR5ZCyf0xIx3e3oHAZjdhivgQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.coastalimages.ci_screwed',
+    appId: 'com.coastalimages.ci_screwed',
+    title: 'CI Screwed - Icon Pack',
+    summary: 'CI Screwed - Icon Pack',
+    developer: 'Coastal Images',
+    developerId: '5070356455691124088',
+    icon:
+     '//lh3.googleusercontent.com/2JGXntFHuFGNIEWRdUKsQInK-gr-PhXOKDPRKwakfd6nT_G1wyf9ZqWdNtfmRCKbBXU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.malauzai.DH14349',
+    appId: 'com.malauzai.DH14349',
+    title: '1st Fed CI Mobile Banking',
+    summary: '1st Fed CI Mobile Banking',
+    developer: '1st Federal S&L Assn. of Central IL',
+    developerId: '1st+Federal+S%26L+Assn.+of+Central+IL',
+    icon:
+     '//lh3.googleusercontent.com/Y8scp4zfdNzV0MSu8w_X_QXsAmuUoZ2P0q9X3obj33sVaoXHvYVCAvOtUiOTTXx9wXo=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true } ]

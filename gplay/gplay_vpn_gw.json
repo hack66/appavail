@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.ghostpattern.gwmail',
+    appId: 'com.ghostpattern.gwmail',
+    title: 'GW Mail',
+    summary:
+     'Easily get your Novell GroupWise email on your Android device.',
+    developer: 'Ghost Pattern Software',
+    developerId: 'Ghost+Pattern+Software',
+    icon:
+     'https://lh3.ggpht.com/LSTjoWbrmlAZsZn1NHLd53l_O5U08zyWaIEskzxDyHDr_flC984DBIgsxRsblc5SQwA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '$9.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=edu.gwu.acadtech.gwmobile',
+    appId: 'edu.gwu.acadtech.gwmobile',
+    title: 'GWMobile',
+    summary:
+     'A mobile application that provides the GW community with mobile access',
+    developer: 'The George Washington University',
+    developerId: 'The+George+Washington+University',
+    icon:
+     '//lh3.googleusercontent.com/7ix8GuXk2_QMDNyGVzIzeXLLS90K-6jD3TSl-Ursnwbc1Q0vR03RD5lfLlp1DCUmdg=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.jw.jwlibrary.mobile',
+    appId: 'org.jw.jwlibrary.mobile',
+    title: 'JW Library',
+    summary:
+     'Read and study multiple Bible translations, books and brochures.',
+    developer: 'Jehovah\'s Witnesses',
+    developerId: 'Jehovah\'s+Witnesses',
+    icon:
+     '//lh6.ggpht.com/53MOlebCzGyoUXApCOgHhr1BLAGsPtbiN7fEH4EC3DGwINuKKODT2U1utFGfIdwrlHo=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=edu.gwu.gwpal',
+    appId: 'edu.gwu.gwpal',
+    title: 'GW PAL',
+    summary:
+     'GW PAL is a mobile safety app for the George Washington University community.',
+    developer: 'The George Washington University',
+    developerId: 'The+George+Washington+University',
+    icon:
+     '//lh3.googleusercontent.com/u99vUZ2SM9-Nv0W9wjxiNgkOMeyqfXi7Ez9eQItsi8ySlbWtOy63CS-oevHF7AqWrQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vernier.android.graphicalanalysis',
+    appId: 'com.vernier.android.graphicalanalysis',
+    title: 'Graphical Analysis GW (Go Wireless sensor support)',
+    summary:
+     'Not for use with VERNIER GO DIRECT® sensors. Use Graphical Analysis 4 instead.',
+    developer: 'Vernier Software & Technology',
+    developerId: 'Vernier+Software+%26+Technology',
+    icon:
+     '//lh3.googleusercontent.com/z-M7iabuR6CshzY2XPgMLNsshViiHDHhUrv2A8VLrvHBQytFPLBbX9TP9-ICDGaHd4TS=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ghostpattern.gwcalendar',
+    appId: 'com.ghostpattern.gwcalendar',
+    title: 'GW Calendar',
+    summary:
+     'Get your your Novell GroupWise calendar on your Android device today!',
+    developer: 'Ghost Pattern Software',
+    developerId: 'Ghost+Pattern+Software',
+    icon:
+     'https://lh3.ggpht.com/-vpF25i-UHjjx04Am98PlLNmddPJqmuXVTT2_PvnTiNXAICFsb3j5UnlG_ryoboDKQ=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aajtech.accurategroup.rapidsketch',
+    appId: 'com.aajtech.accurategroup.rapidsketch',
+    title: 'GW Sketch',
+    summary:
+     'GW Sketch is an add-on that works with the GroundWorks™ Inspections mobile app',
+    developer: 'Accurate Group, LLC',
+    developerId: 'Accurate+Group,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RSPluuUYQl12nnzGJTujNq2YN6a_9dtwQGhO8J4-0LW0JpOmxxKSFXjbKfMmA57FRw=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ghostpattern.gwlite',
+    appId: 'com.ghostpattern.gwlite',
+    title: 'GW Lite',
+    summary:
+     'Test to see if GW Mail and GW Calendar will work with your server!',
+    developer: 'Ghost Pattern Software',
+    developerId: 'Ghost+Pattern+Software',
+    icon:
+     'https://lh3.ggpht.com/9a4J8oxjEhVlPXMKzI5Jpq-_aw4QPedB1HgJJIejbBRAsixhwvCyCPz9PjC7kBwILQ=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.crooz.AppDropAssault',
+    appId: 'jp.co.crooz.AppDropAssault',
+    title: 'The Horus Heresy: Drop Assault',
+    summary:
+     'Choose your side in the intense civil war that erupted in the Emperor\'s Legions.',
+    developer: 'Complex Games Inc.',
+    developerId: 'Complex+Games+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/3W82Xqdw1kGoej5kRuq2Y38mezECZCIR42AYBWxBYpzDfZqYi3AwGvCAbfu_MjI69LE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.versedaily.gwbible',
+    appId: 'com.versedaily.gwbible',
+    title: 'GW Bible Free Download - GOD\'S WORD Version',
+    summary: 'GW Bible Free Download - GOD\'S WORD Version',
+    developer: 'Bible Free Download',
+    developerId: 'Bible+Free+Download',
+    icon:
+     '//lh3.googleusercontent.com/qnKDWBjpw9c2KG2-yUSi5UIW_CL-_me2WSho3sWiQTmhO3U2C5tUjEuYPY9xhwoQCA=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gwcamview.client',
+    appId: 'com.gwcamview.client',
+    title: 'GWCAMVIEW',
+    summary: 'GWCAMVIEW',
+    developer: 'Yang DaJun',
+    developerId: 'Yang+DaJun',
+    icon:
+     '//lh3.googleusercontent.com/6iSagBXuau2WQG6Zky1N7VclMmi_qPeWpTecpWwkojGFTYtv40E9mFxuWaMIhKalkQ=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.holybibleoffline.gwbible',
+    appId: 'com.holybibleoffline.gwbible',
+    title: 'GW Bible, GOD\'S WORD Bible Version Offline',
+    summary:
+     'The HOLY BIBLE GOD\'S WORD Bible (GW) Online and Offline Free App!',
+    developer: 'Free BIBLE',
+    developerId: 'Free+BIBLE',
+    icon:
+     '//lh3.googleusercontent.com/sDzWMxy3AQNJp8D2vVh6loEuuokWQQhWB3iVi1M4jivx7PhG-PJHMv0A-QfjlrNaMJk=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.staffbase.gw',
+    appId: 'com.staffbase.gw',
+    title: 'GW-App',
+    summary:
+     'Download now to be quickly and easily and at any time "up to date"',
+    developer: 'Gebrüder Weiss',
+    developerId: 'Gebr%C3%BCder+Weiss',
+    icon:
+     '//lh3.googleusercontent.com/jAsuZs4INist2VkbZ3E87dSgUftJtE8LAMusxCniA14AiJSZ1zEnmF7E8Wb3LYDg1w=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.offlinebible.gwbible',
+    appId: 'com.offlinebible.gwbible',
+    title: 'GOD’S WORD Bible (GW) Offline Free',
+    summary:
+     'The HOLY BIBLE GOD’S WORD Bible (GW) Online And Offline Free App!',
+    developer: 'BIBLE Offline',
+    developerId: 'BIBLE+Offline',
+    icon:
+     '//lh3.googleusercontent.com/6k6iFS5rqrhhXE9Ok3s_0-djfPMGw4uWSHBOsJJcMFSTCmnmyb9hyHkAM-5TPqdikuNx=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.guildwars.mobilechat',
+    appId: 'com.guildwars.mobilechat',
+    title: 'Mobile Chat for Guild Wars',
+    summary: 'Log into Guild Wars and chat from your mobile device!',
+    developer: 'decltype',
+    developerId: 'decltype',
+    icon:
+     'https://lh6.ggpht.com/bwVi59ESxqzvA85ZKz0jREoTJDSS9QerYYiJ8y3Z-znsDqwxjxRr_2ZiIFeuKx77Kg=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.independent_software.gwbasicreference',
+    appId: 'com.independent_software.gwbasicreference',
+    title: 'GW-BASIC Portable Reference',
+    summary:
+     'Fully indexed reference to the GW-BASIC dialect of the BASIC language',
+    developer: 'Independent Software',
+    developerId: 'Independent+Software',
+    icon:
+     '//lh3.googleusercontent.com/sAcAi0m6H2zjAoyHsfkSOFLNsmp83Z70HDwzCdU6mBen1Faq4Y_v6ret-6IdMA3l7g8=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gw.gwmobil',
+    appId: 'com.gw.gwmobil',
+    title: 'GW-Mobil 8 for Android',
+    summary:
+     'Efficiency and Quality Improvement for Groundwater Data Acquisition in the Field',
+    developer: 'ribeka GmbH',
+    developerId: 'ribeka+GmbH',
+    icon:
+     '//lh4.ggpht.com/3T8RhPJZ9tk4RnVCLCzPMsOgLZ4U--U9657L79Qi8QuzbrcbXOUN3B4iCmouN_lkH0GI=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamblewise.client',
+    appId: 'com.gamblewise.client',
+    title: 'GW',
+    summary: 'Track you time spent gambling',
+    developer: 'Abil Company',
+    developerId: 'Abil+Company',
+    icon:
+     '//lh3.googleusercontent.com/KYc1QNUpsc8at67UTkxNXz3D8FfYhnrthC2q_aKZ-aC_bGgplpc2I2A8sT2jtn3RnlE=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.JR.holybibleGWEnglish',
+    appId: 'me.JR.holybibleGWEnglish',
+    title: 'Bible GW, GOD\'S WORD Translation (English) Free',
+    summary:
+     'The word of God in your hands, without the need of an Internet connection.',
+    developer: 'JReyes Developer',
+    developerId: '7507170841118710284',
+    icon:
+     '//lh3.googleusercontent.com/0de4Yc8g5LJkjy5GwU5YGiUs5SDmkUwG_MoK0Fm5YO_J3gdxdCJ_kYE1UF26K6RhUMC1=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.naonsoft.naongw',
+    appId: 'kr.co.naonsoft.naongw',
+    title: 'GW 모바일 (GW Mobile)',
+    summary:
+     'GW Mobile is a mobile workplace that provides wired and wireless integrated work environment that anyone can use for free.',
+    developer: '나온소프트',
+    developerId: '%EB%82%98%EC%98%A8%EC%86%8C%ED%94%84%ED%8A%B8',
+    icon:
+     '//lh3.googleusercontent.com/IcISiIQBeYNaIwuF5ZhQvHOVP8XqVgqgFhGs7yyH5nG11hYueljO1N4cOsVAqynL=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

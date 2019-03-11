@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.devsense.symbolab',
+    appId: 'com.devsense.symbolab',
+    title: 'Symbolab - Math solver',
+    summary:
+     'Calculators with steps: equations, integrals, derivatives, limits, trig and more',
+    developer: 'Symbolab',
+    developerId: 'Symbolab',
+    icon:
+     '//lh5.ggpht.com/1VgKIh9Ifze3pC7RnAwbBkPfOnXBIdyfHpdks7ChdR-sF6XS16M6VJwvYHijz_dL9g=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wifiaudio.PROSYAudio',
+    appId: 'com.wifiaudio.PROSYAudio',
+    title: 'PRO-SY Audio',
+    summary:
+     'Streaming audio, Sylvania, Proscan, alexa, wi-fi speaker, wi-fi soundbar',
+    developer: 'Curtis International',
+    developerId: 'Curtis+International',
+    icon:
+     '//lh3.googleusercontent.com/n2LjCrq4NB_zvfA6UQ-l9CKqFXcRNnVVIwr7w5abcKAPuX3du88jIc5fKW_gznHj6Do=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf',
+    appId: 'com.kiloo.subwaysurf',
+    title: 'Subway Surfers',
+    summary:
+     'Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!',
+    developer: 'Kiloo',
+    developerId: '5062298237373103345',
+    icon:
+     '//lh3.googleusercontent.com/jnuXct1nqk2ewCxRIy8PniruPU-ZenbI0cRWIq1FqpoabRbGgegFWsPJDelrKUjHLr8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.damas.damasiptvbox',
+    appId: 'com.damas.damasiptvbox',
+    title: 'Sy iptv',
+    summary: 'Sy iptv FOR ALL CHANNEL',
+    developer: 'EGY BEST Developer',
+    developerId: 'EGY+BEST+Developer',
+    icon:
+     '//lh3.googleusercontent.com/VGvGjK7t_t_1d0BGgsjTP_4w-oaWmKVQE4wCburUknEzA58mpuPgeGXLWjra2UDavnk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shinycore.picsaypro',
+    appId: 'com.shinycore.picsaypro',
+    title: 'PicSay Pro - Photo Editor',
+    summary:
+     'Award winning photo editor with all the tools you need to spice up your pictures',
+    developer: 'Shinycore',
+    developerId: 'Shinycore',
+    icon:
+     'https://lh3.ggpht.com/-QA6TVG9latqtxUDs4z58BgdHeurG17nljrF9YhXP3fRGwet4fHePs_fevej6mNLNIo=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$3.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bagatrix.mathway.android',
+    appId: 'com.bagatrix.mathway.android',
+    title: 'Mathway',
+    summary: 'Mathway is the world\'s #1 problem solver.',
+    developer: 'Mathway',
+    developerId: '6431727159568786626',
+    icon:
+     '//lh3.googleusercontent.com/FCMEORLhwFpdp0NpgdjkDatyAB3SIN8C29m2Cmm935oY45z45pm_gDH_nbMdmTsmRg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unearby.sayhi',
+    appId: 'com.unearby.sayhi',
+    title: 'SayHi Chat, Meet New People',
+    summary:
+     '🌹Find, chat and date hot people & singles nearby to make new friends🌹',
+    developer: 'UNEARBY',
+    developerId: '8321696171123618246',
+    icon:
+     '//lh3.googleusercontent.com/angn6IoBQ_H9MOhCKatqS7RlegJ-P7y7XAXmXcIB6l9YKsF0_LQrmBw2hHRkBcncgJ-y=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mtvn.Nickelodeon.GameOn',
+    appId: 'com.mtvn.Nickelodeon.GameOn',
+    title: 'Sky Whale',
+    summary:
+     'Bounce through the sky collecting donuts to keep your narwhal up in the air!',
+    developer: 'Nickelodeon',
+    developerId: 'Nickelodeon',
+    icon:
+     '//lh3.googleusercontent.com/OWMD0eEoZvUhVTkOiDN-f7BOOE6JdpfRkGFX9OSyL__D2FZVN7mvifW9RegWAleh5h0b=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.khaledak86.symarket',
+    appId: 'com.khaledak86.symarket',
+    title: 'المتجر السوري - Sy Market',
+    summary:
+     'The first Syrian store interactive, Syria in your hands and without a broker',
+    developer: 'Khaledak86',
+    developerId: 'Khaledak86',
+    icon:
+     '//lh3.googleusercontent.com/NNPHP2uqoSUu86UtNvmj9fGqf-F0UO4X2FVV2osm-ntsMGtjjJclPmh7mv2qAfzEQHo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microblink.photomath',
+    appId: 'com.microblink.photomath',
+    title: 'Photomath',
+    summary: 'Scan. Solve. Learn.',
+    developer: 'Photomath, Inc.',
+    developerId: '8492011720422545772',
+    icon:
+     '//lh3.googleusercontent.com/wo2ckFlG2lwwo4AENLALoVLasjEEZz8jjMw--6GtdAcMhmaCjJkkry_FYhHO1t2OHA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adele_sy.adele',
+    appId: 'com.adele_sy.adele',
+    title: 'Adele Sy',
+    summary: 'Jewelries and Accessories Store',
+    developer: 'RunQuickTech',
+    developerId: 'RunQuickTech',
+    icon:
+     '//lh3.googleusercontent.com/vrrVd-Wg-XYVxU_xBWtgQQeztzsTUcQyklJ6VBBg-Bw49sLemFgzWQZg2_nOviSDh9Q=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.islamicworld.dhod.sy.rang.gora.krein',
+    appId: 'com.islamicworld.dhod.sy.rang.gora.krein',
+    title: 'Doodh Sy Rang Gora Krein',
+    summary:
+     'You will find easy method to apply beauty tips to make your Face Beautiful',
+    developer: 'Islamic world',
+    developerId: 'Islamic+world',
+    icon:
+     '//lh3.googleusercontent.com/1OC0W6KOVc4trjBmshJqu9bVRpUC50e668QX28F_KiHOFedugWYh7eJjBEtpMvN4rzI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rehman.qaseeda.ilaj',
+    appId: 'com.rehman.qaseeda.ilaj',
+    title: 'Qaseeda Shref Sy Rohani Ilaj',
+    summary: 'Qaseeda Burda Shref sy Rohani Bemariun Ka Ilaj.',
+    developer: 'Al-Rehman Apps',
+    developerId: 'Al-Rehman+Apps',
+    icon:
+     '//lh3.googleusercontent.com/1ORh9RQyNIsTseNNfoI4FHby5jFfIZShpFnKkRKUIjFdX4WL5ZUvZsZmhZT12lBGAuc=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.supersu',
+    appId: 'eu.chainfire.supersu',
+    title: 'SuperSU',
+    summary:
+     'SuperSU manages root access for your apps - requires a rooted device!',
+    developer: 'Codingcode',
+    developerId: 'Codingcode',
+    icon:
+     '//lh4.ggpht.com/_kg7Qbu5kDpbjbJ2R3SvjAHKr5V0AKSsVR7nEaQznrDwFWDAD1QSrFDdcYLeqXLKLw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.glowingapps.AdrakSyIlaj',
+    appId: 'com.glowingapps.AdrakSyIlaj',
+    title: 'Adrak Sy Ilaj',
+    summary: 'Adrak Sy Ilaj - Cure With Ginger In Urdu.',
+    developer: 'glowingapps',
+    developerId: 'glowingapps',
+    icon:
+     '//lh3.googleusercontent.com/ZYPNrDCw8k1Bb3nkL6x3UsKsyvfVHSh2HLY3xnxS7rW8Zf8oY6QEcijU1sls0u0fGpY=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sy.android.sypressure',
+    appId: 'sy.android.sypressure',
+    title: 'SyPressure (Barometer)',
+    summary: 'Barometer, Altimeter and more!',
+    developer: 'SyMatic',
+    developerId: 'SyMatic',
+    icon:
+     'https://lh5.ggpht.com/VfCVe-XpXlWLukwV8x9S8261u45OyCLCxf_sa90vpnSc8kva6fg-_A_LD4yfGylFSCU=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mangatoon.comics.aphone',
+    appId: 'mobi.mangatoon.comics.aphone',
+    title: 'MangaToon - Comics updated Daily',
+    summary:
+     'A free app for reading comics & manga. Hottest web comics are updated daily!',
+    developer: 'Mangatoon',
+    developerId: 'Mangatoon',
+    icon:
+     '//lh3.googleusercontent.com/_P0lClwhWRxn2mm_TGEkwS5-W-u7h6nF-9jia8SZ4EQSn4pnFRyNONpVwm6HYcBpzw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.glowingapps.wohishqjohumsyroothgya.bynaziakanwal',
+    appId: 'com.glowingapps.wohishqjohumsyroothgya.bynaziakanwal',
+    title: 'Woh Ishq Jo Hum Sy Rooth Gya - Urdu Novel',
+    summary:
+     '"Woh Ishq Jo Hum Sy Rooth Gya" romantic Novel written by Nazia Kanwal.',
+    developer: 'GlowingApps',
+    developerId: 'GlowingApps',
+    icon:
+     '//lh3.googleusercontent.com/1eOboJIpu_W2wT5ls287H8se0fl_GMtdtGxbllm6om5CUQIUqmFBd-v1P5eqs5ge0w6Y=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

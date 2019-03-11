@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.gm',
+    appId: 'com.google.android.gm',
+    title: 'Gmail',
+    summary: 'Email from Google',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gmfinancial.myaccount',
+    appId: 'com.gmfinancial.myaccount',
+    title: 'GM Financial Mobile',
+    summary:
+     'Convenient, secure access anytime to manage your GM Financial account',
+    developer: 'GM Financial',
+    developerId: 'GM+Financial',
+    icon:
+     '//lh3.googleusercontent.com/pTm0novXRTV7yv3A9sgwNI0lyV3X88DBq57vtDsBk3gILwPOwyrNcMXg0DOWG182pGnT=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.gmc.nomad.ownership',
+    appId: 'com.gm.gmc.nomad.ownership',
+    title: 'myGMC',
+    summary: 'Vehicle ownership simplified. Get the myGMC® app today.',
+    developer: 'General Motors (GM)',
+    developerId: 'General+Motors+(GM)',
+    icon:
+     '//lh3.googleusercontent.com/dCffo6dEPTn-x1v5beOUejaIiuvVaO6CeDOEgiGpCCYhfCjQRCcDlZpncW9dcb_zfw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.chevrolet.nomad.ownership',
+    appId: 'com.gm.chevrolet.nomad.ownership',
+    title: 'myChevrolet',
+    summary:
+     'Vehicle ownership simplified. Get the myChevrolet® app today.',
+    developer: 'General Motors (GM)',
+    developerId: 'General+Motors+(GM)',
+    icon:
+     '//lh3.googleusercontent.com/6zGI70jpuc4e0YRdDjVqL7kWKP1lGeWJMtAz-jNX-S4mY2X173owXlu_WSqTuFkapsw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generalmobile.app.musicplayer',
+    appId: 'com.generalmobile.app.musicplayer',
+    title: 'GM Music',
+    summary:
+     'GM Music Player is for unlimited, powerful and quality music pleasure.',
+    developer: 'General Mobile Official',
+    developerId: '6204688517742709313',
+    icon:
+     '//lh3.googleusercontent.com/NcKYJDr42MO4pMX_-Zgh1wDKt3EqDEHz5YRMIMuP8bOAj1rqRHkoihwSQVju7ZAkvg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.ambassador',
+    appId: 'com.gm.ambassador',
+    title: 'GM - Dealer SalesAssistant',
+    summary: 'GM - Dealer SalesAssistant',
+    developer: 'General Motors (GM)',
+    developerId: 'General+Motors+(GM)',
+    icon:
+     '//lh3.googleusercontent.com/8VupXKmXdcsomlKE5hFqRMwHS6Crpp7_jFeurEGXIVudDfsWXZoUtC2Tgj7sh0RoEp0C=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generalmobile.app.gmfilemanager',
+    appId: 'com.generalmobile.app.gmfilemanager',
+    title: 'GM Files',
+    summary: 'Manage files on Internal Memory, Sd Card and Cloud',
+    developer: 'General Mobile Official',
+    developerId: '6204688517742709313',
+    icon:
+     '//lh3.googleusercontent.com/reuAMrjMbPTVYBMC43QB8x4Rdu3sGrrNMw2v0jrmqUwnxZAbZz7h-YMxEjz7ZYJggFg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generalmobile.app.musicplayergo',
+    appId: 'com.generalmobile.app.musicplayergo',
+    title: 'GM Music GO',
+    summary:
+     'Simple & fast interface, GM Music GO is specially prepared for music lovers.',
+    developer: 'General Mobile Official',
+    developerId: '6204688517742709313',
+    icon:
+     '//lh3.googleusercontent.com/1wPAozKcxq5iwcyfewSTYcoXxeZPwrBNvmc2J9qoQ7qmf7xEvo6IKGN455Eo32jUqg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generalmobile.app.gmvoicerecorder',
+    appId: 'com.generalmobile.app.gmvoicerecorder',
+    title: 'Gm Voice Recorder',
+    summary:
+     'GM Recorder is for unlimited, simple and easy sound recorder.',
+    developer: 'General Mobile Official',
+    developerId: '6204688517742709313',
+    icon:
+     '//lh3.googleusercontent.com/t-0z2bQbJH9pVzlUA5jF-Ox9-i0Te3tEhZnDT4G2S6YiW1nEdcUfGWNLsx5XoeHWevQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.gm.fpr',
+    appId: 'com.gm.fpr',
+    title: 'CSMT - Certified Service',
+    summary: 'Certified Service Mobile Toolbox - CSMT',
+    developer: 'General Motors (GM)',
+    developerId: 'General+Motors+(GM)',
+    icon:
+     '//lh3.googleusercontent.com/yv4X12CqrNStcoV4y22vE3G9zCmVbGthv4jdJu2zzHFzzRgtAvr2rUOwbYUQNUyagLpY=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.onstar.mobile.mylink',
+    appId: 'com.gm.onstar.mobile.mylink',
+    title: 'OnStar RemoteLink',
+    summary:
+     'OnStar RemoteLink provides connectivity to your Chevrolet, Buick, GMC & Cadillac',
+    developer: 'OnStar, LLC',
+    developerId: 'OnStar,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/TpjNeeLHCR8PeDxxKP8jl6p6UMFDIJ6E2Jv-kfpIDJ4OmtwdJbjQMM6cxJsckRpItA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.com2us.mlbgm.normal.freefull.google.global.android.common',
+    appId:
+     'com.com2us.mlbgm.normal.freefull.google.global.android.common',
+    title: 'MLB 9 Innings GM',
+    summary: '[Build your dream team in MLB 9 Innings GM!]',
+    developer: 'Com2uS',
+    developerId: '6850516909323484758',
+    icon:
+     '//lh3.googleusercontent.com/NbJUz9s3XUshfY0-w6DIYh2Avak1wt-3Vz274aeSD0A6C3wAmKuw7Sh5uI0w4_Dk9w=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generalmobile.app.gallery',
+    appId: 'com.generalmobile.app.gallery',
+    title: 'GM Gallery GO',
+    summary:
+     'GM Gallery GO is faster because it is smallest and need less storage space.',
+    developer: 'General Mobile Official',
+    developerId: '6204688517742709313',
+    icon:
+     '//lh3.googleusercontent.com/8r2qGQ-nHiEVqe11Sx7i4Yqwv_D9beyzBF6weigrNW6o7WIDR1paoyu1QXURXlJvOQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.wififpv',
+    appId: 'com.gm.wififpv',
+    title: 'GM-WiFiFPV',
+    summary:
+     'This is a APP for the four axis aircraft control via WiFi protocol',
+    developer: 'MARK mai',
+    developerId: 'MARK+mai',
+    icon:
+     '//lh3.googleusercontent.com/nu1g1-2wcK9rD1WWhBPQP2XHei5dfejDOCZ7UjordIuxCVxwWsiWyaNzFinMoiwIJ-I=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm.onegmx.android',
+    appId: 'com.gm.onegmx.android',
+    title: 'GMatWork',
+    summary: 'GM at Work',
+    developer: 'General Motors (GM)',
+    developerId: 'General+Motors+(GM)',
+    icon:
+     '//lh3.googleusercontent.com/TTwvVUvBTE0PmjhVu5umsZAa2GOJA5sXpthPplyjYeerx-3G-jsBN785tC2y3sBIpw=w340',
+    score: 1.4,
+    scoreText: ' Rated 1.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ihunuo.fouraxisplaneappbyfyd',
+    appId: 'com.ihunuo.fouraxisplaneappbyfyd',
+    title: 'GM-BLUETOOTH-UFO',
+    summary:
+     'An interesting application of using a Bluetooth-controlled aircraft.',
+    developer: 'FYD Technology Co., Ltd',
+    developerId: 'FYD+Technology+Co.,+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/nfHWHuLsHLtmbBzjpVaAjmj8IJqKma03M-TzgkJCArIru3mlZIJBC6-r1iBeBHoPUuc=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.andrew.android.footballgm',
+    appId: 'com.andrew.android.footballgm',
+    title: 'Football GM',
+    summary:
+     'Become a football GM of a franchise in this football sim game.',
+    developer: 'Andrew T Moore',
+    developerId: 'Andrew+T+Moore',
+    icon:
+     '//lh3.googleusercontent.com/kGUkcm5Vj6In-wbqF_6sI5-_fNMaf6QCPBZePLU7b3ukoVTJfJPc4cMsxsteoiwzX7I=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gm_wifiufo',
+    appId: 'com.gm_wifiufo',
+    title: 'GM-WiFiUFO',
+    summary:
+     'This APP can control the aircraft by WiFi of the Android smartphone',
+    developer: 'SteveChan',
+    developerId: 'SteveChan',
+    icon:
+     '//lh3.googleusercontent.com/9GyXyNxeR0TLLDGJF6Bax6Eu18Mokkv8mPidX80cIN7V3xlyDVcVQDNLecMobBD9Qg=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ixiestudios.charactergenerator',
+    appId: 'com.ixiestudios.charactergenerator',
+    title: 'GM Wizard: Character Generator',
+    summary:
+     'Create NPCs for fantasy RPGs. Randomized traits, items, & race-specific names.',
+    developer: 'Ixie Studios',
+    developerId: 'Ixie+Studios',
+    icon:
+     '//lh5.ggpht.com/bXqRNS7HC4CDOO72zqrrwnpVnJbJKqLJQoZVCywnrul9QqdxxmcTmXAJAj1NfFeF8Sw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper',
+    appId: 'com.google.android.apps.wallpaper',
+    title: 'Wallpapers',
+    summary:
+     'Make the most of your display with beautiful wallpapers and advanced features.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/2aJfB6trLglywvIh6MSN58qh-r2b-_2GoXk4dWL5fIZmMAWdTN3f98Ugpi6U_glIm0w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

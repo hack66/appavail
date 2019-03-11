@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.snapchat.android',
+    appId: 'com.snapchat.android',
+    title: 'Snapchat',
+    summary:
+     'Send photo & video messages to family & friends — it\'s the most fun way to chat!',
+    developer: 'Snap Inc',
+    developerId: 'Snap+Inc',
+    icon:
+     '//lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/IEfXGTOwQbUi9z41fvRfRXKnZmzYGwIzptjwHd8UKNfIdUUWFrHun9HHv8N2EoEkFgI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shazam.android',
+    appId: 'com.shazam.android',
+    title: 'Shazam',
+    summary: 'GIVE AN ANSWER TO: “WHAT’S THAT SONG?"',
+    developer: 'Apple, Inc.',
+    developerId: 'Apple,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/U2H5O-RNxa4OQKByVCdiqlASgXPvEg5EWx_E8IWWrdROOAetGa4SN-u4YNcnjSHakCCh=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotify.music',
+    appId: 'com.spotify.music',
+    title: 'Spotify - Music and Podcasts',
+    summary:
+     'Spotify gives you instant access to millions of songs and podcasts.',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf',
+    appId: 'com.kiloo.subwaysurf',
+    title: 'Subway Surfers',
+    summary:
+     'Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog!',
+    developer: 'Kiloo',
+    developerId: '5062298237373103345',
+    icon:
+     '//lh3.googleusercontent.com/jnuXct1nqk2ewCxRIy8PniruPU-ZenbI0cRWIq1FqpoabRbGgegFWsPJDelrKUjHLr8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.android.easyMover',
+    appId: 'com.sec.android.easyMover',
+    title: 'Samsung Smart Switch Mobile',
+    summary:
+     'Galaxy S7/S8/Note8/S9/Note9 : Smart Switch(Content transfer Tool) is preloaded.',
+    developer: 'Samsung Electronics Co.,  Ltd.',
+    developerId: '5200379633052405703',
+    icon:
+     '//lh3.googleusercontent.com/KlHY0O3groJhp-QsW4CBfxZuabFkfGOhjIjrlQw-b28Z6KXmYn3QSFbrtgZsJz4HYw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.king.candycrushsaga',
+    appId: 'com.king.candycrushsaga',
+    title: 'Candy Crush Saga',
+    summary:
+     'The sweetest match 3 puzzle game! Switch and smash candies to solve the puzzles!',
+    developer: 'King',
+    developerId: '6577204690045492686',
+    icon:
+     '//lh3.googleusercontent.com/2cpSn-aGl9qcuwXeL8tLUhG15pwiu64PuczJhZmMTN_-SadwCjMf91zhYfgdTaLdg4I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creativemobile.DragRacing',
+    appId: 'com.creativemobile.DragRacing',
+    title: 'Drag Racing',
+    summary:
+     'Still the best racing game available on Android! Nice cars & a great time killer',
+    developer: 'Creative Mobile',
+    developerId: '7583627084840572844',
+    icon:
+     '//lh3.ggpht.com/9F4VQ2TW9QlZXPfMhyH_B0GuWo3l9g94Ufah42o_mnKMBjFVBTgjolaQQ36KoIXl-G4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.samapp.excelcontacts.excelcontactslite',
+    appId: 'com.samapp.excelcontacts.excelcontactslite',
+    title: 'SA Contacts Lite',
+    summary:
+     'SA Contacts is the best way to transfer contacts to and from your phone!',
+    developer: 'samapp',
+    developerId: 'samapp',
+    icon:
+     '//lh3.ggpht.com/Wd00NQjIzKwvmkBsJq827KjHHXFc53XhI0CuPiEDnval3RX0AHRC1jjMVArEWAbs7A=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.instagram.android',
+    appId: 'com.instagram.android',
+    title: 'Instagram',
+    summary: 'Instagram – Like, capture and share the world’s moments',
+    developer: 'Instagram',
+    developerId: 'Instagram',
+    icon:
+     '//lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mitsoftwares.newappbancaapostas',
+    appId: 'com.mitsoftwares.newappbancaapostas',
+    title: 'SA Esportes',
+    summary: 'Application tickets conference.',
+    developer: 'SA Esportes Desenvolvimento',
+    developerId: 'SA+Esportes+Desenvolvimento',
+    icon:
+     '//lh3.googleusercontent.com/AydtVmrwDtAed-5TKvhZ_gm_xoJNyPnZZ2TY3UpZ3-cAf4b5LtD8Pj6pYP3Vtw45jw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.camera.beautycam',
+    appId: 'com.camera.beautycam',
+    title: 'Face Filter, Selfie Editor - Sweet Camera',
+    summary:
+     'Constantly Update!Amazing live stickers and filters every week.',
+    developer: 'ONE App Team',
+    developerId: 'ONE+App+Team',
+    icon:
+     '//lh3.googleusercontent.com/Sxf45vCmG_osVJL7hbaEERkQVnGK6v3dyKcE1mIyiYGWKzZrMrhbO3zacOm6Q6lU2mA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping',
+    appId: 'com.amazon.mShop.android.shopping',
+    title: 'Amazon Shopping',
+    summary:
+     'Browse, search & buy millions of products right from your Android device.',
+    developer: 'Amazon Mobile LLC',
+    developerId: 'Amazon+Mobile+LLC',
+    icon:
+     '//lh3.googleusercontent.com/Pzhl8z9sJAQk8e1ZiL_XnX3WZPEminhbw5I0S5nrqmTtzdbzb1TCydGZJ9FoUmlD_WjO=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.commsource.beautyplus',
+    appId: 'com.commsource.beautyplus',
+    title: 'BeautyPlus - Easy Photo Editor & Selfie Camera',
+    summary:
+     'The BeautyPlus camera transforms everyday images into perfect, sharable photos.',
+    developer: 'Meitu (China) Limited',
+    developerId: 'Meitu+(China)+Limited',
+    icon:
+     '//lh3.googleusercontent.com/evc-4ioGfX6VPYNCMAJCNi4FH4cDMB_JZKHS6nivPb1mzektPYEmPbRSdp5osq9HAzA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sa.edu.ksu.Ayat',
+    appId: 'sa.edu.ksu.Ayat',
+    title: 'Ayat - Al Quran',
+    summary:
+     'Comprehensive Quran App (Electronic Mosshaf) with unique features.',
+    developer: 'ETC KSU',
+    developerId: 'ETC+KSU',
+    icon:
+     '//lh4.ggpht.com/3581Gzk32tdzz0dXEeIY2jjLIDDKp5ptYweYi2AMy0U9nDuJe3LFTnB71DX2yTgU9WC3=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.sasza4',
+    appId: 'com.ninjakiwi.sasza4',
+    title: 'SAS: Zombie Assault 4',
+    summary:
+     'Customize your hero, gear, and guns then team up to eradicate the zombie hordes!',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/YRQTBwp7vAJyhFCke1v01YFwUm7GiHWEvO-aTnFC_zslIJMvPvnQf-3eSOGkzkriGQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

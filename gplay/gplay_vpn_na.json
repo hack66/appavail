@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=org.na.naapp',
+    appId: 'org.na.naapp',
+    title: 'NA Meeting Search 3.3',
+    summary:
+     'Locate an NA Meeting anywhere in the world, plus helplines, websites & more.',
+    developer: 'NA World Services, Inc.',
+    developerId: 'NA+World+Services,+Inc.',
+    icon:
+     '//lh5.ggpht.com/spIMnKFyvnWImTwd5lY7wIkRAy35HosOyAbsuEFiCZ74R0aW8WIrIt2MkIrqTakAnuY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.marnistek.naspeakers',
+    appId: 'com.marnistek.naspeakers',
+    title: 'NA Speakers (Narcotics) - NA Audio Tapes',
+    summary:
+     'Narcotics Anonymous Audio Tapes. NA Speakers - Pocket Recovery!',
+    developer: 'Marnistek',
+    developerId: 'Marnistek',
+    icon:
+     '//lh3.googleusercontent.com/I_t2tXEelZxGQfwqbKyBT_ksRk7KXr5gCqjl9WGfyZBwA2JlepgUlqW3oaFJRE_avQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pitashi.audiojoy.nastories',
+    appId: 'com.pitashi.audiojoy.nastories',
+    title: 'NA Basic Text Audio Stories of Recovery Clean Time',
+    summary:
+     'Stop Using Drugs, Listen to NA Speaker Stories for Getting Clean & Sober',
+    developer: 'Pitashi Mobile Imagination',
+    developerId: 'Pitashi+Mobile+Imagination',
+    icon:
+     '//lh3.googleusercontent.com/XF2bZW4R7l1yyOuuBp-Wz9IGBYXGoAMrPkFh-rFDURXqrHE4xh2k8gKx8Doba76S3XI=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.myapp349179',
+    appId: 'com.ionicframework.myapp349179',
+    title: 'NA Recovery Companion',
+    summary:
+     'This app is a companion piece for IP #9 Living the Program © 1983',
+    developer: 'NA World Services, Inc.',
+    developerId: 'NA+World+Services,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Hf_UGTuofqpCR9E_RZgsVrhwMNvtAsRI2zIx4bPPFvr6Nqrc7QmjsXgpIUsFA5PP8w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.keytagapp.keytag',
+    appId: 'com.keytagapp.keytag',
+    title: 'Keytag for NA',
+    summary:
+     'Keep track of your Clean Date, see your Keytag, and read the Just for Today.',
+    developer: 'Frank Barrett',
+    developerId: 'Frank+Barrett',
+    icon:
+     '//lh3.googleusercontent.com/c61WH1fC3yp-M3fxW_YUJhmkjpixc1OAhoCuJmB25dVCo4F3ZMN44lnab9wE4Ay02xs=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pitashi.audiojoy.aa12stepworkshops',
+    appId: 'com.pitashi.audiojoy.aa12stepworkshops',
+    title: '12 Step Recovery Workshops for AA, NA, Al-Anon, OA',
+    summary:
+     'Big Book Study Speakers & Workshops for 12 and 12 Anonymous Programs & Meetings',
+    developer: 'Pitashi Mobile Imagination',
+    developerId: 'Pitashi+Mobile+Imagination',
+    icon:
+     '//lh3.googleusercontent.com/R7oktq-wYQxHlV23SMP1WtvuzhuE3J8PRNr3oYLgaLqY4t30OWDklgsf0EjoSxWWRw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pitashi.audiojoy.naspeakers',
+    appId: 'com.pitashi.audiojoy.naspeakers',
+    title: 'NA Speaker Tapes & Workshops Addiction Recovery',
+    summary:
+     'Over 1000 Audio Hours of NA 12 Step Literature - Get Clean Time & Stop Using',
+    developer: 'Pitashi Mobile Imagination',
+    developerId: 'Pitashi+Mobile+Imagination',
+    icon:
+     '//lh3.googleusercontent.com/AiY4PQBRtLVNwCC1_S0sGj14CCbD5LKTgVyd0X3Xs7nzKiisIBHxLTjC1e2tV8Y5lfQ6=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pitashi.audiojoy.sobermeditations',
+    appId: 'com.pitashi.audiojoy.sobermeditations',
+    title: '12 Step Meditations & Sober Prayers AA NA AL-ANON',
+    summary:
+     'Audio Daily Reflections Meditations for Alcoholics Anonymous & Sobriety Recovery',
+    developer: 'Pitashi Mobile Imagination',
+    developerId: 'Pitashi+Mobile+Imagination',
+    icon:
+     '//lh3.googleusercontent.com/yrLBF75g_YnzqOTSJHsHYKxkeOaluPLVCI02oWhDNXeq5V5ovRr0SYEVR_9usNE1R6Np=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ciceroapps.tether.na',
+    appId: 'ciceroapps.tether.na',
+    title: 'Narcotics Anonymous',
+    summary: 'Recovering addicts helping each other stay clean.',
+    developer: 'Mr Anon',
+    developerId: 'Mr+Anon',
+    icon:
+     '//lh3.googleusercontent.com/1xR--FfDjzsISODzvc-HinY7OHu6M0YDDMmoPBTK9xntlXy639pibGnx2mSrZlVEiFw=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.topot.cleancounter',
+    appId: 'ru.topot.cleancounter',
+    title: 'CleanTime Counter',
+    summary:
+     'This application will be useful for recovering addicts and alcoholics.',
+    developer: 'topotApps',
+    developerId: 'topotApps',
+    icon:
+     '//lh6.ggpht.com/iaDFnL4SAIn0sbC3TWtjjTa1ISOloGWzPl3x1_gkSVuH_3y8n1tWT156dGo9RhGOJjbz=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ibyteapps.narcoticsanonymousspeakersfree',
+    appId: 'com.ibyteapps.narcoticsanonymousspeakersfree',
+    title: 'Narcotics Anonymous - Speakers',
+    summary:
+     'Narcotics Anonymous: 50 Hours+ of sharings from prominent members.',
+    developer: 'iByte Apps Limited',
+    developerId: '8256836158165348180',
+    icon:
+     '//lh6.ggpht.com/JU4XfqhcFf1A_1zEvbsTDCzErCQyWiXYW1wo72D4W5-Q-QHk8dReEW_JP39VuR2ehg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=aa.apps.free.dailyreflections',
+    appId: 'aa.apps.free.dailyreflections',
+    title: 'Daily Reflections',
+    summary: 'Past reflections from A.A. members, for A.A. members.',
+    developer: 'A.A. Mobile Ltd.',
+    developerId: 'A.A.+Mobile+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/kSvkwfLkdB6OGvBZTqdUoRU2_kLsX7CTne7uCGaOXIPS2Ji8CpgcbAXKQbpN4TdXrQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kntna.app',
+    appId: 'com.kntna.app',
+    title: 'KNT Group of Narcotics Anonymous',
+    summary: 'This NA application is a tool for the recovering.',
+    developer: 'Benjamin Halkum',
+    developerId: 'Benjamin+Halkum',
+    icon:
+     '//lh3.googleusercontent.com/Ss5bWfYc6q8lJCt7uPJ2CX_ogmhVuWHbc_i8lFgrUsFCHjTppQNI4vdMidSfnyQc8d8F=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=na.apps.pro.justfortoday',
+    appId: 'na.apps.pro.justfortoday',
+    title: 'Just For Today: Pro',
+    summary: 'No advertisements. No annoyances. Just readings.',
+    developer: 'N.A. Mobile Ltd.',
+    developerId: 'N.A.+Mobile+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/MMvoFl_FmsbyizPFZCO8QRuCNf-bIbSB18Wi_j3BHOXTB36BXDmkzMTAqFbdqENXWGM=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '$3.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pitashi.audiojoy.odomtology',
+    appId: 'com.pitashi.audiojoy.odomtology',
+    title: 'Odomtology 12-Step Recovery AA NA Audio Companion',
+    summary:
+     'Listen to Big Book workshops, step study programs & sober clean time speakers',
+    developer: 'Pitashi Mobile Imagination',
+    developerId: 'Pitashi+Mobile+Imagination',
+    icon:
+     '//lh3.googleusercontent.com/051ojVganpI6jmqn7x5gLJWSzb8u5bn31nKY5UQJrvXnYgKEvX3yzGAk9tWFa0GSVdg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goodbarber.crsummit',
+    appId: 'com.goodbarber.crsummit',
+    title: 'Celebrate Recovery',
+    summary:
+     'A biblical & balanced program to help us overcome our hurts, hang-ups,& habits.',
+    developer: 'Bobbi McWilliams',
+    developerId: 'Bobbi+McWilliams',
+    icon:
+     '//lh3.googleusercontent.com/BJ51vPJCwQMmqkOrs--NGOqrxFFJxER145zXdoC0_5s5nnX9EgBNMQaUW5WhPPwjD14I=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ibyteapps.na12stepsguide',
+    appId: 'com.ibyteapps.na12stepsguide',
+    title: '12 Step Guide Narcotics Addicts',
+    summary:
+     'Step by step explanation of the 12 steps of Narcotics Addicts via sharing.',
+    developer: 'iByte Apps Limited',
+    developerId: '8256836158165348180',
+    icon:
+     '//lh3.googleusercontent.com/-rQLsj5ASD8M4BPInjLKEhr-ctmwd1r6FIyAzRf9Zz5ANWbkxssEJGyk0dcZzgChpos=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.scotto.triviana',
+    appId: 'org.scotto.triviana',
+    title: 'Trivia NA',
+    summary: 'Free for the next 30 days!',
+    developer: 'Scott O.',
+    developerId: 'Scott+O.',
+    icon:
+     '//lh5.ggpht.com/9I3PHzgkcr_MQBlG3pkjGSiU5RulpR8zB3DHgcg5cXFi-M9tkkANVKvSC85uWrq04Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.redrobotit.cleantimeapp',
+    appId: 'com.redrobotit.cleantimeapp',
+    title: 'Clean Time App',
+    summary:
+     'For anyone recovering from alcohol, drugs, overeating, gambling, or smoking',
+    developer: 'RedRobotIT',
+    developerId: 'RedRobotIT',
+    icon:
+     '//lh3.googleusercontent.com/4pGUBWB6tnM-95eHJEYJ8lcLNCn2eQnzWAWGXX9fVmh_qnO3WK-IT2BRGxWBOeyF_gNl=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

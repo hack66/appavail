@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.aetn.games.android.history.knightfall.ar',
+    appId: 'com.aetn.games.android.history.knightfall.ar',
+    title: 'Knightfall™ AR',
+    summary:
+     'An augmented-reality experience based on History™’s newest series, Knightfall.',
+    developer: 'A&E Television Networks Mobile',
+    developerId: 'A%26E+Television+Networks+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/tRyqt9BEx1eMBsZm4wzQzza0fAJHVlJ0je_7d_R01dlElkdYn4apdEMFmamAKMY18Baq=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.whiskyguerra.GhostSnap',
+    appId: 'de.whiskyguerra.GhostSnap',
+    title: 'Ghost Snap AR Horror Survival',
+    summary:
+     'Look around, take photos of abnormalities in your horrific but real surrounding',
+    developer: 'WhiskyGuerra',
+    developerId: '5899635520742259928',
+    icon:
+     '//lh3.googleusercontent.com/VwnMV6cQ8yKwu7QMyEPp65Nu7w0ovNAvaE9Z94K712GbPQ6QB1jGwwP2Fxx4pE6PJjg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sketchfab.sketchfab',
+    appId: 'com.sketchfab.sketchfab',
+    title: 'Sketchfab',
+    summary:
+     'Millions of models from our community in 3D, AR, and VR  on your mobile device.',
+    developer: 'Sketchfab',
+    developerId: 'Sketchfab',
+    icon:
+     '//lh3.googleusercontent.com/vICCp1GGOM8A88HvUF6WLXIGXDdTm1HMm2vOdPtkosIBZYHlFJBorl4lFC520V1vYryv=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.snaappy',
+    appId: 'com.snaappy',
+    title: 'Snaappy – 3D fun AR core communication platform',
+    summary:
+     'Chat, record and play with Snaappy\'s 3D Augmented Reality characters 🐻',
+    developer: 'Snaappy Inc',
+    developerId: '8812080606760179078',
+    icon:
+     '//lh3.googleusercontent.com/o2oLXtPa9Fml4VkfrbaoKzID2jVrbtwgE-8399szvpMJrqbI0gZeUuE23EAQ3fj2O-E=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nianticproject.ingress',
+    appId: 'com.nianticproject.ingress',
+    title: 'Ingress Prime',
+    summary:
+     'Install Ingress and transform your world. Our future is at stake. Choose a side.',
+    developer: 'Niantic, Inc.',
+    developerId: 'Niantic,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/ns6ys5LXVfbeAdLQ3PSIKvC1OamoP5JPEcH9GzgCeFPOLdBC9_Cbp6-RVxpjJN_Hkw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitpointstudios.colorblastar',
+    appId: 'com.hitpointstudios.colorblastar',
+    title: 'Crayola Color Blaster',
+    summary:
+     'Dodge and paint funny cartoon creatures in this amazing action-packed AR game!',
+    developer: 'HitPoint Inc.',
+    developerId: 'HitPoint+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/rx5C1gxBIliILXcNb8YzwmoleHXvtOV85-fIgJqBK2VtZYznN141NcjXC6Zc_Qfiv4o=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo',
+    appId: 'com.nianticlabs.pokemongo',
+    title: 'Pokémon GO',
+    summary:
+     'Step outside and catch Pokémon in the real world! Collect & battle with others.',
+    developer: 'Niantic, Inc.',
+    developerId: 'Niantic,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wPfLmWBJwsPdBhsFXc8X4QZOOvePWjoOBLFXXCwyegjRwYOuabmG5cynthlW0HDgy9s=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ludia.jw2',
+    appId: 'com.ludia.jw2',
+    title: 'Jurassic World Alive',
+    summary:
+     'Jurassic World Dinosaurs are ALIVE in our world and roaming free!',
+    developer: 'Ludia Inc.',
+    developerId: 'Ludia+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/62HBGEDf8RVa4ptFjbxv26g8gxNYhpy31WCWkyFFIAcQW4OTtTRg9yjyuSvMMKLlYt4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.houzz.app',
+    appId: 'com.houzz.app',
+    title: 'Houzz Interior Design Ideas',
+    summary:
+     'Get ideas. Find Pros. Shop Products. Houzz is the new way to design your home.',
+    developer: 'Houzz',
+    developerId: 'Houzz',
+    icon:
+     '//lh3.googleusercontent.com/NJgFjc5QalIzaAzYPAfc93A1j0U9JOBfjHtattMoFA2D8JgzS0JYut63zzFfMpTFodA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.auxbrain.egginc',
+    appId: 'com.auxbrain.egginc',
+    title: 'Egg, Inc.',
+    summary: 'Build an enormous egg farm!',
+    developer: 'Auxbrain Inc',
+    developerId: 'Auxbrain+Inc',
+    icon:
+     '//lh3.googleusercontent.com/mUGCbjGUWbVKyKMmA_3EN-Eokl9kUqxvagLk3GmtUjdEg2_NkUbJWHBAXUUravn0ZlE=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameinsight.gobandroid',
+    appId: 'com.gameinsight.gobandroid',
+    title: 'Guns of Boom - Online PvP Action',
+    summary:
+     'Team-based PvP action with super easy controls. Get ready for battle!',
+    developer: 'Game Insight',
+    developerId: '6367901761320314739',
+    icon:
+     '//lh3.googleusercontent.com/-GovnXWz7H_K4BwRW3H24Xh2kXGXCHaob2h6NNAOXk9D0knQcA7K1qsBlvdt71KeZA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spectrekking.light',
+    appId: 'com.spectrekking.light',
+    title: 'SpecTrek Light',
+    summary: 'Hunt virtual ghosts in the real world!',
+    developer: 'Games4All',
+    developerId: 'Games4All',
+    icon:
+     'https://lh3.ggpht.com/PhFGKa1DTcfhbkwfr0MDk_eruA6_RZnyf5biuwMb1OaJ0PddNHG1VclYCwHVmswjMQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.snapchat.android',
+    appId: 'com.snapchat.android',
+    title: 'Snapchat',
+    summary:
+     'Send photo & video messages to family & friends — it\'s the most fun way to chat!',
+    developer: 'Snap Inc',
+    developerId: 'Snap+Inc',
+    icon:
+     '//lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wayfair.wayfair',
+    appId: 'com.wayfair.wayfair',
+    title: 'Wayfair - Shop All Things Home',
+    summary: 'Furniture, Décor & Design Tips',
+    developer: 'Wayfair, LLC',
+    developerId: '6384738406445896780',
+    icon:
+     '//lh3.googleusercontent.com/NnEL8J7Z4621ATPA1rmy3J-G0aeiY_JqP0HKVabhqqnoRibHPMdaoRtu_rv5Wr3AdkA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ebay.mobile',
+    appId: 'com.ebay.mobile',
+    title: 'Sales, Deals & Discounts! Buy & Save with eBay',
+    summary:
+     'Tech, fashion & home sale - Shop the best brands & save on your shopping today!',
+    developer: 'eBay Mobile',
+    developerId: '6005619443614255030',
+    icon:
+     '//lh3.googleusercontent.com/1IExlQs-2BW3oKwDYb7k1uoWD5b6CWQnCHrxoqBjYI3IInBAHVb6nAQjEzXHd899nA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nytimes.android',
+    appId: 'com.nytimes.android',
+    title: 'NYTimes - Latest News',
+    summary:
+     'Download the free NYTimes app to read the latest headlines from today’s news.',
+    developer: 'The New York Times Company',
+    developerId: 'The+New+York+Times+Company',
+    icon:
+     '//lh3.googleusercontent.com/MoNaQ-EoeeYQG2SxATYWOhrZF0cxdx9Qc0rTGEWquhfBDvIlqQRu29kN7gjIysHx1yuc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=appinventor.ai_darrenrdaley.ARbookfinder',
+    appId: 'appinventor.ai_darrenrdaley.ARbookfinder',
+    title: 'Accelerated Reader AR Points',
+    summary:
+     '*UPDATED  6/15/2018* Just a basic AR book level and points look-up.',
+    developer: 'DaleyApps',
+    developerId: 'DaleyApps',
+    icon:
+     '//lh3.googleusercontent.com/ZUICAVKF6Pfmorx5O5rwXqrInIO6LKW7Q57lQw8WMO8TKP_9_UvQjy_uA3MTUpGb5O4=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.PlayrockStudios.RCHelicopterAR',
+    appId: 'com.PlayrockStudios.RCHelicopterAR',
+    title: 'RC Helicopter AR',
+    summary:
+     'Play with an RC helicopter in your home using Augmented Reality',
+    developer: 'Playrock Studios',
+    developerId: '8981397870093114957',
+    icon:
+     '//lh3.googleusercontent.com/AaCzWzytu1Ijbnwy4PvkxNQjBxicFmjNmwuFmRxYHuRhbWfIpYOM0o732UE2gIe8WqU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.CendaGames.RemoteCar',
+    appId: 'com.CendaGames.RemoteCar',
+    title: 'AR Toys: Playground Sandbox | Remote Car',
+    summary:
+     'Augmented reality (AR) toys simulator. Choose your remote controlled car!',
+    developer: 'Čeněk Štrichel',
+    developerId: '9028172463489612589',
+    icon:
+     '//lh3.googleusercontent.com/W7g6wO3GwLlWw-yRXX51djzvPCdX4CSFW1jFfmVcZIx7e8ubM70xTYiJlJHmEVA9TO4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hookbang.nightenfell',
+    appId: 'com.hookbang.nightenfell',
+    title: 'Nightenfell: Shared AR',
+    summary:
+     'Play as a team of heroes in this revolutionary Augmented Reality experience!',
+    developer: 'HookBang, LLC',
+    developerId: '5788023972891525673',
+    icon:
+     '//lh3.googleusercontent.com/Qe4IIoRjNkKdP6F3G0QQBKYeNPyPpP6AMIKfU0oG6X9n2xQxyqDAcMDu9B_SXkXZ6mOn=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$0.99',
+    free: false } ]

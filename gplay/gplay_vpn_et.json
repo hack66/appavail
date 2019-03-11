@@ -1,0 +1,279 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.et.market',
+    appId: 'com.et.market',
+    title: 'ET Markets : NSE & BSE India',
+    summary:
+     'News & share market live updates from NSE & BSE India in 8 regional languages',
+    developer: 'Times Internet Limited',
+    developerId: '6759146811367238757',
+    icon:
+     '//lh3.googleusercontent.com/bAjjoQzOU6hJLsqiS3qG_gdMwP2zHC4J2AYSkpdg-mIrLIS111oR_A_6fgtwUwqHog=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cn.wps.moffice_eng',
+    appId: 'cn.wps.moffice_eng',
+    title: 'WPS Office - Word, Docs, PDF, Note, Slide & Sheet',
+    summary:
+     'All-in-one Free Mobile Office Suite App: Word,PDF,Powerpoint,Excel,Docs and Note',
+    developer: 'Kingsoft Office Software Corporation Limited',
+    developerId: '6181440280366444424',
+    icon:
+     '//lh3.googleusercontent.com/qxP7Vlv8mlL3L4YGr5YtGAkATEHA8thIK8MNI-6KvlDAlNesuiZwsPYrtddxaaaSIQQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.juststatus.sms_poems_amour.activity',
+    appId: 'com.juststatus.sms_poems_amour.activity',
+    title: 'Messages et Poemes d\'Amour en français',
+    summary:
+     'Collection de poème d\'amour - Love SMS - citation d\'amour - Saint-Valentin',
+    developer: 'Just Status',
+    developerId: 'Just+Status',
+    icon:
+     '//lh4.ggpht.com/DfUc-upfQFBXf2oKSzyfnvbRaUykpV5VrwZN9oeCtGz8D0qDeGkftN-XpPOT4u_QQrDW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wsandroid.suite',
+    appId: 'com.wsandroid.suite',
+    title: 'Mobile Security: Antivirus, Wi-Fi VPN & Anti-Theft',
+    summary:
+     'Safe Wi-Fi Guard VPN. Free Antivirus Scan, Phone Cleaner & App Lock Protection',
+    developer: 'McAfee LLC',
+    developerId: 'McAfee+LLC',
+    icon:
+     '//lh3.googleusercontent.com/6_xFvitDtt3NwnpgNgxs4zaj2qZmbL3wVdEC-CJwWmL01E_tYT110sRbC28wOLR7B8U=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM',
+    appId: 'com.gameloft.android.ANMP.GloftDMHM',
+    title: 'Minion Rush: Despicable Me Official Game',
+    summary:
+     'Run and have fun with the Minions in the official Despicable Me game!',
+    developer: 'Gameloft',
+    developerId: '6258770168633898802',
+    icon:
+     '//lh3.googleusercontent.com/IZOmxlAn1jJHXF4W3DoDuZZOKwZJLpRFd7m6_CbngsQG50jUH1xCJ2R3mO55JKjo9w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro',
+    appId: 'com.mapswithme.maps.pro',
+    title: 'MAPS.ME – Offline Map and Travel Navigation',
+    summary:
+     'Access worldwide offline maps with navigation, driving directions & traffic info',
+    developer: 'My.com B.V.',
+    developerId: '5496590613422638755',
+    icon:
+     '//lh3.googleusercontent.com/TzoBFmHUozHaQfH-qzhx-Yi5FXZXuJt5pFw4vH8vK5vSPm2sK2SVWcOClosd4Bdn0rg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.expedia.bookings',
+    appId: 'com.expedia.bookings',
+    title: 'Expedia Hotels, Flights & Car Rental Travel Deals',
+    summary:
+     'Book car, flight, package. Get instant access to hotel discounts and 2x rewards',
+    developer: 'Expedia',
+    developerId: '9168645875493882147',
+    icon:
+     '//lh3.googleusercontent.com/yZPx3GnHZzCNFI9Ymg6yHjAQTiOCGSI4adnawzg7QToK4d5ap1xotn5LSUkuzMud5A=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sgn.geniesandgems.gp',
+    appId: 'com.sgn.geniesandgems.gp',
+    title: 'Genies & Gems - Jewel & Gem Matching Adventure',
+    summary:
+     'A magic match 3 game with 💍 Gems & Jewels 💍 Grab gold in a matching adventure!',
+    developer: 'Jam City, Inc.',
+    developerId: '5509190841173705883',
+    icon:
+     '//lh3.googleusercontent.com/yEgPYu2jv0lNe2w94aXy8zUmSwc-D4sm9mXiEoVEcZLaavZTGO3a9yyuYjP31NuwNur7=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.picsart.studio',
+    appId: 'com.picsart.studio',
+    title: 'PicsArt Photo Studio: Collage Maker & Pic Editor',
+    summary:
+     'Remix free-to-edit pictures & stickers into awesome collages and memes',
+    developer: 'PicsArt',
+    developerId: '5408830062919995155',
+    icon:
+     '//lh3.googleusercontent.com/YkKlWr2lH8hLTQx2Pzz64bKtpnbxXlcEm4_bnAzCsHk04dnR7YfcrPTHyU-tq_DbYVI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.indigokids.mim',
+    appId: 'com.indigokids.mim',
+    title: 'Masha and the Bear Child Games',
+    summary:
+     'The best game about adventures of Masha and Misha for your child!',
+    developer: 'Edutainment Kids Games',
+    developerId: '6672223492195848186',
+    icon:
+     '//lh3.googleusercontent.com/ExXIgVUk4jYcK7aGUv9U3op4E9avSiQjGcdvUXCNXqkf1MwXCGxuw5QsoCS2F9T3Tlc=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atomicadd.fotos',
+    appId: 'com.atomicadd.fotos',
+    title: 'A+ Gallery - Photos & Videos',
+    summary:
+     'World\'s BEST photo gallery for viewing and organising your photos',
+    developer: 'AtomicAdd Team',
+    developerId: 'AtomicAdd+Team',
+    icon:
+     '//lh3.googleusercontent.com/OR9GgUfH_jSdU2FskIWiag6d7S7Rs6TXo4sEAAhYUflcMwcL_UoFu3yNrOitoHkX_cc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cyberlink.youperfect',
+    appId: 'com.cyberlink.youperfect',
+    title: 'YouCam Perfect - Best Selfie Photo Editor',
+    summary:
+     'Filters & Effects to Beautify Selfies. Auto-Beautify, Color Correction & More!',
+    developer: 'Perfect Corp.',
+    developerId: '5286790089270932286',
+    icon:
+     '//lh3.googleusercontent.com/ZbyCZsKPLWwcaWrt57TC5HHif7eFnQ42Y_cKY5uVwsv3sZm54pHVnVudsxPMx7rUfAM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=deezer.android.app',
+    appId: 'deezer.android.app',
+    title: 'Deezer Music Player: Songs, Radio & Podcasts',
+    summary:
+     'The best MP3 playlist - stream chart hits & any track, tune, artist or album',
+    developer: 'Deezer Mobile',
+    developerId: 'Deezer+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/G9zOlgMtJkyhbjTLPXEKtXvbBMkpO8CZwBZL7kB6P1womhVP5zvcY0v8nhcLPFoHyw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cyberlink.youcammakeup',
+    appId: 'com.cyberlink.youcammakeup',
+    title: 'YouCam Makeup - Magic Selfie Makeovers',
+    summary:
+     'Filters & Effects to Beautify Selfies. Auto-Beautify, Color Correction & More!',
+    developer: 'Perfect Corp.',
+    developerId: '5286790089270932286',
+    icon:
+     '//lh3.googleusercontent.com/aqy8UQQB7T8MQGPGY32ixcabLycCavnFGprzD-CpFIJvM0YldZp1cCntqVRF7CutezMM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.maps',
+    appId: 'com.google.android.apps.maps',
+    title: 'Maps - Navigate & Explore',
+    summary:
+     'Real-time GPS navigation & local suggestions for food, events, & activities',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.invoice2go.invoice2goplus',
+    appId: 'com.invoice2go.invoice2goplus',
+    title: 'Invoice 2go — Professional Invoices and Estimates',
+    summary:
+     'Google *Top Developer*. #1 invoice maker for 10+ yrs. Invoice and accept payment',
+    developer: 'Invoice2go',
+    developerId: 'Invoice2go',
+    icon:
+     '//lh3.googleusercontent.com/ca6jhgjJaAqSQoVweeFsVH6Li8NJyUm57JghpzTNc3QPMK7ssQuIc7vJ7BnTEmKNkcM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.frozax.tentsandtrees',
+    appId: 'com.frozax.tentsandtrees',
+    title: 'Tents and Trees Puzzles',
+    summary:
+     'Place a tent next to each tree in this original puzzle game!',
+    developer: 'Frozax Games',
+    developerId: 'Frozax+Games',
+    icon:
+     '//lh3.googleusercontent.com/dhCmD0Ym92rmKh4upct8tU_s-wrfCma5ciMyomnLp5cPtFURw59Y0YU6uHTFaDURFL8q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.droid27.transparentclockweather',
+    appId: 'com.droid27.transparentclockweather',
+    title: 'Transparent clock & weather',
+    summary:
+     'Accurate weather forecast and beautiful weather & clock widgets',
+    developer: 'MACHAPP Software Ltd',
+    developerId: '7032303803416115669',
+    icon:
+     '//lh3.googleusercontent.com/nIenkMvx3o8AcWeqoT9BQwBNLAxSy_DwmcdgUCMx4K9P65aqhzpQHJbmVDHsvUIqkmM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=net.osmand',
+    appId: 'net.osmand',
+    title: 'OsmAnd — Offline Travel Maps & Navigation',
+    summary:
+     'Offline Travel Maps, POI, Transit & Navigation based on OpenStreetMap (OSM) data',
+    developer: 'OsmAnd',
+    developerId: '8483587772816822023',
+    icon:
+     '//lh3.googleusercontent.com/EAaraCuM2A5m-S0bkJkk9wDXIdXN2jm8khmHGpz7qseDpsgB4UHN6Z68h-4rGRzlZ10=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

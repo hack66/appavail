@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.sg.sgtracker',
+    appId: 'com.sg.sgtracker',
+    title: 'SG Tracker',
+    summary: 'BLE anti lost',
+    developer: 'JLR Gear',
+    developerId: 'JLR+Gear',
+    icon:
+     '//lh3.googleusercontent.com/v5lTRb6v_fBhZdAKPNU5nEKWZjyt8C15aKzCn8lE8ZuH7SiM9b3HS9p44duunPNaVRI=w340',
+    score: 2.1,
+    scoreText: ' Rated 2.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.southerntelecom.sglighting',
+    appId: 'com.southerntelecom.sglighting',
+    title: 'SG Lighting',
+    summary: 'fungear Smart Party Bulb',
+    developer: 'JLR Gear',
+    developerId: 'JLR+Gear',
+    icon:
+     '//lh3.googleusercontent.com/v923pf0wUlqgYistxn9A8o09mNDwz3Ti0hI5CZBWqa50nWKXoBFGeJZv8qv5meCT=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nanoequipment.idawirelesssg',
+    appId: 'com.nanoequipment.idawirelesssg',
+    title: 'Wireless@SG',
+    summary:
+     'IMDA’s Wireless@SG app provides features to people who are always "on the move".',
+    developer: 'Info-communications Media Development Authority',
+    developerId: 'Info-communications+Media+Development+Authority',
+    icon:
+     '//lh3.googleusercontent.com/NJaF7PrLS2cS2ZCW0CK6954DUwK6gOQkJFN3ZVlkncRsoRHQiOgYq2IX5Lfg7q2l-wk=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.sg.smart',
+    appId: 'com.sg.smart',
+    title: 'SG Plug',
+    summary: 'Smart Life, Smart Living',
+    developer: 'JLR Gear',
+    developerId: 'JLR+Gear',
+    icon:
+     '//lh3.googleusercontent.com/AFC8wWnocOPdsF-gdHrX1TxCfCfWvl-ZuJ_A0vxl3U5EFA3jS-V7CnMyLUPnuXty9w=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tplusinteractive.checkpointsg',
+    appId: 'com.tplusinteractive.checkpointsg',
+    title: 'CHECKPOINT.SG Traffic Camera',
+    summary:
+     'Live Traffic Cameras at Woodlands Checkpoint, Tuas (Second Link) and EDL',
+    developer: 'T+ Interactive Pte. Ltd.',
+    developerId: 'T%2B+Interactive+Pte.+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/9vYpRnwPIXzBGpb9KFAS6GWIYmhCxoP0Ew3dIVMbjSSSa6o7LZvtHWu5xHJJNylPYOk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.macrovideo.SGSmartCam',
+    appId: 'com.macrovideo.SGSmartCam',
+    title: 'SG Smart Cam',
+    summary:
+     'Our WiFi camera products can be used to achieve remote configuration camera.',
+    developer: 'silence_sari',
+    developerId: 'silence_sari',
+    icon:
+     '//lh3.googleusercontent.com/-Bdm4ytdIpzxvIMusL2MPcwEOlcmh72wOGV4BJKVzvjjfmU4hxxpdcu_tBOGSV6BJA=w340',
+    score: 1.9,
+    scoreText: ' Rated 1.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iridianstudio.sgbuses',
+    appId: 'com.iridianstudio.sgbuses',
+    title: 'SG Buses',
+    summary:
+     'SG Buses is a Bus Guide for Singapore Android users with estimated arrival time',
+    developer: 'SG NextBus Pte. Ltd.',
+    developerId: 'SG+NextBus+Pte.+Ltd.',
+    icon:
+     'https://lh5.ggpht.com/1KKZ0x_Ea4d_-4jbcsks-eXMwQ7TcNIWVwCD5iaz_S93BQoEfYR-7K0D06r6eeg0oYU=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=originally.us.buses',
+    appId: 'originally.us.buses',
+    title: 'SG BusLeh: Award Winning',
+    summary:
+     'Even tells you if the coming buses are double deck or bendy buses!',
+    developer: 'OriginallyUS.SG - Award Winning App Consultancy',
+    developerId: '8657364104187803118',
+    icon:
+     '//lh3.googleusercontent.com/KH6Ni3Qkak4kBxU-CeYvVDLiqQL_XKBipCNBQJuufzOP4LUpGlvDgSGbVkttTGSyV8qN=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.btw.party_speaker',
+    appId: 'com.btw.party_speaker',
+    title: 'SG Party Speaker',
+    summary: 'Intelligent Bluetooth atmosphere lamp',
+    developer: 'JLR Gear',
+    developerId: 'JLR+Gear',
+    icon:
+     '//lh3.googleusercontent.com/9ktPYPL3ciQIl2ylgMjhzj9BzwH0YelFNnps2Odi5ASMpKhpo8Jj8tOf5yhfNUe1fwU=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dbs.sg.dbsmbanking',
+    appId: 'com.dbs.sg.dbsmbanking',
+    title: 'DBS digibank SG',
+    summary:
+     'DBS digibank, the new mobile banking app. It’s simple, smart, fast and secure.',
+    developer: 'DBS Bank Ltd',
+    developerId: 'DBS+Bank+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/vNCQc9fPeIgyPy-Qc-bmVxrvZGnQIBYsIEOBRmv41XlNO-gy_MSQFxLiSEwM2WKfDTo=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg',
+    appId: 'sg.gov.lta.mytransportsg',
+    title: 'MyTransport.SG',
+    summary: 'Going places with the new MyTransport.SG.',
+    developer: 'Land Transport Authority',
+    developerId: 'Land+Transport+Authority',
+    icon:
+     '//lh3.googleusercontent.com/iwYhVj2Jt9Qt8bfq293i6Aug62Lixa5-hvHivPp-f12z2NvZNq6MqBwNEduFm8hjeugM=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.gov.hpb.healthhub',
+    appId: 'sg.gov.hpb.healthhub',
+    title: 'HealthHub SG',
+    summary:
+     'The ultimate health app for Singaporeans. Medical records, health info, rewards.',
+    developer: 'Health Promotion Board',
+    developerId: 'Health+Promotion+Board',
+    icon:
+     '//lh3.googleusercontent.com/IebS4nKm-E0u6cgIecYS-3ZV1sHTNSLCxdPcYY5UKZjU8Ir6TY5bjyc7V4Mt_7aLGLMC=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.customs.gov.sg',
+    appId: 'org.customs.gov.sg',
+    title: 'Customs@SG',
+    summary:
+     'A convenient way to declare and pay taxes on your overseas purchases!',
+    developer: 'Singapore Customs',
+    developerId: 'Singapore+Customs',
+    icon:
+     '//lh3.googleusercontent.com/v5lAaVK68yOIf9gZrAFyrxuHjRMA8NLuz4L7Oz0Qkz_8y4T4EyupcxS0hO9ih6uR4q5D=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.nvpc.sgcares',
+    appId: 'org.nvpc.sgcares',
+    title: 'SG Cares',
+    summary:
+     'Start building a caring Singapore by downloading SG Cares for Android today.',
+    developer: 'NVPC',
+    developerId: 'NVPC',
+    icon:
+     '//lh3.googleusercontent.com/TXXIeOV3jHCB-wlsxwNUrEltWf2SP5UCuANVSC6ppxOHdeRMOpN6SEXMZOICXpUXnQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.megapixel.jerry.trafficcam',
+    appId: 'com.megapixel.jerry.trafficcam',
+    title: 'SG Traffic Cam',
+    summary:
+     'The Singapore Traffic Camera for highway & Causeway - Now with Malaysia Causeway',
+    developer: 'The Royal Unicorn',
+    developerId: 'The+Royal+Unicorn',
+    icon:
+     '//lh4.ggpht.com/O-bY_0IwdnBxH2f-Y-RAMxT7P0PL6pCcnlStycei8ry7_CdKXtKo6ptQWnv6owQdMao=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kriworld.com.luckynumber',
+    appId: 'kriworld.com.luckynumber',
+    title: 'S.G Lucky Number',
+    summary: 'Find out your lucky number',
+    developer: 'Kriworld Itech Private ltd',
+    developerId: 'Kriworld+Itech+Private+ltd',
+    icon:
+     '//lh3.googleusercontent.com/f6ywpTau8VTGOW5U0dNmz6Nhml5nOj9ei2RtNxDV70DbeUPRTjAhX4d-shLpuxdCq4M=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dbs.sg.posbmbanking',
+    appId: 'com.dbs.sg.posbmbanking',
+    title: 'POSB digibank SG',
+    summary:
+     'POSB digibank, the new mobile banking app. It’s simple, fast and secure.',
+    developer: 'DBS Bank Ltd',
+    developerId: 'DBS+Bank+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/1QNNmb7SYLit_KjdOq5UX6wcuiR-Can4BXTG_21FbwLdyvba0vp1l8gRYo2HVoSQpPI=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kjb.SG_Home',
+    appId: 'com.kjb.SG_Home',
+    title: 'SG Home',
+    summary:
+     'Embed your home security with SG Home Automation created by KJB Security.',
+    developer: 'KJB Security Products, Inc.',
+    developerId: 'KJB+Security+Products,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/4vzm9bT-X20dJtKmQ7NNevELkItty5fUQDNgV9bKDG0DBBLXvozhNsSl4XbVhXxkag=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.gov.weather.weatheratsg.production',
+    appId: 'sg.gov.weather.weatheratsg.production',
+    title: 'Weather@SG',
+    summary: 'Weather@SG is your Singapore’s official weather resource',
+    developer: 'Meteorological Service Singapore',
+    developerId: 'Meteorological+Service+Singapore',
+    icon:
+     '//lh3.googleusercontent.com/CnjiaciucTX8DrI0vMOWj5McXydqPX2chh8Z4w4wndcRDbquyKuZQ568I9CNkXXSNQ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.com.poems.mobile',
+    appId: 'sg.com.poems.mobile',
+    title: 'POEMS SG',
+    summary:
+     'Trade Shares,Futures,Forex,CFD&Unit Trust from a single login anytime, anywhere',
+    developer: 'Phillip Securities Pte Ltd',
+    developerId: 'Phillip+Securities+Pte+Ltd',
+    icon:
+     '//lh4.ggpht.com/pCV4I-0qucj6CYZ4cPyMZ98D2oeni0nJ9AmBLfhJe6eNpjXdsfBSWZDNHCaLFmttdQ=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

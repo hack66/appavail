@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.titan.cd.gb',
+    appId: 'com.titan.cd.gb',
+    title: 'Creative Destruction',
+    summary: 'Smash-N\'-Shoot!',
+    developer: 'ZuoMasterDeveloper',
+    developerId: 'ZuoMasterDeveloper',
+    icon:
+     '//lh3.googleusercontent.com/toEjN-fItBA_gBE6IoyqzOfdihz0bzt_3dKMV67bYrb8vGcJ_fuufbNd2k1BTgSLRv77=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sega.soniccd.classic',
+    appId: 'com.sega.soniccd.classic',
+    title: 'Sonic CD Classic',
+    summary: 'Time travel in SEGA\'s highly acclaimed Sonic platformer',
+    developer: 'SEGA',
+    developerId: '7891990035506213180',
+    icon:
+     '//lh3.googleusercontent.com/805xD1wfYL1w_1g_xQiQuM_2qamGogKjKeMGcZJPLn-lPEojptmv5wwLJItDyg52jFJ3=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.redtrackr.cdcalc',
+    appId: 'com.redtrackr.cdcalc',
+    title: 'Certificate of Deposit (CD Calc)',
+    summary:
+     'Certificate of Deposit Calculator to determine accumulated earnings on CDs',
+    developer: 'Francisco Nunez',
+    developerId: 'Francisco+Nunez',
+    icon:
+     '//lh3.googleusercontent.com/3_8AuaGaeE8eAbHDPYAkKj3hpBnVUTFL_U4MwIUY8wzmLY_lFaVj-XmBtCeiMOfksjvd=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dah.librarycd',
+    appId: 'com.dah.librarycd',
+    title: 'CD Library',
+    summary:
+     'Catalog your CD shelf by shelf - Scan and organise your CD library',
+    developer: 'D Hardy',
+    developerId: 'D+Hardy',
+    icon:
+     '//lh3.googleusercontent.com/Ym1YAYvXJV86qAjWp7PsIIEVg-Z675rVE53uOCcFb5BCbgZmgZRSCd-6aPG5DZdrYYo=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wikimediacom.CD.Ripper',
+    appId: 'com.wikimediacom.CD.Ripper',
+    title: 'CD MP3 Ripper (Converter)',
+    summary: 'CD Ripper is the first FREE CD ripping APP of the Android.',
+    developer: 'ppgirl',
+    developerId: 'ppgirl',
+    icon:
+     '//lh3.googleusercontent.com/dZpEfTdF_b-ML9SosYcVr3Wyd1Ul9kIWrjBTDGrcj_xvDf1RjK_aeXRD31oibUDO2eXM=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=phapps.apps.minnanonihongocd2pro',
+    appId: 'phapps.apps.minnanonihongocd2pro',
+    title: 'Minna No Nihongo Cd 2 Pro',
+    summary: 'Minna no nihongo cd 2 version pro',
+    developer: 'phApps',
+    developerId: 'phApps',
+    icon:
+     '//lh3.googleusercontent.com/q8D3UUAf89lO46pbHT0CfY0loS-RMEZQUgi5ywTLKyJvh4YMeuDc8EyPXcjAXvy5sPNV=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.femtoice.pddrucdpro',
+    appId: 'com.femtoice.pddrucdpro',
+    title: 'Билеты ПДД CD 2019 PRO',
+    summary:
+     'A wonderful way to prepare for the new exam in the CD category, C1, D1.',
+    developer: 'femtoice',
+    developerId: '8585829451094739455',
+    icon:
+     '//lh3.googleusercontent.com/OaQPp5Qp03nUUD-by3DqxQ6-b1CnbTDtgG52dWwQ9XRbB3jeMu9qcnP2qIZRGRuhxoIG=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$1.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.regencysoftware.bonds',
+    appId: 'com.regencysoftware.bonds',
+    title: 'Bond Market - Bond Yields & CD Rates',
+    summary:
+     'View Bond Yields, Municipal Bonds, Corporate Bonds, Bond Investing',
+    developer: 'Regency Software',
+    developerId: '5679171121252062044',
+    icon:
+     '//lh3.googleusercontent.com/OYOsREcT9aPjnKd7ASIL007hNowbYeIJT0xyRoWCaEBIOgjM01-pWMBvhX6UZsVIrvui=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobincube.cd_detras_de_una_estrella.sc_HXIUAL',
+    appId: 'com.mobincube.cd_detras_de_una_estrella.sc_HXIUAL',
+    title: 'CD App "Detras de una Estrella"',
+    summary:
+     'Alejandro Fatur´s CD “Following a star” as an App, to be played with your phone.',
+    developer: 'Antaramusica',
+    developerId: 'Antaramusica',
+    icon:
+     '//lh3.googleusercontent.com/dXsEFzTGymevRrGPTf-wtHmYj-krOuwTFn57aQGsC9HZ8IjDJoD3kV7zeZsHtSR841gc=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '$7.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=cz.masc.apk',
+    appId: 'cz.masc.apk',
+    title: 'MERCEDES BENZ AUDIO 10 CD RADIO CODE CALC ALPINE',
+    summary:
+     'Code calc for radios Mercedes Benz Audio 10 CD by Alpine. Buy ONE calc FOREVER !',
+    developer: 'Cheero08',
+    developerId: '8339885549014723608',
+    icon:
+     '//lh3.googleusercontent.com/7nDIk4xtb_wkIwvJgrs2XIDaCleD-4EaL6WQpmlbfxirJ4XwjZ-gfO7IhMHnyY__-7w=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '$9.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Zonmob.Stickman.FightingGames.ShadowOfDeath',
+    appId: 'com.Zonmob.Stickman.FightingGames.ShadowOfDeath',
+    title: 'Shadow of Death: All of Heroes Are Unlocked',
+    summary:
+     'Play an offline fighting game- wield the dark sword against the shadow of war.',
+    developer: 'Zonmob Game Studio',
+    developerId: '6472399032955398374',
+    icon:
+     '//lh3.googleusercontent.com/_uvwkKrq7H3KNosw7YEHQ-VLtagCGU92qgKf_q53jlxmF_smmDcm4z2TGRzBSf1iWg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gourmetlabs.gvccd17p',
+    appId: 'com.gourmetlabs.gvccd17p',
+    title: 'GVC CD-17P folder & track player',
+    summary:
+     'Folder and track player simulating vintage cassette deck with VU-meters',
+    developer: 'GourmetLabs',
+    developerId: 'GourmetLabs',
+    icon:
+     '//lh3.googleusercontent.com/ULnAL_HFtAzs6wLmOjj5XvDfbxbJEOn-RxPlCoZYh30zs3Yh9_wofu40n0v2uGiaKA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=noone.master.net.actualitecd',
+    appId: 'noone.master.net.actualitecd',
+    title: 'ACTUALITE.CD',
+    summary:
+     'The News DR Congo Continuous and Direct - -Goma Kinshasa - Lubumbashi',
+    developer: 'Next Corp',
+    developerId: 'Next+Corp',
+    icon:
+     '//lh3.googleusercontent.com/HAT-X_lVdi65OcCxmz9rPpDE5wxROcdaZoa0aGHPBd-oHS_wqDHZLC-5_9OeIw-BqHQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.gtavc',
+    appId: 'com.rockstargames.gtavc',
+    title: 'Grand Theft Auto: Vice City',
+    summary: 'Welcome back to Vice City. Welcome back to the 1980s.',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/nl1Y6bn06faVBuPEwWh5gInl_Zji3A5wTA4zscKDsJLXpcZ5C35F5zaGzEwCE0bKJ8Jr=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fpsshooter.battleroyale',
+    appId: 'com.fpsshooter.battleroyale',
+    title: 'Battle Royale: FPS Shooter',
+    summary: 'BATTLE ROYALE! Be the last player standing on the island!',
+    developer: 'Azur Interactive Games Limited',
+    developerId: '5464069849262017456',
+    icon:
+     '//lh3.googleusercontent.com/zKFqdtAdptfTdRKcEisviETb6SqsWo9XejNl7AsAl3jqMgw7-RREijstD-gL9TtWaKI=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.hlds.audiocdplayer',
+    appId: 'kr.co.hlds.audiocdplayer',
+    title: 'DISC LINK',
+    summary:
+     'Burn data/audio files & copy backup disc files to devices & play/rip an audio CD',
+    developer: 'Hitachi-LG Data Storage, Inc.',
+    developerId: 'Hitachi-LG+Data+Storage,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/67ilr4clrj-4pditXFhhgj44gVFCohFvo1zM_nTraQY9BI1gHBBq2hvfKgdlbGWGYEI=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.discogs.app',
+    appId: 'com.discogs.app',
+    title: 'Discogs - Catalog, Collect & Shop Music',
+    summary:
+     'The Official Discogs App! Discover, Catalog and Add to your Music Collection!',
+    developer: 'Discogs',
+    developerId: 'Discogs',
+    icon:
+     '//lh3.googleusercontent.com/bRJDty2b-6Qag0G1TgrwRwS50iMt2YpWAFUCwrc6ZjGjbyovORll_j-ZpgSQLPt6O7xK=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psd2filter.musicalbumart',
+    appId: 'com.psd2filter.musicalbumart',
+    title: 'Album Cover Maker- Cover Art & Album Art',
+    summary:
+     'Album Cover Maker is the easiest app to create cover art and album art.',
+    developer: 'Tara Valdez',
+    developerId: 'Tara+Valdez',
+    icon:
+     '//lh3.googleusercontent.com/VJaPA1YH-x4TwEK7yy9mB-3hUeMbKx-RvlTlrs3dPAGtIq6C2CO303TK50mJpeq7aUoj=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.train.maner',
+    appId: 'com.train.maner',
+    title: 'Giant.io',
+    summary: 'Giant.io the Giant Battle Royale Game',
+    developer: 'Navo Games',
+    developerId: 'Navo+Games',
+    icon:
+     '//lh3.googleusercontent.com/IZPu1XpPvENVNiRNSM1gGNgR_7C3re2vmQjk6dMXWdpXQxx3h1CnceFUGULuZr_5lA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mgc.miami.crime.simulator.two',
+    appId: 'com.mgc.miami.crime.simulator.two',
+    title: 'Vegas Crime Simulator',
+    summary:
+     'An entirely new level for you! Discover the world of criminal acts!',
+    developer: 'Naxeex LLC',
+    developerId: '4904364455782296418',
+    icon:
+     '//lh3.googleusercontent.com/0Bk7jyKPyzOuoev277cGCYKbfZ15b12HEj3VfQNKtKqv_q7qfvu4x3ZNvtmQJCp3GQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.usbank.mobilebanking',
+    appId: 'com.usbank.mobilebanking',
+    title: 'U.S. Bank',
+    summary:
+     'Managing your money just got easier. Get the new Mobile app.',
+    developer: 'U.S. Bank Mobile',
+    developerId: 'U.S.+Bank+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/VKZ5gwiIphIYGwbfRYlrdcqraCBc92I8h3jux8nrW7Iu0K28rhOmZsVcfWWYghaa5eY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.us.stocks',
+    appId: 'com.us.stocks',
+    title: 'US Stock Market',
+    summary:
+     'Track Stocks from NYSE, Dow Jones & Sectoral Indices from all US Stock Exchange.',
+    developer: 'EdgeAndro',
+    developerId: 'EdgeAndro',
+    icon:
+     '//lh3.googleusercontent.com/E3LphLucxRZ7s6VwfeHl5Cf2zBapdFY3Tf1mk8gORsXv6Lmn5wjmfN27E_q5_pHSmc8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atlogis.northamerica',
+    appId: 'com.atlogis.northamerica',
+    title: 'US Topo Maps Pro',
+    summary:
+     'Outdoor & Offroad Navigation - Store Maps for Offline Usage',
+    developer: 'ATLOGIS Geoinformatics GmbH & Co. KG',
+    developerId: 'ATLOGIS+Geoinformatics+GmbH+%26+Co.+KG',
+    icon:
+     '//lh3.ggpht.com/Rxbs31PqBxV4DKvyaU2cBnaU0-oYnqzlPF7Sed_WB1czAi4tPEJXg0z52irKBOjjtJ0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$12.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usfoods.mobile',
+    appId: 'com.usfoods.mobile',
+    title: 'US Foods',
+    summary:
+     'The US Foods app helps you manage your kitchen at all times.',
+    developer: 'US Foods, Inc.',
+    developerId: 'US+Foods,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/21mbOs8_-_lK1QirEOKqfJ9xLYgW6Lv_Wylfj6LPSIDOWXEOSztS1OsqGsfOdyaregE=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Short Video Status & Video Downloader',
+    summary:
+     'Download & Share Funny Video, Status Video, and Trending Videos in UC Browser',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uniqlo.usa.catalogue',
+    appId: 'com.uniqlo.usa.catalogue',
+    title: 'UNIQLO US',
+    summary:
+     'Introducing the UNIQLO app.The smartest way to shop at UNIQLO.',
+    developer: 'UNIQLO CO., LTD.',
+    developerId: 'UNIQLO+CO.,+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/X_PfspiujBSGH180h51fvFTt4VMcG4fZffair4EADpc0X6SZHAO0WlgT0xEoZqofnQ=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uc.browser.en',
+    appId: 'com.uc.browser.en',
+    title: 'UC Browser Mini – Video Status & Video Downloader',
+    summary:
+     'Explore & Download short funny videos and status video clip on UC Browser Mini',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/5GopnRLk4ne1Ws-WfEFTMZXQZXtDn_79MXxQn_bIER8RfJv1lrUYaL4n6uYCsu0RVS4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.agus.us.calendar',
+    appId: 'com.agus.us.calendar',
+    title: 'US Calendar 2019',
+    summary: 'US Calendar with Public Holidays  2019 - 2020',
+    developer: 'Agus Haryanto',
+    developerId: 'Agus+Haryanto',
+    icon:
+     '//lh3.googleusercontent.com/wy_t4Hwnou-BsbdMG2jEoA46-DAb01U6pJ2ey4ZUhxBFTX-_tHsAdSvj0X75Gm4-Tw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twostepsbeyond.uspubliclands',
+    appId: 'com.twostepsbeyond.uspubliclands',
+    title: 'US Public Lands',
+    summary: 'View US public land boundary maps on your device.',
+    developer: 'Two Steps Beyond LLC',
+    developerId: 'Two+Steps+Beyond+LLC',
+    icon:
+     '//lh4.ggpht.com/lp7nkfo1azHmLWD0gNp8d4__YaI-0Dmg_0gPjiHSVcNylrl78knFAfrgJ6lMrlRlxYEp=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ksmobile.cb',
+    appId: 'com.ksmobile.cb',
+    title: 'CM Browser - Ad Blocker , Fast Download , Privacy',
+    summary:
+     'Most secure browser, top video download with Ad Blocker and #1 Antivirus engine.',
+    developer: 'Cheetah Mobile Communications',
+    developerId: 'Cheetah+Mobile+Communications',
+    icon:
+     '//lh4.ggpht.com/PAGkrrp0ISxRO0ajsY0R6zHRUiVqWdc2SyjGZRJ-a_0YaHKXRjxadGnSQtNPJn4rVCo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobileapp.android.usb',
+    appId: 'com.mobileapp.android.usb',
+    title: 'U.S. Bank Focus',
+    summary:
+     'U.S. Bank Focus makes it easy for you to manage your money on the go.',
+    developer: 'U.S. Bank Mobile',
+    developerId: 'U.S.+Bank+Mobile',
+    icon:
+     '//lh5.ggpht.com/fASC3RIjnCuZdPVo6vdrVCf62FdxRBAPddRLbiqtr042f6GopVtuTOBeOkr9vdF9FhM=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usstocks.markets',
+    appId: 'com.usstocks.markets',
+    title: 'US Stock Market',
+    summary:
+     'Powerful App to Track NASDAQ, NYSE, Sectroal Indices from all US Stock Markets',
+    developer: 'StocksAndro',
+    developerId: 'StocksAndro',
+    icon:
+     '//lh3.googleusercontent.com/zBnlQ5tAhZiDea3-2R7UrRvQZ5L2rYEGoYls0Y33YEiqRjBBbuD4Vqxx1vxXkbenRkNO=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=chat.socialchat',
+    appId: 'chat.socialchat',
+    title: 'US Dating Singles Nearbys chat',
+    summary:
+     'US Chat app is for all USA teen singles who want to know local nearby friends',
+    developer: '17chat',
+    developerId: '17chat',
+    icon:
+     '//lh3.googleusercontent.com/SsJEturJ074a2syEEo-ax8PP2DdRczI660Ti3omXXSH9rxzKjQQX50rpfUnigvxNGQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qbiki.UScop',
+    appId: 'com.qbiki.UScop',
+    title: 'US Cop',
+    summary:
+     '#1 selling law enforcement app on Google Play and Apple App Store!',
+    developer: 'cop-apps.net',
+    developerId: 'cop-apps.net',
+    icon:
+     '//lh4.ggpht.com/DiEMpzlWyEcGQEhRl9G7FxS2xqmf-BrSIlruqDpzdmRv6A7mw7e8qyNpQWzzWG587iOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$3.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bubblingiso.uscitizenshiptest',
+    appId: 'com.bubblingiso.uscitizenshiptest',
+    title: 'US Citizenship Test 2019',
+    summary:
+     'This app will prepare you for the US citizenship test and interview questions.',
+    developer: 'VZ Inc.',
+    developerId: 'VZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/klb9gMOPymWMxpAT_iChT4eEXG3vxihbajwMcpuMWVhddxnK7q8sPteCdMQHX88CrllP=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=ma.safe.bnus',
+    appId: 'ma.safe.bnus',
+    title: 'US Breaking News: Latest Local News & Breaking',
+    summary:
+     'The fastest US home news app to get all national Breaking News and world news',
+    developer: 'Safe Apps Inc',
+    developerId: 'Safe+Apps+Inc',
+    icon:
+     '//lh3.googleusercontent.com/BueyyjwbKk36KHMM5VWZ5jqT9PI_WMBKhrI7Ik_ceXjb0qoNOww5e5NRTWWk4CxnIw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atlogis.northamerica.free',
+    appId: 'com.atlogis.northamerica.free',
+    title: 'US Topo Maps Free',
+    summary: 'Offroad & Outdoor Navigation. Best maps for USA.',
+    developer: 'ATLOGIS Geoinformatics GmbH & Co. KG',
+    developerId: 'ATLOGIS+Geoinformatics+GmbH+%26+Co.+KG',
+    icon:
+     '//lh6.ggpht.com/udBPhV3JH1pQNMsjOkxBD__TyO7Uddz5Psjsrr92bADwDVDRd_dyAFJx1GDM34fvMw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uscommunitycu.mobile',
+    appId: 'com.uscommunitycu.mobile',
+    title: 'US Community CU',
+    summary:
+     'US Community Credit Union’s free app. Manage your accounts from your phone.',
+    developer: 'US Community CU',
+    developerId: 'US+Community+CU',
+    icon:
+     '//lh3.googleusercontent.com/onIsJhBl7ayjNBH_IR77V0t15iuDqhjwVWROayvUF8ryKes_YVpqu8JNDiKzYWMLyQA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.innersloth.spacemafia',
+    appId: 'com.innersloth.spacemafia',
+    title: 'Among Us',
+    summary:
+     'Join your crewmates in a multiplayer game of teamwork and betrayal!',
+    developer: 'InnerSloth LLC',
+    developerId: 'InnerSloth+LLC',
+    icon:
+     '//lh3.googleusercontent.com/VHB9bVB8cTcnqwnu0nJqKYbiutRclnbGxTpwnayKB4vMxZj8pk1220Rg-6oQ68DwAkqO=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=usa.jersey.tvlistings',
+    appId: 'usa.jersey.tvlistings',
+    title: 'TV Listings by TV24 - U.S. TV Guide',
+    summary: '#1 U.S. TV Guide App',
+    developer: 'TV24 TV Guide',
+    developerId: 'TV24+TV+Guide',
+    icon:
+     '//lh3.ggpht.com/ROJBd2xRcZG3goM1cGXqtfpPFohyKHQ0Elgp6ArCpxSbJMDga3nNw-JVrVD6MgSjCaQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,276 @@
+[ { url: 'https://play.google.com/store/apps/details?id=ng.jiji.app',
+    appId: 'ng.jiji.app',
+    title: 'Jiji.ng',
+    summary:
+     'Install Jiji App! Buy & Sell Online Easily. Always Hot Deals And Best Prices!',
+    developer: 'Jiji',
+    developerId: 'Jiji',
+    icon:
+     '//lh3.googleusercontent.com/9F4Ue5xpOhxe2cTRdAZk40_QZWdIyLsGLP-rDKYwGi20qX2owX07AEP8tWjECgt2zjxv=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.last.day.commando.survival',
+    appId: 'com.last.day.commando.survival',
+    title: 'Last Day Commando Survival',
+    summary:
+     'Enjoy the thrill of FPS game and survive as a last military commando',
+    developer: 'Standard Games Studios',
+    developerId: 'Standard+Games+Studios',
+    icon:
+     '//lh3.googleusercontent.com/si-n9H9KSWDwIJITCJZ-eIZ7o_T5d_wIWayqpY5J7sZiTCCKvC8lgDd2C2NVeSucmE0=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uniken.r2fa4a.boi',
+    appId: 'com.uniken.r2fa4a.boi',
+    title: 'StarToken - NG',
+    summary: 'For a secure digital banking experience anywhere, anytime.',
+    developer: 'Bank of India Official',
+    developerId: 'Bank+of+India+Official',
+    icon:
+     '//lh3.googleusercontent.com/79L_ngqMI0cH-WOidNeH76BRbEVo1qEgrrwE35s6n2-D919aOs6GrU4GY_p3YfM2IE0=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.geewa.smashingfour',
+    appId: 'com.geewa.smashingfour',
+    title: 'Smashing Four',
+    summary:
+     'Fight 1v1 real-time turn-based battles against players from around the world!',
+    developer: 'Geewa',
+    developerId: '5142626413956897400',
+    icon:
+     '//lh3.googleusercontent.com/cztmi6hiNjqaH8jeF4oaz7Xl8QQ13hIzAU_t-C94Q-9W7S-yc6GaLz6bSqt-mgDvFU8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.overlook.android.fing',
+    appId: 'com.overlook.android.fing',
+    title: 'Fing - Network Tools',
+    summary:
+     'Find out which devices are connected to your Wi-Fi, in just a few seconds.',
+    developer: 'Fing Limited',
+    developerId: '5065527547021967317',
+    icon:
+     '//lh3.googleusercontent.com/s87SVRzRhYFUk2qhSsmo-lOCO9NJXmCTtLjPFiWQMQ_cm5Jx9t2RFj4d7fng47fPZjU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.naij.android',
+    appId: 'com.naij.android',
+    title: 'Nigeria News NAIJ Legit.ng: Breaking Latest Legit',
+    summary:
+     '🇳🇬 Read All News in Legit NAIJ News Free App Nigeria’s #1 digital newspaper 🏆',
+    developer: 'Genesis Media',
+    developerId: '4821063992681531183',
+    icon:
+     '//lh3.googleusercontent.com/J6omHMoyjvkdxAe0KW3NtsSRVB7smsPypnG-JULQNgGPPC6t95B89koEMDQi4Ap1f7U9=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamefeast.us.army.commando.survival.battlegrounds',
+    appId: 'com.gamefeast.us.army.commando.survival.battlegrounds',
+    title: 'US Army Commando Survival Battleground',
+    summary:
+     'US Army Commando survival rules to escape in battleground are still unknown',
+    developer: 'The Game Feast',
+    developerId: '5378460267336438167',
+    icon:
+     '//lh3.googleusercontent.com/CwtwIDmrrhf59E2oHMKaLve7xsD1pn2iJopoJgQJO5yEKFffT3PC35b-HfTi4wVOPlk=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy',
+    appId: 'com.maxgames.stickwarlegacy',
+    title: 'Stick War: Legacy',
+    summary:
+     'Learn the way of the Sword, Spear, Archer, and Mage. Only you can free Inamorta!',
+    developer: 'Max Games Studios',
+    developerId: '5195759440434026200',
+    icon:
+     '//lh3.googleusercontent.com/YOyWZmHNieTuEz8vkMSFIQPpBeT2RnfQOxJUWUkiB7-eDtKTCtUjLN2M2YQ5KUwXDQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.welg.bdelite',
+    appId: 'com.welg.bdelite',
+    title: 'WDAMAGE: Car Crash Engine',
+    summary: 'Extreme car crash simulator!',
+    developer: 'WELG',
+    developerId: 'WELG',
+    icon:
+     '//lh3.googleusercontent.com/0MoI0nqycpEvxrJSUkDXynB9eF9wP05ASGdsOgTP2_xqUZlE93SE0dv3V3N6dmj2kg=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.zedge.android',
+    appId: 'net.zedge.android',
+    title: 'ZEDGE™ Ringtones & Wallpapers',
+    summary:
+     'Free Ringtones, Wallpapers & Notification Sounds enjoyed by millions.',
+    developer: 'Zedge',
+    developerId: 'Zedge',
+    icon:
+     '//lh3.googleusercontent.com/4nHL8rRI4HTdy17Nt6NlEdnHX-6M6xCX-5yA4TvHYxcd4lvFT4zIrfIqMy0Qd7qm9Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bubadu.buildergame',
+    appId: 'com.bubadu.buildergame',
+    title: 'Builder Game',
+    summary: 'Now\'s your chance to become a building expert!',
+    developer: 'M by Bubadu',
+    developerId: '5402425843940827051',
+    icon:
+     '//lh3.googleusercontent.com/P5FHU0AaJgVjezp3t0UCJ0u4c6qmmkSJbNctvZwKxaV7fYJZFxPcrtlyqBloK26ynbQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.canvas.car.crash.accident.simulator.beam.drive',
+    appId: 'com.canvas.car.crash.accident.simulator.beam.drive',
+    title: 'Car Crash Simulator: Beam Drive Accidents',
+    summary:
+     'Drive Luxury cars in crash destruction arena filled with deadly hurdles & Ramps',
+    developer: 'Canvas Illusion',
+    developerId: 'Canvas+Illusion',
+    icon:
+     '//lh3.googleusercontent.com/YtTDa2qg3kWB9UyOzrKWfzGzM0Enp8ERwEBFfQkDWDZYz3kkqz0rXIvOzgGgURxpMw=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mi.android.globallauncher',
+    appId: 'com.mi.android.globallauncher',
+    title: 'POCO Launcher',
+    summary:
+     '🔥Personalize your Home screen using our super fast and lightweight launcher!',
+    developer: 'Xiaomi Inc.',
+    developerId: '5113340212256272297',
+    icon:
+     '//lh3.googleusercontent.com/Ww6keWe0PL2lUSEYUJKrGQp89jqYHiHaqCGVRw3PtIyuybWqUv7gSlzT__fmt-tfCA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.daily.horoscope.plus',
+    appId: 'com.daily.horoscope.plus',
+    title: 'Daily Horoscope Plus ® 2019 - Free daily horoscope',
+    summary:
+     'Best Daily Horoscope Apps Free for Zodiac Signs. Accurate Fortune Teller in 2019',
+    developer: 'Tap Genius Ltd.',
+    developerId: 'Tap+Genius+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/i11AfPSVWIhL5ly254miBbbx6nwOwrf1uueZ-qX38aoudG8TS74qU8pPrbnhLniGtw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ah.frontline.sharpshooter.commando',
+    appId: 'com.ah.frontline.sharpshooter.commando',
+    title: 'Frontline Sharpshooter Commando 3d',
+    summary:
+     'Action gun military army shooting 2017 is a army commando city shooting mission',
+    developer: 'Action Hive',
+    developerId: 'Action+Hive',
+    icon:
+     '//lh3.googleusercontent.com/QIMGxXBHobYocG2tDfmlnBEMaHz1QtMoPiOLbcJsZV6-Y-KkNSXKz0Oy10AX3TzXzxtd=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rocketjump.majormayhem2',
+    appId: 'com.rocketjump.majormayhem2',
+    title: 'Major Mayhem 2 - Gun Shooting Action',
+    summary:
+     'Ultimate Run and Gun, shooting game! FREE Download. Save the world!',
+    developer: 'Rocket Jump Games',
+    developerId: '8174785684809071842',
+    icon:
+     '//lh3.googleusercontent.com/eZ93ymcYCWhGyQMqlIe3E1vawU0aK2g4P5ZmYF2QAu1phTwDSQymRszu4g88cffPOxg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.gps',
+    appId: 'com.navigation.offlinemaps.gps',
+    title: 'Offline Maps & Navigation',
+    summary:
+     'GPS navigation and offline maps with speed cameras warnings and traffic✅🚦🚘 🏢',
+    developer: 'Maps, GPS Navigation',
+    developerId: 'Maps,+GPS+Navigation',
+    icon:
+     '//lh3.googleusercontent.com/cteqELk4M4_ogi3BDndl8x-EpaX4EVPUpCfygLpUfXCe6DD_bPAKINuHSDxZcG33gQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.carolgames.gxb',
+    appId: 'com.carolgames.gxb',
+    title: 'Girls X Battle：GXB_Global',
+    summary:
+     'Girls X Battle is the most popular worldwide mobile anime game in 2016.',
+    developer: 'Carolgames',
+    developerId: '6528811196348758064',
+    icon:
+     '//lh3.googleusercontent.com/8GEkDiN0BcRHj8f2A-Vzy5YQYkP2NLKE2ZUT11fwoqJuohIzwxDAvEx7zAJJVhWxpz8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.weplay.motogp',
+    appId: 'com.weplay.motogp',
+    title: 'MotoGP Racing \'18',
+    summary:
+     'The official MotoGP motorcycle racing game Race your friends and win real prizes',
+    developer: 'WePlay Media LLC',
+    developerId: '8655332648829694833',
+    icon:
+     '//lh3.googleusercontent.com/UGwBHA_LOAPT780207nE2sWleHVip5IElUVL2bM70ziM41bPpEEQG4PEa2KwH0XDTI2n=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.productmadness.hovmobile',
+    appId: 'com.productmadness.hovmobile',
+    title: 'Heart of Vegas™ Slots – Free Slot Casino Games',
+    summary:
+     '2M Free Bonus! The Best Free Slots from the Top Vegas Slots Casino Game Online',
+    developer: 'Product Madness',
+    developerId: '5696323743535622294',
+    icon:
+     '//lh3.googleusercontent.com/q5PIPlj447mELkcMSdB7RRKXGhnS66iq18jkAU3WnoMfQIgy9aMKXMx8c1PjMuv07_s=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.tn',
+    appId: 'com.tn',
+    title: 'TN - Todo Noticias',
+    summary:
+     'Download now the official implementation of TN and access all its contents!',
+    developer: 'Artear',
+    developerId: 'Artear',
+    icon:
+     '//lh3.googleusercontent.com/JZ4Qnrs4R8vO7Haw_EmgPG7_2c7goBuSL_hf4yYr6A_AMNxBY2slLkoWMVIGr5d3IdQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sgi.tennesseelottery',
+    appId: 'com.sgi.tennesseelottery',
+    title: 'TN VIP',
+    summary: 'Tennessee Education Lottery Official Android App',
+    developer: 'Scientific Games Corporation',
+    developerId: 'Scientific+Games+Corporation',
+    icon:
+     '//lh5.ggpht.com/WDWwbTrgGttIrWA6SMIsnIrt2Qyf8xzLNLSIqLNj8mFNqVOafzus9UxJL7CRGX9zOog=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tennessee.lottery',
+    appId: 'com.tennessee.lottery',
+    title: 'Tennessee Lottery Official App',
+    summary:
+     'Check lottery tickets, view past winning numbers, locate retailers and more!',
+    developer: 'Tennessee Education Lottery Corp',
+    developerId: 'Tennessee+Education+Lottery+Corp',
+    icon:
+     '//lh3.googleusercontent.com/RlQgj5vS2jHN8WnxRkXmmhsNfBDeAZcRTt_8MHbjeZgUzqi3ZAat5FlvqKoVtCdRzQ=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gov.tn.portal.mofo',
+    appId: 'gov.tn.portal.mofo',
+    title: 'TN Felony Offender Search',
+    summary:
+     'Status of felony offenders in past or present custody of TN Dept. of Correction',
+    developer: 'State of Tennessee apps',
+    developerId: 'State+of+Tennessee+apps',
+    icon:
+     '//lh3.googleusercontent.com/-jDIoD0aXloXQLNi6JxtixgSeFtCllFUWnoNMsGz9CLl71JFn12nb5tMQZXokgqwfoU=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bcbst.mma',
+    appId: 'com.bcbst.mma',
+    title: 'myBlue TN',
+    summary:
+     'myBlue Tennessee - Access to your health information right at your fingertips.',
+    developer: 'BlueCross BlueShield of Tennessee',
+    developerId: 'BlueCross+BlueShield+of+Tennessee',
+    icon:
+     '//lh5.ggpht.com/ZdjZ1OOfcLXzHgx6V2XFNltSwob8rbCH7HLTpgyQej3Pa1Y-l6heO1hfawYrD2ePhvI=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshlefler.tennesseelaw',
+    appId: 'com.joshlefler.tennesseelaw',
+    title: 'TCA Plus (TCA 2019)',
+    summary:
+     'Complete 2018 Version of the Tennessee Code in a searchable, easy-to-use app.',
+    developer: 'Josh Lefler',
+    developerId: 'Josh+Lefler',
+    icon:
+     '//lh3.googleusercontent.com/MazMLWNwHszPMycOBVex68NIOQmyfNStKHmbh02eSOWNvJQnHZQmgoJt-lhx3bBbtfk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '$5.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=com.ocv.cpc',
+    appId: 'com.ocv.cpc',
+    title: 'Putnam County TN EMA',
+    summary:
+     'Putnam County TN EMA provides you with emergency and preparedness information.',
+    developer: 'OCV, LLC',
+    developerId: 'OCV,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/PFUi6GCYweZJ7JWnnzE1VO6-aiR74uZKEJqk6oukB5hA4Faf30Qj2FSCcdvforfOrA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gov.tn.readytn',
+    appId: 'gov.tn.readytn',
+    title: 'ReadyTN 2.0',
+    summary:
+     'ReadyTN provides emergency preparedness and recovery information to Tennesseans.',
+    developer: 'State of Tennessee apps',
+    developerId: 'State+of+Tennessee+apps',
+    icon:
+     '//lh3.googleusercontent.com/zxRMl7eLK5g906j6BGFBx8ChMNYhWAX2lMJ58-Dde6_GEAS61ydJumCtC0HNcir2QaI=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gov.tn.portal.twra',
+    appId: 'gov.tn.portal.twra',
+    title: 'TWRA On the Go',
+    summary:
+     'See regulations! Buy licenses, permits & boat registrations! Find fun locations!',
+    developer: 'GoOutdoorsTennessee.com',
+    developerId: 'GoOutdoorsTennessee.com',
+    icon:
+     '//lh3.googleusercontent.com/IwXpKdjY3xhZ__Yggtqfq31RgCX0ezuAxiOUQ_Dr3w4qhKgqUy_TLswn9bHorR926tg=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appsrescue.tennessee',
+    appId: 'com.appsrescue.tennessee',
+    title: 'Results for TN Lottery',
+    summary:
+     'Lottery results for Tennessee Lottery (TN Lotto), all games are available!',
+    developer: 'AppsRescue',
+    developerId: 'AppsRescue',
+    icon:
+     '//lh3.googleusercontent.com/DRKt-849TI-j-Yxcwhq6J-aORqepZY4zAxdn8efnk5O8bovGDBPQrReWBlaBxQgjIf0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.blackboard.android.central.utk',
+    appId: 'com.blackboard.android.central.utk',
+    title: 'Tennessee',
+    summary:
+     'Stay connected with the University of Tennessee wherever you are.',
+    developer: 'UT Communications & Marketing',
+    developerId: 'UT+Communications+%26+Marketing',
+    icon:
+     '//lh3.googleusercontent.com/jie65NLDvDyhfSnXl0O1LfaYXViXxiqwz7QiydCWYCZHhuPJzW0pZW6QxfbwslCxl98=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tvn.labs.tnlawsall',
+    appId: 'com.tvn.labs.tnlawsall',
+    title: 'Tennessee Statutes Laws CODE',
+    summary: '2018 Tennessee Statutes Laws Code',
+    developer: 'TVN Labs',
+    developerId: 'TVN+Labs',
+    icon:
+     '//lh5.ggpht.com/VkuXJ4ogHA-OKdpwbQSm3DlORY-t145Halep-cvnYANHJzD58W6LzJwiBmAP3U9rkiI=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '$5.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thetenncu.mobile',
+    appId: 'com.thetenncu.mobile',
+    title: 'The Tennessee CU',
+    summary: 'The Tennessee Credit Union Mobile App',
+    developer: 'The Tennessee Credit Union',
+    developerId: 'The+Tennessee+Credit+Union',
+    icon:
+     '//lh3.googleusercontent.com/hc8brayY2YVN5q558V2Ek2NwzhO_90wlTvDIzqVnRhOAYlte67JJkTyiLXp0QcLNE53V=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tenn.gameday',
+    appId: 'com.tenn.gameday',
+    title: 'Tennessee Volunteers Gameday',
+    summary:
+     'FREE LIVE GAME audio, interactive maps, and social photos bring fans to the game',
+    developer: 'IMG College Digital',
+    developerId: 'IMG+College+Digital',
+    icon:
+     '//lh3.googleusercontent.com/IsXPU95pxkbmhHF9uGTnhzY68bUvkg_grnQxR3C84rPpioOPMdr9ORZ-l3js6DadL6A=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.graytv.android.wvltnews',
+    appId: 'com.graytv.android.wvltnews',
+    title: 'WVLT News',
+    summary:
+     'News, sports, weather and LIVE newscasts from WVLT News in Knoxville, TN',
+    developer: 'Gray Digital Media',
+    developerId: 'Gray+Digital+Media',
+    icon:
+     '//lh3.googleusercontent.com/-2dUjAh8yV5dh8_Vek1WLDWqF7dKhP4xnnkffnH3e7oxRS5-SHVsw66dphVfs6lviw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imptrax.tennesseedmvdriverspermitpracticetestprep',
+    appId: 'com.imptrax.tennesseedmvdriverspermitpracticetestprep',
+    title: 'Tennessee DMV Permit Practice Test Prep 2019  - TN',
+    summary:
+     'Prepare for Tennessee DMV Permit Test with this practice app & pass TN DMV Exam',
+    developer: 'ImpTrax Corporation',
+    developerId: '6463577576624575366',
+    icon:
+     '//lh3.googleusercontent.com/SEhqGXaaSad-V0rp2qKpYf8DttxPvObhPYDJG0iBXnAIK7ZuHgNFns5p9shrrBAX=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yinzcam.nfl.titans',
+    appId: 'com.yinzcam.nfl.titans',
+    title: 'Tennessee Titans Mobile',
+    summary: 'Official Tennessee Titans App',
+    developer: 'YinzCam, Inc.',
+    developerId: '9047556097149013853',
+    icon:
+     '//lh4.ggpht.com/9rSUzWFwP5a-GCs1V7BpppcnjPt93LeLhKrxn3n5gMup1rlKYqviEskxmwV24Y_bwvU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crystalconsulting.tennessee',
+    appId: 'com.crystalconsulting.tennessee',
+    title: 'Tennessee Traffic Cameras',
+    summary: 'Tennessee Traffic Cameras',
+    developer: 'Crystal Consulting LLC',
+    developerId: 'Crystal+Consulting+LLC',
+    icon:
+     '//lh5.ggpht.com/lVF1gsY-6Sd5268kHOpQkLFOAX6e88G-y-TgOXLbDQLDqA8glvk3d47JbeXUT-uEKhNI=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apptegy.lauderdale',
+    appId: 'com.apptegy.lauderdale',
+    title: 'Lauderdale County Schools, TN',
+    summary:
+     'The official Android application for Lauderdale County Schools, TN.',
+    developer: 'Apptegy',
+    developerId: 'Apptegy',
+    icon:
+     '//lh3.googleusercontent.com/8Rr1yONmcsxWrTFc5Xxv9GFVphPu6obOwXCtCzIqLKiJ7EamY8qI4PTy-YOuDHN8mhi7=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lotto.tennesseelotteryresults',
+    appId: 'com.lotto.tennesseelotteryresults',
+    title: 'Tennessee Lottery Results',
+    summary:
+     'View the results of the Tennessee Mega Millions, Powerball and other games.',
+    developer: 'MobilexApp',
+    developerId: 'MobilexApp',
+    icon:
+     '//lh3.googleusercontent.com/rbEb9F8M9up-3R-7cOn89loCvs5JZAQfRNrU9u05SSXye-uoWIibpNZ9fvAOgpbft2Bt=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

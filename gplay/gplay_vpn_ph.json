@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adobe.psmobile',
+    appId: 'com.adobe.psmobile',
+    title: 'Adobe Photoshop Express:Photo Editor Collage Maker',
+    summary:
+     'Photo editor to crop, fix, heal image. Add effect, filter, border. Make collage.',
+    developer: 'Adobe',
+    developerId: '4734916851270416020',
+    icon:
+     '//lh3.googleusercontent.com/3UmLl5gCUAMnzyhaJuwARDpdyn306Z1I24iGuaQsaXcgXCJgnN2toONrBJxbfpc0X9I=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.priantos.phpaper',
+    appId: 'com.priantos.phpaper',
+    title: 'pH Paper Games',
+    summary:
+     'Simple app that simulate how to determine pH value of the solution',
+    developer: 'Computational Lab',
+    developerId: '9085656042751581233',
+    icon:
+     '//lh3.googleusercontent.com/LRVWjv3y-fl5rQ7IviSzBrFrwS_Z5St27zWpJSRi-Xi-oPPE1bmQ5_7AMHSkJpmK25Y=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.app.paygo',
+    appId: 'com.app.paygo',
+    title: 'PayGo PH',
+    summary:
+     'PayGo PH is a mobile application that turns mobile phones into virtual wallets.',
+    developer: 'Cloud Panda PH Inc',
+    developerId: 'Cloud+Panda+PH+Inc',
+    icon:
+     '//lh3.googleusercontent.com/ihq0bN_CwBTtOD_ljLknbqhoPJ_SP5lcilKcuCG6PdGvPZZ3Ieo54IzvBGyc0eBJwpI=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facility.powerhouse',
+    appId: 'com.facility.powerhouse',
+    title: 'PH Sync',
+    summary: 'PH Sync provides effective data communications.',
+    developer: 'Intelligent Data Systems',
+    developerId: 'Intelligent+Data+Systems',
+    icon:
+     '//lh3.googleusercontent.com/qm3VG2LQjD0h9brGCYa4vnITAmvFvQv5S7tCU4MoFh8IXe9Y8KhowBzYVKe_II8vZ8u_=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.GlooFish.PreFIXPH',
+    appId: 'com.GlooFish.PreFIXPH',
+    title: 'PreFIX PH',
+    summary:
+     'Are your contacts Smart, Sun or Globe? PreFIX PH is the app that will tell you.',
+    developer: 'Project Assistant',
+    developerId: 'Project+Assistant',
+    icon:
+     '//lh3.googleusercontent.com/2YuztEaLJqYeoI_np-F8EnIhChKRhuk_nFORwkhl__GcFH2e32r8Qsuv868Qub-GxA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wsquare.playhard',
+    appId: 'com.wsquare.playhard',
+    title: 'Canal PlayHard Oficial',
+    summary: 'Watch the videos, earn points and exchange for prizes!',
+    developer: 'MySocialBox',
+    developerId: 'MySocialBox',
+    icon:
+     '//lh3.googleusercontent.com/D-xhtCBtpiLYR0WMGrLKUgU6LIcIft3EjRarLBOElzltkfurz0NPsVhbOO_i2kYx9zw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roidapp.photogrid',
+    appId: 'com.roidapp.photogrid',
+    title: 'PhotoGrid: Video & Pic Collage Maker, Photo Editor',
+    summary:
+     'Top choice Camera App for Collage, drawing, Video maker and Live filter',
+    developer: 'Cheetah Mobile (Photo Editor)',
+    developerId: 'Cheetah+Mobile+(Photo+Editor)',
+    icon:
+     '//lh3.googleusercontent.com/xtS468AOpdEcRHK6xR-pxzdhhFKT003-va5aio5qWpENNuJhAauqt6aKCR7p8vlKViE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.phwandpro',
+    appId: 'com.phwandpro',
+    title: 'pH Pro for Jenco Wand pH610B',
+    summary: 'Measure pH and temperature, Pro Edition',
+    developer: 'Jenco Instruments, Inc.',
+    developerId: 'Jenco+Instruments,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/gAvrrSFIpgLK308HXcSVFe6y-9O6hpX38sa0beS0-eFhSdBTmT_8QfSd7wAEwbqj41s=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '$9.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=spt.w0pw0p.flashvpn.ph',
+    appId: 'spt.w0pw0p.flashvpn.ph',
+    title: 'FlashVPN PH',
+    summary:
+     'FlashVPN is vpn provider that provides secure, fast, and reliable connection ^_^',
+    developer: 'Alpha Zee',
+    developerId: 'Alpha+Zee',
+    icon:
+     '//lh3.googleusercontent.com/hr7WH6fMpKp0zj0qforQoo5jr_XHcf3ffsVs-PjjSvNxx-J6Jc8bpA52anfAyI0VEQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=asia.coins.mobile',
+    appId: 'asia.coins.mobile',
+    title: 'Coins.ph Wallet',
+    summary:
+     'All-in-One Wallet: Buy Prepaid Load, make Bill Payments, and Send Remittances!',
+    developer: 'Coins Asia',
+    developerId: 'Coins+Asia',
+    icon:
+     '//lh3.googleusercontent.com/y4j_HSoufi29iv8Bc8aLbgHd85aZn_p73XNY6WwuBdOPyJDEglNMiA-gx1U65UUzWbg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.myph',
+    appId: 'com.myph',
+    title: 'my pH Tracker',
+    summary:
+     'This app will help you record pH readings using Rehydrate Pro pH strips.',
+    developer: 'OSpeak Productions',
+    developerId: 'OSpeak+Productions',
+    icon:
+     '//lh3.googleusercontent.com/kkU5fu2YYHeq98lNuBtmef8sIoCfYlCr-xcfZBFhmUgR3MGtU4U6VOAQOyCvroeGqg4=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.picsart.studio',
+    appId: 'com.picsart.studio',
+    title: 'PicsArt Photo Studio: Collage Maker & Pic Editor',
+    summary:
+     'Remix free-to-edit pictures & stickers into awesome collages and memes',
+    developer: 'PicsArt',
+    developerId: '5408830062919995155',
+    icon:
+     '//lh3.googleusercontent.com/YkKlWr2lH8hLTQx2Pzz64bKtpnbxXlcEm4_bnAzCsHk04dnR7YfcrPTHyU-tq_DbYVI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.formsph191717',
+    appId: 'com.ionicframework.formsph191717',
+    title: 'Forms PH',
+    summary: 'A centralized repository for all government processes',
+    developer: 'Potatocodes Inc.',
+    developerId: 'Potatocodes+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/DKUH-6g7-6o17vilv0RvEZpvqJNrnbKzDJfP2THQNtoFJ6ae8lJquyMTEt_dpon7uQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ph.colony.superapp',
+    appId: 'ph.colony.superapp',
+    title: 'Colony.ph',
+    summary:
+     'Colony PH is a one-stop app that offers top notch convenience to all members.',
+    developer: 'HEX Dev Co',
+    developerId: '7065950259633032080',
+    icon:
+     '//lh3.googleusercontent.com/e7DVHOCh5JZeiZ5-8swEz8ODtG3OwrNVg1gUQ_z5NymQfLtnYE22AfFuuYDPgziFjw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.phwand',
+    appId: 'com.phwand',
+    title: 'pH Basic for Jenco Wand PH610B',
+    summary: 'Measure pH and temperature with Android,  Basic Edition',
+    developer: 'Jenco Instruments, Inc.',
+    developerId: 'Jenco+Instruments,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/HE-B9EclNNvIDEAHSIEgETHO4AVRZymoDMOkMsS-kAbFhWO4yPD9JI1_Zmf_YnE9nv4=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xpluscloud.court.release',
+    appId: 'com.xpluscloud.court.release',
+    title: 'Find Justice PH',
+    summary:
+     'Shows location & Info for trial courts & agencies offering free legal services.',
+    developer: 'Xplus Cloud Solutions',
+    developerId: 'Xplus+Cloud+Solutions',
+    icon:
+     '//lh3.googleusercontent.com/dC08-DFsn1EHSmXc7pVnZjOmmI5bkmnV-iWpeXkzDqLIdi4w6jo2IUR8lmMO6h4oxQ=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.somos3ways.pHChallenge',
+    appId: 'com.somos3ways.pHChallenge',
+    title: 'pH CHALLENGE',
+    summary:
+     'Dansac pH Challenge, interactive and learning experience for stoma care nurses',
+    developer: '3Ways',
+    developerId: '3Ways',
+    icon:
+     '//lh3.googleusercontent.com/M_OGCOT6yk5PIakceNtCRS2O8kIsEt8q6s5TmCxY4o6efHxDW7claZE-GF3-57doPMI=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.greatsealapps.phseniordisccalca',
+    appId: 'com.greatsealapps.phseniordisccalca',
+    title: 'My Bill PH',
+    summary:
+     'A Senior Discount Calculator to check for merchants discounting compliance.',
+    developer: 'Steven Go',
+    developerId: 'Steven+Go',
+    icon:
+     '//lh3.googleusercontent.com/ryLeRjmHBFyustblTw5w_EBuVfJajOR2OfDzTioFDYxclli6JrSgBcbSvyyUI5eMoLpY=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maxbeispiel.dggoe.peha',
+    appId: 'com.maxbeispiel.dggoe.peha',
+    title: 'pH acids bases',
+    summary:
+     'Strong and weak acids and bases are looked at; pH/pOH values are calculated.',
+    developer: 'D.Goetz',
+    developerId: 'D.Goetz',
+    icon:
+     '//lh3.googleusercontent.com/tr0rD-cZhKYtIRtZbvzz0mU77zCl80TAHFIaq1ZCrgEIlIAA_0PJ6tMswQM15ibCfj0=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true } ]

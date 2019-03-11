@@ -1,0 +1,275 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.freeirtv',
+    appId: 'com.freeirtv',
+    title: 'IR Universal TV Remote',
+    summary:
+     'Turn your phone into a remote! Please read the description. New and Improved!',
+    developer: 'WaveSpark',
+    developerId: '7933499191242873783',
+    icon:
+     '//lh3.googleusercontent.com/uqk5lvSugKCfB3jVUIptCpru8VeDCWhUKyFgnERucrYYfyXSoRTqRyzZUxOKYmQvOw=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.remotefairy',
+    appId: 'com.remotefairy',
+    title: 'Smart IR Remote - AnyMote',
+    summary:
+     'Remote Control for TVs and Home Electronics! #1 remote in 2013 to 2016!',
+    developer: 'Color Tiger',
+    developerId: '7723403455955044226',
+    icon:
+     '//lh3.googleusercontent.com/64lFP9fgp7JUH_3s8axYB5iz6v7OftqBhFsvcdqbpCF4MvJGQQRXDQn_8oWmakZp8A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$6.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wondertechstudio.hiddenircameradetector',
+    appId: 'com.wondertechstudio.hiddenircameradetector',
+    title: 'IR Hidden Camera Detector - Detect Infrared Camera',
+    summary:
+     'IR Hidden Cameras have the ability to see in night. Don\'t let them spy on you.',
+    developer: 'WonderTech Studio',
+    developerId: 'WonderTech+Studio',
+    icon:
+     '//lh3.googleusercontent.com/5WynhD9sdGiO3o7wTKN-gzeZmcBDsALfUVrXDYffACLrpZmxEH_rr79u-Mhjwm7ETmiE=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jw.ir.remote.control',
+    appId: 'jw.ir.remote.control',
+    title: 'IR Remote Control',
+    summary:
+     'IR Remote Control turns your phone into a universal remote control.',
+    developer: 'Johan Westling',
+    developerId: 'Johan+Westling',
+    icon:
+     '//lh5.ggpht.com/BNNdMzypBaZqgczAbaoJXdrNwTR4h69eogUEX3smVmZv4QbKOEx6VSwleAE-3gJ8rA=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raon.aremotefreegalaxy',
+    appId: 'com.raon.aremotefreegalaxy',
+    title: 'ASmart Remote IR',
+    summary:
+     'A Smart IR Universal Remote Control for android smartphone with IR',
+    developer: 'NXRsoft',
+    developerId: 'NXRsoft',
+    icon:
+     '//lh3.googleusercontent.com/c4ZVxAwrzSLOw9rutusvaL74A5YEcnp6AxcIgDsFW92AV4FRCOAPJWt73FPf5Sv7Igk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wondertechstudio.irremotetest',
+    appId: 'com.wondertechstudio.irremotetest',
+    title: 'IR Remote Tester - Check IR Remote Control',
+    summary:
+     'IR Remote Tester is a tool that can be used to check IR Remote or any IR Blaster',
+    developer: 'WonderTech Studio',
+    developerId: 'WonderTech+Studio',
+    icon:
+     '//lh3.googleusercontent.com/czh3cQMX62KhBzsIvKDUNrUWEO1hhWtDQsb3M4gkW4B7yrPTzfQPTNULcz8Ev0uFba08=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.harrygr.rcoid',
+    appId: 'de.harrygr.rcoid',
+    title: 'RCoid free - IR Remote Control',
+    summary:
+     'Fully customizable universal remote control for Infrared and Smart Home',
+    developer: 'Harry Grünewald',
+    developerId: 'Harry+Gr%C3%BCnewald',
+    icon:
+     '//lh5.ggpht.com/RKnu4Vr7cLM9ayrvYHPlGRbwLkxy5xXf7PT5IMr5ISxTesHLnFAyJB9TdUK7oq-e-F4=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.binarymode.android.irplus',
+    appId: 'net.binarymode.android.irplus',
+    title: 'irplus - Infrared Remote',
+    summary:
+     'App for organizing all your infrared remote controls on your mobile device!',
+    developer: 'binarymode',
+    developerId: 'binarymode',
+    icon:
+     '//lh3.ggpht.com/wB9DWYj4QetHUvMa6D-O6ulRONmKipGeA-NwrRIfUTb4-agy5ZgH-yCTXQK663F0vs8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.remotefairy4',
+    appId: 'com.remotefairy4',
+    title: 'AnyMote Universal Remote + WiFi Smart Home Control',
+    summary:
+     'TV Remote Control and Universal Remote number #1 in 2013, 2014 and 2015',
+    developer: 'Color Tiger',
+    developerId: '7723403455955044226',
+    icon:
+     '//lh4.ggpht.com/XMMsZoasR8mzNbA_abcAIxfqTUl3VXRMOBLc-xmNgJZ4UnlTGOEgA7STcSGGK3MbPsg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ee.rautsik.irremotecontrol',
+    appId: 'ee.rautsik.irremotecontrol',
+    title: 'IR Remote Control',
+    summary:
+     'Use your smartphone as TV, Projector, A/C, Radio etc universal remote control.',
+    developer: 'rautsik',
+    developerId: 'rautsik',
+    icon:
+     '//lh6.ggpht.com/VBTgHWW95OTrgM2BaoNiGDUCuLisglDJTFc1lOX5znrLZ0YZz9vXAwiEK7gquh75fdY=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.SmartRemote.ir',
+    appId: 'com.SmartRemote.ir',
+    title: 'Universal IR Remote Control for TV & AC',
+    summary: 'The Best Universal IR Remote Control for TV & AC ★',
+    developer: 'Botond Kopacz',
+    developerId: '4847287205870814203',
+    icon:
+     '//lh3.googleusercontent.com/bWyAPJvjcBwTJug6bCc-FzBjzDM2nV1UcEiEl9xCVC_0WrCXX6lMdtQ9VIfakoUOmkY=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.CarloGavazziSmart',
+    appId: 'com.CarloGavazziSmart',
+    title: 'IR BLASTER Gen2',
+    summary:
+     'Mobile Apps to control Carlo Gavazzi Smart Home and Building Controller.',
+    developer: 'Carlo Gavazzi',
+    developerId: 'Carlo+Gavazzi',
+    icon:
+     '//lh3.googleusercontent.com/FbR1YgfohuJqMK9cPSqm9zHjRZ32SnogfHI62Yg4s1ZahnaR9T9dztFDpRyht36WbS_h=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.redirectapps.tvkill',
+    appId: 'com.redirectapps.tvkill',
+    title: 'TV KILL - Universal IR Remote',
+    summary: 'Turn off any TV',
+    developer: 'RedirectApps',
+    developerId: 'RedirectApps',
+    icon:
+     '//lh3.googleusercontent.com/xxMSe-YZ3PkDPN0iAXa_imPPjOWVCuihFwHABzVkxRBRvGxL4-70l2qbDee4FD0eM0jX=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.dalitech',
+    appId: 'com.dalitech',
+    title: 'IR-TRACKER',
+    summary:
+     'IR-TRACKER  are  light telescope for outdoor exploration, search and rescue',
+    developer: 'mokaixing',
+    developerId: 'mokaixing',
+    icon:
+     '//lh3.googleusercontent.com/oGSxw81FVXpNqP0yMeaXdekzVOI14r4XyXaxKQ4jFIuoFKJ9rcgvkyF7A5WlifSrSPc=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ir_remoter',
+    appId: 'com.ir_remoter',
+    title: 'Audio IR',
+    summary: 'You can transmit IR signal by audio.',
+    developer: 'Folus Wen',
+    developerId: 'Folus+Wen',
+    icon:
+     '//lh3.googleusercontent.com/WVb0wodsg3YZ0etpj58vZC_dxFtbtE2Zq_ed8nOtYA7RX0VElfRpu0y_jU9PqVOCtQ=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wowwebdesign',
+    appId: 'com.wowwebdesign',
+    title: 'IR Tømmeplan',
+    summary:
+     'Waste collection plan for Innherred Renovasjon’s customers, IR-appen',
+    developer: 'Norconsult Informasjonssystemer AS',
+    developerId: 'Norconsult+Informasjonssystemer+AS',
+    icon:
+     '//lh6.ggpht.com/DyvMoPCUSOEqBBXuA_c_Eo-jVANLQMbdYbaaxIz7rfGkjuwwLYIP-WQAVS2PvJ1ZLMNn=w340',
+    score: 1.7,
+    scoreText: ' Rated 1.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.top.remote',
+    appId: 'com.top.remote',
+    title: 'Remote Control - IR',
+    summary:
+     'Universal Remote Control for TV , A/C , Cable box , Blu Ray , DVD , Audio - IR',
+    developer: 'Super IR',
+    developerId: 'Super+IR',
+    icon:
+     '//lh3.googleusercontent.com/RdXsGAIdg7xc5HDJXbvuizR2-ArWwN8nFBy08N51_yGUdRjLqXLZm7-YWhZJQBz7G0Wu=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amplez.rokuremote',
+    appId: 'com.amplez.rokuremote',
+    title: 'Remote For Roku IR and WiFi',
+    summary:
+     'FREE edition for a limited time works over WiFi and InfraRed',
+    developer: 'amplez',
+    developerId: '7258376585183782826',
+    icon:
+     '//lh3.googleusercontent.com/m42Oi2PtTApuoeFJCkL_pEZerf1hu-U03iDi1f6iTIRdscHJzC-y_rP4OqFGC5_74SY=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.indianrail.thinkapps.irctc',
+    appId: 'com.indianrail.thinkapps.irctc',
+    title: 'Indian Railway - IRCTC & PNR Status',
+    summary:
+     'Indian railway, IRCTC, live train running status, PNR status, NTES rail enquiry.',
+    developer: 'SmartApps India : Indian Railway & IRCTC Info app',
+    developerId: 'SmartApps+India+:+Indian+Railway+%26+IRCTC+Info+app',
+    icon:
+     '//lh3.googleusercontent.com/lcoUFJ3Wym1Uv4fMArrpMUC2s__xZIddRtBUsc2I1A02wEfqYyOSE4G2mAxQfm00ieou=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tekoia.sure.activities',
+    appId: 'com.tekoia.sure.activities',
+    title: 'SURE - Smart Home and TV Universal Remote',
+    summary:
+     'Remote Control for Home Entertainment, Smart Home, Smart TV, AC and much more',
+    developer: 'SURE Universal Ltd.',
+    developerId: '5734629456188755485',
+    icon:
+     '//lh3.googleusercontent.com/j727R0B7APcDJBdL4AHFidqvceiOxK5gYh3RucIxFAVkqrgwt3PKRGAbUdsP4Ft_KNI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

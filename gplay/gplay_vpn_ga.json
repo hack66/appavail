@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.cspMobile.DCSSMobileApp',
+    appId: 'com.cspMobile.DCSSMobileApp',
+    title: 'GA DCSS',
+    summary: 'Georgia Division of Child Support Services',
+    developer: 'Georgia Department of Human Services',
+    developerId: 'Georgia+Department+of+Human+Services',
+    icon:
+     '//lh3.googleusercontent.com/zh9bVgJVwtMh9r1oYUBbCFXStqAJKx9vhFMjTCFPHhbaw9GbUfF2mwAoz2raeDmdF3U=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.matcho0.galotto',
+    appId: 'com.matcho0.galotto',
+    title: 'GA Lottery Results',
+    summary:
+     'GA Lottery draw game results in a single, easy-to-read list. Quick Accurate Free',
+    developer: 'Matthew Saavedra',
+    developerId: 'Matthew+Saavedra',
+    icon:
+     '//lh3.googleusercontent.com/wWHNvwF-OOZeKrYIus6EXM1RvkoVL7rndSRW-Siwaoq0hXotZyv3GxsahN2Xhi6R9go=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mdi.galottery',
+    appId: 'com.mdi.galottery',
+    title: 'GA Lottery 25th Anniversary',
+    summary:
+     'The Georgia Lottery is celebrating 25 years by giving you more chances to win!',
+    developer: 'Scientific Games Corporation',
+    developerId: 'Scientific+Games+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/0JPwgmDl9nmdD2OwkP-3vX6V6JD6TJHGF582Ye_v2roEbfCda1hmyEYgOC3-axJ5FTrw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotterlook.driverstartga',
+    appId: 'com.spotterlook.driverstartga',
+    title: 'Permit Test Georgia GA DDS - Driver\'s License Test',
+    summary:
+     'Permit Test Prep Georgia DDS helps you to prepare for the DMV Knowledge Test GA',
+    developer: 'driver-start.com',
+    developerId: 'driver-start.com',
+    icon:
+     '//lh3.googleusercontent.com/6fHGlW4hCDTvX2eTdd2GyH9Nuv3Q1m8tqYhTFdPc60-ZYeWHDAy6JAQ2r8amavXDXgI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imptrax.georgiadmvdriverspermitpracticetestprep',
+    appId: 'com.imptrax.georgiadmvdriverspermitpracticetestprep',
+    title: 'Georgia DMV Permit Test - GA',
+    summary:
+     'Prepare for Georgia DMV Permit Test with this practice app & pass GA DMV Exam',
+    developer: 'ImpTrax Corporation',
+    developerId: '6463577576624575366',
+    icon:
+     '//lh3.googleusercontent.com/zorsiTGm3g4UHzZe6DAvlAvoXgs9RFwIBD7gwFE36nTBE2tgU7v21Ixm0dGTZWGBpEc=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pcctg.gaolvr',
+    appId: 'com.pcctg.gaolvr',
+    title: 'GA SOS',
+    summary: 'UI improvements',
+    developer: 'PCC Technology Group, LLC',
+    developerId: 'PCC+Technology+Group,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/JO-LH-9MPWDO0l-EpphpnMXbbFmp4gR4x1EgE1jO3qcDHuxWMcnABQ4FDt73AKQ1ZXA=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leisureapps.lottery.unitedstates.georgia',
+    appId: 'com.leisureapps.lottery.unitedstates.georgia',
+    title: 'GA Lottery Results',
+    summary: 'Winning number results for Georgia\'s Lottery (GA Lotto).',
+    developer: 'Leisure Apps LLC',
+    developerId: 'Leisure+Apps+LLC',
+    icon:
+     '//lh3.googleusercontent.com/5cmhxkPVnImifDG44-aAmL8SeZ6d7izOeCZSrYKoADDy8FV_oPCuIDHuj6UQIq0fQNo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tv.nexstar.id3570new',
+    appId: 'tv.nexstar.id3570new',
+    title: 'WSAV News - Savanah, GA',
+    summary:
+     'WSAV Mobile provides local news, weather, sports, and LIVE newscasts on-the-go.',
+    developer: 'Nexstar Broadcasting',
+    developerId: 'Nexstar+Broadcasting',
+    icon:
+     '//lh3.googleusercontent.com/tLqYxLzG9rSup0k85V_-yZjCWmFjFl25z3qLDmaaFnEMfyB7IdzDJC2jo3wQWFfcLrM=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appsrescue.georgia',
+    appId: 'com.appsrescue.georgia',
+    title: 'Lottery Results for GA',
+    summary:
+     'Lottery results for Georgia\'s Lottery (GA Lotto), all games are available!',
+    developer: 'AppsRescue',
+    developerId: 'AppsRescue',
+    icon:
+     '//lh3.googleusercontent.com/h04SREdQ9yK1D58qx4JwrT0R_kYl06bJ0FTi2hEtxCzFtnltZHfeNVIEbMVYniWvYQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lotto.galotteryresults',
+    appId: 'com.lotto.galotteryresults',
+    title: 'GA Lottery Results',
+    summary:
+     'The results of the georgia Mega Millions, Powerball and other games.',
+    developer: 'Mobility Dev Apps',
+    developerId: 'Mobility+Dev+Apps',
+    icon:
+     '//lh3.googleusercontent.com/jZ7ITa3bEMl9GUPsDpLEIwTMrNxSZ7saWawCa6VtkMbS388mK1RQUzcBEN2fkJ6ZmpU=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjamultimedia.scoreATL',
+    appId: 'com.ninjamultimedia.scoreATL',
+    title: 'GA HS Scores',
+    summary:
+     'Follow your favorite high school teams in Georgia on Score Atlanta\'s app.',
+    developer: 'Ninja Multimedia',
+    developerId: 'Ninja+Multimedia',
+    icon:
+     '//lh4.ggpht.com/jmLU-RPoBbzppAAj7uqfkhWWWjUToecjcW8O_B9YmMWz4oQcvEZTdcgINuf8sjM-YcY=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_6RG7NW',
+    appId: 'com.subsplashconsulting.s_6RG7NW',
+    title: 'NorthStar Church - GA',
+    summary: 'NorthStar Church in your pocket',
+    developer: 'Subsplash Inc',
+    developerId: 'Subsplash+Inc',
+    icon:
+     '//lh3.googleusercontent.com/bNqmcGZRKj-icsb5hpJZPJ8oeXD1KuLfBAaeyLk0goYNpjvaFWSuLw7Ik4TTbC_CeAM=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vet2pet.affordablevetservices100167507',
+    appId: 'com.vet2pet.affordablevetservices100167507',
+    title: 'Affordable Vet Services GA',
+    summary: 'Affordable Veterinary Services',
+    developer: 'Vet2Pet',
+    developerId: 'Vet2Pet',
+    icon:
+     '//lh3.googleusercontent.com/VyjTATirsDq0DySNetVqmaopRp46X3QRL5-h3R0f9JqTE0vCKT9Wr0QowU4pafHEwLA=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.macon.telegraph',
+    appId: 'com.macon.telegraph',
+    title: 'The Telegraph - Macon, GA news',
+    summary:
+     'Get the latest Macon and Warner Robins area news from The Telegraph.',
+    developer: 'McClatchy',
+    developerId: 'McClatchy',
+    icon:
+     '//lh3.googleusercontent.com/KQ17ocvTMXZNCauqRzNuSkpPqEj33vED8eQ6gDdrIgmmvTXUmvP-VA4ugcWkFi_Z2vR5=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.citybeetles.newscolumbusge',
+    appId: 'com.citybeetles.newscolumbusge',
+    title: 'Columbus GA Local News',
+    summary: 'Read the latest news from Columbus, Georgia.',
+    developer: 'City Beetles',
+    developerId: '8839284966727436351',
+    icon:
+     '//lh3.googleusercontent.com/ZhIc1qcIa51fhx3wJIQ9_gbW3SdXHWS_TrsnGVDcFDBgw2ljVYzMTVGbckkmQ045HMj7=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.trick3d.gaExp',
+    appId: 'com.trick3d.gaExp',
+    title: 'GA Experience by Georgia Power',
+    summary:
+     'An​ ​immersive​ ​VR​ ​experience​ ​that​ ​showcases​ ​the​ ​best​ ​in​ ​Georgia.',
+    developer: 'Georgia Power Company',
+    developerId: 'Georgia+Power+Company',
+    icon:
+     '//lh3.googleusercontent.com/C_sh0eHHqa2WWRw7bHi6NlbIrvrLArxbJy9VogMIeBaZH6xAHHclIbOCtCu0khhWTdai=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ledgerenquirer.android',
+    appId: 'com.ledgerenquirer.android',
+    title: 'Ledger-Enquirer - Columbus GA',
+    summary: 'Get the latest local news from the Ledger-Enquirer.',
+    developer: 'McClatchy',
+    developerId: 'McClatchy',
+    icon:
+     '//lh3.googleusercontent.com/apkpzI8MDmIidR26jldMk-N10oPqe4uGhvG_3FCS2-yMW6vGP1ok81WbmyNrkp7LYqE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=photography.blackgallery.android',
+    appId: 'photography.blackgallery.android',
+    title: 'Gallery',
+    summary:
+     'Gallery, Photos, My pics, 畫廊, Albums,  photo backup app, photo.s, foto',
+    developer: 'gallery',
+    developerId: 'gallery',
+    icon:
+     '//lh3.googleusercontent.com/WFEZf62p4j4-PqiP4gEIy13fFN7SDc7PTd_fwvw0Ma9wBTtwsfppu19fA27TJrD_YlMI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dts.freefireth',
+    appId: 'com.dts.freefireth',
+    title: 'Garena Free Fire',
+    summary: 'Free Fire is the ultimate survival shooter game on mobile.',
+    developer: 'GARENA INTERNATIONAL I PRIVATE LIMITED',
+    developerId: 'GARENA+INTERNATIONAL+I+PRIVATE+LIMITED',
+    icon:
+     '//lh3.googleusercontent.com/ktIodzy9BzSrhezO_Y8skueYzI8wH3jUF_0gxqYGrma4OzhBT7yL9AtXJUpsnUtEGlY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peixsoft.gapanel',
+    appId: 'com.peixsoft.gapanel',
+    title: 'GA Panel',
+    summary:
+     'Interactive Aircraft and Helicopter Cockpits to connect with FSX, P3D, X-Plane',
+    developer: 'Peix Software',
+    developerId: '5438254612453204461',
+    icon:
+     '//lh3.googleusercontent.com/IQ_OgXFyry_KrF7t0X9SJ2SZhAoMDTAGu1x-ZnuELM6Ckt5Lr0tUS1kOC_RrpMzKXA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

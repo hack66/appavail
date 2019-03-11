@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.tmgp.cfmnac',
+    appId: 'com.tencent.tmgp.cfmnac',
+    title: 'CrossFire: Legends',
+    summary:
+     'Crossfire: Legends, the best FPS mobile game ever! Come and join the gunfight!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/yqjPzwoTBKharqI9qex4jfHDVy3eB07UkYCDCK27CFpFpEQHWFOUQ5PdrjuJyobllvtR=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.lumen',
+    appId: 'eu.chainfire.lumen',
+    title: 'CF.lumen',
+    summary:
+     'Adapts your screen\'s colors based on sun\'s position, sleep pattern, and sensors',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     '//lh5.ggpht.com/eRFbQdBIdXXbOINHHWZgSOYGnLLjTe432WuEWt1UdLBmEZNJ2cWpuoqNm8nMAKx7yR7n=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_8948SM',
+    appId: 'com.subsplashconsulting.s_8948SM',
+    title: 'CF Life',
+    summary:
+     'Powerful content and resources to help you grow and stay connected.',
+    developer: 'Subsplash Inc',
+    developerId: 'Subsplash+Inc',
+    icon:
+     '//lh3.googleusercontent.com/qSdOu7v0okaCMHz3RK1iqJWMtkz-UJULBaVkyDDgA3_6bVfhPlAvR98Ll3aC6B7tMA=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.cfbench',
+    appId: 'eu.chainfire.cfbench',
+    title: 'CF-Bench',
+    summary: 'CF-Bench, the premiere multi-core-capable CPU benchmark!',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     'https://lh5.ggpht.com/3OwOMJdSNrF_Ur4GQG1pPgRsaiouuVzE6AhAzcNZDS71XkvFGKGCNWriRUFefCVdy90=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.cfbench.pro',
+    appId: 'eu.chainfire.cfbench.pro',
+    title: 'CF-Bench Pro',
+    summary: 'CF-Bench, the premiere multi-core-capable CPU benchmark!',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     'https://lh5.ggpht.com/s6BFcNKPhDbZalmxvHAtjkVnNqoQWUQLCmxkMJyozTtclgqUdxfoVGgqcqwhLy36pQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$1.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.propagator.squeezycf',
+    appId: 'com.propagator.squeezycf',
+    title: 'Squeezy CF',
+    summary:
+     'Squeezy CF - the Cystic Fibrosis Trust App for Pelvic Floor Muscle Exercises',
+    developer: 'Living With Ltd',
+    developerId: 'Living+With+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/Z5mM1eJJyiKEGlcLAw6gw3Vhbxg4VGX2fjvJG8I6fsh9l45VfUwpuNcZia5ZYKBe_AQ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mutiversegamesinc.cfdownhill',
+    appId: 'com.mutiversegamesinc.cfdownhill',
+    title: 'Cystic Fibrosis Downhill',
+    summary:
+     'Try to get down the mountain safely while answering trivia about Cystic Fibrosis',
+    developer: 'MultiverseGames',
+    developerId: 'MultiverseGames',
+    icon:
+     '//lh3.googleusercontent.com/5nmn8esrLRnrbDUV9RIHGWmHsXQ9xKH8t7YBBOgcdNU9zb9lCHZsZQoDD9W_nVA2Bw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vrtx.cfgene.android',
+    appId: 'com.vrtx.cfgene.android',
+    title: 'CF GeneE',
+    summary:
+     'CF GeneE is an educational app for healthcare professionals.',
+    developer: 'Vertex Pharmaceuticals Inc',
+    developerId: 'Vertex+Pharmaceuticals+Inc',
+    icon:
+     '//lh3.googleusercontent.com/B1RbC1vX1xTf3nvc7TuXXPagfpD4PzmPz78yGm1G2n5Z96LMjPYvxBLiQ4T-3G1nog=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=es.valenciacf.android.app',
+    appId: 'es.valenciacf.android.app',
+    title: 'Valencia CF - Official App',
+    summary: 'Try the new official Valencia CF application.',
+    developer: 'Valencia C.F. Producto Oficial',
+    developerId: '9067122726206382645',
+    icon:
+     '//lh3.googleusercontent.com/tNP-4YSHnyOGNC-HisD4ITEgHOTIBtymduky7-2_GIYh-PsmpfBg1_RsjE1-cbN6INHp=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.setgame.setmania',
+    appId: 'com.setgame.setmania',
+    title: 'SET Mania',
+    summary:
+     'Triple Matching Mania® that anyone can play and nobody can stop!',
+    developer: 'CF Digital',
+    developerId: 'CF+Digital',
+    icon:
+     '//lh3.googleusercontent.com/9mlzTLZY0exlsTlq2no3z0FfRUqXFFhuX09T2XhCuakJfQq3QZZg-gYBovh_uafLY65W=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '$1.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cf.flightsearch',
+    appId: 'com.cf.flightsearch',
+    title: 'Cheapflights – Flight Search',
+    summary: 'Save money, save time with Cheapflights.',
+    developer: 'Cheapflights',
+    developerId: 'Cheapflights',
+    icon:
+     '//lh3.googleusercontent.com/ip7J8UgTVMFf9htdOi8CjgVzrLJvyvnPNgJN528Yf4FCQaopeq6BkWqaTlkK6yg1eg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cff.android.communicator',
+    appId: 'com.cff.android.communicator',
+    title: 'Great Strides',
+    summary: 'Walk today, add tomorrows!',
+    developer: 'Rallybound',
+    developerId: 'Rallybound',
+    icon:
+     '//lh4.ggpht.com/mwMXC-H3V9wd2vfATPPLvIR89_uo-DMeNPhW4Yf3w7rbvNwTce7DYAVxvSZywE-ZmQRA=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cff_climb.android.communicator',
+    appId: 'com.cff_climb.android.communicator',
+    title: 'CF Climb',
+    summary: 'Climb today, add tomorrows!',
+    developer: 'Rallybound',
+    developerId: 'Rallybound',
+    icon:
+     '//lh3.ggpht.com/HQJ3I6R0888-0s3B49MTwoQ2EZryVH9WebDXFwSSzZX7Y3RaGkkxz_bxrmMtPgJa3A=w340',
+    score: 1.5,
+    scoreText: ' Rated 1.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atomidata.cfbookreader',
+    appId: 'com.atomidata.cfbookreader',
+    title: 'RBH Paediatric CF Guide',
+    summary:
+     'Clinical guidelines on care of children with CF, from the Paediatric CFU at RBH',
+    developer: 'Royal Brompton & Harefield NHS Foundation Trust',
+    developerId: 'Royal+Brompton+%26+Harefield+NHS+Foundation+Trust',
+    icon:
+     '//lh3.googleusercontent.com/a8MUwKVodDylhFCu0B7VQKJIjl_VyunnsZBhyNOh_icmcKteN3vTOcL2866GlKfPG5o=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.azureedge.cfappreciation',
+    appId: 'net.azureedge.cfappreciation',
+    title: 'CF Appreciation',
+    summary:
+     'The official discount program for the Canadian Forces (CF) Community.',
+    developer: 'CFMWS',
+    developerId: 'CFMWS',
+    icon:
+     '//lh3.googleusercontent.com/-v4epBMFwhhZcj2uolqjTOdC-huq1D17L3UCULUe2BRd1b-3ONS0gkiWXWSU_dcbZk4=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.blueband.cfsidekick',
+    appId: 'air.com.blueband.cfsidekick',
+    title: 'CF SHOP!',
+    summary: 'Your Stores. Your Way. CF SHOP! Your personal mall guide.',
+    developer: 'The Cadillac Fairview Corporation Limited',
+    developerId: 'The+Cadillac+Fairview+Corporation+Limited',
+    icon:
+     '//lh3.googleusercontent.com/pMS43oW-tivPiHfJSiVsAifK3wWdGs-wD17FAY5ljyRv0i6hSenlxwAGaed6H2LAfHQ=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=arkulpa.at.laendlecf',
+    appId: 'arkulpa.at.laendlecf',
+    title: 'Ländle CF',
+    summary: 'only for members of Ländle CF',
+    developer: 'arkulpa GmbH',
+    developerId: 'arkulpa+GmbH',
+    icon:
+     '//lh3.ggpht.com/TI_F78OlFUPKm6jIU5ipiTrUDeGZuuG79Q1-gkspXkq7ShsUr-3-C1VfqhrTFbsFMw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.cadilacfairview',
+    appId: 'com.mobile.cadilacfairview',
+    title: 'CF NOW',
+    summary:
+     'Unlock exclusive offers and benefits while shopping at CF Sherway Gardens.',
+    developer: 'The Cadillac Fairview Corporation Limited',
+    developerId: 'The+Cadillac+Fairview+Corporation+Limited',
+    icon:
+     '//lh3.googleusercontent.com/04I9XPqVwJKxV-YNejulv90dk6o6luLT66RAkWw9nBir8jZrUKZGYK-O76FhkvOU37M=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fitmetrix.thrivecommunityfit',
+    appId: 'com.fitmetrix.thrivecommunityfit',
+    title: 'Thrive CF',
+    summary:
+     'Track workouts in the gym with the Thrive Community Fitness app.',
+    developer: 'FitMetrix by MINDBODY',
+    developerId: 'FitMetrix+by+MINDBODY',
+    icon:
+     '//lh3.googleusercontent.com/Pq3hepr3Cv88S6ahKPR2dikiTwBpNjlq4NqLq7b8tfH80HsST0jpAGr-boZkTvAlmA=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.echurchapps.overcomerscf',
+    appId: 'com.echurchapps.overcomerscf',
+    title: 'Overcomers CF - GA',
+    summary:
+     'Connect and engage with our community through the Overcomers CF - GA app!',
+    developer: 'echurch',
+    developerId: 'echurch',
+    icon:
+     '//lh3.googleusercontent.com/KOsRo6HHROFj_UpHduBekCyAgFlGmgwiMpyp1gw5WK7SFje_KdCR0qNTV2Ef3ewKe9Ne=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

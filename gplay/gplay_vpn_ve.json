@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.venmo',
+    appId: 'com.venmo',
+    title: 'Venmo Mobile Wallet: Send & Receive Money',
+    summary:
+     'Venmo is the fast, fun mobile wallet for sending and receiving money.',
+    developer: 'PayPal, Inc.',
+    developerId: 'PayPal,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/UvEwv56zTj13dO1qr4fj4wDDc5Fwzc6O1ke4DnBSKN1Wa42zBDzGREwVLD9HqEAoIzs=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.uc.vmate',
+    appId: 'com.uc.vmate',
+    title: 'VMate 2019- Best Video Tube Mate& Video Downloader',
+    summary:
+     'Record the world and download videos from best video tube mate &Video Downloader',
+    developer: 'VMate App Team',
+    developerId: 'VMate+App+Team',
+    icon:
+     '//lh3.googleusercontent.com/7Bq3CwFEz7XsywKgtvdEHlkvMu6y49WAjXFaPNfjmP3oVDAAuc9MM5Dwp5WxEGXHGEpG=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app',
+    appId: 'jp.ne.ibis.ibispaintx.app',
+    title: 'ibis Paint X',
+    summary:
+     'Share the joy of painting with ibis Paint X!Drawing anime and manga art.',
+    developer: 'ibis mobile inc.',
+    developerId: 'ibis+mobile+inc.',
+    icon:
+     '//lh3.googleusercontent.com/EWyXSIExk317d5TxiWgA8A3mVRBiEdIpX0E7Yu3ghBOZDhlar34ewJdeVuiD40s1uok=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=younow.live',
+    appId: 'younow.live',
+    title: 'YouNow: Live Stream Video Chat',
+    summary:
+     'Watch & create interactive live stream videos and chat with broadcasters & fans!',
+    developer: 'YouNow Inc.',
+    developerId: 'YouNow+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0vJ5OyKUuUppoDiQtj7ayzTaVeHWbdsUSAKL3IBa7GGO065F3prW8spvKObPCpcYvg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.badoo.mobile',
+    appId: 'com.badoo.mobile',
+    title: 'Badoo - Free Chat & Dating App',
+    summary:
+     'More than 400 million people are already on Badoo, and it’s completely free!',
+    developer: 'Badoo',
+    developerId: '5884062829898474398',
+    icon:
+     '//lh3.googleusercontent.com/MYaOJ0i-BoHzmTqtF4qx6paYJy-9f--fzFzTVQp57UNOYaDHRwE_UFFhB_xZMm0EB_4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sonymobile.sketch',
+    appId: 'com.sonymobile.sketch',
+    title: 'Sketch - Draw & Paint',
+    summary:
+     'Draw, paint, edit photos and have fun with stickers in our creative app.',
+    developer: 'Sony Mobile Communications',
+    developerId: '4851747018805076305',
+    icon:
+     '//lh3.googleusercontent.com/sFUmSLtyuwKYT2-XVhzs9C4deTpLI0nee1us6x3s0vsZ0EKwxM8Tsclc4vOEWUjFM5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.quvideo.xiaoying',
+    appId: 'com.quvideo.xiaoying',
+    title: 'VivaVideo - Video Editor & Photo Movie',
+    summary: 'Awesome free video editor & video creator',
+    developer: 'QuVideo Inc. Best Video Editor & Video Maker App',
+    developerId: '8999952960853938956',
+    icon:
+     '//lh3.googleusercontent.com/G4Hs5ZSBLu_xOIXmOPXCgF2L3CbV7x3ufCEZ2a_r_W6lYGAdZJgxH1qvEWTeP7H8oic=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.supertapx.lovedots',
+    appId: 'com.supertapx.lovedots',
+    title: 'Love Balls',
+    summary: 'Draw the lines and bump the balls!',
+    developer: 'Lion Studios',
+    developerId: '6990178528646658622',
+    icon:
+     '//lh3.googleusercontent.com/dTDNdR5PCZn0wBkl1xCS73pQErLQf6BbNMsuqJkp_cImcTTEZ3l0q3jDEpSqUG8fZ-8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.picsart.studio',
+    appId: 'com.picsart.studio',
+    title: 'PicsArt Photo Studio: Collage Maker & Pic Editor',
+    summary:
+     'Remix free-to-edit pictures & stickers into awesome collages and memes',
+    developer: 'PicsArt',
+    developerId: '5408830062919995155',
+    icon:
+     '//lh3.googleusercontent.com/YkKlWr2lH8hLTQx2Pzz64bKtpnbxXlcEm4_bnAzCsHk04dnR7YfcrPTHyU-tq_DbYVI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.db.dinibilgiler',
+    appId: 'com.db.dinibilgiler',
+    title: 'Namaz Hocası ve Dini Bilgiler',
+    summary:
+     'Through prayer practice our religion teacher always carry with basic information',
+    developer: 'Yergok Apps',
+    developerId: '8089362230455791244',
+    icon:
+     '//lh5.ggpht.com/bbXYrHHxK0DWxefUTA1b2TvJnpCtHm3VbXVK941PPB7EYjbbKK3RZcdjUjEPQbRrIz4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitcents.drawastickmanepic2free',
+    appId: 'com.hitcents.drawastickmanepic2free',
+    title: 'Draw a Stickman: EPIC 2 Free',
+    summary:
+     'Get ready for the most creative DRAW A STICKMAN adventure yet!',
+    developer: 'Hitcents',
+    developerId: '6563849290382059195',
+    icon:
+     '//lh3.googleusercontent.com/g9Afe_4UIWecTqD4o18rLfiGn3C_9lsydLxLH6duQloMYxoWPbF69dskaoWC78y2iQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/P9wqjbP_5CIfg6o4_K-MhRUAKP46TQ05O1q9tF9QxcJ9kPSfv3VIL2eozTncCGLtZ9kR=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appblockgames.freecraftexploration',
+    appId: 'com.appblockgames.freecraftexploration',
+    title: 'MOD-MASTER for Minecraft PE (Pocket Edition) Free',
+    summary:
+     'MCPE Master Game Minecraft Free: Mods, Maps, Servers, Skins, Addons, Textures.',
+    developer: 'Multi Craft Studio',
+    developerId: '5713672414955811747',
+    icon:
+     '//lh3.googleusercontent.com/yQmhlfqYCNwpocSCGV622RYvPvPtTS6I28um-tJVkxIE8OAgrhR4I4lONI8_vOg2lwY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nokta.sinemalar',
+    appId: 'com.nokta.sinemalar',
+    title: 'Sinemalar.com Vizyondaki Filmler ve Film Seansları',
+    summary:
+     'En güncel film fragmanları, haberleri ve size en yakın sinema salonları',
+    developer: 'Noktacom Medya AS',
+    developerId: 'Noktacom+Medya+AS',
+    icon:
+     '//lh3.googleusercontent.com/ErD3iYIamYP0IseUUuDNS3QAX9oR6hFEiSPsgiepqFvJ6uaDefm-KSIqBP7-5vsuFSk=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.noxgroup.app.cleaner',
+    appId: 'com.noxgroup.app.cleaner',
+    title: 'Nox Cleaner - Phone Cleaner, Booster, Optimizer',
+    summary:
+     'Phone cleaner, master, booster, free up storage & speed up android with one-tap',
+    developer: 'Nox Ltd.',
+    developerId: '8155932531518409266',
+    icon:
+     '//lh3.googleusercontent.com/AYuuHVykrP9uzajaLnllb9LCyTy5ZUKIdJvGrrrM0gCLxS-PtoTZf89imr9q6trUOMQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.positivise.moyra',
+    appId: 'com.positivise.moyra',
+    title: 'Moyra: Astroloji ve Burçlar',
+    summary:
+     'Find your love life and your future with astrology respond to relevant questions. Moyra knows!',
+    developer: 'Moyra Bilişim Hizmetleri ve Pazarlama A.Ş.',
+    developerId: 'Moyra+Bili%C5%9Fim+Hizmetleri+ve+Pazarlama+A.%C5%9E.',
+    icon:
+     '//lh3.googleusercontent.com/3k0vn-rbBqTz8tI0FogXrcmIMr-KY_0vfW_HAXMOrbHrTNW6KZ_nfidIl8U1xRIejQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter',
+    appId: 'pedometer.steptracker.calorieburner.stepcounter',
+    title: 'Step Counter - Pedometer Free & Calorie Counter',
+    summary:
+     'Daily step counter, Free Pedometer & Easy 🔥Calorie Counter help Lose Weight',
+    developer: 'Leap Fitness Group',
+    developerId: 'Leap+Fitness+Group',
+    icon:
+     '//lh3.googleusercontent.com/e9wuQJ6lGLJsutj4hNnvhzLSJiRHLNjvFV0OjhSbqUrQQPRVwA5HhMj8IOYbcxznFnc=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.mguard',
+    appId: 'com.cleanmaster.mguard',
+    title: 'Clean Master - Antivirus, Applock & Cleaner',
+    summary:
+     '💯Get Antivirus+Junk Cleaner+Speed Booster+Game Master+Wi-Fi Protector here!',
+    developer: 'Cheetah Mobile',
+    developerId: '7480941732172192727',
+    icon:
+     '//lh3.googleusercontent.com/aVB9ALYrWpngHRCJTBKNZQXIQtKjnwu7OM0UYcT2OJ2B11-9lHo5X5QbzK_Ph_axpwI1=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.naver.line.android',
+    appId: 'jp.naver.line.android',
+    title: 'LINE: Free Calls & Messages',
+    summary: 'Stay in touch with your friends and family using LINE!',
+    developer: 'LINE Corporation',
+    developerId: '4919265583026901892',
+    icon:
+     '//lh3.googleusercontent.com/l-ZZOFGyeKYz3stUbxTECHYnXcRD66C9g0tjiWA_okVIxZyb0E7_esU8LRpq_0LFCu8Y=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.oneapp.max.cleaner.booster',
+    appId: 'com.oneapp.max.cleaner.booster',
+    title: 'MAX Cleaner - Antivirus, Booster, Phone Cleaner',
+    summary:
+     'Get MAX Cleaner with Antivirus, memory cleaner, virus cleaner, space booster NOW',
+    developer: 'ONE App Ltd.',
+    developerId: '5903900490511815440',
+    icon:
+     '//lh3.googleusercontent.com/oCHdi7CDFiH_tSsc_iF4fWCweWhI__oPdT1l9U1CLXhosTlEWNKXLgdLVfNWQ3ZT0A=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

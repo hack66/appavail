@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=net.zedge.android',
+    appId: 'net.zedge.android',
+    title: 'ZEDGE™ Ringtones & Wallpapers',
+    summary:
+     'Free Ringtones, Wallpapers & Notification Sounds enjoyed by millions.',
+    developer: 'Zedge',
+    developerId: 'Zedge',
+    icon:
+     '//lh3.googleusercontent.com/4nHL8rRI4HTdy17Nt6NlEdnHX-6M6xCX-5yA4TvHYxcd4lvFT4zIrfIqMy0Qd7qm9Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.teqnidev.dzjournaux',
+    appId: 'com.teqnidev.dzjournaux',
+    title: 'DZ Journaux Algerie press',
+    summary: 'DZ newspapers you can consult news of the Algerian press',
+    developer: 'TEQNIDEV',
+    developerId: '8221134432718135933',
+    icon:
+     '//lh3.googleusercontent.com/CmvK19XG0LZQ0u_zDWfFV9YXR7s_2EElSa5MXFpE_NYkSK6nMkcGMW3X4PZUw6yUBw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=news.dz',
+    appId: 'news.dz',
+    title: 'dz NEWS Algerie',
+    summary: 'The essential news of Algeria, practical and easy',
+    developer: 'tekNmob',
+    developerId: 'tekNmob',
+    icon:
+     '//lh4.ggpht.com/N4JR6ON4DIjQ9YKpwXR5BtRE4R94ixSywfU2DD-TWZ9SPaGp6-aybbBivIUNVAMFdA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.safary.dz',
+    appId: 'com.safary.dz',
+    title: 'Safary DZ',
+    summary:
+     'SafaryDZ allows you to travel, book and search for a trip.24 / 24.7 / 7.',
+    developer: 'Safary DZ',
+    developerId: 'Safary+DZ',
+    icon:
+     '//lh3.googleusercontent.com/fMzxvarG4HexaDyrFIRdZ-ffx49uc3_oY_QF1yO4MHzk5M8jMasVy-l94R-hsmWvsw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.waldev.phonesnumbers',
+    appId: 'com.waldev.phonesnumbers',
+    title: 'DZ Urgences',
+    summary:
+     'DZ Emergencies: Emergency numbers in Algeria: Police, Police, Fire ....',
+    developer: 'Waldev',
+    developerId: 'Waldev',
+    icon:
+     '//lh3.googleusercontent.com/5vN-yYmfmdf9z2OvUj5o8pzrWSZNqVcM0byX2-c90kwCb-U56jNDFlWd0kmCYPWbcL2U=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alodz.app',
+    appId: 'com.alodz.app',
+    title: 'Allotech-dz : Algérie',
+    summary:
+     'Allotech-dz is the portal for news and new high tech in Algeria',
+    developer: 'Allotech-dz',
+    developerId: 'Allotech-dz',
+    icon:
+     '//lh3.googleusercontent.com/RpmW8HTICAhtXbvgAEuzPoAgYLXfGRcJFYLYHa0tuAEggIa81zxYvNW6d2fN19yOUmpd=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tecknmob.DZBlague',
+    appId: 'tecknmob.DZBlague',
+    title: 'DZ Blagues',
+    summary: '',
+    developer: 'tekNmob',
+    developerId: 'tekNmob',
+    icon:
+     '//lh3.ggpht.com/FMndK_H8x3wLbCmqm6ZTK7PXzHHu9DDLFb3rjSaDLoyMDYyyJkA0iGUFLoe4gmbkJQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fethica.journali',
+    appId: 'com.fethica.journali',
+    title: 'JNews DZ - Algerian Newspapers',
+    summary:
+     '"JNews DZ" An easy access to Algerian newspapers, optimized for mobile devices.',
+    developer: 'Fethi El Hassasna',
+    developerId: 'Fethi+El+Hassasna',
+    icon:
+     '//lh3.googleusercontent.com/L1iDJ1vBhENUFWSAQghMZM5pfOI6T9a9sBKbu_ND4-77r733HHwHbRHxP9BqKJyhZg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tim.siyahadz',
+    appId: 'com.tim.siyahadz',
+    title: 'Siyaha Dz',
+    summary:
+     'Siyaha Dz puts the travel world in the palm of the hands of travelers.',
+    developer: 'Touch In Motion',
+    developerId: 'Touch+In+Motion',
+    icon:
+     '//lh3.googleusercontent.com/Rx0tGMKCJpYtOi6vb9nj1FPvanOXw8gHNUyX6EF6nRZkVjeBGKa1lEk8KWdOgcgUHKk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DzRadio.home.radio',
+    appId: 'com.DzRadio.home.radio',
+    title: 'Radio DZ Algerie',
+    summary:
+     'Radios DZ algerie is the radio that everyone expects, Clean, light and fast.',
+    developer: 'F.Achraf',
+    developerId: 'F.Achraf',
+    icon:
+     '//lh3.googleusercontent.com/CSY6dNjuh224ebpFvUxeT2Rd_rrTLG7a6NAHjmixiQ3Q5dHg_kEiXdUsSS8al5KdOA8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.teqnidev.dzradio',
+    appId: 'com.teqnidev.dzradio',
+    title: 'DZ Radio',
+    summary:
+     'DZ Radio lets you listen to the best radio stations in Algeria',
+    developer: 'TEQNIDEV',
+    developerId: '8221134432718135933',
+    icon:
+     '//lh3.googleusercontent.com/x-kl0R-UAmGZKd0I33skONpASkAWbqvl0E6sJ5sHesJFmZS5OMYGeBYrGQjO8klVGRA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sante.gov.dz',
+    appId: 'com.sante.gov.dz',
+    title: 'SIHA-DZ',
+    summary: 'Geolocation of public and private health structures',
+    developer: 'Msprh',
+    developerId: 'Msprh',
+    icon:
+     '//lh3.googleusercontent.com/1EpxR1NluA9q5ZkvxR8kPhfopd1CaWEMVkT_lr3pNlWMYjrAoiQ6Ri4UsV4maBpW6q-b=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.RoyceHTM.LudoS',
+    appId: 'com.RoyceHTM.LudoS',
+    title: 'Ludo Dz',
+    summary: 'Ludo Dz Is A Popular Game Create For Some Algerians.',
+    developer: 'Tbros Tech',
+    developerId: '9023298587621708152',
+    icon:
+     '//lh3.googleusercontent.com/oI_sthashkC85SK3Cu4h-yIK8FzkMvYh75mvTFpmW4A4NnM3_0SDQEkvwHNzJarKSZk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fikra_plusplus.com.dz_depannage',
+    appId: 'fikra_plusplus.com.dz_depannage',
+    title: 'Dz Dépannage Algérie',
+    summary:
+     'Take your precautions and keep the contacts of pocket Algerians stores',
+    developer: 'Fikra Plus+',
+    developerId: '5668415209289597852',
+    icon:
+     '//lh3.googleusercontent.com/Fo3tW1KmDi_9TFMjwwWx5cOiiX0eK0_pOuLDLT8uKsX6f1hXSbQ1F5vg3_7T-F8WZqA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mndev.com.marketplace.DzMobile',
+    appId: 'mndev.com.marketplace.DzMobile',
+    title: 'DZ Phone Market, annonce de smartphone et tablette',
+    summary:
+     'App specialized for ads on smartphones, tablets and accessories',
+    developer: 'DealMobile.com',
+    developerId: 'DealMobile.com',
+    icon:
+     '//lh3.googleusercontent.com/FDIrv5MqtsTiwyhAkBVoBm--NQXlCIJbE40WI_5_UEaphXsdwp1M5UxFLlDKyz9bICB5=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fikra_plusplus.dinars',
+    appId: 'com.fikra_plusplus.dinars',
+    title: 'Dz Dinars  Numbers to letters',
+    summary:
+     'Application offers an English translation , French and Arabic .',
+    developer: 'Fikra Plus+',
+    developerId: '5668415209289597852',
+    icon:
+     '//lh3.googleusercontent.com/M67FDAFB3Ab7UfT_8vVKpV4srOr5hBqzZYJtXD9D0Deo7UkOzn3wzmXQg1tzsyMLvdM=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.msprh.dem',
+    appId: 'com.msprh.dem',
+    title: 'DEM dz',
+    summary: 'Medical Electronic File',
+    developer: 'Chenouf Younes',
+    developerId: 'Chenouf+Younes',
+    icon:
+     '//lh3.googleusercontent.com/f35wsvkmz16-p6OM0tVgW1JWuCt9OFNIg7A89jHoPdC8dluERpQHVOwEOzzhvjeJJt4=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nessdz.android.news',
+    appId: 'com.nessdz.android.news',
+    title: 'Ness Dz',
+    summary:
+     'Algeria Be informed about local news and international moment by moment!',
+    developer: 'Ness Dz',
+    developerId: 'Ness+Dz',
+    icon:
+     '//lh3.googleusercontent.com/C_r5noSVKlESs9zW9U0RMWFCCWbs83r7OvGH8K4NmOBxt9f_QCaFeDKMvzRGC0A3m2E=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nl.delftschezwervers.owee',
+    appId: 'nl.delftschezwervers.owee',
+    title: 'DZ OWee 2018',
+    summary:
+     'The OWee application for the Delftsche Zwervers, now for 2018!',
+    developer: 'Delftsche Zwervers',
+    developerId: 'Delftsche+Zwervers',
+    icon:
+     '//lh3.googleusercontent.com/p96s2ATDu-0s-mi7mi1ZzaVTMbhLp6ENaBKm3k9nWwtfWzvlp6KsTI1p2SWip5XDxhg=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dz.wwwnews',
+    appId: 'com.dz.wwwnews',
+    title: 'أخبار الجزائر - DZ NEWS',
+    summary: 'Algeria News all in one place',
+    developer: 'wposti',
+    developerId: 'wposti',
+    icon:
+     '//lh3.googleusercontent.com/Dezs_Z-bQgBwGfOBqcEj0sKk6IXnqIC0Dy22M4FrGUqVgs6s0e6w2gp9_AUEejEgdwIN=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.boomzap.ss1',
+    appId: 'com.boomzap.ss1',
+    title: 'Sally\'s Salon - Beauty Secrets',
+    summary:
+     'Become a beautician and help me find my long lost love! 💇 💅',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/kZ_MECcIW5Ak2yL66eEvhyzlN0LyFdBaXlNdQwDJMPMprYp49y17D-CgnM6eiG6PfXg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.delicious15',
+    appId: 'com.gamehouse.delicious15',
+    title: 'Delicious - Emily\'s Miracle of Life',
+    summary:
+     'Help Emily through the ups and downs of her pregnancy! 👶 🍼',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/RcIMY-9y_sbESULOHuHyEM2T373dJGNAq_t3VRGn8Y79skFtEdNruXZsoFofOYSogw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.fabulous3',
+    appId: 'com.gamehouse.fabulous3',
+    title: 'Fabulous - High School Reunion',
+    summary:
+     'Take a trip down memory lane and help Angela become Prom Queen!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/uaMFSvGxdtNm5YOhiSnVaiSzoRLwxUIlhEJf9fDJTRdFJzMZDo63GK-1hoGRHnOuoQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.gca',
+    appId: 'com.gamehouse.gca',
+    title: 'GameHouse Original Stories',
+    summary: 'Never miss a GameHouse Original Story again!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/l5P6YsKxyyzHRTYzTBF2Dl8PFePlVKwMmS3YWsJEmGcHDlTItIq6bdvD-w8hBBwvge80=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.fabulous2',
+    appId: 'com.gamehouse.fabulous2',
+    title: 'Fabulous - Fashion Fever',
+    summary:
+     'A Fashion Time Management Story Set in New York, Tokyo, Paris and Vegas!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/xoEa7WHSFcMwZDGtwsjILobM7I01pWOZi_NV4qT5xZYkc9kDFgtOAAEFibfa_VBMLrg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.sallyssalon2',
+    appId: 'com.gamehouse.sallyssalon2',
+    title: 'Sally\'s Salon: Kiss & Make-Up 💋',
+    summary:
+     'Sally and François dive headlong into chaos and absurdity in a new Spa!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/n8bYMPiabwzdSlZnjF5ld4aW8Uq9d1hhzjYxM6e-2PxsC67sfshIBP1WbrI7P5be45k=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.pl1',
+    appId: 'com.gamehouse.pl1',
+    title: 'Parker & Lane: Criminal Justice',
+    summary:
+     'Are you ready to solve the case and bring a criminal to justice? ⚖️ 🕵️‍♀️',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/my4RZnEEwFU0GV1_TzN-EqqcPkejUoXgaXf-faMLa6S96KUSiPA1ypjTgb8cdcRzhEk5=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.delicious16',
+    appId: 'com.gamehouse.delicious16',
+    title: 'Delicious - Moms vs Dads',
+    summary: 'Join Emily and Patrick in a hilarious battle of the sexes!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/Bp2M86HtB87zxhPvMKyf1ZSTAZPTe7HoDVzP7NvJhW-C9z0DkmBlsO7BIDLBwqiQPQ8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.disney.datg.videoplatforms.android.abc',
+    appId: 'com.disney.datg.videoplatforms.android.abc',
+    title: 'ABC – Live TV & Full Episodes',
+    summary:
+     'Watch live TV and stream full episodes of your favorite shows with the ABC app!',
+    developer: 'ABC Digital',
+    developerId: 'ABC+Digital',
+    icon:
+     '//lh3.googleusercontent.com/_rWrFbLrh8ql_UKhku4-kI1AOng2X36ErRsCcYrsWZ1KM7C8hnPhj2wHuQOl0tx2_g=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hulu.plus',
+    appId: 'com.hulu.plus',
+    title: 'Hulu: Stream TV, Movies & more',
+    summary:
+     'Hulu: Get exclusive seasons, movies, Originals, and more - now offering Live TV',
+    developer: 'Hulu',
+    developerId: 'Hulu',
+    icon:
+     '//lh3.googleusercontent.com/cu_cP9JE9-SCJzsk8hDOLQuEK9CSq-qTCUYP3g4wH4ojXkIjzd2DjxAjju6PdDwwSFk=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.fab5',
+    appId: 'com.gamehouse.fab5',
+    title: 'Fabulous - Angela\'s True Colors 🌈',
+    summary:
+     'Take on the New York fashion world and show them what you\'re made of!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/J8wM56HGwCT1ooy3gzzyjUwPjYC7q1RTxm6oPwCR5fpHoNaBgypNCDEYnxE8nUpYTaae=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.gamehouse.delicious8_android',
+    appId: 'org.gamehouse.delicious8_android',
+    title: 'Delicious - Wonder Wedding',
+    summary: 'Till death do us part ❤️❤️💕',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/PiMUq_a1LNC3QCqjgxoRkqWq4eWeG7K28CCJz233-fx4yfy-mcm4WL0emoV6OCdAt1Ji=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.grubhub.android',
+    appId: 'com.grubhub.android',
+    title: 'Grubhub: Local Food Delivery & Restaurant Takeout',
+    summary:
+     'Order food, get restaurant delivery, or pick up food from restaurants near you!',
+    developer: 'Grubhub',
+    developerId: '8587714984751820909',
+    icon:
+     '//lh3.googleusercontent.com/g_oNJbW0NKSivfYHmTy6ygWJfMCrCXjP1HVelsceuIoVxjJk57nfeAGGXP2hT8wIloOn=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wb.goog.legohp1',
+    appId: 'com.wb.goog.legohp1',
+    title: 'LEGO Harry Potter: Years 1-4',
+    summary:
+     'Explore Hogwarts across 40+ levels based on the first four Harry Potter books.',
+    developer: 'Warner Bros. International Enterprises',
+    developerId: 'Warner+Bros.+International+Enterprises',
+    icon:
+     '//lh3.googleusercontent.com/Zn6ev8OOZqvg7gPrcrIWrzVn9Bb1Fl1saSPbWUt1gn3dqB1gLd-e5oJaNtkGZDTAaaD6=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.osg.takeoff',
+    appId: 'com.osg.takeoff',
+    title: 'Amber\'s Airline - High Hopes ✈️',
+    summary: 'Help Amber get her wings 🛫❤️',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/6Pn9dilJPHpHvZLTdtwWX8Ua1COHJjtT-vUzhszdO_EyR2wBPKrjjZGWsv-MoSVmcU4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=es.mediaset.gh14',
+    appId: 'es.mediaset.gh14',
+    title: 'GH DÚO',
+    summary: 'The official app of the Big Brother couples edition',
+    developer: 'Mediaset España',
+    developerId: '6788843011934272331',
+    icon:
+     '//lh3.googleusercontent.com/O-UqOCayb89RH_A_4-7B_hlDUTaxSI2XpdDbuRNxebGpGbYEQOlUDAri0JiLJfxaYmY=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pl.idreams.pottery',
+    appId: 'pl.idreams.pottery',
+    title: 'Let\'s Create! Pottery',
+    summary: 'Free your creativity!',
+    developer: 'Infinite Dreams',
+    developerId: '6605166034023780330',
+    icon:
+     '//lh3.ggpht.com/Beul9gF8BBVLElPNzqNoM4082CBMZBU0CExG1Ix3kqug4OhHVIknIv7VYj88WomkO_A=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.hm4gp',
+    appId: 'com.gamehouse.hm4gp',
+    title: 'Heart\'s Medicine Doctor\'s Oath',
+    summary:
+     'Become a doctor in a romantic medical drama with aspiring intern Allison Heart!',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/Rt_ipkFCJ3Dop-a4KUSi9b6F1gNludlruIEebiZbWmRkOgnAiI9BHuOhTK4LOly5FlI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftWBHM',
+    appId: 'com.gameloft.android.ANMP.GloftWBHM',
+    title: 'Wild Blood',
+    summary:
+     'Live the unforgettable journey of Sir Lancelot powered by Unreal Technology',
+    developer: 'Gameloft',
+    developerId: '6258770168633898802',
+    icon:
+     '//lh3.ggpht.com/VxxLsQXGgSHa6iBQ5HQitIdC6gx3k_sKY_ieve_8cmiP0BFVubd6jhwsGDTbWK8XvYs=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '$6.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamehouse.fabulous1',
+    appId: 'com.gamehouse.fabulous1',
+    title: 'Fabulous - Sweet Revenge',
+    summary: 'Discover treacherous secrets...',
+    developer: 'GameHouse',
+    developerId: '8768606447367526700',
+    icon:
+     '//lh3.googleusercontent.com/0WVOdrN3mU7SkYNYmYcWRGBtF-WVs0UIyb5iBdDPNu5pGq9XuEjrwekAFFmYXpztD_dk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

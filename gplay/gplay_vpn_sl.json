@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.scottgames.sisterlocation',
+    appId: 'com.scottgames.sisterlocation',
+    title: 'Five Nights at Freddy\'s: SL',
+    summary:
+     'The official mobile port of Five Nights at Freddy\'s: Sister Location!',
+    developer: 'Scott Cawthon',
+    developerId: 'Scott+Cawthon',
+    icon:
+     '//lh3.googleusercontent.com/bMPRXNOcioDeRRsaJd3JRUGgOGa3kbrMX8UZXhoO1cBzJx0RWcYvps45iE0OUuzzcxA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sl.SLBiljetter',
+    appId: 'com.sl.SLBiljetter',
+    title: 'SL:Journey planner and tickets',
+    summary:
+     'The simplest way to buy tickets for public transportation with SL in Stockholm.',
+    developer: 'AB Storstockholms Lokaltrafik',
+    developerId: 'AB+Storstockholms+Lokaltrafik',
+    icon:
+     '//lh3.googleusercontent.com/hme1y32-38zD6WK3kn8uU9IcmYEbdb0rmjZls2ZtGYRzF5L6rBe3hYrh676tDFTd3w=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lumiyaviewer.lumiya',
+    appId: 'com.lumiyaviewer.lumiya',
+    title: 'Lumiya',
+    summary: 'Second Life viewer with 3D and VR world view.',
+    developer: 'Alina Lyvette',
+    developerId: 'Alina+Lyvette',
+    icon:
+     'https://lh3.ggpht.com/BKiEFAurpBFNL7jwUyOESRbNJSctP82rvsJ5q_ruy09sHToknS1iR3aVSvrfOhqzlA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nobina.resistockholm.resistockholm',
+    appId: 'com.nobina.resistockholm.resistockholm',
+    title: 'Res i STHLM: SL trip planner',
+    summary:
+     'Traveling in Stockholm by SL\'s metro, commuter trains, local trains and buses',
+    developer: 'Nobina',
+    developerId: 'Nobina',
+    icon:
+     '//lh3.googleusercontent.com/8bEW-rvEPMrJqTAOPYlaI0GdZQSYXFe9DrU_S_N2mdJzeX6TG02elgZ4MF_Gh7CGFvQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.locutus.sl.realtidhem',
+    appId: 'se.locutus.sl.realtidhem',
+    title: 'SL realtime widget',
+    summary:
+     'Extra fast realtime information about SL departures directly on your home screen',
+    developer: 'Erik Övelius & Theo Franzén',
+    developerId: 'Erik+%C3%96velius+%26+Theo+Franz%C3%A9n',
+    icon:
+     '//lh3.googleusercontent.com/yKjBhbsU1XvL2KJ4H9A4l9hwVuL8sNmFXIQdhsH-zmX0tsb6xloJ4Mudl_W5AisFxYFz=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.valeragames.slcustomnightdemo',
+    appId: 'com.valeragames.slcustomnightdemo',
+    title: 'SL Custom night(32-bit Editor)',
+    summary: 'Own the night in SL',
+    developer: 'Valera Games',
+    developerId: '7797398290034199373',
+    icon:
+     '//lh3.googleusercontent.com/3LC2DkLqXifTCStPQSqvO0aFlt3H_EHU-MUHVI_9RCSFBgzFtEolq6pxVzj7C-KU4g=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.osvald.resvald',
+    appId: 'org.osvald.resvald',
+    title: 'Stockholm Transit (SL)',
+    summary:
+     'Fast and simple journey planning in Stockholm (SL) with a clickable transit map!',
+    developer: 'Osvald Ivarsson',
+    developerId: 'Osvald+Ivarsson',
+    icon:
+     '//lh6.ggpht.com/Ig1dKQBdWX_WL6Iz7nWdps4JQDmL5ZEVldB4TgDhzSqcu2_aNfILJXqTVh6dIEK_b32n=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ginlemon.smartlauncher.extratool',
+    appId: 'ginlemon.smartlauncher.extratool',
+    title: 'SL Screen Off plugin',
+    summary:
+     'An optional plugin required by Smart Launcher to turn off the screen',
+    developer: 'Smart Launcher Team',
+    developerId: 'Smart+Launcher+Team',
+    icon:
+     '//lh3.googleusercontent.com/Aa0U6ZMafqAXevUBRy7_xn_XIwaI9jjfxM1EZff9PHPFzSX8YAONjY8EzKX8kpQ0H_8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apptastic.stockholmcommute',
+    appId: 'com.apptastic.stockholmcommute',
+    title: 'Stockholm Commute - SL journey planner',
+    summary:
+     'Journey planner for Stockholm Public Transport (Bus, Metro, Train, Tram and Boat',
+    developer: 'Apptastic Software',
+    developerId: 'Apptastic+Software',
+    icon:
+     '//lh3.googleusercontent.com/qywGUAevLloXKD7120Q2DIvTe1VwKJ0N8OIN5_FVTOWCRQGuOsMTtpQ4JiPoDqHJpw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.z5.sltheme',
+    appId: 'com.z5.sltheme',
+    title: 'Black SL Theme',
+    summary: 'Simple light weight theme for smart launcher',
+    developer: 'themesandwall',
+    developerId: 'themesandwall',
+    icon:
+     '//lh3.googleusercontent.com/0u6YqWG2JXKsjptzpYIYgo_IvK1kbUVS4pkcBMA2qIKS78C3KA-eZ4NDXNnyh1sHz9I=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ginlemon.sltheme.luxury',
+    appId: 'ginlemon.sltheme.luxury',
+    title: 'SL Theme Luxury',
+    summary: 'A luxurious black and gold theme.',
+    developer: 'Smart Launcher Team',
+    developerId: 'Smart+Launcher+Team',
+    icon:
+     '//lh5.ggpht.com/9i-ZY-aPK2DogVbRszORSaGT_iHrg-KyWoPGehRqqHJuFHxPbKwrJRySGXauO5KEbA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '$2.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schlager.mgc',
+    appId: 'com.schlager.mgc',
+    title: 'Mobile Grid Client',
+    summary:
+     'Second Life and OpenSim messaging client that keeps you connected all the time.',
+    developer: 'Schlager',
+    developerId: 'Schlager',
+    icon:
+     'https://lh4.ggpht.com/O_-ZdR1viaSWBu9r_sSRoTTJDDef0ZslSgWEBa7YfI0nNuDlbS8nBj0zicbUCG1qyKs=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leica_camera.LeicaSL',
+    appId: 'com.leica_camera.LeicaSL',
+    title: 'Leica SL',
+    summary:
+     'The Leica SL app connects your camera to your phone or tablet.',
+    developer: 'Leica Camera AG',
+    developerId: 'Leica+Camera+AG',
+    icon:
+     '//lh3.ggpht.com/g6q2vLnvVHk_7sLgKlbSJI7xnFSE6DjLE9KRSe13A34lyQM3uAsGDHHj5Uc5-psC7XU=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ginlemon.sltheme.theme.touchantonfil',
+    appId: 'ginlemon.sltheme.theme.touchantonfil',
+    title: 'Touch Theme for SL',
+    summary: 'We present you a new free theme for Smart Launcher',
+    developer: 'antonfil84',
+    developerId: 'antonfil84',
+    icon:
+     '//lh5.ggpht.com/CvJ3gKkOAXu1kfK0YZrXnWkzKbbvKcLMeMIaMERbgUoh6oASrB8m7uFpZTGEXf4wIwE=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.sportslogic.app',
+    appId: 'net.sportslogic.app',
+    title: 'SL Team App',
+    summary:
+     'SL Team App - the ultimate team management app with live streaming video & stats',
+    developer: 'Sports Logic',
+    developerId: 'Sports+Logic',
+    icon:
+     '//lh5.ggpht.com/2C7mMYLWJ5NWsiWA9YufzA4bv3BnJJVmSMdlZRQJ689OsIF_2j3Wrz2XHLSOw6uJZw=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.markupartist.sthlmtraveling',
+    appId: 'com.markupartist.sthlmtraveling',
+    title: 'STHLM Traveling - SL Planner',
+    summary:
+     'Real-time trip planner for SL, Stockholm – Walk, Bike, Bus, Metro, Train & Tram',
+    developer: 'markupartist',
+    developerId: 'markupartist',
+    icon:
+     'https://lh5.ggpht.com/3gJxLBdIQ-O5fciJvV0CTn_i9j2bDKh1OIIxyau04yRjpWlJZiicDgaABjt-ib2a4w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=blak3n.sltheme.krypton2',
+    appId: 'blak3n.sltheme.krypton2',
+    title: 'SL THEME KRYPTON 2',
+    summary: 'Change your smartphone like the new android 5!',
+    developer: 'BLAK3N APPS',
+    developerId: '5935788538552827179',
+    icon:
+     '//lh3.googleusercontent.com/z306G8bUyQerloaklHhLJJ7hCZhq1RJ1nWa1zEvtNeKMaMZfbPOH4VBrHdNc1jIyTpI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.swash.transitworld.stockholm',
+    appId: 'com.swash.transitworld.stockholm',
+    title: 'Stockholm Transit: Offline SL departures & maps',
+    summary:
+     'Metro, Bus, Boat, Tram, LightRail, Suburban from Storstockholms Lokaltrafik (SL)',
+    developer: 'SwashApps',
+    developerId: '7371750528736475218',
+    icon:
+     '//lh3.googleusercontent.com/3551t8ZPg1Eek_2diIDEFktjJeWPAaOk1lKY0JZ1iVPTiE6BPpg-sN5nYYdPL_67hvKf=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ginlemon.sltheme.example.easyal',
+    appId: 'ginlemon.sltheme.example.easyal',
+    title: 'SL Easy Theme',
+    summary: 'Theme for Smart Launcher',
+    developer: 'almaeg01',
+    developerId: 'almaeg01',
+    icon:
+     '//lh3.ggpht.com/ME05nkgr9Ke8PiJ9O_y0cbDebrNCv9dJcIhWoSX7rMoZR-DWo1MIK6Nbc-XnwwHAWUg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ginlemon.sltheme.oxygen',
+    appId: 'ginlemon.sltheme.oxygen',
+    title: 'SL Theme KDE/Oxygen',
+    summary:
+     'A transparent Smart Launcher Theme inspired to the desktop environment KDE',
+    developer: 'Smart Launcher Team',
+    developerId: 'Smart+Launcher+Team',
+    icon:
+     '//lh3.ggpht.com/UF_Xy2UaHFmw5HO8TO7RoMvG0-wRsZEiieQ9u56XQvDWp2Y0wyN23M20ecGxLHvpZH8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

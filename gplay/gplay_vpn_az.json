@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free',
+    appId: 'com.hecorat.screenrecorder.free',
+    title: 'AZ Screen Recorder - No Root',
+    summary:
+     'The best screen recorder with no time limit and tons of features for FREE!',
+    developer: 'Hecorat',
+    developerId: '4946092157052757127',
+    icon:
+     '//lh3.googleusercontent.com/I7r8itBr3sZXZa2MRwEhEdxnjbABgNAPjB4EaMs5D58HCWfhuBEVroNcpl_qTEHVMA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.learninga_z.onyourown',
+    appId: 'com.learninga_z.onyourown',
+    title: 'Kids A-Z',
+    summary:
+     'Have fun learning with Raz-Kids, Science A-Z and Headsprout on the Kids A-Z app!',
+    developer: 'Learning A-Z',
+    developerId: 'Learning+A-Z',
+    icon:
+     '//lh3.googleusercontent.com/UOREyrox808h9JpAGnIE0X2oDa_FzhgzXPmHvuTVAxUP4fCwsU05LXUtLxg8XdtTAcg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mdi.azlottery',
+    appId: 'com.mdi.azlottery',
+    title: 'AZ Lottery Players Club',
+    summary: 'The official Arizona Lottery Player Rewards App',
+    developer: 'Scientific Games Corporation',
+    developerId: 'Scientific+Games+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/UusQCluNzwCESYHggL3Rt-urN7HXjyb0aw8CH3Ma1imv8RjOih850xsOzTWBTXEsTA=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yinzcam.nfl.cardinals',
+    appId: 'com.yinzcam.nfl.cardinals',
+    title: 'Arizona Cardinals Mobile',
+    summary:
+     'Welcome to the official mobile app of the Arizona Cardinals.',
+    developer: 'YinzCam, Inc.',
+    developerId: '9047556097149013853',
+    icon:
+     '//lh4.ggpht.com/HroIISUAr4sKMXWcYtNFb8AYz8pUCDfVNmmZvmqXlvlWYktaHXWERP_8U5fOxH4ZRQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.aclu.mobile.justice.az',
+    appId: 'org.aclu.mobile.justice.az',
+    title: 'Mobile Justice: Arizona',
+    summary:
+     'Hold Arizona Law Enforcement Agencies accountable for their actions.',
+    developer: 'Quadrant 2, Inc.',
+    developerId: '6683212590596235002',
+    icon:
+     '//lh3.googleusercontent.com/_cNfKJ88aUr2JhNQFpT9O7hm92pl_nyKkwFOIFJkWbb9qpqH4jA515UgM-vAxWoFFlXu=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bowmansystems.cp5.az211',
+    appId: 'com.bowmansystems.cp5.az211',
+    title: '2-1-1 Arizona',
+    summary:
+     'Available 24 hours a day every day at 211Arizona.org or by phone at 2-1-1.',
+    developer: 'Bowman Systems, LLC',
+    developerId: 'Bowman+Systems,+LLC',
+    icon:
+     '//lh6.ggpht.com/EkPP74zzU_nGU4NsN6162Vy2Eo26GMIddrwBnTsMlvLv__tCg6ZV2B9_ZJ66OwZuAvY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.BCBSAZ.AlphaTeam.MyBlue',
+    appId: 'com.BCBSAZ.AlphaTeam.MyBlue',
+    title: 'MyBlue AZ',
+    summary:
+     'The MyBlue AZ app helps you use and manage your health plan on the go.',
+    developer: 'Blue Cross Blue Shield of Arizona',
+    developerId: 'Blue+Cross+Blue+Shield+of+Arizona',
+    icon:
+     '//lh3.googleusercontent.com/JCCcETa6VcgBVgjLe7XvNcNSD6EWRWXsQmpapeihmjedAw02LROFA8luVOrt-E3Br2g=w340',
+    score: 1.7,
+    scoreText: ' Rated 1.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atozappstore',
+    appId: 'com.atozappstore',
+    title: 'A-Z App Store',
+    summary:
+     'Best Collection of Apps and Games with over 100000+ Apps to download from.',
+    developer: 'Incognisys Apps',
+    developerId: 'Incognisys+Apps',
+    icon:
+     '//lh3.googleusercontent.com/hrWzqT0FcMDL81uIFJT8lE49iP-Wf1JZJQx9dPJB6wKkrd1d6Vr6v_8Sn3CCcG_H5Mg=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mtdata.aaa_arizona',
+    appId: 'com.mtdata.aaa_arizona',
+    title: 'Yellow Cab AZ',
+    summary: 'The official Yellow Cab Arizona taxi booking app',
+    developer: 'Mobile Technologies International Pty Ltd',
+    developerId: 'Mobile+Technologies+International+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ASD9Q6z_68W-vCf1ILamVXk6j8EgDhFxg0Y-MIhSiEDql18Uc9d9QQaKCJXB5q0JoaE=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tvn.labs.azlawsinapp',
+    appId: 'com.tvn.labs.azlawsinapp',
+    title: 'Arizona Statutes, ARS (AZ Law)',
+    summary: '2018 - Arizona Revised Statutes, Code Laws & Titles',
+    developer: 'TVN Labs',
+    developerId: 'TVN+Labs',
+    icon:
+     '//lh3.googleusercontent.com/AXvhKo00AJc1oqN2qIuhnqfihQUwXRXpjozc8TRIIqwFbq1b9IO7-_lGU_bJ-nzqDEU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.highsierraattitude.arizonatrail',
+    appId: 'com.highsierraattitude.arizonatrail',
+    title: 'Arizona Trail',
+    summary:
+     'Detailed, map-based hiking and mountain biking guide for the Arizona Trail',
+    developer: 'AtlasGuides',
+    developerId: 'AtlasGuides',
+    icon:
+     '//lh3.googleusercontent.com/G6HZ5g0RnU0V1l45nhaNpByEzpeTZgOA6bWYWCs9nhHTdn3j-pmMq26xNbHN-OKBEw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jacobsmedia.azsports',
+    appId: 'com.jacobsmedia.azsports',
+    title: 'Arizona Sports 98.7 FM',
+    summary:
+     'Arizona Sports 98.7 FM is the most in-depth coverage of local sports teams.',
+    developer: 'Bonneville International',
+    developerId: 'Bonneville+International',
+    icon:
+     '//lh6.ggpht.com/XoMe8p4719NaCKvul2zb-O529yIl9qq8W-jqGh5q2ibK5tuo3feD6dE1YMcwgp4FmUQz=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.azrockradio.azrock',
+    appId: 'com.azrockradio.azrock',
+    title: 'AZ Rock',
+    summary: 'AZ Rock Radio',
+    developer: 'PH Entertainment Group, Inc.',
+    developerId: 'PH+Entertainment+Group,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/yBvc44I9RaWrF_aBHP12OtVqytYDfBc-lx-LvKicpvFdlcWVVe_RPqaFd_U86gPJmg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lotto.arizonalotteryresults',
+    appId: 'com.lotto.arizonalotteryresults',
+    title: 'Arizona Lottery Results',
+    summary:
+     'View the results of the arizona Mega Millions, Powerball and other games.',
+    developer: 'Mobility Dev Apps',
+    developerId: 'Mobility+Dev+Apps',
+    icon:
+     '//lh3.googleusercontent.com/6vTKg7KBOj78axy4mZbZn2fecAArO6WZkURKpxXSL9YFPiClqiGKbxgjQhep__H_uA=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotterlook.driverstartaz',
+    appId: 'com.spotterlook.driverstartaz',
+    title: 'Permit Test AZ Arizona MVD DOT Driver\'s License Ed',
+    summary:
+     'Permit Test Arizona MVD helps you to prepare for the MVD Knowledge Test AZ ADOT',
+    developer: 'driver-start.com',
+    developerId: 'driver-start.com',
+    icon:
+     '//lh3.googleusercontent.com/8Ss8j0owe9ZLmnQyscXgDvoBCZWUXVQXv2V0sRFewYmpLLV40Sz9s_J_55LEexUtmw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wildflowersearch.arizonawildflowers',
+    appId: 'com.wildflowersearch.arizonawildflowers',
+    title: 'Arizona Wildflowers',
+    summary: 'Identify Wildflowers and other plants that grow in Arizona',
+    developer: 'Wildflower Search',
+    developerId: 'Wildflower+Search',
+    icon:
+     '//lh3.googleusercontent.com/skDZC5muMRRhVtQIlHj_Ri_wyxjGYpCuXReUt327C41-lPPi9K1txXwHJQnaVdTUlyo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.a_z.screen.recorder',
+    appId: 'com.a_z.screen.recorder',
+    title: 'A-Z Screen Recorder -',
+    summary:
+     'Screen Recorder is fast and High Quality Video ,Audio Recorder Editor',
+    developer: 'SoftAppsDev',
+    developerId: 'SoftAppsDev',
+    icon:
+     '//lh3.googleusercontent.com/4gvNsuWMuzEe2X-6StGYyjv2iI8en_RHCrviL3JBAKyolUSEWNNCp57vbLPGmNOi_J4=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.arizona.gameday',
+    appId: 'com.arizona.gameday',
+    title: 'Arizona Wildcats',
+    summary: 'The official Arizona Athletics mobile app',
+    developer: 'IMG College Digital',
+    developerId: 'IMG+College+Digital',
+    icon:
+     '//lh3.googleusercontent.com/ZgaId8P3bQ-EiPUYzvkNBUq2EgSZv7daiHH9FFlkXOVpLtNyvSW1ZwHsP9Uuo_1Dn0I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icogroup.tvazteca',
+    appId: 'com.icogroup.tvazteca',
+    title: 'Az Content',
+    summary: 'All TV Azteca Content for the International Market!',
+    developer: 'The FastMind Inc',
+    developerId: '5396180253681192600',
+    icon:
+     '//lh3.googleusercontent.com/VQyMKSNqgxRN-RqzAnCk-V4bv6DiyBGayVgUffk6HxzHPFjf2DMkBbAsyWdm-E47HsPP=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobilerealtyapps.longrealty',
+    appId: 'com.mobilerealtyapps.longrealty',
+    title: 'Long Realty AZ Home Search',
+    summary:
+     'Arizona’s most accurate home listings to search, discover, and share.',
+    developer: 'Long Realty Company',
+    developerId: 'Long+Realty+Company',
+    icon:
+     '//lh6.ggpht.com/yEycGFqAA0jkPMScVxBjbiIF-mGUXITOKPzTrumM1KSt3QGhiMbpNEvqI0473SPsr8E=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

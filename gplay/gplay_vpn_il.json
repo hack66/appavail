@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=air.com.hypah.io.slither',
+    appId: 'air.com.hypah.io.slither',
+    title: 'slither.io',
+    summary:
+     'Play online with people all over the world! Can YOU become the longest player?',
+    developer: 'Lowtech Studios',
+    developerId: 'Lowtech+Studios',
+    icon:
+     '//lh3.googleusercontent.com/oObkhKfUXOY5yzheKe9w1Y1pXZBgdiSksMeNmT0BijoQ8J75maTCIW2TA7-6pA6EMA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.matcho0.illotto',
+    appId: 'com.matcho0.illotto',
+    title: 'IL Lottery Results',
+    summary:
+     'IL Lottery draw game results in a single, easy-to-read list. Quick Accurate Free',
+    developer: 'Matthew Saavedra',
+    developerId: 'Matthew+Saavedra',
+    icon:
+     '//lh3.googleusercontent.com/C34Kyi-Nw4RsVgsL4u7VHlpL3p-TMsAiHio5X_8F6QFEXKOwR2K2OKZYr_lijhS_N8M=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nintendo.zara',
+    appId: 'com.nintendo.zara',
+    title: 'Super Mario Run',
+    summary: 'Control Mario with just a tap!',
+    developer: 'Nintendo Co., Ltd.',
+    developerId: '7277267556905944956',
+    icon:
+     '//lh3.googleusercontent.com/6geoqgXLoeCK4-A1xxkR9KcGcI_KF23SGeHX1sAM2gauaIhNp515feFNS3ML1zmCugI=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.agar.io',
+    appId: 'com.miniclip.agar.io',
+    title: 'Agar.io',
+    summary:
+     'The browser game phenomenon comes to mobile! It\'s a cell-eating frenzy!',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/P-7CZ6UljBidkrQnoCe8I4V_p3g7-GqrnwvqLyDa25aeojHSm7NRMLoNcAfnGdk0wV8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.flukedude.impossiblegamelevelpack',
+    appId: 'com.flukedude.impossiblegamelevelpack',
+    title: 'The Impossible Game Level Pack',
+    summary: 'Three awesome new levels for The Impossible Game.',
+    developer: 'FlukeDude',
+    developerId: 'FlukeDude',
+    icon:
+     'https://lh5.ggpht.com/qJTbYhc1Hbk9ZWqpJWBnlR4dz84ZujTIqIYVoieCqhztDC0zv5eOSdPaMyBbRwDvVQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree',
+    appId: 'com.outfit7.mytalkingtomfree',
+    title: 'My Talking Tom',
+    summary:
+     'Your new virtual pet! Adopt Tom as a baby kitten, feed him & have fun together.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/A80ZkUXzGY_2_mcfW3h25TbSemqBKIc2eNL18RS1kWL5SFWKQqWNC51pA9CGFtSGow=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mosalingua.enbusi',
+    appId: 'com.mosalingua.enbusi',
+    title: 'Apprendre l\'Anglais Business',
+    summary: 'English Pro: improve quickly with SRS method MosaLingua',
+    developer: 'MosaLingua Crea',
+    developerId: 'MosaLingua+Crea',
+    icon:
+     '//lh3.googleusercontent.com/LUPTyxht_zX9zdOr7JrL5_jesUQZnM8fz-URfVUE0Y61Gise9tSZ48V7GunSVvtafg8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.digidust.elokence.akinator.freemium',
+    appId: 'com.digidust.elokence.akinator.freemium',
+    title: 'Akinator',
+    summary:
+     'Akinator can read your mind and tell you what character you are thinking about!',
+    developer: 'Elokence',
+    developerId: '9041369024808341661',
+    icon:
+     '//lh3.googleusercontent.com/it1WRuZgGvY8Bp8iBwccoLpK-HyLqfOKdPhLrLY6ZznU1DDjrm6BcXRLB49s6YVdfXt1=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.flukedude.impossiblegame',
+    appId: 'com.flukedude.impossiblegame',
+    title: 'The Impossible Game',
+    summary: 'It\'s quite possibly the world\'s hardest game!',
+    developer: 'FlukeDude',
+    developerId: 'FlukeDude',
+    icon:
+     'https://lh3.ggpht.com/MrU4SmACf62cyR-Et9x0CEiMlEaMxAyEsasIVm_IaNg1Uj_qgjUg1IcRywK6zat5-_k=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mosalingua.defree',
+    appId: 'com.mosalingua.defree',
+    title: 'Learn German Free',
+    summary:
+     'Learn German and improve your skills quickly with MosaLingua\'s SRS method',
+    developer: 'MosaLingua Crea',
+    developerId: 'MosaLingua+Crea',
+    icon:
+     '//lh3.googleusercontent.com/FzJX1wEZAjX_-eVyepfSekJS6dE8sgqNh57K4EuimhOOySsMLCXL89ae8cp-qMzsPg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.firemaplegames.games.the_secretofgrislymanor',
+    appId: 'com.firemaplegames.games.the_secretofgrislymanor',
+    title: 'The Secret of Grisly Manor',
+    summary: 'Another beautiful adventure from Fire Maple Games!',
+    developer: 'Fire Maple Games',
+    developerId: 'Fire+Maple+Games',
+    icon:
+     '//lh5.ggpht.com/qph-dtegwQ8d5u3pL7Q7azdYPkEn6et5LISDq3WXvH97qaJaA3DEoGS4NOySTIpABw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.msi.logogame',
+    appId: 'com.msi.logogame',
+    title: 'Logo Game: Guess Brand Quiz',
+    summary:
+     'The Ultimate Logo Quiz Game! With more than 4500 logos from all over the world.',
+    developer: 'Logos Box',
+    developerId: 'Logos+Box',
+    icon:
+     '//lh3.googleusercontent.com/MS1ZvbLTAIbE7BceufrMCqUKhqYPKB-S8J6Mip-mTQniTooUf5xDy77V_k4mwwXidQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.marmalade.golmobile',
+    appId: 'com.marmalade.golmobile',
+    title: 'The Game of Life',
+    summary:
+     'Hit the road for a life of adventure in this version of the classic boardgame!',
+    developer: 'Marmalade Game Studio',
+    developerId: '8684502731112464883',
+    icon:
+     '//lh3.googleusercontent.com/zxwxekIjiSwGDHGswuhq6mR-JJWvKNXzITjYTJxAqLCrjgO73SWmKG4voq9kmq6Cjw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adpog.diary',
+    appId: 'com.adpog.diary',
+    title: 'Diary with lock',
+    summary: 'Create your own personal DIARY with lock.',
+    developer: 'WriteDiary.com',
+    developerId: 'WriteDiary.com',
+    icon:
+     '//lh3.googleusercontent.com/HTX4QtnaIl6JT4jn6gb9MLCvU3fGkpYeyqqfKH_eRfZkO3gEr1EpxEnvjraT4nGWHW4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smule.magicpiano',
+    appId: 'com.smule.magicpiano',
+    title: 'Magic Piano by Smule',
+    summary:
+     'From Bruno Mars to Mozart - play like a pianist. Relax your soul.',
+    developer: 'Smule',
+    developerId: 'Smule',
+    icon:
+     '//lh3.googleusercontent.com/5LfALDNi5rSwhfaYI1PON_5iovyePX5qcVFOrYLclIT8KhhJJiwCLw2gJz_KFpyvfLo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leisureapps.lottery.unitedstates.illinois',
+    appId: 'com.leisureapps.lottery.unitedstates.illinois',
+    title: 'Results for Illinois Lottery',
+    summary:
+     'Winning lottery results for the Illinois Lottery (IL). All Games Available!',
+    developer: 'Leisure Apps LLC',
+    developerId: 'Leisure+Apps+LLC',
+    icon:
+     '//lh3.googleusercontent.com/1gQEufpNTJWJAZJzdY5WKBxaU_pQgKHZdPKfA9vFryxkLke93BopTF7sKUSiER0oxu1Z=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb',
+    appId: 'com.fingersoft.hillclimb',
+    title: 'Hill Climb Racing',
+    summary: 'Best physics based driving game ever made!',
+    developer: 'Fingersoft',
+    developerId: '7064049075652771302',
+    icon:
+     '//lh6.ggpht.com/N0UxhBVUmx8s7y3F7Kqre2AcpXyPDKAp8nHjiPPoOONc_sfugHCYMjBpbUKCMlK_XUs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank',
+    appId: 'com.outfit7.mytalkinghank',
+    title: 'My Talking Hank',
+    summary:
+     'From Talking Tom and Friends - adopt Talking Hank, the cutest puppy out there!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/kO0rs2O46ylyG4dbbJtYK4DQr6UMiWh0AAS5Us2JRZxelpTbRPogLqRtL4_gEACFadk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mtvn.SBmoviegame',
+    appId: 'com.mtvn.SBmoviegame',
+    title: 'SpongeBob: Sponge on the Run',
+    summary:
+     'Race through all new worlds in SpongeBob: Sponge on the Run!',
+    developer: 'Nickelodeon',
+    developerId: 'Nickelodeon',
+    icon:
+     '//lh4.ggpht.com/OCcuSVdemHqbyP-ByAf56ra4nxahT7Am8wC6TURnxZDMi8vOoSHQFdpITg8v6e4WpMA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '$3.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crater.bbtan',
+    appId: 'com.crater.bbtan',
+    title: 'BBTAN by 111%',
+    summary: '◆ NEW BALL! (Sweet)',
+    developer: '111%',
+    developerId: '7769366979601471884',
+    icon:
+     '//lh3.googleusercontent.com/_cvsLnOiBgXyd_LCXP8RM-j2BrpXwSaNyXZftaipuhavaPkQCpjMyhQ4YwnXRJGuO4Kk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

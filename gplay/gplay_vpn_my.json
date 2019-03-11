@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=mytown.home',
+    appId: 'mytown.home',
+    title: 'My Town : Home Dollhouse',
+    summary:
+     'This game is all about imagination, Fun and creativity for kids',
+    developer: 'My Town Games Ltd',
+    developerId: '4907572025980617983',
+    icon:
+     '//lh3.googleusercontent.com/Wiius6nPvVQCXyg7m9Ls7eQTtWBIIgqvBLWG-irTi817nCRgem2UB9qjAxnVm6j6YmU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mytown.fashion',
+    appId: 'mytown.fashion',
+    title: 'My Town : Fashion Show',
+    summary:
+     'Download your very own virtual dollhouse Fashion Show.Free for a limited time!',
+    developer: 'My Town Games Ltd',
+    developerId: '4907572025980617983',
+    icon:
+     '//lh3.googleusercontent.com/_KFRxXc0AdyVFCRUoQFkALGc0Is-It9puteWvvPUH3-XVddHyO1b-Gt1fLjrdvKHqQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bigbluebubble.singingmonsters.full',
+    appId: 'com.bigbluebubble.singingmonsters.full',
+    title: 'My Singing Monsters',
+    summary:
+     'Breed them. Feed them. Listen to them sing! Build a musical world.',
+    developer: 'Big Blue Bubble',
+    developerId: '4772512400666501557',
+    icon:
+     '//lh3.googleusercontent.com/u-L3Hwu-BVAI1RUhkiCUghWt1ARqG3ektMqWIr48gjL1eJVoVEFL4btJL5C-PU7QuSo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2',
+    appId: 'com.outfit7.mytalkingtom2',
+    title: 'My Talking Tom 2',
+    summary:
+     'The world’s cutest pet is back! Take care of him in more ways than ever!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/Ltyf45ZLpvjymamjkI5cGlNKvJP8ft0c2bMwUvo81sPRlSRDoI7PWBMZ4Z_zQsIIrG-g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mytown.police',
+    appId: 'mytown.police',
+    title: 'My Town : Police Station',
+    summary:
+     'This police station has all you need to create your next story!',
+    developer: 'My Town Games Ltd',
+    developerId: '4907572025980617983',
+    icon:
+     '//lh3.googleusercontent.com/hSlxcuNetJVca-vJceaaTm9WpErCi8QayzVesxz2Vwa334uVInzVjMxxdvkC82hyPyH0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.com.tapps.myboo',
+    appId: 'br.com.tapps.myboo',
+    title: 'My Boo - Your Virtual Pet Game',
+    summary:
+     '💙 The funniest virtual pet with 24 minigames in one game! 💙',
+    developer: 'Tapps Games',
+    developerId: '6615809648420562690',
+    icon:
+     '//lh3.googleusercontent.com/AICv0WInx5aTYmuE_iv9iFN3mBHLGRcACgKQ7_gJqiFRymnciHcRLe3Xa73a9OS6iHw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree',
+    appId: 'com.outfit7.mytalkingangelafree',
+    title: 'My Talking Angela',
+    summary:
+     'Make Angela your very own superstar with fashion, food, makeup and fun!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/w1h2ubiAY0NBeV42nVUdGyxWmSCbr4-3HHzuESw-sAQhApPP-WkNNrBrJVNX6BvYDqmH=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.nanobit.mystory',
+    appId: 'org.nanobit.mystory',
+    title: 'My Story: Choose Your Own Path',
+    summary: 'Welcome to MY STORY, a game where you write your life!',
+    developer: 'Nanobit',
+    developerId: '7360657040509169450',
+    icon:
+     '//lh3.googleusercontent.com/7Hr5MbY5JFvvgURrp74bJ3AMKXPvg0yXD4InJx2QTB7wK881iNqvBV_7a6gcM4msdg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfree',
+    appId: 'com.outfit7.mytalkingtomfree',
+    title: 'My Talking Tom',
+    summary:
+     'Your new virtual pet! Adopt Tom as a baby kitten, feed him & have fun together.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/A80ZkUXzGY_2_mcfW3h25TbSemqBKIc2eNL18RS1kWL5SFWKQqWNC51pA9CGFtSGow=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank',
+    appId: 'com.outfit7.mytalkinghank',
+    title: 'My Talking Hank',
+    summary:
+     'From Talking Tom and Friends - adopt Talking Hank, the cutest puppy out there!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/kO0rs2O46ylyG4dbbJtYK4DQr6UMiWh0AAS5Us2JRZxelpTbRPogLqRtL4_gEACFadk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=mytown.beach',
+    appId: 'mytown.beach',
+    title: 'My Town : Beach Picnic',
+    summary:
+     'A fun imagination game that promotes creativity and exploration',
+    developer: 'My Town Games Ltd',
+    developerId: '4907572025980617983',
+    icon:
+     '//lh3.googleusercontent.com/XgQ469UlttjCweyciRSKxxEcEKFn_OJZUSFXAkxO8-qqFPVZhIOmgiA989JZb8KVSp4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=my.googlemusic.play',
+    appId: 'my.googlemusic.play',
+    title: 'My Mixtapez Music',
+    summary: 'Free music on the go stream 24/7',
+    developer: 'My Mixtapez - Top Music apps',
+    developerId: 'My+Mixtapez+-+Top+Music+apps',
+    icon:
+     '//lh3.googleusercontent.com/3AoPySZDs5kYwWek-Bj8vsrpoP7dzo0k7g4jfpsONZOzNAzeVmk4Z7-vWaMf4pKs_Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playhome.lite',
+    appId: 'com.playhome.lite',
+    title: 'My PlayHome Lite - Play Home Doll House',
+    summary:
+     'Try out this free version of "My PlayHome". Three free rooms to play in!',
+    developer: 'Shimon Young : Play Home Software',
+    developerId: '7690988119815101160',
+    icon:
+     'https://lh5.ggpht.com/h2KiYOIiNZSKo-jzsIwPMBp5bZ9NrwdPhxlioXveEtdm0gPCGfi65YL2cLtbErI-0IFK=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.com.tapps.myderp',
+    appId: 'br.com.tapps.myderp',
+    title: 'My Derp - The World\'s Dumbest Virtual Pet',
+    summary: 'Be aware: This is NOT your usual virtual pet game!',
+    developer: 'Tapps Games',
+    developerId: '6615809648420562690',
+    icon:
+     '//lh3.googleusercontent.com/VT9u2UXnIURvw0IEE_3wVyJQo48XLn0jhLdoXdk0pT_xoMNnSJeLnGw_tJQ6v8y6gA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sprint.care',
+    appId: 'com.sprint.care',
+    title: 'My Sprint',
+    summary:
+     'Do what you want, when you want. Managing your account is easy with My Sprint.',
+    developer: 'Sprint',
+    developerId: 'Sprint',
+    icon:
+     '//lh3.googleusercontent.com/nv4AA0l9_xcaMcYm-ShwT7QK1MWWu9II9QD0fMLCF0sehynPLijJnCYUQPPpvWbwggs=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.naturalmotion.myhorse',
+    appId: 'com.naturalmotion.myhorse',
+    title: 'My Horse',
+    summary: 'Download My Horse now to look after your very own horse!',
+    developer: 'MunkyFun Inc',
+    developerId: 'MunkyFun+Inc',
+    icon:
+     '//lh3.googleusercontent.com/OqgM1OfJKxNp0i9tvKHGCqWMl3awufrZ3Z1apyl0q96ESGOKmMGUzlqAX2-_oOJaYoBi=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playhome.stores',
+    appId: 'com.playhome.stores',
+    title: 'My PlayHome Stores',
+    summary:
+     'Try on new clothes, get an ice-cream, mix a slushie and grab some groceries!',
+    developer: 'Shimon Young : Play Home Software',
+    developerId: '7690988119815101160',
+    icon:
+     '//lh6.ggpht.com/awSZBWC9qE9IYFSQJLuoaAWzBgMPwgpjrw90IcSpBBdUQcyRQGQm34N4vPQSmea0Klg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=mytown.grandparents',
+    appId: 'mytown.grandparents',
+    title: 'My Town : Grandparents',
+    summary:
+     'visit the new Grandparents house,a digital dollhouse theme requested by our fans',
+    developer: 'My Town Games Ltd',
+    developerId: '4907572025980617983',
+    icon:
+     '//lh3.googleusercontent.com/DNSX5uOylcXvutLxt6-I11ILOMnByTJZLz3-A41HqZejIYHCD1vs_aCkAu8Gr8Fiz-8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.adm',
+    appId: 'com.google.android.apps.adm',
+    title: 'Google Find My Device',
+    summary: 'Find, ring, lock, and erase any lost Android device',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/fVmZ9K4XZ5TnpRWVgLKHMUWlFHzfQ5puOo6ZHKk382yjBp94rHs88cNyt7e7KnqWJEaf=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo',
+    appId: 'com.disney.wheresmywater2_goo',
+    title: 'Where\'s My Water? 2',
+    summary:
+     'The sequel to the most addicting physics-based puzzler from Disney is here!',
+    developer: 'Disney',
+    developerId: 'Disney',
+    icon:
+     '//lh3.googleusercontent.com/xAsBzQpt4GTBx3Clu-Fwrwu5CeZuKjLBpe69s1BnuwKKs6_TEkyj0AjtD4TmULio2Ww=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

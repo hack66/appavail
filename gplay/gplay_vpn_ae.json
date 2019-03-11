@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.ae.ae',
+    appId: 'com.ae.ae',
+    title: 'AE + Aerie: Jeans, Dresses, Swimsuits & Bralettes',
+    summary: 'Check Out The Updated AEO + Aerie App.',
+    developer: 'American Eagle Outfitters',
+    developerId: 'American+Eagle+Outfitters',
+    icon:
+     '//lh3.googleusercontent.com/rN20_gbrs-rb8iyDqfjOcToqxdMv57p3H1uWV-Sd44ufv40Nea0XvZl26Sn2eJORwVvW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aetn.aetv.watch',
+    appId: 'com.aetn.aetv.watch',
+    title: 'A&E - Watch Full Episodes of TV Shows',
+    summary:
+     'Watch Leah Remini: Scientology and the Aftermath, Live PD, Intervention & more!',
+    developer: 'A&E Television Networks Mobile',
+    developerId: 'A%26E+Television+Networks+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/lPZgPM4TubHxt8SBynlsWiwttirq2GMZxonypClKvR9C9fKRS3kl8LfupFM_loNJSrY=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.sudoku',
+    appId: 'com.aemobile.games.sudoku',
+    title: 'AE Sudoku',
+    summary: 'The most popular classic Sudoku puzzle game!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh6.ggpht.com/EaIKQ7rfiBQN5pCDYckMdieBg5lcE6gFPa-1MWJp7lkLw5WQeNdoDik3RGxx46GeAw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.basketball',
+    appId: 'com.aemobile.games.basketball',
+    title: 'AE Basketball',
+    summary: 'The most challenging basketball game is coming!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh4.ggpht.com/IuygIjMWhlXoxZAxn2710b_OwG-m-xbAVqkEt3CtC4tWdZpyJxU8kYmafcDcW-NaJctb=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.coinmania',
+    appId: 'com.aemobile.games.coinmania',
+    title: 'AE Coin Mania : Arcade Fun',
+    summary:
+     'The most realistic arcade coin pusher game.  Free, fun and the prizes are great!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh6.ggpht.com/33KNpLSwNo5nAQJzTOb-13dM1D7_4r33HSz-RCZU4IrLZk7eHvFP6-MAftyzaj9IJbc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.Spider',
+    appId: 'com.aemobile.Spider',
+    title: 'AE Spider Solitaire',
+    summary: 'The #1 Spider Solitaire game in WP Market!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     'https://lh4.ggpht.com/K1NgslAoCgHgaKSR9hjk0SUsZDEkndWdBd6gIO9WdukeSKazdRmHHiP7OoEmexHs9A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.videopoker',
+    appId: 'com.aemobile.games.videopoker',
+    title: 'AE Video Poker',
+    summary:
+     'The most brilliant & classic Video Poker casino game for android!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh3.googleusercontent.com/75ol7Dd5myZ6ZhULwdPzgMORe9cuBtQ0idWXXWSeywdu9RyXDPQSlZiwHS2_HBD1WbU=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.archer',
+    appId: 'com.aemobile.games.archer',
+    title: 'AE Archer',
+    summary:
+     'Best Archer game with smooth game play, amazing graphics and awesome vivid sound',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh5.ggpht.com/gB9oxFgwFnK5KuXyuphEaHQPr393-d07Fxv_mJ6ncQZgyU0sWLXgHBaFmd1XradeRrGW=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.freecell',
+    appId: 'com.aemobile.games.freecell',
+    title: 'AE FreeCell',
+    summary:
+     'A classic FreeCell game for fun! A most popular attractive card and casino game.',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     'https://lh5.ggpht.com/JAR8em52aBJw1V1mAjX_EoaBGr9BHDFgu4mSdbcd3D-xxt0xKURBbY-VYrq5dp9mmeFp=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.bingo',
+    appId: 'com.aemobile.bingo',
+    title: 'AE Bingo: Offline Bingo Games',
+    summary:
+     'Play the best Bingo offline free.Awesome rewards.Best Bingo Games.!!!Bingo!!!',
+    developer: 'AE Mobile Limited',
+    developerId: '5805991345744362578',
+    icon:
+     '//lh5.ggpht.com/9e7oJ_XqbJFa3kLo-Yq_V4Bw3L7fBgSOixBjuQU1JTu431rHCqucuKub48lirPSswAo=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.cityjump',
+    appId: 'com.aemobile.games.cityjump',
+    title: 'AE City Jump',
+    summary: 'AE city jump the best interesting action game in andriod.',
+    developer: 'AE Mobile Limited',
+    developerId: '5805991345744362578',
+    icon:
+     '//lh3.googleusercontent.com/yWfZ24ZW5QbqdKYhCbBtUnMMlsOlttXI97Je-kC_YKkH3gET0_FHE9p9YGevZaJ3g2U=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.solitaire',
+    appId: 'com.aemobile.games.solitaire',
+    title: 'AE Solitaire',
+    summary:
+     'Play the #1 Solitaire for FREE! Solitaire card game is fun and easy to play!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh3.googleusercontent.com/D9cikd3fsMsIEoNvbT9MZIlqFGOAFCwHs5Afnv8mVffHwC2tBLql8iOYZhXDKkOG-k8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.aemotor3d',
+    appId: 'com.aemobile.games.aemotor3d',
+    title: 'AE 3D MOTOR :Racing Games Free',
+    summary:
+     'Best bike race game FREE. Fast charge, road riot and cool motorcycle.!Ride me!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh3.ggpht.com/vYh8Li75JdEOrwczWpHEh7WhlK_V8XKg_S0WuSy86QIyoScEWnm5VCX2WCzY-Ck3UrKw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.XtremeMoto',
+    appId: 'com.aemobile.games.XtremeMoto',
+    title: 'AE Master Moto',
+    summary:
+     'Most popular Extreme Dirt Bike racing game with fun and challenges!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh4.ggpht.com/pQU19i-Ob_YpQUgtRFC2rHL2KymjHa378Syw3jY4aYoMlvYJP1nWjV0fUQFwq9j3lIg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.jewel2',
+    appId: 'com.aemobile.games.jewel2',
+    title: 'AE Jewels 2: Island Adventures',
+    summary:
+     'Best wonderful free Jewels Journey!  Traditional match 3 games with extra spins.',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh3.googleusercontent.com/oQ3zfkRmR6L2gYO9qPkUi2XTNhxGAoFGgo489ZIDfXWsivjjmFNjOg2H2uKHCSflRgY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.jewel',
+    appId: 'com.aemobile.games.jewel',
+    title: 'AE Jewels',
+    summary:
+     'AE Jewels comes to your phone now!  Try this game and you won’t be sorry!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh6.ggpht.com/Cz63SxmRUKXhTApmVrdbfK4Av7tD3Uf4g8dThZ6R-kJ_Stq2nu4cPKCjVywNHZMJWg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.gunball',
+    appId: 'com.aemobile.games.gunball',
+    title: 'AE Gun Ball: arcade ball games',
+    summary:
+     'The most popular skee ball style game!Best arcade rolling ball games.ballup!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh6.ggpht.com/i4zkFbRHr4HjJLQJipSUnfT7fzTqJa-KZvCTAIB9N-IJN0tFsIOFLMxrv5g5lhjwzA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=paulscode.android.mupen64plus.free',
+    appId: 'paulscode.android.mupen64plus.free',
+    title: 'Mupen64+AE FREE (N64 Emulator)',
+    summary:
+     'Nintendo 64 emulator for Android. Mupen64Plus AE is in Beta testing.',
+    developer: 'Paul Lamb',
+    developerId: 'Paul+Lamb',
+    icon:
+     'https://lh6.ggpht.com/GUqdj4BAKvrV-QXAY42B56s7p2onRKNQ6NXq4w9rVXl96IR6GXecxKoKnncEgPscxer7=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.lg.airco',
+    appId: 'com.lg.airco',
+    title: 'LG Service AE',
+    summary:
+     'The LG Service App is a tool for the professional service technician.',
+    developer: 'LG Electronics Benelux',
+    developerId: 'LG+Electronics+Benelux',
+    icon:
+     '//lh6.ggpht.com/uDXdMCeyfe3JCFKvSkTlgobiWFUtZOiIbxARYT9V2EYPj7OxTU63vUP3Dn4sIXcp4f_l=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aemobile.games.luckyfishing',
+    appId: 'com.aemobile.games.luckyfishing',
+    title: 'AE Lucky Fishing',
+    summary:
+     'An interesting fishing game AE Lucky Fishing is free at your phone now!',
+    developer: 'AE-Mobile',
+    developerId: 'AE-Mobile',
+    icon:
+     '//lh6.ggpht.com/Mjd5Ec1Vl65ZwC7LNWX0gbjQ6SUW-W5b0cm_xoYzUxbIITnR__jy6fZCNsY7w6U8FIcA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

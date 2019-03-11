@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.ksmobile.cb',
+    appId: 'com.ksmobile.cb',
+    title: 'CM Browser - Ad Blocker , Fast Download , Privacy',
+    summary:
+     'Most secure browser, top video download with Ad Blocker and #1 Antivirus engine.',
+    developer: 'Cheetah Mobile Communications',
+    developerId: 'Cheetah+Mobile+Communications',
+    icon:
+     '//lh4.ggpht.com/PAGkrrp0ISxRO0ajsY0R6zHRUiVqWdc2SyjGZRJ-a_0YaHKXRjxadGnSQtNPJn4rVCo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.security',
+    appId: 'com.cleanmaster.security',
+    title: 'Security Master - Antivirus, VPN, AppLock, Booster',
+    summary:
+     'Get 💯protection with Antivirus, Free VPN, AppLock, WiFi Security&Booster here!',
+    developer: 'Cheetah Mobile (AppLock & AntiVirus)',
+    developerId: '8544729060931835350',
+    icon:
+     '//lh3.googleusercontent.com/mRmDkPRRuyNmtm-_z_KToVzDfEj8PLa6xBD2xhzHz4oBHmOsWLk0bBFcT_7EdYYVx_0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ksmobile.launcher',
+    appId: 'com.ksmobile.launcher',
+    title: 'CM Launcher 3D - Themes, Wallpapers',
+    summary:
+     '🏆3D Launcher with FREE Themes & Wallpapers 👍Hide, lock & manage apps easily',
+    developer: 'Cheetah Mobile Inc',
+    developerId: '9039162468609723323',
+    icon:
+     '//lh3.googleusercontent.com/PFdX4xhQkldThkH3u9g0Bimt2iYJ2WLX5XYiY6raB4CmKrhfG0wv-lJsX1a8m3k9ihc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cmcm.locker',
+    appId: 'com.cmcm.locker',
+    title: 'CM Locker - Security Lockscreen',
+    summary:
+     'Security lockscreen, customized with FREE HD wallpapers & themes!',
+    developer: 'Cheetah Mobile (Secure lockscreen & Applock)',
+    developerId: 'Cheetah+Mobile+(Secure+lockscreen+%26+Applock)',
+    icon:
+     '//lh6.ggpht.com/zj47jE5zWSLem5MnS1g_wU4tfR0v6l-LoC6wZbDYdmENNf6LHKScb0XA7UY0OQHUsYs=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cmcm.freevpn',
+    appId: 'com.cmcm.freevpn',
+    title: 'CM Security Open VPN - Free, fast unlimited proxy',
+    summary:
+     'CM Security OpenVPN, the best free high-speed VPN with unlimited VPN connection',
+    developer: 'VPN Studio',
+    developerId: 'VPN+Studio',
+    icon:
+     '//lh3.googleusercontent.com/psA_E_5L4o5KiAGlh0wtWcxAgnqiBnDdQpi89v0si2HNqRRUCI3A1dCDxHvdm3DsWYY=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=medusa.ruler',
+    appId: 'medusa.ruler',
+    title: 'Ruler cm',
+    summary:
+     'Measure small things in centimeters using just your screen and Ruler cm.',
+    developer: 'Patán Libre',
+    developerId: 'Pat%C3%A1n+Libre',
+    icon:
+     '//lh5.ggpht.com/Gro212lWgJS7Qz257Jw81yX7yR0jpop6YRFfIs6l9DAblLO0vlzMFK3kRzTeA57E27Zx=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saberstudio.bestapps.cmtransferinfo',
+    appId: 'com.saberstudio.bestapps.cmtransferinfo',
+    title: 'Cm Transfer - Share any files with friends Advice',
+    summary: 'Advice for Cm Transfer Share any files with friends',
+    developer: 'Jimmy iwahr',
+    developerId: 'Jimmy+iwahr',
+    icon:
+     '//lh3.googleusercontent.com/4r1dLq34KXDMAZRI8vjJ9kZNSbwstXqKiShsc2MhLG5DFFd-MhbSGVEo1BTWrgxsQQ=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.mguard',
+    appId: 'com.cleanmaster.mguard',
+    title: 'Clean Master - Antivirus, Applock & Cleaner',
+    summary:
+     '💯Get Antivirus+Junk Cleaner+Speed Booster+Game Master+Wi-Fi Protector here!',
+    developer: 'Cheetah Mobile',
+    developerId: '7480941732172192727',
+    icon:
+     '//lh3.googleusercontent.com/aVB9ALYrWpngHRCJTBKNZQXIQtKjnwu7OM0UYcT2OJ2B11-9lHo5X5QbzK_Ph_axpwI1=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=bong.android.ruler',
+    appId: 'bong.android.ruler',
+    title: 'Ruler(cm, inch)',
+    summary: 'Graduated ruler for Android. (cm, inches, mm)',
+    developer: 'jubo co',
+    developerId: 'jubo+co',
+    icon:
+     '//lh3.ggpht.com/9C_D66YQ9xRJESE213nwOsQHpq8CHmnrvpgEiCX6IMN2m8T4g9xjw2dzG04Y1zKR3Q=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cmcm.lite',
+    appId: 'com.cmcm.lite',
+    title: 'Clean Master Lite - For Low-End Phones',
+    summary:
+     'Smarter cleaner, antivirus & phone boost app but much lighter!',
+    developer: 'Cheetah Mobile',
+    developerId: '7480941732172192727',
+    icon:
+     '//lh3.googleusercontent.com/4n7OTdgsDRnru5A1MU6Iz0RIpL_Zg_20ltOiqcsNrruwAGlW30DfNRLb3Gl6SJ5O9Vo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ksmobile.pro.launcher',
+    appId: 'com.ksmobile.pro.launcher',
+    title: 'CM Launcher 3D Pro💎',
+    summary:
+     'Ad-free CM  launcher 3D with transition effects, 10+ gestures and saves data.',
+    developer: 'Launcher 3D Pro',
+    developerId: 'Launcher+3D+Pro',
+    icon:
+     '//lh3.googleusercontent.com/XnQPw_lbXeRHkHCcPb4Xnw1NTMKOoJB4uynXfmFmdN5ATNecdtsNknrB1m6hT2z4XU8_=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=pricereduc.cm.in.unit.converter',
+    appId: 'pricereduc.cm.in.unit.converter',
+    title: 'cm to inches | centimeters to inches conversion',
+    summary:
+     'Convert easily cm to inches and inches to centimeter with a calculator included',
+    developer: 'Pricereduc',
+    developerId: 'Pricereduc',
+    icon:
+     '//lh3.googleusercontent.com/oThXIplsv0U4HD-rjvinuNctt16f8TyRCrjNrX1m42sWOcW0ny73F95NXH5TeBK-KqM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.codemobiles.toeic',
+    appId: 'com.codemobiles.toeic',
+    title: 'CM TOEIC® MASTER',
+    summary: 'THE BEST TOEIC® APP',
+    developer: 'CodeMobiles Co., Ltd.',
+    developerId: '5257389910636597426',
+    icon:
+     '//lh3.googleusercontent.com/pMswenyeG5Ai_3ELT_kqSwTi3TNUbsO0brvaDfZKVZFh_TPwzJNy4w3d4MTfzCM8CVc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.cmapp',
+    appId: 'com.cmapp',
+    title: 'CM Events',
+    summary: 'The new participant app CM Events for Conference Manager.',
+    developer: 'Conference Manager',
+    developerId: 'Conference+Manager',
+    icon:
+     '//lh3.googleusercontent.com/4cke2otITJfuAwFCKRD29Qz7QewFb52y08k6aueub8uY_BVCzK10poAcSamv6XPGYQN2=w340',
+    score: 2.1,
+    scoreText: ' Rated 2.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creativeapps.androidapps.lengthconverter',
+    appId: 'com.creativeapps.androidapps.lengthconverter',
+    title: 'Length Converter: convert mm,cm,m, feet,yard,mile',
+    summary:
+     'Converts inch , yard, feet , mile , centimetre, meter & more to any of the units',
+    developer: 'Creative Apps Team',
+    developerId: 'Creative+Apps+Team',
+    icon:
+     '//lh3.googleusercontent.com/SqQZflsnIk-eTh79PlxecB-2tnpb8BiRdOW0420GgF6yU-kQukm82RLKZWwGlnBy_VtW=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.m_yd.dev001.app001',
+    appId: 'com.m_yd.dev001.app001',
+    title: 'm, cm, mm to yard, feet, inch converter tool',
+    summary:
+     'Converts meter, centimeters, millimeters to yard, feet and inches',
+    developer: 'SGAPP',
+    developerId: 'SGAPP',
+    icon:
+     '//lh3.googleusercontent.com/hPN53YfS9DkQN_jxXNIg0OhUUtTJartozVJ_AMoQYVLOMysq9MZSJjDuNlNR8iINNhU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.krishnaar.squares',
+    appId: 'com.krishnaar.squares',
+    title: 'Squares cm 12/13 theme (DEAD)',
+    summary:
+     'design is like decorating things in your own style,experience it with "SQUARES"',
+    developer: 'KRISHNA AR',
+    developerId: '6897759832564304473',
+    icon:
+     '//lh3.googleusercontent.com/DtZEQ75In5tT9oIh_WTDVbX03XBn2a0fEnwpKDfAlFB46Rx8RSo2843nTKyVUMz2zQg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saalim.cm.theme.dusk',
+    appId: 'com.saalim.cm.theme.dusk',
+    title: 'Dusk - CM 12/12.1/13 Theme',
+    summary: 'Free and Open Source Material Design CynagenMod Theme',
+    developer: 'Saalim',
+    developerId: 'Saalim',
+    icon:
+     '//lh3.googleusercontent.com/j6f4Kb_lJ3BWMX7I0D9md2Po8BwIXR48SHk-NscBiVsG5NTDRRX6kjxP6vYsOW2L3muS=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cm_mm.dev001.app001',
+    appId: 'com.cm_mm.dev001.app001',
+    title: 'cm, mm to inch, feet converter tool',
+    summary: 'cm / mm to inch / feet converter',
+    developer: 'SGAPP',
+    developerId: 'SGAPP',
+    icon:
+     '//lh3.googleusercontent.com/4BZiVP2JiYCVUkLyKjGjv895GtIjXC5veMUwh_tiB8g-DfGYJaxGsgd7v5n1SY54s38=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.neoandroid.rulerandroid',
+    appId: 'kr.co.neoandroid.rulerandroid',
+    title: 'Tape measure (cm, inch, Free)',
+    summary:
+     'The tape measure was able to measure the inches and centimeters (millimeters).',
+    developer: 'NeoAndroid in Cos.',
+    developerId: 'NeoAndroid+in+Cos.',
+    icon:
+     '//lh3.googleusercontent.com/WEkt_xYMki1vLaohwn_XoA9m-Q5fpK4kfc0HP9NyvRaZvLjjtxcyFoRuARhZN8_ykQ=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

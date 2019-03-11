@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.legends',
+    appId: 'com.mobile.legends',
+    title: 'Mobile Legends: Bang Bang',
+    summary:
+     'A thrilling 5v5 MOBA, now featuring a 99-player Battle Royale Mode.',
+    developer: 'Moonton',
+    developerId: '8532907581042995001',
+    icon:
+     '//lh3.googleusercontent.com/XlLyuJXFT59AapK9WE5lblQaKpnvZQQG5ZykDNewHZ-0kqjqu5KKjiiyAeIHfOSh1do=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ml.mobile.bol',
+    appId: 'com.ml.mobile.bol',
+    title: 'Benefits OnLine',
+    summary: 'Retirement and Benefit Services provided by Merrill Lynch',
+    developer: 'Merrill Lynch, Pierce, Fenner, and Smith Inc.',
+    developerId: 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/qSxfaqAHsLluZMJkgFT3_2rONzMmmKjiCopQ3JVUx5BTw7VecXe1iqY-owfO7g2Bpw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.buildguide.forlegends',
+    appId: 'com.buildguide.forlegends',
+    title: 'Ml Build Guide For Legends',
+    summary: 'Ml Build guide is a guide Application for legends',
+    developer: 'Mert Üzülmez',
+    developerId: 'Mert+%C3%9Cz%C3%BClmez',
+    icon:
+     '//lh3.googleusercontent.com/xVLxi3tPrNeV5cHanY66LeHUDkFPxEIZ18k2NmaRb92egWiQ2nIAWZrfAo0jtdF02I3J=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager',
+    appId: 'com.javiersantos.mlmanager',
+    title: 'ML Manager: APK Extractor',
+    summary:
+     'A modern, easy to use and customizable app manager. Extract APKs and more!',
+    developer: 'Javier Santos V.',
+    developerId: '9205902632927830308',
+    icon:
+     '//lh3.googleusercontent.com/vlEro31V-812wDYs-WOBvssTdpBVlsFSycn8eZZUVDR_wiv5lU-QPQcHKaMib6yCrS0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.javiersantos.mlmanagerpro',
+    appId: 'com.javiersantos.mlmanagerpro',
+    title: 'ML Manager Pro: APK Extractor',
+    summary:
+     'A modern, easy to use and customizable app manager. Extract APKs and more!',
+    developer: 'Javier Santos V.',
+    developerId: '9205902632927830308',
+    icon:
+     '//lh3.googleusercontent.com/lcQ8Wk9Bfp5paojtN5fbOgomuF5YQ7qxEYCFYoRl6Fp3bPPRwbJ7VT5K8KuPBOTiQQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$1.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ml.mobile.mymerrill',
+    appId: 'com.ml.mobile.mymerrill',
+    title: 'MyMerrill for Android',
+    summary:
+     'Access your Merrill Lynch account(s) from your Android device.',
+    developer: 'Merrill Lynch, Pierce, Fenner, and Smith Inc.',
+    developerId: 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/MfL8QGYZRR-F8AfcfNfp7akisQ4MaxnCyCX6DTcGeYcarIZc_zRD7mNkNkJbC_-u1-s=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ml.mobile.edge',
+    appId: 'com.ml.mobile.edge',
+    title: 'Merrill Edge for Android',
+    summary:
+     'Access your Merrill Edge account(s) from your Android device.',
+    developer: 'Merrill Lynch, Pierce, Fenner, and Smith Inc.',
+    developerId: 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/EX-Ok42uKgPI9Cx29trNFgt_aTFXJ8HhOCKVnOcAgu0N18f2yiP-Uf_QETgvmhUrbsB1=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sshvpnkpn.mlvpn',
+    appId: 'com.sshvpnkpn.mlvpn',
+    title: 'ML VPN - VPN For MOBA Gaming',
+    summary: 'Free and Fast VPN for Gaming',
+    developer: 'VPNSSHKPN',
+    developerId: 'VPNSSHKPN',
+    icon:
+     '//lh3.googleusercontent.com/csaaOm5CcMpdpk_wPDllJIszN_2e9M6E22E6h8BAuaGexKtrsKuTiQMjyxco2J05CVfR=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mlhuillier.paynearme',
+    appId: 'com.mlhuillier.paynearme',
+    title: 'ML Remit by MLHUILLIER',
+    summary: 'ML Remit by MLHUILLIER',
+    developer: 'M. Lhuillier Financial Services Inc.',
+    developerId: 'M.+Lhuillier+Financial+Services+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/A7NkKc_h5SFRfDFEYfP3Yywv0WuPe_Eo2VYQh98JjPoabdYVFtT6A0QiEzj4z9ZiUV2y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.doubledutch.bmmzn.mlps2017',
+    appId: 'me.doubledutch.bmmzn.mlps2017',
+    title: 'ML Current',
+    summary: 'App for American National Multiple Line Agents Only.',
+    developer: 'American National',
+    developerId: 'American+National',
+    icon:
+     '//lh3.googleusercontent.com/_DJ2AIhD7OXcrcHqg-DdOLNFDPuDVKhpxeryWb48blhGCr513dUN46W8Wd-lRAZcVhxa=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftHOHM',
+    appId: 'com.gameloft.android.ANMP.GloftHOHM',
+    title: 'Heroes of Order & Chaos',
+    summary:
+     'Team up to fight in the first Multiplayer Online Battle Arena for mobile devices',
+    developer: 'Gameloft',
+    developerId: '6258770168633898802',
+    icon:
+     '//lh3.googleusercontent.com/yiEoVTx4UqhhemdddU5lvi5AsQkf8wEiv1Cj3-Ic_oJKN6H6QJc_LogsFuZEEb12-mA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gr.stgrdev.mobiletopographerpro',
+    appId: 'gr.stgrdev.mobiletopographerpro',
+    title: 'Mobile Topographer Pro',
+    summary:
+     'Can a topographic device fit into your pocket?The choice of the professionals!',
+    developer: 'S.F. Applicality Ltd.',
+    developerId: '6555750703243187039',
+    icon:
+     '//lh6.ggpht.com/rZBx7BEkk2YbPo6zLOZ1NuEHZkT8A5ON_vpr8E343KBqqossj76gudMo1WGGf_9S5w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$16.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=cnw.chipnweb.million_lights',
+    appId: 'cnw.chipnweb.million_lights',
+    title: 'ML TV - Channel for free lectures and job news',
+    summary:
+     'Skilling and Career news by Millionlights - Upgrade your skills & apply for jobs',
+    developer: 'millionlights university',
+    developerId: '6826251858290224824',
+    icon:
+     '//lh3.googleusercontent.com/q1cBtX0hG8wZS5e0pljCNASRT0CaoEIJF-EK7aF6Po1NawIXSIim-_xyYikeT2WpoQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.rmdesigns.rubyml',
+    appId: 'in.rmdesigns.rubyml',
+    title: 'Ruby [ML] - theme Xperia™',
+    summary: 'Theme for Sony® Xperia™ devices only.',
+    developer: 'RM designs',
+    developerId: '5891018362930010716',
+    icon:
+     '//lh3.googleusercontent.com/UwgkCrvQ-qT1wEaezl3aspps35RLJGFkj49WcdSs-LWH7D7_Q_lU3wS2WM8aU2Sd1T0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.medialogic.mediaplayer',
+    appId: 'jp.co.medialogic.mediaplayer',
+    title: 'ML MediaPlayer',
+    summary:
+     'Can play 4K/HD movies of USB devices such as video camera and USB memory.',
+    developer: 'メディアロジック (Media Logic, corp.)',
+    developerId:
+     '%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF+(Media+Logic,+corp.)',
+    icon:
+     '//lh3.googleusercontent.com/-2x6xKLyVIwnevDoR3nAaNg4usuhNsHkJgI7HOapDCGEet8r4bWlljbMFFS7LfIqaA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hcsoft.tip.mobilelegends',
+    appId: 'com.hcsoft.tip.mobilelegends',
+    title: 'Tip & Trick Mobile Legend Bang bang FREE',
+    summary: 'Tip & Trick Mobile Legend Bang bang FREE',
+    developer: 'tinerie alie',
+    developerId: 'tinerie+alie',
+    icon:
+     '//lh3.googleusercontent.com/5T4xdBNF-gbBr0jlOBEhMksKot1vHOLUxolNNugdwA_ykmkZSYqpthupijXnqyq2fg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rsg.heroesevolved',
+    appId: 'com.rsg.heroesevolved',
+    title: 'Heroes Evolved',
+    summary: 'Fair and fun MOBA action on the go',
+    developer: 'Reality Squared Games',
+    developerId: '7181574358727028715',
+    icon:
+     '//lh3.googleusercontent.com/zyKuV4UreNte_MT5sud75mjNSPgROrGwhRylhwv1eTLEws6GeRMhYlkLMA7PKejFFYY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=space.moviesearch.admin.mltoliter',
+    appId: 'space.moviesearch.admin.mltoliter',
+    title: 'mL to Liter Converter',
+    summary:
+     'mL to Liter Converter app to convert mL to Liter and Liter to mL.',
+    developer: 'KrishnaaFA',
+    developerId: 'KrishnaaFA',
+    icon:
+     '//lh3.googleusercontent.com/0M0Vodsg3S6KTi-TO9prEs6vhmSNAgSbqk9Kk_PQcQL1FrGJidmgnhNKdJO6QOCROtw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pricereduc.liter.mililiter.unit.converter',
+    appId: 'pricereduc.liter.mililiter.unit.converter',
+    title: 'Convert L to mL | Mililiter to Liter conversion',
+    summary:
+     'Convert easily ppm to percent and percent to ppm with a calculator included',
+    developer: 'Pricereduc',
+    developerId: 'Pricereduc',
+    icon:
+     '//lh3.googleusercontent.com/1EzMEzEMU2fcWP6373bBv_AZPF8wUHKmiUxxVlD55xyzBhJn-6icBPw7Cc_0Pes3E14=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=logsolution.de.csml_tracker',
+    appId: 'logsolution.de.csml_tracker',
+    title: 'CS-ML-Tracker',
+    summary: 'Track & trace your service parts.',
+    developer: 'LogSolution GmbH',
+    developerId: 'LogSolution+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/LMhDpttOHVqdm46SH_sxddCWj83TclLJQJEdVCBjkJlikrh7B3UR1bKB2sNDp3nN-Ao=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

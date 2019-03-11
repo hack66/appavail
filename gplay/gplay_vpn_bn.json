@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=bn.ereader',
+    appId: 'bn.ereader',
+    title: 'NOOK: Read eBooks & Magazines',
+    summary:
+     'Barnes & Noble’s award-winning book discovery and digital reading experience.',
+    developer: 'Barnes & Noble',
+    developerId: 'Barnes+%26+Noble',
+    icon:
+     '//lh3.googleusercontent.com/70KJre3QhBz6zNO6lq019cNyn4Bx3FqzNiqrsOAda-o7_DK1Gby2zDcJegG6fkC5Zw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.milq.beads.bnn',
+    appId: 'com.milq.beads.bnn',
+    title: 'Browsery by Barnes & Noble',
+    summary: 'The first app to talk about books the way you do.',
+    developer: 'Barnes & Noble',
+    developerId: 'Barnes+%26+Noble',
+    icon:
+     '//lh3.googleusercontent.com/q5W3fs6sIGdeD3dvr0-J6Vjws_EDkYv-whpXQ7hEH8jjnvmxsCK6jNlSk8sbkx5ctysE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fueled.bnc',
+    appId: 'com.fueled.bnc',
+    title: 'My College Bookstore',
+    summary:
+     'Exclusive bookstore offers and events, order tracking, rental reminders and more',
+    developer: 'Barnes & Noble College',
+    developerId: 'Barnes+%26+Noble+College',
+    icon:
+     '//lh3.googleusercontent.com/_bgg-J9LVz1wE2SXMyBnbMPwgl0StyH-sEtZOSlf1imBZGLBZF0r24i21Omcb8sPpA=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.speedetab.barnesandnoblecafe.user',
+    appId: 'com.speedetab.barnesandnoblecafe.user',
+    title: 'Barnes & Noble Cafe',
+    summary:
+     'With Barnes & Noble Café app you can easily order, customize and pay.',
+    developer: 'SpeedETab',
+    developerId: 'SpeedETab',
+    icon:
+     '//lh3.googleusercontent.com/q8dwfBD1zluIuQnmUUY9eI3YJEItvLaGLzigNaDZY3ukUaUqhWnYsy1wGEKXOX0y1yM=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.nook.app',
+    appId: 'com.nook.app',
+    title: 'NOOK App for NOOK Devices',
+    summary:
+     'Stay up to date with the latest reading experience for your NOOK Device.',
+    developer: 'Barnes & Noble',
+    developerId: 'Barnes+%26+Noble',
+    icon:
+     '//lh3.googleusercontent.com/hBKfm7iRpsLcBnKNxyl5ELi1zKQe0zlm-EdHpV_llVdLYN8OeipAS_wZsoEb7OPuHw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bn.nook.audio',
+    appId: 'com.bn.nook.audio',
+    title: 'NOOK Audiobooks',
+    summary:
+     'Welcome to NOOK Audiobooks for Android tablets and smartphones',
+    developer: 'Barnes & Noble',
+    developerId: 'Barnes+%26+Noble',
+    icon:
+     '//lh6.ggpht.com/xk9jyjOn02b-nUPYsJB9YZBa7G-ctVY9HDR4dxI2b0_dF0UAC-7COLhwjBB5tvjULQs=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobtion.bnmascerca',
+    appId: 'com.mobtion.bnmascerca',
+    title: 'BN Más Cerca de Usted',
+    summary: 'We opened an office 24/7 on their mobile devices.',
+    developer: 'Banco Nacional de Costa Rica',
+    developerId: 'Banco+Nacional+de+Costa+Rica',
+    icon:
+     '//lh4.ggpht.com/nvCDVPFNHOxoyEVF3l7pvO-C8lPy6TWxG-yuVW8QjkAtsgSM9Q8tlmK7b0ll4oFEMQ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.hdwhite',
+    appId: 'com.larryvgs.battery.icons.hdwhite',
+    title: 'BN Pro White HD Text',
+    summary:
+     'HD (higher-density) add-on package for Battery Notifier Pro BT 1.5.1 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     'https://lh5.ggpht.com/J7BapKEBWGRZ0IlrXhhXPjHVSJAwDetBX0Gq9DNnf8-gy-afx5d6MMp65UlYjnEInh59=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.arialnarrowxl',
+    appId: 'com.larryvgs.battery.icons.arialnarrowxl',
+    title: 'BN Pro ArialXL Legacy Text',
+    summary:
+     'MD (medium-density) add-on package for Battery Notifier Pro BT 1.3.6 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     'https://lh3.ggpht.com/-qZ1bGDGYjj9wh5E0JWY_bCPORdA-RxdhNlCVN-Rbp-vSZ5ErGs7ZF6P_HIT2CbjLw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.TESIC.rtvbnv2',
+    appId: 'com.TESIC.rtvbnv2',
+    title: 'RTVBN',
+    summary:
+     'Nova aplikacija BN Televizije. Sve vijesti na jednom mjestu.',
+    developer: 'NEST GROUP D.O.O',
+    developerId: 'NEST+GROUP+D.O.O',
+    icon:
+     '//lh6.ggpht.com/_qfdeIofj_bI75oBPxyqWNTKpRBAYeqJL4stbFFNP5uBO-uyAjJwBjH_HZPKgnH7z60m=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.bookwalker.kreader.android.epub',
+    appId: 'jp.bookwalker.kreader.android.epub',
+    title: 'BOOK☆WALKER – Manga & Light Novels',
+    summary:
+     '10,000+ Manga & Light Novels! An official eBook store and app run by KADOKAWA.',
+    developer: 'BOOK WALKER',
+    developerId: 'BOOK+WALKER',
+    icon:
+     '//lh3.googleusercontent.com/PuaonKd-JZoM7UYgsw7NtzsOX_IBdrif4YAJP9m9PmrG8BixPhwwKt6Xtn6A6yj0exc=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.hdblueicsb',
+    appId: 'com.larryvgs.battery.icons.hdblueicsb',
+    title: 'BN Pro BlueICS-b HD Text',
+    summary:
+     'HD (higher-density) add-on package for Battery Notifier Pro BT 1.5.1 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     'https://lh5.ggpht.com/Rf09SYjAQ7Cp6oY0ZCaMC1ynJEB30EOBLflf2TIS1jWGurnMu2-yMqk7qMojdcWVnw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evry.mobile.android.smartbankmobile.bnbank',
+    appId: 'com.evry.mobile.android.smartbankmobile.bnbank',
+    title: 'BN Bank',
+    summary:
+     'Mobilbanken gives you access to the same services as in the online bank.',
+    developer: 'BN Bank ASA',
+    developerId: 'BN+Bank+ASA',
+    icon:
+     '//lh3.googleusercontent.com/RCI7E1bNR42sLHG8qLK-MRryaZefEMEUtjyYKmpzu2rrKv6pS-pYoyNpulrKmB-8X40=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.bnperks',
+    appId: 'com.mobile.bnperks',
+    title: 'BN PERKS™',
+    summary:
+     'Power up local savings and live Concierge service at your fingertips!',
+    developer: 'Mansa Infotech',
+    developerId: 'Mansa+Infotech',
+    icon:
+     '//lh3.googleusercontent.com/3qwlK23mkho6-Hu0X4WaOHlNKecCyNhbtMD9Z-b0YDbeQG4r-OAwImKk2lN_1CokixoB=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ua.com.enadein.battery',
+    appId: 'ua.com.enadein.battery',
+    title: 'Sam.BN',
+    summary: 'Sam.BN - Battery status notification',
+    developer: 'Eugene Nadein',
+    developerId: 'Eugene+Nadein',
+    icon:
+     '//lh3.googleusercontent.com/Io9OQPwR60ZYGdiDP2ilgO79EjihEum81u7oKjS1yMkE5rJNO8BJymCO4tdH85RSFotb=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.hdrobotobneon',
+    appId: 'com.larryvgs.battery.icons.hdrobotobneon',
+    title: 'BN Pro Roboto-b Neon HD Text',
+    summary:
+     'HD (higher-density) add-on package for Battery Notifier Pro BT 1.5.1 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     '//lh6.ggpht.com/N9K5TBaF8WoWACy59UiSw969sHuaYjUswI-r71GycT7FQFqAojupC_ZWl9XwUzuIZNU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ua.com.enadein.battery.pro',
+    appId: 'ua.com.enadein.battery.pro',
+    title: 'Sam.BN Pro',
+    summary: 'Sam.BN - Battery status notification',
+    developer: 'Eugene Nadein',
+    developerId: 'Eugene+Nadein',
+    icon:
+     '//lh3.googleusercontent.com/YXbeUpOuBVDon_1M-mBG4-z9D5efnIer0INKrBEXkzoV1dPDGDC7Wpo4mWOrTLU7fg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.blackonwhite',
+    appId: 'com.larryvgs.battery.icons.blackonwhite',
+    title: 'BN Pro Black Text on White',
+    summary:
+     'MD (medium-density) add-on package for Battery Notifier Pro BT 1.3.6 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     'https://lh4.ggpht.com/rEvGTt1K-9kcOIlXYVLhnr1f4nmdw8knlKmkxFc_jmWfXWokeA0Lp0Tx6GU5AUJJpQ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.larryvgs.battery.icons.white',
+    appId: 'com.larryvgs.battery.icons.white',
+    title: 'BN Pro White Text',
+    summary:
+     'MD (medium-density) add-on package for Battery Notifier Pro BT 1.3.6 or higher.',
+    developer: 'Shkil/larryvgs',
+    developerId: 'Shkil/larryvgs',
+    icon:
+     'https://lh6.ggpht.com/HyR_SAQN9Ma0Vyqh5GpBMLDHLc0G1jBQMz9Ic9KI2Ibvn5edBWxSC9WPgxp_QelcQLs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobappcreator.app_39199_40597',
+    appId: 'com.mobappcreator.app_39199_40597',
+    title: 'BN MALLORCA Radio',
+    summary:
+     'Emisora musical y cultural de carácter independiente que emite en el 106.5 FM',
+    developer: 'Recasound',
+    developerId: 'Recasound',
+    icon:
+     '//lh3.googleusercontent.com/iL1IDcrG8KkdShtrFpmaRn4JY0E7_OxvxkgEdY9mpNAyRAnHAxwBgCq6sFgKtOycEzk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

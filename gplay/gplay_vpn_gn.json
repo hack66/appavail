@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.one.goodnight',
+    appId: 'com.one.goodnight',
+    title: 'Goodnight Voice Dating: Match,Chat in Lonely Night',
+    summary:
+     'Can\'t Sleep? Find Someone and Say Hello.Discover + Call. Anonymous + Private.',
+    developer: 'Paktor Pte. Ltd.',
+    developerId: 'Paktor+Pte.+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/jdCUJwwMmVQWp2OYmyWU8jydZK6c0aZH3AfM7TLsFSZmREyE9-u_u4_ou3NHmDcUgd8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.resound.vanilla',
+    appId: 'com.resound.vanilla',
+    title: 'GN Hearing Tuner',
+    summary:
+     'GN Hearing Tuner - control and personalization of your hearing experience',
+    developer: 'GN Hearing',
+    developerId: 'GN+Hearing',
+    icon:
+     '//lh3.googleusercontent.com/RvlNZ-xSvnSv6JhAt6KvErNZMjSs4TrNikUrwblMWyIT-GfE5lqS6Lg5Kpq4CuYPvxg=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gnhearing.gnbemore',
+    appId: 'com.gnhearing.gnbemore',
+    title: 'BeMore',
+    summary: 'BeMore - control & personalization of hearing aids',
+    developer: 'GN Hearing',
+    developerId: 'GN+Hearing',
+    icon:
+     '//lh3.googleusercontent.com/p6TSUA4SvwznKjgI6mv9uaWrvZQxkaQNiKsFIuXPIHPbBGh3AYCLxv3PzDOXDTVixI0=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.App.GNMedia',
+    appId: 'com.App.GNMedia',
+    title: 'GN Media',
+    summary:
+     'One stop destination to stay informed, stay connected and stay entertained.',
+    developer: 'Groupe Nduom (GN)',
+    developerId: 'Groupe+Nduom+(GN)',
+    icon:
+     '//lh3.googleusercontent.com/lzU-Ido2prCbRioAnRe4uqmYuueJmnr28Tpy3HNHSPwpfzGvAQ6_CmNy823HX2AKq6E=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shriconnect.TSWY',
+    appId: 'com.shriconnect.TSWY',
+    title: 'TSWY GN',
+    summary: 'TSWY GN',
+    developer: 'Shri Educare Limited',
+    developerId: 'Shri+Educare+Limited',
+    icon:
+     '//lh3.googleusercontent.com/axvQgv2WmbITM2Q1PfKXO90AwMLondYGw38vtMrwftS6USfpV4rFlS_NKEzl8Um73o4=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=app.messe.gnresound',
+    appId: 'app.messe.gnresound',
+    title: 'GN ReSound',
+    summary:
+     'Since 1943,ReSound has improved the quality of life for people with hearing loss',
+    developer: 'apptown.dk',
+    developerId: 'apptown.dk',
+    icon:
+     '//lh3.googleusercontent.com/Im68nSdRa4X2Sn01E7tEHp_ZYPr3ARwXvs8biuycR1eDp0MH8LbONTY8BFVHVPBfV_7G=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.isfbank',
+    appId: 'com.isfbank',
+    title: 'GN Bank',
+    summary:
+     'Securely access your GN Bank account from your phone or tablet.',
+    developer: 'ISF Bank',
+    developerId: 'ISF+Bank',
+    icon:
+     '//lh3.googleusercontent.com/nBK8YfObSC3Z_PI4hfuRXW9fe793LKLwbXP36fEAcgp4SUTvw5wRGYUZLI852CR09fpj=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.payappglobal.gnmobilemoney',
+    appId: 'com.payappglobal.gnmobilemoney',
+    title: 'GN Mobile Money',
+    summary: 'Mobile Financial Service App',
+    developer: 'GN BANK',
+    developerId: 'GN+BANK',
+    icon:
+     '//lh3.googleusercontent.com/Fkz9wGtN8RhwwZ0lDRRJWP7ANMvFhcMUoYF1hxD-fPgdA2_X4B9V6ha-fp2wmRb5LTvY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.resound.smart3d',
+    appId: 'dk.resound.smart3d',
+    title: 'ReSound Smart 3D',
+    summary:
+     'ReSound Smart 3D™ - for ReSound LiNX Quattro™, LiNX 3D™ and ENZO 3D™',
+    developer: 'GN Resound',
+    developerId: 'GN+Resound',
+    icon:
+     '//lh3.googleusercontent.com/ThRAuW_DjDOHt1dDLtaMomaxTsniKTK1AXYCb60leblYnRnBvCGnpSV7G0GSMou-nR0=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gntimes.app',
+    appId: 'com.gntimes.app',
+    title: 'GN Times',
+    summary:
+     'GNtimes is the best breaking news mobile application provided in Cambodia.',
+    developer: 'Mr. Va Hong',
+    developerId: '7968945554856501163',
+    icon:
+     '//lh3.googleusercontent.com/3BOlb3K3JCLKGjZkYb3s5Bfxfw63F9IBawKcCDIA1a4sg8YaPtMDg6hRGg3S-9EvLQ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.syou304.googlenowalternative',
+    appId: 'jp.syou304.googlenowalternative',
+    title: 'G.N. Alternative',
+    summary: 'You can replace your Assist App with another one.',
+    developer: 'syoubook304',
+    developerId: '6252234632174909036',
+    icon:
+     '//lh5.ggpht.com/wpmWEVkEnjT0XF-KWzjLJwD-9Y-J0XxodLOVUQItoSN38rGrArmjzT05NyVvdwDrQjPw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Night.Gif',
+    appId: 'com.Night.Gif',
+    title: 'Good Night Images Gif',
+    summary:
+     'Beautifull Good Night Images Animated Gif Love  Flowers Candles sweet dreams',
+    developer: 'NewLooks',
+    developerId: 'NewLooks',
+    icon:
+     '//lh3.googleusercontent.com/uBGu9O7smD-65HpYZGt7WZCIQII3yr0GLseCqYq2JlvRTuMUalCEjUpTTwuPMBtwRkY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maximum.goldennacionalmix',
+    appId: 'com.maximum.goldennacionalmix',
+    title: 'Rádio GN',
+    summary: 'Now you can also listen to our Radio on your cell phone',
+    developer: 'Stream Maximum | Soluções Para Web Rádios.',
+    developerId:
+     'Stream+Maximum+%7C+Solu%C3%A7%C3%B5es+Para+Web+R%C3%A1dios.',
+    icon:
+     '//lh3.googleusercontent.com/MSlAnAGcc5uQjUlydFgsOx7uYuO_1G2UqkRMeY35lPivQ3nf-g6VQzvrPudacP2Sew=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skyinfoway.goodnightgif',
+    appId: 'com.skyinfoway.goodnightgif',
+    title: 'Good Night Gif',
+    summary:
+     'Lets enjoy this beautiful night with Good Night Gif and images.',
+    developer: 'Sky Studio App',
+    developerId: '6458142676983195417',
+    icon:
+     '//lh3.googleusercontent.com/lPERE3VmuntngQ9vpA-kniQPnRfVpGAEIVVTVu0-GPCR75My_EUGZ09MSNCn34D1cA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pgr.pebs.tamilimages2',
+    appId: 'pgr.pebs.tamilimages2',
+    title: 'Good Morning & Good Night Images',
+    summary:
+     'Share Good Morning & Good Night Images, Quotes,Wishes  to your friends,family',
+    developer: 'PGR Pebs',
+    developerId: 'PGR+Pebs',
+    icon:
+     '//lh3.googleusercontent.com/RxLQixtO6QFjqtNsoJX-QSqUtGISfu20NxRBYUZBABJ2Rt5Dfpfiu436pIhqckZHInci=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pgr.pebs.tamilimages3',
+    appId: 'pgr.pebs.tamilimages3',
+    title: 'Good Morning & Good Night Wishes',
+    summary:
+     'Share & Convey  Good Morning & Good Night Wishes,Quotes to your friends, family',
+    developer: 'PGR Pebs',
+    developerId: 'PGR+Pebs',
+    icon:
+     '//lh3.googleusercontent.com/P0Eoll4weUwJWds3YMypb2ZE2Pj9y72py9KvMnvOLdzJToH8lV8yc-MmcOC_rMs5ijo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.anywhere.gnhromosvody',
+    appId: 'cz.anywhere.gnhromosvody',
+    title: 'GN Hromosvody',
+    summary: 'Internal applications GN Hromosvody',
+    developer: 'Aplikace ADAM',
+    developerId: 'Aplikace+ADAM',
+    icon:
+     '//lh3.googleusercontent.com/2IepBl4y-LlD1YGkiLMDDqembRPsh5iYdtOfZ0-VO5Zk1IUIqr1TudKu_ACJOJBXo7M=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tnine.goodnightkissappz',
+    appId: 'com.tnine.goodnightkissappz',
+    title: 'Good Night Kiss Images',
+    summary:
+     'Good Night Kiss Images, Good Night Romantic Images. Good Night Gif.',
+    developer: 'Lovely Girl Appz',
+    developerId: 'Lovely+Girl+Appz',
+    icon:
+     '//lh3.googleusercontent.com/hxRK-EJ3vrEH0G4y1PI-Tyu2vDyzzPpAKPsIqPC1KU0MJNKB_oItr-VAu89kAkAHCWI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.KTConnect.goodnight',
+    appId: 'com.KTConnect.goodnight',
+    title: 'Good Night',
+    summary:
+     'Being your good night by sending Good Night wishes image picture to your friend!',
+    developer: 'KTConnect',
+    developerId: 'KTConnect',
+    icon:
+     '//lh3.googleusercontent.com/EUqJrsyazE6lG8eeNGtow4JCORuxg7drgWDQ8f6zNIfxXaHyT0GmVkUDvcYXbg8Vpw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gnresound.tinnitus',
+    appId: 'com.gnresound.tinnitus',
+    title: 'ReSound Tinnitus Relief',
+    summary: 'ReSound Relief - for people with tinnitus',
+    developer: 'GN Resound',
+    developerId: 'GN+Resound',
+    icon:
+     '//lh3.googleusercontent.com/TbUgA6iSJL8m97qzU0qhIP_tS-adrT4KRkyheXyM-6A034lrCuopQ2phaAuRWQrEDA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

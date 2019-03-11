@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.plonkgames.apps.iq_test',
+    appId: 'com.plonkgames.apps.iq_test',
+    title: 'IQ Test - How smart are you?',
+    summary: 'The best IQ Test on the Android Play Store!',
+    developer: 'Plonk Games',
+    developerId: 'Plonk+Games',
+    icon:
+     '//lh3.googleusercontent.com/qj2Nga66hBCbsye28r7JgtPQUnm2knLSC0cEStroM6Sz0ttS8UOXrvrdz3s_pgY_Kw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.digerati.iqtest',
+    appId: 'cz.digerati.iqtest',
+    title: 'IQ test',
+    summary:
+     'Intelligence test. Einstein\'s IQ is 160. Have you ever wondered what is your IQ?',
+    developer: 'digerati.cz',
+    developerId: 'digerati.cz',
+    icon:
+     '//lh3.googleusercontent.com/dW8d2Lr9fZGimKufkYJTsCd0KQvJLMKPBJbRicz43RHyLF0ymY2D2BAapqtHyBPMnuc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.aztest.iqtest',
+    appId: 'org.aztest.iqtest',
+    title: 'IQ and Aptitude Test Practice',
+    summary:
+     'Logical, numerical, and spatial test for aptitude and IQ test preparation',
+    developer: 'LangiS',
+    developerId: 'LangiS',
+    icon:
+     '//lh3.googleusercontent.com/b1qINToMUuyJiU0y-kx_45I9gfL51AxAzZ08YZXuNM1XIrhD__c0caXvm4Y2joPFKHw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.klikapp.freeiqtest',
+    appId: 'com.klikapp.freeiqtest',
+    title: 'What\'s my IQ? 💯',
+    summary:
+     'The average IQ is 100. Have you ever wondered what your IQ is? 🎓',
+    developer: 'KlikApp',
+    developerId: '5151818854087703689',
+    icon:
+     '//lh3.googleusercontent.com/9wogkuQESdBB0EXo6Noe-Oa5bwu6y1D3kmG9Xdn2FEoLUr35BijfXrWYMdxEfVYB9Q=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=bd.iqtest',
+    appId: 'bd.iqtest',
+    title: 'IQ Test',
+    summary:
+     'Test verified by legal authorities which provides %100 real IQ Test questions.',
+    developer: 'Tiawy',
+    developerId: '7293835804866126009',
+    icon:
+     '//lh3.googleusercontent.com/7b48zLprDHLzsc27xkCCKLI8w4T_8zokG-A4dVKvh2NBPXk_3Xto6R6TdEGFHV-0UHA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alexuvarov.android.iqtest',
+    appId: 'com.alexuvarov.android.iqtest',
+    title: 'IQ Test',
+    summary:
+     'Find out how smart you are! Compare your mind with your friends!',
+    developer: 'Aliaksandr Uvarau',
+    developerId: 'Aliaksandr+Uvarau',
+    icon:
+     '//lh3.googleusercontent.com/547bbPvgLYX_P38ims14GDLldeBTHrojc4A9Mj-fCubhqvoafIRnJfbKY7ewZv_1Lw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mindware.iqpro',
+    appId: 'mobi.mindware.iqpro',
+    title: 'IQ Games Pro',
+    summary:
+     'English only. Discover your game IQ score with the best games from Mind Games.',
+    developer: 'Mindware Consulting, Inc',
+    developerId: '4963031299399508227',
+    icon:
+     '//lh3.googleusercontent.com/gWzt8-uOBSGdeoyftvJeJOWmO3JalQez3JaJCGrQsJEWwAh5U-RRO1LSH7UsT-k12w=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=brain.teasers.logic.puzzles.riddles',
+    appId: 'brain.teasers.logic.puzzles.riddles',
+    title: 'Best IQ Test',
+    summary:
+     'Test your IQ? Train your brain by solving great logic puzzles and brain teasers!',
+    developer: 'bubble quiz games',
+    developerId: 'bubble+quiz+games',
+    icon:
+     '//lh5.ggpht.com/zr1Up0mOzWaToG0_gOFRgEY5yFB1WZTcWrwhTfIsS1o84OQQx7a1fz4NRmpercPHoLc_=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orangenose.trick',
+    appId: 'com.orangenose.trick',
+    title: 'Tricky Test 2™: Genius Brain?',
+    summary:
+     'Enjoy the trickiest IQ game ever! Brain it on and find out if your\'e a GENIUS!',
+    developer: 'Orangenose Studio',
+    developerId: '8086126145254775500',
+    icon:
+     '//lh3.googleusercontent.com/i9cde3x5-KiqW5ZTfrUBUId8fCOaEBH95W9-EjjG9qsWCJgSS6SUC40kA5Ceuwx23aY=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.klikapp.iqtest',
+    appId: 'com.klikapp.iqtest',
+    title: 'IQ Test 💯',
+    summary:
+     '🎓 The average IQ is 100. Have you ever wondered what your IQ is? 🎓',
+    developer: 'KlikApp',
+    developerId: '5151818854087703689',
+    icon:
+     '//lh3.googleusercontent.com/tm1HI9UEyelk0UsKMSBlUS4MaR8b7seOHH8mJHcWoclCZeYAVep_wsqxK7HtahQX2UmE=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fr.testsintelligence',
+    appId: 'fr.testsintelligence',
+    title: 'Logical test - IQ',
+    summary:
+     'Evaluate your logic and your intelligence with varied tests',
+    developer: 'DominoSoft',
+    developerId: 'DominoSoft',
+    icon:
+     '//lh3.googleusercontent.com/scVB2x6my_bCms4zTs0GIaweZVm0DhH8WOa9iu2GhfZRPQ7xwZ9Jb4_f_3Cer8QDvg=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aofl.readingiq.google',
+    appId: 'com.aofl.readingiq.google',
+    title: 'ReadingIQ',
+    summary:
+     'ReadingIQ provides thousands of leveled books for kids of all reading levels.',
+    developer: 'Age of Learning, Inc.',
+    developerId: 'Age+of+Learning,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/HbLwynOgNrLtb2tknA1BsOk8W7gNVSkuL-QIPE2VAWbJpiwtWcnFJ-NY-MDSNJvx4jg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tryoniarts.iqtest',
+    appId: 'com.tryoniarts.iqtest',
+    title: 'IQ Test - How Intelligent You Are?',
+    summary:
+     'Get your IQ Scores, IQ Scale or IQ Level Totally Free With IQ Test Game.',
+    developer: 'TRYONI ARTS',
+    developerId: '7666959983519077592',
+    icon:
+     '//lh3.googleusercontent.com/MAu06cmzhSs-RyCjs3v2qxHzqU0n22W254RrijDEf1b3PLAX9kU3XNeOjLJ1xaEX2w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pophub.androidiqtest.free',
+    appId: 'com.pophub.androidiqtest.free',
+    title: 'IQ Test',
+    summary: 'Measures your intelligence quotient (IQ).',
+    developer: 'Pop-Hub Limited',
+    developerId: 'Pop-Hub+Limited',
+    icon:
+     '//lh3.ggpht.com/hcFOLgDoObjyp7zVCmKn-9ViPDVM_qj-2spVVQmPdFKVY8335WFVkmB5gZkyXHQTGhlw=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zl.puzzle.riveriq',
+    appId: 'zl.puzzle.riveriq',
+    title: 'River IQ - IQ Test',
+    summary: 'River IQ - 24 logic game in one. The best of iq games.',
+    developer: 'zlMobile Studio',
+    developerId: '5002036777930081404',
+    icon:
+     '//lh3.googleusercontent.com/_FN4I755ubGIldLaRuMb_9-rTeZfefjo51AdCKDKyiGJKe9m7eSKu0YHwRm5cJGlmw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ilmasoftkids.kidsiqen',
+    appId: 'com.ilmasoftkids.kidsiqen',
+    title: 'Kids IQ',
+    summary: 'Learn while playing the game, fun activity for the family',
+    developer: 'ILMASOFT KIDS',
+    developerId: '7790023096063424039',
+    icon:
+     '//lh5.ggpht.com/0Mq9Z_KANCv5zqPlCDQnne9b9ZoN-rUJKN4Tk5rBPmJ_s2vfjVKom6WNhRwfzRy19rk=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamestart.fill',
+    appId: 'com.gamestart.fill',
+    title: 'Fill - one-line puzzle game',
+    summary:
+     'Sharpen your mind with a one-line block brain training puzzle game.',
+    developer: 'MagicAnt.Inc',
+    developerId: '8967418906238242913',
+    icon:
+     '//lh3.googleusercontent.com/0wxgXoAzOsDox8lRF_pv1s44BSzUcYGWhGkEch9oaLznAKLCEzeLLqDFC1xKwVkOVg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.mail.aig001.test',
+    appId: 'ru.mail.aig001.test',
+    title: 'IQ тест Равена',
+    summary:
+     '"Raven\'s Progressive Matrices" refers to the number of non-verbal intelligence test',
+    developer: 'Ilshat Allamuratov',
+    developerId: 'Ilshat+Allamuratov',
+    icon:
+     '//lh3.googleusercontent.com/7WfQoXBzT8qcY3AVzjbvt7RA5DJ8gMwK3YH7jxEQwRGQTh0P9cpNp-88pyM0I7xsG7g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wapmelinh.iq',
+    appId: 'com.wapmelinh.iq',
+    title: 'Brain Exercise Games - IQ test',
+    summary:
+     'Brain Exercise Games, IQ game for kids, brain game for kid free',
+    developer: 'XGAME9X',
+    developerId: 'XGAME9X',
+    icon:
+     '//lh3.googleusercontent.com/TBw67a2CfLgJzJYzhTjalwQ_5DrB69sjeXpvUMXj2eh0EMAkg1s8M3CTLkvdBtCfU88=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gs.doubler.iq',
+    appId: 'com.gs.doubler.iq',
+    title: 'Тест на IQ',
+    summary:
+     'The test will help to know how smart you are, your knowledge and your IQ!',
+    developer: 'doubleR',
+    developerId: '7030188713962331094',
+    icon:
+     '//lh3.googleusercontent.com/fr_QWtpEQEHNSmdXMxfiZeDyXDRgl19weTWRcLPVuT0CfIOFYrNK8KngvBY8IJEaug=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

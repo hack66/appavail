@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd',
+    appId: 'com.a0soft.gphone.app2sd',
+    title: 'AppMgr III (App 2 SD, Hide and Freeze apps)',
+    summary:
+     'Move apps to SD, Hide, Freeze and Manage apps easily and efficiently 🚀',
+    developer: 'Sam Lu',
+    developerId: '7252933074709348199',
+    icon:
+     'https://lh5.ggpht.com/qUn5-hxi1qs5irkmAwO230jXy_y7G10BTKXD5yuXHkvAuTD45nvgCBTa85rOQ3aAE-2Z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker',
+    appId: 'eu.thedarken.sdm.unlocker',
+    title: 'SD Maid Pro - Unlocker',
+    summary: 'A maid for your Android, to keep it clean & tidy.',
+    developer: 'darken',
+    developerId: 'darken',
+    icon:
+     '//lh3.googleusercontent.com/LSzx-MtueW0rkK7fUbYYwDZmjqAfqAdPhIfOXALP847hNT-zkOpAvpu5yx6GOrD9lQk=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$3.85',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.bukacek.filestosdcard',
+    appId: 'cz.bukacek.filestosdcard',
+    title: 'Files To SD Card',
+    summary:
+     'You can Move (Free up), Copy (Back up) Files To SD Card fast and easy.',
+    developer: 'Michal Bukáček',
+    developerId: 'Michal+Buk%C3%A1%C4%8Dek',
+    icon:
+     '//lh3.googleusercontent.com/lOH-f-ivq0BOS3mnjVjTcO2MSdzE0texuKXRXmTfU3VlbZjPK6hqwcJ734-Zvi8iq5c=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.thedarken.sdm',
+    appId: 'eu.thedarken.sdm',
+    title: 'SD Maid - System Cleaning Tool',
+    summary: 'A maid for your Android, to keep it clean & tidy.',
+    developer: 'darken',
+    developerId: 'darken',
+    icon:
+     '//lh3.googleusercontent.com/JSezGjSzK8Q0JiE9ZuPQMRGMWry6t1mwElamEg7yQs0FvMkHT-i9cKCpv7n-a-9oTw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.estrongs.android.pop',
+    appId: 'com.estrongs.android.pop',
+    title: 'ES File Explorer File Manager',
+    summary:
+     'ES File Explorer to easily manage,share all your local Android and Cloud files.',
+    developer: 'ES Global',
+    developerId: 'ES+Global',
+    icon:
+     '//lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.buak.Link2SD',
+    appId: 'com.buak.Link2SD',
+    title: 'Link2SD',
+    summary:
+     'Complete app management, move to SD, clear cache, remove bloatware and more',
+    developer: 'Bulent Akpinar',
+    developerId: 'Bulent+Akpinar',
+    icon:
+     '//lh6.ggpht.com/48OtX7kJ0YYultztvdniOwe5pPaORQSRdEp91VokjCiF4idFkd7uoFjKCmEihmL7gUNp=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.doionline.sdcardmanager',
+    appId: 'com.doionline.sdcardmanager',
+    title: 'SD Card Manager For Android - File Manager',
+    summary: 'A great tool to manager SD Card for you!',
+    developer: 'DOIONLINE',
+    developerId: 'DOIONLINE',
+    icon:
+     '//lh3.googleusercontent.com/m6Yzm3KNIwkZZNI8HTG4RlbRO0zrxz8-WOLWZRFqBBAAxD-clpQA5UwtFgdzTAxMj6m4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=my.mobi.android.apps4u.sdcardmanager',
+    appId: 'my.mobi.android.apps4u.sdcardmanager',
+    title: 'SD Card Manager (File Manager)',
+    summary:
+     'SD Card manager is a tool which helps you to manage files and folder in SD card.',
+    developer: 'apps4u@android',
+    developerId: 'apps4u@android',
+    icon:
+     'https://lh3.ggpht.com/9bBugvyw27RA142AiFDfudMoQzlf9tNxZgIwHMSXi0k1xHxeltPDtU785hN7KpADntmr=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.acr.sdfilemanager',
+    appId: 'com.acr.sdfilemanager',
+    title: 'SD File Manager',
+    summary:
+     'SD File Manager is the best file explorer. It allows to manage your files easily',
+    developer: 'MobilDev',
+    developerId: 'MobilDev',
+    icon:
+     'https://lh6.ggpht.com/5kcf_IMRgwF_N2nGEaLK1mTzELfnoU7RDvbcX6pvmF50cu47ZJq0C5tWPVai0wFmjQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ljmobile.move.app',
+    appId: 'com.ljmobile.move.app',
+    title: 'Move app to SD card',
+    summary: 'Move apps to increase the internal memory.',
+    developer: 'jumobiledo',
+    developerId: 'jumobiledo',
+    icon:
+     '//lh4.ggpht.com/N2UlMe2v-vspWWCJbECtETi5VkkuzZfrmdcPn7hL_rINLSOWsYsiWnjjHZFd3zgkErCY=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tech.kaydev.install.apps.to.sd',
+    appId: 'tech.kaydev.install.apps.to.sd',
+    title: 'Install Apps To Sd Card-Move',
+    summary:
+     'Move apps, Transfer data, move files to external card, expand storage, app2sd',
+    developer: 'Kaydev2',
+    developerId: '8287944191632477803',
+    icon:
+     '//lh3.googleusercontent.com/dnUSazyvv7PFQ3cohMDr4-6gxUz0lZ2ioEmgVzo4jnmaJA4CdbHpwQ7yOQsGwGN5dHel=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.humanlogic.sdi',
+    appId: 'com.humanlogic.sdi',
+    title: 'SD Insight',
+    summary:
+     'SD Insight is a free and easy-to-use app to view SD card manufacturing details.',
+    developer: 'HumanLogic',
+    developerId: 'HumanLogic',
+    icon:
+     '//lh4.ggpht.com/6IqYjffcKAIveP7zxZvR06qguvgTFaWKH-rR5Gtqkt1dJzWIc1I7s0dQmnQN4MOfet4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.a1dev.sdbench',
+    appId: 'com.a1dev.sdbench',
+    title: 'A1 SD Bench',
+    summary:
+     'Benchmark SD card to test IO read / write speed and check media performance.',
+    developer: 'Tuxera Inc.',
+    developerId: 'Tuxera+Inc.',
+    icon:
+     '//lh3.ggpht.com/2L8aSmZ8gqfOuJcCRmV4CuEpWTav6HrxuTj-DATXywTiXuDsEiMmeZjqUkui6isoLt0=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sandisk.mz',
+    appId: 'com.sandisk.mz',
+    title: 'SanDisk Memory Zone',
+    summary: 'Manage your phone, cloud and external memory.',
+    developer: '© Western Digital Corporation or its affiliates.',
+    developerId: '%C2%A9+Western+Digital+Corporation+or+its+affiliates.',
+    icon:
+     '//lh3.googleusercontent.com/YU9npRLyw00bCH8JVYh_8f7Gkg9ctgV40fhxwIH7OCc6ieKk2sDrEAvzZAupMcrTjB1s=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tatkovlab.sdcardcleaner',
+    appId: 'com.tatkovlab.sdcardcleaner',
+    title: 'SD Card Cleaner',
+    summary:
+     'Get rid of large files and keep your SD Card clean and tidy.',
+    developer: 'Relaxio',
+    developerId: 'Relaxio',
+    icon:
+     '//lh6.ggpht.com/kmsuH81_EvZZsIf6cbecBVXWk57SGRP3jSrITfGdc2z2ywlM4l4gKV5g1rFXHL-9GUo=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sylkat.AParted',
+    appId: 'com.sylkat.AParted',
+    title: 'AParted ( Sd card Partition )',
+    summary: 'App to manage partitions in your sdcard  or usb device',
+    developer: 'Sylkat',
+    developerId: 'Sylkat',
+    icon:
+     '//lh3.googleusercontent.com/MyS5jMDDF-lOseA05WU-oy8E0Ei5WNRt1ntpcM0ME-NmT9612OqCl0kypwFcN8TW86E=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.installappsonsdcard.filesdcard.movetosdcard.datasd',
+    appId: 'net.installappsonsdcard.filesdcard.movetosdcard.datasd',
+    title: 'Install Apps On Sd Card For Android-File Sdcard',
+    summary:
+     'how to move apps to sd card, move apps to sd card for android, move apps to sd',
+    developer: 'Dev Mastery',
+    developerId: 'Dev+Mastery',
+    icon:
+     '//lh3.googleusercontent.com/BnU8qL_u38M2mJmlB1_xOJC-vbD3u4lZP_-ul58g-HGAPO_eeFvTTWrZ--dCuXwCSC4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.a0soft.gphone.app2sd.pro',
+    appId: 'com.a0soft.gphone.app2sd.pro',
+    title: 'AppMgr Pro III (App 2 SD, Hide and Freeze apps)',
+    summary:
+     'Move apps to SD, Hide apps, Freeze apps and Manage apps easily and efficiently!',
+    developer: 'Sam Lu',
+    developerId: '7252933074709348199',
+    icon:
+     'https://lh6.ggpht.com/96wO2T-gxouZqbDa2M_WBCJP0XJ4Kn2kJcco_Cdee1cGHd53wWEcin6q--KcRwjO-vI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pzolee.sdcardtester',
+    appId: 'com.pzolee.sdcardtester',
+    title: 'SD Card Test',
+    summary:
+     'Use the best SD speed test tool! Micro SD, SDHC, SDXC support eMMC, UFS storage.',
+    developer: 'Zoltán Pallagi',
+    developerId: 'Zolt%C3%A1n+Pallagi',
+    icon:
+     '//lh3.googleusercontent.com/ShyT4PyGWOhxxp4X8CdPCAvLWZ4Lk6sW8GrcUaEM24iGq5wGFxGpFQ2MU0Sc8kxD8PRU=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alphainventor.filemanager',
+    appId: 'com.alphainventor.filemanager',
+    title: 'File Manager',
+    summary:
+     'Fast, easy-to-use and full-featured file manager app with cloud integration.',
+    developer: 'Flashlight + Clock',
+    developerId: 'Flashlight+%2B+Clock',
+    icon:
+     '//lh3.googleusercontent.com/9PzlG2XGr5sQDf5925tlZhqluOreI2cwzp-FOZiuj545Kt1Gk5EE9J4IdGsD7e5xWw=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

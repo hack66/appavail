@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6',
+    appId: 'com.ninjakiwi.bloonstd6',
+    title: 'Bloons TD 6',
+    summary: 'Smash Hit Tower Defense Game',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/nSAG3tF5oI2caivTbcHF10cI4bMuYgctCEbHumSGiHfMgqgqyC3qrFnDPtlhJRw-25U=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$4.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=com.tdbank',
+    appId: 'com.tdbank',
+    title: 'TD Bank (US)',
+    summary:
+     'The TD app provides quick, easy, secure access to your TD Bank accounts.',
+    developer: 'TD Bank, N.A.',
+    developerId: 'TD+Bank,+N.A.',
+    icon:
+     'https://lh6.ggpht.com/RnOZQ9-xVL32w2KLDIxlGgJsN4GlBOWcC4RFEzMfMQ3IH_KQDNesR3X5VKxnhJiMeGo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd5',
+    appId: 'com.ninjakiwi.bloonstd5',
+    title: 'Bloons TD 5',
+    summary:
+     'The epic battle of Monkeys vs. Bloons continues in this top-rated strategy game.',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/DOOuyTF54zyjz1Mn2UGPTk1z-MuwwdZHKdrdcLpEB_LiEK7B4pj7LHAwPxmYwxUtf1zm=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense',
+    appId: 'com.zitga.empire.warriors.td.tower.defense',
+    title: 'Empire Warriors Premium: Tactical TD Game',
+    summary:
+     'Best Fantasy TD Game in your hands! Better with offline option to play anywhere!',
+    developer: 'ZITGA PTE. LTD.',
+    developerId: '7674514660084826148',
+    icon:
+     '//lh3.googleusercontent.com/IRjQSbILbIyxsy_RrGcvEW7UaNGy5NxwuCo6fMPcxoGkJdhsVNWr57BmO2QNEATq5S9o=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=com.td',
+    appId: 'com.td',
+    title: 'TD Canada',
+    summary: 'Get ready to bank here, there, everywhere with the TD app',
+    developer: 'TD Bank Group',
+    developerId: 'TD+Bank+Group',
+    icon:
+     '//lh5.ggpht.com/pfbO5nTj-IpXWNXyij7XYe-yYRYerCneItVEqJbEejq1JoKR8XVZrzxKimpfRJ-ePvh1=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstdbattles',
+    appId: 'com.ninjakiwi.bloonstdbattles',
+    title: 'Bloons TD Battles',
+    summary:
+     'The realtime player-vs-player tower defense game of Monkeys vs. Bloons!',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/kY-cTXg9KQbDZvT8nyzH0dugNUDQE4A7CgmbWFKM4plTBaORmV2aufMQL-VgCY6-ZA8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.SongGameDev.EleTD',
+    appId: 'com.SongGameDev.EleTD',
+    title: 'Element TD',
+    summary:
+     'The legendary tower defense from WarCraft 3, StarCraft 2, and Dota 2!',
+    developer: 'Element Studios',
+    developerId: 'Element+Studios',
+    icon:
+     '//lh3.googleusercontent.com/h6rRd-nhjtY3KKiMLb_WqdBWTAVHaKu4iiqpF9dJDmByucPZuKwfQL3AnntxcgZLYTY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outplayentertainment.castlecreepstd',
+    appId: 'com.outplayentertainment.castlecreepstd',
+    title: 'Castle Creeps TD - Epic tower defense',
+    summary:
+     '*** ‘BEST STRATEGY GAME OF 2017’ -  TIGA Games Industry Awards! ***',
+    developer: 'Outplay Entertainment Ltd',
+    developerId: '5587345788514684720',
+    icon:
+     '//lh3.googleusercontent.com/g9uppTVnXxLSlVV0tKz1FjAd3NOMlXiWoT8i-44sILCX5_0lCewF67WfYvYZ93dH5k3s=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.btdadventuretime',
+    appId: 'com.ninjakiwi.btdadventuretime',
+    title: 'Bloons Adventure Time TD',
+    summary:
+     'Defend Ooo from the Bloon invasion in this epic tower defense crossover.',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/zKnBTopgnz-NwUQnauQ8-6VeKJTCGylJfIkj6VKq_8GC6xb1OZ3XKvPDgaG2mO-MkJs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td',
+    appId: 'com.zitga.empire.warriors.td',
+    title: 'Tower Defense Crush: Empire Warriors TD',
+    summary:
+     'Powerful Towers, Epic Heroes, Terrifying Bosses!All included in just one game!',
+    developer: 'ZITGA PTE. LTD.',
+    developerId: '7674514660084826148',
+    icon:
+     '//lh3.googleusercontent.com/mSVlfqnmUL5nNmYePdRir4aOSkKaOBigPrJCgQ3Zp_-5jupeO0Ju4PBIVGkYYpsc2g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.td.myspend',
+    appId: 'com.td.myspend',
+    title: 'TD MySpend',
+    summary:
+     'TD MySpend instantly tracks your spending, so you know where your money goes.',
+    developer: 'TD Bank Group',
+    developerId: 'TD+Bank+Group',
+    icon:
+     '//lh3.googleusercontent.com/TIp4mmVXU4hqehVC956q36hTg6K_VetydllbVuwE7jHsQ5N6Q3zaIxmEKWqtO_hyiPLQ=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.argongames.minitd2',
+    appId: 'net.argongames.minitd2',
+    title: 'Mini TD 2: Relax Tower Defense Game',
+    summary: 'Just a pure Tower Defense.',
+    developer: 'ArgonGames',
+    developerId: 'ArgonGames',
+    icon:
+     '//lh3.googleusercontent.com/RNhymm01Jo7RK34e6baNCV2I8qSOMp9ZORYQDgnGnIMKUiray0BZ2ZaKt5PvZHSzx9Ac=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skizze.wwii',
+    appId: 'com.skizze.wwii',
+    title: 'World War 2: Syndicate TD',
+    summary: 'Historic events of World War 2',
+    developer: 'Skizze Games',
+    developerId: 'Skizze+Games',
+    icon:
+     '//lh3.googleusercontent.com/gPOQg6kVeih3BUalDhcX2Bf0Z6HyC_Fvemn7YVtIixXhBaDYnUvNd9akCp7vdMNKeZg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.babeltimeus.legendstd',
+    appId: 'com.babeltimeus.legendstd',
+    title: 'Realm Defense: Hero Legends TD Epic Strategy Game',
+    summary:
+     'Help Smoulder defend the tower against Goblin King in our tower strategy game!',
+    developer: 'Babeltime US',
+    developerId: 'Babeltime+US',
+    icon:
+     '//lh3.googleusercontent.com/IrXCsl68_LlA-PS2W9hr5Tf4xg7bF81spHPq1sie5iqad66jo3p0mtnaRH2ZY748wg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zonmob.KingdomDefense.TowerGame',
+    appId: 'com.zonmob.KingdomDefense.TowerGame',
+    title: 'Kingdom Defense: Hero Legend TD - Premium',
+    summary:
+     'Free hero Ashi, Galahad and 350 gems. Kingdom Defense - Best offline Tower game!',
+    developer: 'Zonmob Game Studio',
+    developerId: '6472399032955398374',
+    icon:
+     '//lh3.googleusercontent.com/cBGJmxITNFoP8nrt2I2rD_EwFRs8d6EEqgbwVW6LG-A7EMVVx7cTCi72cu1t0dvwFmA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.baptistelargaiolli.beasttowersandroid',
+    appId: 'com.baptistelargaiolli.beasttowersandroid',
+    title: 'Beast Towers TD',
+    summary: 'Want to play a real tower defense game? Try Beast Towers !',
+    developer: 'Baptiste Largaiolli',
+    developerId: 'Baptiste+Largaiolli',
+    icon:
+     '//lh3.ggpht.com/F1Fq-nFyPVPyHUl7CokuXPEvDlC1xMHzN9SAAnUHISjHyFH5PCOFeTijSxIPQ-V1G674=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.devexperts.tdmobile.platform.android.ameritrade',
+    appId: 'com.devexperts.tdmobile.platform.android.ameritrade',
+    title: 'TD Ameritrade Trader',
+    summary: 'TD Ameritrade Trader, trading power like never before.',
+    developer: 'TD Ameritrade IP Company, Inc.',
+    developerId: 'TD+Ameritrade+IP+Company,+Inc.',
+    icon:
+     'https://lh5.ggpht.com/lQCTTLHWuyFR5mm2Y25XzpsRybzaYTzi9YT9Uhhi4uB0Xqpc49nIdnMXgvlELTfv-hw=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.SongGameDev.EleTDFree',
+    appId: 'com.SongGameDev.EleTDFree',
+    title: 'Element TD Free',
+    summary:
+     'The legendary tower defense from WarCraft 3, StarCraft 2, and Dota 2! Now Free!',
+    developer: 'Element Studios',
+    developerId: 'Element+Studios',
+    icon:
+     '//lh3.googleusercontent.com/UjUtMyOfGeyfBG3tqGaE96BNhjWXxIaqvBCcBNwpW41i3SRT8aCildNypkuVvpJUwQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.JESoftware.LastHopeTD',
+    appId: 'com.JESoftware.LastHopeTD',
+    title: 'Last Hope TD - Zombie Tower Defense Games Offline',
+    summary:
+     'A unique TD RPG game with customizable heroes wielding powerful skills and gear!',
+    developer: 'JE Software AB',
+    developerId: '5549089201406279015',
+    icon:
+     '//lh3.googleusercontent.com/zAnPUFLIFy8hIj8V3RKzob0sdF5sE8i4_MUMgLPCpjrI5YHNaJDiDQ5fjwKqfum6mUf9=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lemix.godstd',
+    appId: 'com.lemix.godstd',
+    title: 'Gods TD: Myth defense (Unreleased)',
+    summary:
+     'The unique Tower defense on GooglePlay, Summon your Gods and Battle for victory!',
+    developer: 'Lemix game',
+    developerId: 'Lemix+game',
+    icon:
+     '//lh3.googleusercontent.com/krEg1iEuk6zAhLUQG04AMgkPcT_fNSa0pXwMboF51-TvdmOJsRMUzkeS3IP84yfEBdA=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true } ]

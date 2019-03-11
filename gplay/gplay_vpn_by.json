@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.topfreegames.bikeracefreeworld',
+    appId: 'com.topfreegames.bikeracefreeworld',
+    title: 'Bike Race Free - Top Motorcycle Racing Games',
+    summary:
+     'One of the best free racing games on AndroidPlay now without WiFi!',
+    developer: 'Top Free Games.',
+    developerId: 'Top+Free+Games.',
+    icon:
+     '//lh3.googleusercontent.com/B_EE8Uh6aHsjnAsoTHOww3-9ai64qA6iSOcAqxd_AnTezbZ8ZMIqRbZjSIykpCqk6wm1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number',
+    appId: 'com.tfgco.apps.coloring.free.color.by.number',
+    title: 'Color by Number: Coloring Book Free - Pixel Art',
+    summary:
+     'Color dozens of cool images by numbers, from a unicorn to a child\'s sandbox.',
+    developer: 'Fun Games For Free',
+    developerId: '8186084684070471579',
+    icon:
+     '//lh3.googleusercontent.com/R984wwnFJJLMBn_x79SkBX6bNXfq3ONjYcFT2ZDVx4aav4TKx3G9QYHTNl7x2amwWuw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number',
+    appId: 'com.pixel.art.coloring.color.number',
+    title: 'Happy Color™ – Color by Number',
+    summary:
+     'Coloring book: paint & color by number 💯 free! Enjoy amazing drawings! ❤️💛💜',
+    developer: 'X-Flow',
+    developerId: '4677399971720148178',
+    icon:
+     '//lh3.googleusercontent.com/8m4CIu53MUJ_No1PjvUO7sPMyKozbxrNZl1xucJOBR2P8k0hH6pUYAbohsV4bqdcJA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.europosit.pixelcoloring',
+    appId: 'com.europosit.pixelcoloring',
+    title: 'Pixel Art: Color by Number',
+    summary:
+     'Color by numbers lots of free pictures with Pixel Art! Download now!',
+    developer: 'Easybrain',
+    developerId: '7473634688510685864',
+    icon:
+     '//lh3.googleusercontent.com/z9BK9H5-UIWSkoorspc-7NyYSX1gEszaKvAj7rwOpCpzCOD8J665oSOOzdQKVad8u5c=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.color.by.number.lowpoly',
+    appId: 'com.color.by.number.lowpoly',
+    title: 'Low Poly Art - Color by Number, Number Coloring',
+    summary:
+     'Free coloring book of unicorn low poly jigsaw puzzle; color fun poly art book!',
+    developer: 'Piano Music Fun Inc.',
+    developerId: 'Piano+Music+Fun+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/cKpKSn4jdSzpzxz9SW9GpyM_zwAryNGzS-Pn3l-1i9Jb9EE-XWHj-S5ES5wqy_64UA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.famousbluemedia.piano',
+    appId: 'com.famousbluemedia.piano',
+    title: 'Piano - Play & Learn Free songs.',
+    summary:
+     'Amazing Piano game! Click the tiles, Enjoy the Magic! Play like a real pianist.',
+    developer: 'Yokee™',
+    developerId: '8009229946060736142',
+    icon:
+     '//lh3.googleusercontent.com/YawXG_WMEoX2Vv3DUomApBpBtiPRY6DIJ4F9KFQSZDUM_pPmgFj2E7tj5pUixqvFPmO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundbrenner.pulse',
+    appId: 'com.soundbrenner.pulse',
+    title: 'The Metronome by Soundbrenner',
+    summary:
+     'A metronome with setlists, perfect bpm and multiplayer sync, all for free!',
+    developer: 'Soundbrenner',
+    developerId: '5483824196951830916',
+    icon:
+     '//lh3.googleusercontent.com/hPJ5h3AfFKp1uUo3XQQm2KeQrV4-L4r-NDXPgyHgE9HtJ6HaopgmyIBWHiw7xjKTnteF=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.greentech.quran',
+    appId: 'com.greentech.quran',
+    title: 'Al Quran (Tafsir & by Word)',
+    summary:
+     'Study the Quran through Word by Word Analysis, Colored Tajweed, Tafsir & Audio',
+    developer: 'Greentech Apps Foundation',
+    developerId: '7665838187257770408',
+    icon:
+     '//lh3.googleusercontent.com/OYE_XBn1Cb3mjrsaZXbC-yV0NMShVwFAmlOtc-newim2n9S_YZLiaW0K3Amj8jsX-uk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.infokombinat.hairstyle2',
+    appId: 'com.infokombinat.hairstyle2',
+    title: 'Best Hairstyles step by step',
+    summary:
+     'Hairstyles tutorials, easy step by step DIY instructions for women and girls',
+    developer: 'Infokombinat',
+    developerId: 'Infokombinat',
+    icon:
+     '//lh3.googleusercontent.com/5zTFq2EP1Kgm4G8rNNd-467l1ex4mIKaZYfMRT_1C4_4XiP-s-p2hDAqNYqJ87Jb8DQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tfgco.games.coloring.free.paint.by.number',
+    appId: 'com.tfgco.games.coloring.free.paint.by.number',
+    title: 'Paint by Number: Free Coloring Book',
+    summary:
+     'Color by number on this simple, easy to use game! Painting was never so fun!',
+    developer: 'Fun Games For Free',
+    developerId: '8186084684070471579',
+    icon:
+     '//lh3.googleusercontent.com/DBvzd1NiwEbhnCS3BNX3Z_i2nVGq0n3ybgjYJUCqOo2dhjJmQedzV-ms6oBRfUX2Eag=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fungames.carracefree',
+    appId: 'com.fungames.carracefree',
+    title: 'Car Race by Fun Games For Free',
+    summary:
+     'the BEST drag racing game★★★★★ FREE download, updates with NEW content',
+    developer: 'Fun Games For Free',
+    developerId: '8186084684070471579',
+    icon:
+     '//lh4.ggpht.com/KI48ZoC0uUG3RLPEIi__s8qtAOEX_2FAG6RV9aUn-5B0EiyiblaAVA68yBcgXJHTo4E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=biblereader.olivetree',
+    appId: 'biblereader.olivetree',
+    title: 'Bible',
+    summary:
+     'The Olive Tree Bible App helps you Read and study the Bible offline for free.',
+    developer: 'HarperCollins Christian Publishing',
+    developerId: 'HarperCollins+Christian+Publishing',
+    icon:
+     '//lh3.googleusercontent.com/wSNT2GNV-v4vZS2ip6u27aWbE2_0w7JuVIr66XCx0nGslEAryoN0JXt1tsb_O3QjQKY=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pixel.art.coloring.by.number',
+    appId: 'com.pixel.art.coloring.by.number',
+    title: 'Tap Color    Color by Number',
+    summary:
+     'One of the Most Relaxing Games --- FREE Coloring Book for Adults & Kids!',
+    developer: 'Puzzle Saga Studio',
+    developerId: 'Puzzle+Saga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/wtC7tdt7tjpuQ98bXzBxViP88Y_xEoyyfYeHd4pHERgJAEXn3Sm-2dom3aSQPMClDcU=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.metropcs.service.vvm',
+    appId: 'com.metropcs.service.vvm',
+    title: 'Visual Voicemail by MetroPCS',
+    summary: 'View and Listen to your Voicemails',
+    developer: 'Metro, a brand of T-Mobile USA, Inc',
+    developerId: 'Metro,+a+brand+of+T-Mobile+USA,+Inc',
+    icon:
+     '//lh5.ggpht.com/UNAHwblFHUXCZDQB9aB1jzLhXWECmW-obQ8R7FM4QqiyZaoPkETXPKmyliBBiA6wbuG2=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=paint.by.number.pixel.art.coloring.drawing.puzzle',
+    appId: 'paint.by.number.pixel.art.coloring.drawing.puzzle',
+    title: 'Paint By Number - Free Coloring Book & Puzzle Game',
+    summary:
+     'So relaxing and funny art drawing game, I can’t stop playing it!😱',
+    developer: 'Easy Learning, Coloring your Life - EZ Joy,Inc',
+    developerId: '8186440931703540103',
+    icon:
+     '//lh3.googleusercontent.com/OxbFmr5QECFqSRItpbkDtu3adXbibDCovrI0_0yLogxzdatn2GYYzPH6SBiNJkJSWog=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crater.bbtan',
+    appId: 'com.crater.bbtan',
+    title: 'BBTAN by 111%',
+    summary: '◆ NEW BALL! (Sweet)',
+    developer: '111%',
+    developerId: '7769366979601471884',
+    icon:
+     '//lh3.googleusercontent.com/_cvsLnOiBgXyd_LCXP8RM-j2BrpXwSaNyXZftaipuhavaPkQCpjMyhQ4YwnXRJGuO4Kk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gst.sandbox',
+    appId: 'com.gst.sandbox',
+    title: 'Pixyfy:  pixel art color by number coloring games',
+    summary:
+     'Best number coloring free game, most beautiful pixel art books, social sharing!',
+    developer: 'GoodSoftTech',
+    developerId: '7462972767592454430',
+    icon:
+     '//lh3.googleusercontent.com/qHpCpa8XJHrS_R9c411qipPfb9rUl4HAB-krAVy-lqkfbtqrUOGhVEj3xy6b_8WCJIOs=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.befunky.BeFunkyPhotoEditor',
+    appId: 'air.com.befunky.BeFunkyPhotoEditor',
+    title: 'Photo Editor by BeFunky',
+    summary:
+     'Photo Editor & Collage Maker by BeFunky is a fun, easy-to-use photo editing app.',
+    developer: 'BeFunky INC',
+    developerId: 'BeFunky+INC',
+    icon:
+     '//lh3.ggpht.com/SxnfoQTotXzucKyIq5Nvyd88LD8lvHOLz9Bpd5NL09BXjkKPJtACA5NFZOlH6TeRTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ring.neighborhoods',
+    appId: 'com.ring.neighborhoods',
+    title: 'Neighbors by Ring',
+    summary: 'The New Neighborhood Watch',
+    developer: 'Ring.com',
+    developerId: 'Ring.com',
+    icon:
+     '//lh3.googleusercontent.com/arLQdsE8uDj-RCZ8RQGIe0cmZ_aFxI0h3GOTzwhayxgRinRpXMO1jhE9NchUSegNCJU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smart.math.calculator',
+    appId: 'com.smart.math.calculator',
+    title: 'Math Calculator - Solve Math Problems by Camera',
+    summary:
+     'Smart and scientific calculator, take photo to do maths solutions and equations.',
+    developer: 'Super T Group',
+    developerId: 'Super+T+Group',
+    icon:
+     '//lh3.googleusercontent.com/sLLTt6fIi1JsfC1J-uaQm5Tfk-OSAXQbaZMy1oN5eZ6H8tkI4pGll4xrgGw306X2Hak=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

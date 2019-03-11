@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.messenger',
+    appId: 'org.telegram.messenger',
+    title: 'Telegram',
+    summary:
+     'Telegram is a messaging app with a focus on speed and security.',
+    developer: 'Telegram FZ-LLC',
+    developerId: 'Telegram+FZ-LLC',
+    icon:
+     '//lh3.googleusercontent.com/jVXglyWWL5J2y1vRN-7Jy3_ozvvZc4w5486IAkbAIrWcNN_vn7YuIvhc1JDtGq43BqGl=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tgtransformation',
+    appId: 'com.tgtransformation',
+    title: 'Tg Transformation Stories',
+    summary: 'Free To install',
+    developer: 'tg captions and comics',
+    developerId: 'tg+captions+and+comics',
+    icon:
+     '//lh3.googleusercontent.com/mDfGHWkFOidhLGyhtsXES8PGsuGWbxhJf0XiLmRbCFrVSC4vhXLMx4JIDfeIIyEaorE=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fluidsoft.fluidsoft.tgconnect',
+    appId: 'com.fluidsoft.fluidsoft.tgconnect',
+    title: 'TG Connect',
+    summary:
+     'TG Connect helps fitness enthusiasts find sponsors and jobs in India.',
+    developer: 'Velox Digital',
+    developerId: 'Velox+Digital',
+    icon:
+     '//lh3.googleusercontent.com/5NgGbf5DuZ_PtBk-CH5A9NNK8pJljc49b-GVQTS2VudT6tOydSauyN4cS9ps43t-vvg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.toongoggles.tv',
+    appId: 'com.toongoggles.tv',
+    title: 'Toon Goggles for TV',
+    summary:
+     'Watch 100% kid safe, parent friendly cartoons when and where they want!',
+    developer: 'Toon Goggles, Inc.',
+    developerId: 'Toon+Goggles,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Fto4V8mQO1Nk89_G_mYCPjYW7ibFHnmZKPU0kfUlNm-8HztSKiXhiuSb1u7NZpCq9JLQ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.innovise.timegate.employee',
+    appId: 'com.innovise.timegate.employee',
+    title: 'Timegate Employee',
+    summary:
+     'Book on/off Timegate, make ‘check’ calls and access self service areas.',
+    developer: 'Innovise',
+    developerId: 'Innovise',
+    icon:
+     '//lh3.googleusercontent.com/OJOp_5DHFMjjpScn07r59ahLTGgdPlhhUXRyIjdkY4mZRnwZMwd5Mwv0teH0M6hjnnHk=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tgcustomer.activity',
+    appId: 'com.tgcustomer.activity',
+    title: 'TG Customer',
+    summary: 'TGCustomer is event publishing platform',
+    developer: 'Ticketgateway Inc',
+    developerId: 'Ticketgateway+Inc',
+    icon:
+     '//lh3.googleusercontent.com/_pYRIvVUKn1KbtYY9LOZmiLcaEy55DoxcQD0w7uMxJ7pPP6NHuBEED51np2P2Lb2wy0=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thaiairways.thaivision',
+    appId: 'com.thaiairways.thaivision',
+    title: 'TG Xperience',
+    summary:
+     'Discover THAI Inflight Entertainment on your mobile device.',
+    developer: 'Thai Airways International',
+    developerId: '8847475748098199636',
+    icon:
+     '//lh3.googleusercontent.com/xNJJZ_vh_IOTwE22HPTjAF07X2PLy49N8ujGd-Fopk4FZ56ITrbK7aD2gGMEcayo6OEo=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tarungillonlinecourses',
+    appId: 'com.tarungillonlinecourses',
+    title: 'TG Fitness',
+    summary:
+     'India\'s first learning app to help you build your career in fitness industry.',
+    developer: 'TG Fitness',
+    developerId: 'TG+Fitness',
+    icon:
+     '//lh3.googleusercontent.com/ccbtqriipq2jdJOzfqKIhiYi0E8cTApLGQ0Y8SFeoXKybBvDS9H9iZezh9H0ZdPjzUY=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tgpersonals.transgndr',
+    appId: 'com.tgpersonals.transgndr',
+    title: 'Transgndr',
+    summary:
+     'Transgndr is a 100% free transgender dating app brought to you by TG Personals.',
+    developer: 'TG Personals',
+    developerId: 'TG+Personals',
+    icon:
+     '//lh3.googleusercontent.com/6atqGqseTEv0v9CkQ9ITFSPksda8Ze80BGlI6FV_ZbN4Gafpk-Fhz3-jaEG99ocU8pM=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=it.tg.la7',
+    appId: 'it.tg.la7',
+    title: 'TGLA7',
+    summary:
+     'From today the information of TG LA7 only operates for FREE on your smartphone.',
+    developer: 'LA7 s.r.l.',
+    developerId: 'LA7+s.r.l.',
+    icon:
+     '//lh3.googleusercontent.com/7nc1SxYNiSsIghIZWfDhIucGEEO9Tka-SlGUCOCvHKi9mOYYd0F75nVLtyBoAUJWIZ0=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.gmw.tgomni1',
+    appId: 'de.gmw.tgomni1',
+    title: 'TG omni 1 -The app for testers',
+    summary:
+     'The app "TG omni 1" is the user interface for the device tester TG omni 1',
+    developer: 'Gilgen, Müller & Weigert (GMW) GmbH & Co.KG',
+    developerId: 'Gilgen,+M%C3%BCller+%26+Weigert+(GMW)+GmbH+%26+Co.KG',
+    icon:
+     '//lh3.googleusercontent.com/bsH158idUBsDnrLu61Wr34qBW9VcWjhuZm1EEbpfwInEniBf7WeVwxTvxgO4x9fLrU8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.tgeltville.app',
+    appId: 'de.tgeltville.app',
+    title: 'TG Eltville Handball',
+    summary: 'The official handball app TG Eltville.',
+    developer: 'Andreas Gigli',
+    developerId: 'Andreas+Gigli',
+    icon:
+     '//lh3.googleusercontent.com/0cxfYTXYd_UYk5KMq7gbejpVHMnjWqpaf_4142C4aQrWnoIwnVHLLw-7F9jJftwDZhM=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.showcasestudios.mtgassistant',
+    appId: 'com.showcasestudios.mtgassistant',
+    title: 'M:tG Assistant (Unreleased)',
+    summary: 'Your personal M:tG Assistant',
+    developer: 'Showcase Studios',
+    developerId: 'Showcase+Studios',
+    icon:
+     '//lh3.googleusercontent.com/t6rzLx6jxoy23K5zzOa2TBGoyxrs61HGqVlq8z6QgJALYOesEVrMOEmUZdRjh-iDOQ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.technogym.lifetime.edenprairie',
+    appId: 'com.technogym.lifetime.edenprairie',
+    title: 'LT + TG',
+    summary: 'Track your workouts and results',
+    developer: 'Mywellness srl',
+    developerId: 'Mywellness+srl',
+    icon:
+     '//lh3.googleusercontent.com/YtlAxgL8CQVq5CUPGnK8lMRBL5HroSA3eZacAJrCoqcLE4MKzZ2mQ9J2DPOj9dOFu3o=w340',
+    score: 1.6,
+    scoreText: ' Rated 1.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nodexdev.tgkollection',
+    appId: 'com.nodexdev.tgkollection',
+    title: 'TG Kollection For KLWP',
+    summary:
+     'This is not a stand alone app. These Preset\'s Require KLWP (Pro Key).',
+    developer: 'NoDexDev',
+    developerId: '9049316223523013291',
+    icon:
+     '//lh3.googleusercontent.com/p3zL_11_exO8K-IfM9lCsBUuC29TIFUSuHyTiUCtfSskdmjx8Hz5eVxlLzt9XSvcYWo3=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.trugreen.greenroom',
+    appId: 'com.trugreen.greenroom',
+    title: 'TG Green Room',
+    summary:
+     'Green Room is a community dedicated to keep you connected to everything TruGreen',
+    developer: 'TruGreen LLC',
+    developerId: 'TruGreen+LLC',
+    icon:
+     '//lh3.googleusercontent.com/dUBP6pvq1b2sV5DiNdjrC-7qIyw0yInmAvF05UgxJuIpHjk_hC3an5G2xCac22uDxrY=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.tgruesselsheim.app',
+    appId: 'de.tgruesselsheim.app',
+    title: 'TG Rüsselsheim Handball',
+    summary: 'The official handball app TG Rüsselsheim.',
+    developer: 'Andreas Gigli',
+    developerId: 'Andreas+Gigli',
+    icon:
+     '//lh3.googleusercontent.com/XdLXjFq81_iDZwdgVavqUB8-sUx9gk7mGJ16PazgXWeL5ZvrCgH6tEAUXkI95n4FSg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.olympusimaging.oitrack',
+    appId: 'jp.olympusimaging.oitrack',
+    title: 'OLYMPUS Image Track',
+    summary:
+     'To the smartphone from the camera via Wi-Fi. OI.Track enrich your activities.',
+    developer: 'Olympus Corporation',
+    developerId: 'Olympus+Corporation',
+    icon:
+     '//lh6.ggpht.com/V6QohLlCiwCV2qL7Cd-g8J1p1yZUX6tnsOC405MHcrE4XGXr9RoYyfyJv8mOb5yYDg=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.olympusimaging.oishare',
+    appId: 'jp.olympusimaging.oishare',
+    title: 'OLYMPUS Image Share',
+    summary: 'Share your favorite pictures',
+    developer: 'Olympus Corporation',
+    developerId: 'Olympus+Corporation',
+    icon:
+     '//lh3.ggpht.com/ibo_WaZAX5kNIoYX97PqBGN7weLn681D_Q1kIic-5X2z8PqjfaF_jFEFrDE4RBybRQ=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=taipei.sean.challegram',
+    appId: 'taipei.sean.challegram',
+    title: 'Telegreat X Chinese Version (Unreleased)',
+    summary:
+     'Chinese Version Telegram X from Taiwan: simple, free, fast, multi-device support',
+    developer: 'Sean Wei',
+    developerId: '6152680311272602832',
+    icon:
+     '//lh3.googleusercontent.com/mi3PZwqUvZFxhewj_QqRMK4-pQ-N3jPGy7GGzDpvVhb3a_LIng4vezsThJccYXl_-8Y=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=de.sde.mobile',
+    appId: 'de.sde.mobile',
+    title: 'SZ.de - Nachrichten - Süddeutsche Zeitung',
+    summary:
+     'All messages Sueddeutsche Zeitung everywhere - News in SZ quality',
+    developer: 'Süddeutsche Zeitung Digitale Medien GmbH',
+    developerId: 'S%C3%BCddeutsche+Zeitung+Digitale+Medien+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/FXdGw4u4-tDhWRZRHafVQJKvWZiGNCmCmRVtkkJw74d_7uqKthEXOBITOUiNTIkuoq4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.sueddeutsche',
+    appId: 'de.sueddeutsche',
+    title: 'Süddeutsche Zeitung Zeitungsapp',
+    summary:
+     'The Süddeutsche Zeitung for smartphone and tablet. Play free 14 days free!',
+    developer: 'Süddeutsche Zeitung GmbH',
+    developerId: 'S%C3%BCddeutsche+Zeitung+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/t6M6QRAX5P0MkAsN0hpti9eNqvWKnEK2AFm-ydiCRg_zMnynHjTfiU8y6lneNYfqIdw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameresort.stupidzombies',
+    appId: 'com.gameresort.stupidzombies',
+    title: 'Stupid Zombies',
+    summary:
+     'Stupid zombies are back and you are humanity\'s last hope to keep them brainless.',
+    developer: 'GameResort',
+    developerId: '6351423160467886303',
+    icon:
+     '//lh3.googleusercontent.com/4Yeh7xWLbJEySsiu8rwQtjkSEIdvhJD8D9x4OHEln-CgeoazfI_TLNpBceeeA1qdMwk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameresort.sz2google',
+    appId: 'com.gameresort.sz2google',
+    title: 'Stupid Zombies 2',
+    summary:
+     'The undead return with new exciting brainless creatures, weapons, and puzzles!',
+    developer: 'GameResort',
+    developerId: '6351423160467886303',
+    icon:
+     '//lh5.ggpht.com/cQDv1F13oWeRrA3MbauZ-qiE3tRWHtQleqclsMNf1avh5AgxCyco3axeuy7a6NxmS4M=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.malykh.szviewer.android',
+    appId: 'com.malykh.szviewer.android',
+    title: 'SZ Viewer A1: Diagnostics for Suzuki',
+    summary:
+     'Using ELM327 for Suzuki specific (non-OBD2) diagnostics of control modules.',
+    developer: 'Anton Malykh',
+    developerId: 'Anton+Malykh',
+    icon:
+     '//lh3.googleusercontent.com/rwwqx0_vv6ZFvnp-Deavc0ZwY8H60mH71fIa6-kssL8BzN6aec6Aa518itmqFd1Uelo=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.schwetzinger_zeitung',
+    appId: 'de.schwetzinger_zeitung',
+    title: 'SZ/HTZ-Digital',
+    summary:
+     'The digital newspaper Schwetzingen - new reading pleasure with many features',
+    developer: 'Dr. Haas GmbH',
+    developerId: 'Dr.+Haas+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/9r1T2-6jaezk67hOcFMChZM_-0Kbn0ge0rayXXjE2Kq6YCVlRHfaRlOYHn1kwwyEfxuP=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameresort.sz3',
+    appId: 'com.gameresort.sz3',
+    title: 'Stupid Zombies 3',
+    summary:
+     'Re-dead the undead in this turn based zombie shooting game.',
+    developer: 'GameResort',
+    developerId: '6351423160467886303',
+    icon:
+     '//lh3.googleusercontent.com/OP6Ar62JSBU4VarLVNXVq4C8_JD-SkG1ZDniRWya_FTi70X0tb9cGoqxYXqkUQoeyA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.medien31.sz.epaper',
+    appId: 'de.medien31.sz.epaper',
+    title: 'SZ / LZ e-Paper',
+    summary:
+     'The e-paper of the Schaumburger newspaper and Schaumburg-Lippe-Zeitung',
+    developer: 'Medien 31 GmbH',
+    developerId: 'Medien+31+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/C49bbmOx2yaGXuRThzrSDV4v0agFxM4ltDCgEosEvu2R3DV1cRbtIFvnhgQ8IunVFsY=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=erega74.sltheme.colorgloss',
+    appId: 'erega74.sltheme.colorgloss',
+    title: 'Color Gloss - Icon Pack',
+    summary: 'Stunning glass icons with multicolored lights',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/ntD-Vbz0uyg5uNDPA3FrMeKlGaahlqBQUXPHPj6hD54yH9CkKGP1Ho8N1pMfZumAC3-T=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.szinteractive.GoBotix',
+    appId: 'com.szinteractive.GoBotix',
+    title: 'GoBotix',
+    summary: 'Solve platform puzzles with tiny robots!',
+    developer: 'SZ Interactive ™',
+    developerId: '8176618143157769635',
+    icon:
+     '//lh3.googleusercontent.com/EZE5n7aNoZFYFppwjqiswrHkdkzFDxWZN6o_71MxacdWpOYwO3OaVyEh8nJsdHIAb7FK=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.erega74.annabelleui.iconpack',
+    appId: 'com.erega74.annabelleui.iconpack',
+    title: 'Annabelle UI - Icon Pack',
+    summary: 'Beautiful, Bright, Clean, Clear not round and not square',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/oDrggmIsSAt3SfN5s7vVg90miwlqbrVgu4t6LOyhOnx3nGmZmdd1Pr9_qyP9C6lD6g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amons.iconpack.theme',
+    appId: 'com.amons.iconpack.theme',
+    title: 'Amons - Icon Pack',
+    summary: 'Two-color icons of high quality. Clean. Smooth',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/SZDXyI3aCkdmXYeZDJzCqEc3vOcqo9nNRNudjFqFkCdqfz9RVCKUq8OYGlEToU-ihqg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.erega74.shimu.iconpack',
+    appId: 'com.erega74.shimu.iconpack',
+    title: 'Shimu - Icon Pack',
+    summary:
+     'Beautiful square icons 2900+ with muted colors and elegant wallpapers',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PbWBvJkD79PUq1wlDkktpT6QLG_l-NF5KB80GU1DgCqb_J9TQj7zgbogKnG4qSHWX7I=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=erega74.sltheme.rest',
+    appId: 'erega74.sltheme.rest',
+    title: 'Rest - Icon Pack',
+    summary: 'Pretty simple, but has its own style icon pack',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/MDHHC_nIaaTxl2_KsHWxqN0x-2ikzY50YewoCYjuf0tsO5zPSNEkChCzgIQIt5nOAisS=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lyrebirdstudio.instasquare',
+    appId: 'com.lyrebirdstudio.instasquare',
+    title: 'Instasquare Photo Editor: Double Exposure & Resize',
+    summary:
+     'Best Photo Editor 4 collage making & double exposure. Nocrop square size photos!',
+    developer: 'Lyrebird Studio',
+    developerId: '8117239212302166287',
+    icon:
+     '//lh3.googleusercontent.com/q3Y7FbCj7we_ZwJtrWHxi2vv7ksV89MEnMESP3jeVPwxOeaL2iesx6K4VxjrhCSQAK0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kaorin.theme.iconpack',
+    appId: 'com.kaorin.theme.iconpack',
+    title: 'Kaorin - Icon Pack',
+    summary: 'Beautiful icons with muted colors and elegant wallpapers',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/G2NaxZ4xUwjx6yNHsmg6rRYnqzDasxyR3UxmodrouvOhpz2LhCR2JEupCF9qe1ozdtXO=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url: 'https://play.google.com/store/apps/details?id=com.asos.app',
+    appId: 'com.asos.app',
+    title: 'ASOS',
+    summary:
+     'Shop 850+brands, latest trends & new in, get your daily fashion fix on our app.',
+    developer: 'ASOS',
+    developerId: 'ASOS',
+    icon:
+     '//lh3.googleusercontent.com/Rf0WeqezmTs18VKfIj3xAzaahXz4pXZzyoZuX1MPzHYSMVZmxBc_URAziTVC7ffxeE0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domka.theme.iconpack',
+    appId: 'com.domka.theme.iconpack',
+    title: 'Domka - Icon Pack',
+    summary: 'Glass Icons',
+    developer: 'SZ Inc.',
+    developerId: 'SZ+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/SZyKL5E0cb_CFfa1DdEsoKW8H1rOreq9T81SiQEZ4kX97v8vuJXk3R4eTl_1tWG2bQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '$0.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jsdev.instasize',
+    appId: 'com.jsdev.instasize',
+    title: 'InstaSize: Photo Editing Made Easy',
+    summary:
+     'Use our filters, frames for pictures & collage layouts for your pic editing fun.',
+    developer: 'Munkee Apps, Inc. (Photo Editor)',
+    developerId: '5679077225552137504',
+    icon:
+     '//lh3.googleusercontent.com/gzZ-Go1P2liw-1iTm4i3hHvhjRzyDr-uuW-s_1oGPZQ9mbjCS3rpLFLfXa5CjEWmKTc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.baiwang.stylephotocollage',
+    appId: 'com.baiwang.stylephotocollage',
+    title: 'Collage Maker - Square Fit,Color Splash,Cool Frame',
+    summary:
+     'Insta Square Photo editor and  Collage Maker  photo editor & Color Splash Photo',
+    developer: 'Photo Editor Perfect Corp.',
+    developerId: '9178808402024357731',
+    icon:
+     '//lh3.googleusercontent.com/h43RSqTME85dxury1dtUwVx_J4AFDSeyAdoALvlvixZlBE1YRfVTjIka46z1d-lViwA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

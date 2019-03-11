@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.estrongs.android.pop',
+    appId: 'com.estrongs.android.pop',
+    title: 'ES File Explorer File Manager',
+    summary:
+     'ES File Explorer to easily manage,share all your local Android and Cloud files.',
+    developer: 'ES Global',
+    developerId: 'ES+Global',
+    icon:
+     '//lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.valarsomua.pattachitta',
+    appId: 'com.valarsomua.pattachitta',
+    title: 'Patta/Chitta/EC Document',
+    summary:
+     'Tamilnadu Patta,Chitta,EC Documents view and Download is simple steps.',
+    developer: 'Valarmathi',
+    developerId: 'Valarmathi',
+    icon:
+     '//lh3.googleusercontent.com/d_xLsB_fcTvMcRcRDwl-L0LwXegQnO_l0cGS_QB5DnbBJDaXoQU-pZ8LI6LhcytqWuc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vasithwam.apps.apandtelanganaec',
+    appId: 'com.vasithwam.apps.apandtelanganaec',
+    title: 'EC - AP & Telangana',
+    summary: 'Andhra Pradesh & Telangana Encumbrance Search (EC)',
+    developer: 'Knowledge KeyMaker',
+    developerId: 'Knowledge+KeyMaker',
+    icon:
+     '//lh3.googleusercontent.com/YGeLIZliJNQs-93GVoUZLP5mlHXuADHlqUAOBpKqBJPN06JQiP2HaSlEzdfsjf7M238=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.valarsomua.EC',
+    appId: 'com.valarsomua.EC',
+    title: 'EC/Patta/Chitta  பட்டா/சிட்டா/வில்லக சான்று',
+    summary:
+     'Tamilnadu all District Land related all document are available in simple steps.',
+    developer: 'Valarmathi',
+    developerId: 'Valarmathi',
+    icon:
+     '//lh3.googleusercontent.com/jN64aNznwokJZdeTcRo2RlovbIEhjrkNtDUY07lusxOElQFECk_ek1SIoc0IBxPDtJs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tnreginet.pattachittaview',
+    appId: 'com.tnreginet.pattachittaview',
+    title: 'TN Patta, Chitta, EC Info',
+    summary:
+     'Check your Patta,Chitta,tnreginet, A.Register EC information of Tamil Nadu State',
+    developer: 'Sports Club Apps',
+    developerId: '6648412330017919285',
+    icon:
+     '//lh3.googleusercontent.com/SLtVyHSiy6RqiCxO6hWIZcYVW24M8mt4dDJq-zI-AbT0mMAtOiGhg3fZ0zKLhU5OMgk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vasithwam.apps.pattachitta',
+    appId: 'com.vasithwam.apps.pattachitta',
+    title: 'TN Patta Citta & EC',
+    summary:
+     'Viewing the details of Patta, Citta & EC details of Tamil Nadu',
+    developer: 'Knowledge KeyMaker',
+    developerId: 'Knowledge+KeyMaker',
+    icon:
+     '//lh3.googleusercontent.com/lWzN3_l6UgeHh93XB5bqPc8HK-dbNI5OWcGMfklpIEaymtOfA0pxag676St0LiUh9L3x=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wECEncumbranceSearchtelanganastate_5160376',
+    appId: 'com.wECEncumbranceSearchtelanganastate_5160376',
+    title: 'EC - Encumbrance Search - telangana state',
+    summary: 'EC - Encumbrance Search - telangana state',
+    developer: 'Japathi Prabhakar',
+    developerId: 'Japathi+Prabhakar',
+    icon:
+     '//lh3.googleusercontent.com/wXK4FebUWkBPS94g-5nYpZjY3elhAOXDOhtPeHN3VdX4cj5ffhcXNLOd2fe2mSWjZQ=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pattalanddata.tnpattachitta',
+    appId: 'com.pattalanddata.tnpattachitta',
+    title: 'TN Patta Chitta,EC,A-Register Extract,TSLR Extract',
+    summary:
+     'Check the full details of Patta, Chitta in this App in Tamilnadu Land.',
+    developer: 'Quik2Cliq App Zone',
+    developerId: 'Quik2Cliq+App+Zone',
+    icon:
+     '//lh3.googleusercontent.com/2o2SDY2w0ocXihpnOfP4xi9iKtLdoq0F9k3RQBbBU6g0grtEd8abp92L-BhSyLup8ik=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tn.pattalanddata',
+    appId: 'tn.pattalanddata',
+    title: 'TN Patta, Chitta, EC',
+    summary:
+     'Check Patta ,Chitta, EC of Tamilnadu state lands with Tamil description',
+    developer: 'Ve Apps India',
+    developerId: '5409072382190744223',
+    icon:
+     '//lh3.googleusercontent.com/Sr6R9AxMOIkjTw5fmExRcCsAUpFa3Vy44pZor2964AhfznOSA81_jXdlqkX3TDFaXg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.csst.ecdict',
+    appId: 'com.csst.ecdict',
+    title: 'EC Dictionary 英漢字典',
+    summary: 'EC Dict is a fast, easy to use En-Zh / Zh-En dictionary.',
+    developer: 'CSST',
+    developerId: 'CSST',
+    icon:
+     '//lh3.googleusercontent.com/Pg9pzKUsgw-FjzyDUHa2iaFXELY4e9GGS66-l3VtpgBgyhYoTQhrHmVxYayeMa96Ow=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=evalencia.ec.clubify.clubify',
+    appId: 'evalencia.ec.clubify.clubify',
+    title: 'Clubify.ec',
+    summary: 'Chain of benefits and events for students',
+    developer: 'Clubify.ec',
+    developerId: 'Clubify.ec',
+    icon:
+     '//lh3.googleusercontent.com/_37x0H1Z7Ztb21hGSIeWE_9aNIEwdCCyHN91y_DDN7gRg-MeG-XD-qc6TJef9knQAodR=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unasp.unasp_ec',
+    appId: 'com.unasp.unasp_ec',
+    title: 'UNASP-EC',
+    summary:
+     'Enough to be in the canteen queue or mentoring to their "out"',
+    developer: 'UNASP-EC',
+    developerId: 'UNASP-EC',
+    icon:
+     '//lh3.googleusercontent.com/U_6PyDUENnw0d_G_1xK1KfZaInpmO3Lp8ejPVRPEp7nVM2_V2XEWuEpvjD1HODxA-S0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ecusports.appequ',
+    appId: 'ecusports.appequ',
+    title: 'Ecuador-Sport',
+    summary:
+     'Application of the Ecuadorian Soccer Championship - LigaPro',
+    developer: 'J. Gorotiza - Developer',
+    developerId: 'J.+Gorotiza+-+Developer',
+    icon:
+     '//lh3.googleusercontent.com/e739TPXpcK13QJiVEy8225x0oAE7E-bF1IONPtWPdwuXLkd2nU74IfzgLuooNgIMWMYY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appybuilder.narayanahyd1977.EncumbranceCertificate',
+    appId: 'com.appybuilder.narayanahyd1977.EncumbranceCertificate',
+    title: 'Encumbrance Certificate India EC - CC Copy Online',
+    summary:
+     'Encumbrance Certificate India EC - CC Copy Online Status ts,ap,tn,mp,kerala',
+    developer: 'Laxmi Narayana',
+    developerId: 'Laxmi+Narayana',
+    icon:
+     '//lh3.googleusercontent.com/PxGHtax_ecPZQfRcO7wdXmsUZH6RRhmI_Q8hQZpIH1SyCLdn59arZ5aJL21etiaw2K4=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appybuilder.pamuudaya.Encumbrance_EC_CC_Copys',
+    appId: 'com.appybuilder.pamuudaya.Encumbrance_EC_CC_Copys',
+    title: 'Encumbrance Certificate EC - CC Copy Online Status',
+    summary:
+     'EC - CC Copy Online Status AP State TS State Encumbrance Certificate',
+    developer: 'Pamu Udaya',
+    developerId: 'Pamu+Udaya',
+    icon:
+     '//lh3.googleusercontent.com/VbbktuctG9IbonNnivnge28CF42t_mfljcZPX1uXBRqKcONK8sIK9KmxKrUyTQAccN4=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.app.p2657IH',
+    appId: 'com.app.p2657IH',
+    title: 'EC Security',
+    summary:
+     'Extending our reach within our community with the EC security App.',
+    developer: 'Custom Apps SA',
+    developerId: '6180669508147971373',
+    icon:
+     '//lh3.googleusercontent.com/FfEZemgryMEzy4q49MKWfBdqj8Xek8WQohYbksGMJzr7IXZVZVfN8RNA7GByUj7ciA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dicom.express.monodroid.ec',
+    appId: 'com.dicom.express.monodroid.ec',
+    title: 'EC Worksmart',
+    summary:
+     'Provided by Dicom Transportation Group to all EC brokers and their employees.',
+    developer: 'Dicom Transportation Group Canada Inc.',
+    developerId: '7787503589207702932',
+    icon:
+     '//lh3.googleusercontent.com/yoAzpBymHU0lOgcP_8xLfyTTkI_scvAqWsPRxhXrk9Okgbct_tmPegBJiN__W3-Dzqs=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.victoriaelectric.smartapps',
+    appId: 'com.victoriaelectric.smartapps',
+    title: 'Victoria EC',
+    summary: 'Victoria Electric Cooperative',
+    developer: 'Victoria Electric Cooperative',
+    developerId: 'Victoria+Electric+Cooperative',
+    icon:
+     '//lh3.ggpht.com/ACYcHhbcVxqOKblWZ3vEs0d5InDv8HvAq4spjyu_rzjMADuVYsEtB5tgEDvS5YH3ZqQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.ecnavi.ecnavixshufoo',
+    appId: 'jp.ecnavi.ecnavixshufoo',
+    title: 'ECナビ×シュフー',
+    summary:
+     'ECナビ×Shufoo!は、スーパーやドラッグストア、百貨店など全国100,000店以上のチラシが無料で閲覧でき、チラシを見るだけでECナビポイントが貯まる！',
+    developer: 'ECNAVI PLUS LLC.',
+    developerId: 'ECNAVI+PLUS+LLC.',
+    icon:
+     '//lh3.googleusercontent.com/RR5VeznOn116Og98L3aElI6a15CS_4NAOMGXnjaAhjkB9eFGeuR9fJw-TD9DgEATtXQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appybuilder.narayanahyd1977.Encumbrance_EC_CC',
+    appId: 'com.appybuilder.narayanahyd1977.Encumbrance_EC_CC',
+    title: 'Encumbrance Certificate EC - CC Copy (TS AP State)',
+    summary:
+     'Encumbrance Certificate EC - CC Copy Telangana Andhra State Land EC CC copy',
+    developer: 'Laxmi Narayana',
+    developerId: 'Laxmi+Narayana',
+    icon:
+     '//lh3.googleusercontent.com/-u102r30qXuEk55Wknzsp3jQh-BCBz2dZaTUmSkIsl2-G3gteOtlVFuH_956vrTPcXG6=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true } ]

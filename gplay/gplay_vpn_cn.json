@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.turner.cnvideoapp',
+    appId: 'com.turner.cnvideoapp',
+    title: 'Cartoon Network App',
+    summary:
+     'Watch tons of awesome videos from your favorite Cartoon Network shows!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/Wof7SPgftpuslskYJt9ZC3G8EHqN1qE1hBU6y4RrP7nS6N3epioe-_OiJ0_k_zQYwh6s=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.superstarsoccer2',
+    appId: 'com.turner.superstarsoccer2',
+    title: 'CN Superstar Soccer: Goal!!!',
+    summary:
+     'Become a soccer superstar with your favorite Cartoon Network characters!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/JNqDHbLcbdRWiN9kSpO2A5XWeqBZvPgG_w6yaCaNMNqmdkbQ2kS1F0Cp2J3x0Oef_g=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.cnmatchland',
+    appId: 'com.turner.cnmatchland',
+    title: 'Cartoon Network Match Land',
+    summary:
+     'Build your team and conquer a match 3 adventure in Cartoon Network Match Land!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/uoGAg201zq1dzUOcAzQH_ckiyoqC-rbf_MYYBFxLanRliM3MvoYM-2km-WxlreQblA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.cardwars2',
+    appId: 'com.turner.cardwars2',
+    title: 'Card Wars Kingdom',
+    summary:
+     'Assemble a team of awesome creatures and fight for Card Wars glory!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/qKNZifCTwJSfLQ9hQb_OMjvspV0Uy3DbjAgc6VcUO6tUM1aEiMIIiVbSKcmXIisY0R0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.ttgfigures',
+    appId: 'com.turner.ttgfigures',
+    title: 'Teeny Titans - Teen Titans Go!',
+    summary:
+     'Join Robin for a figure battling RPG of epic proportions! Teeny Titans, GO!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/40XefHSf3gzAwn1WVDVdb4jJOILhpxAL2hLGHro8H2XA8IqsdE7rpZd2zK75NzkDBqvB=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '$3.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.stevenrpg',
+    appId: 'com.turner.stevenrpg',
+    title: 'Attack the Light',
+    summary:
+     'Team up as Garnet, Amethyst, Pearl, and Steven for a magical RPG adventure!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/NWtnYC3micsh7k_URpSKiTKoqlJtYKiFVaLsbNy6W7DI9j6UPDt3t1fFC2cIun9f5g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.ttgfigures2',
+    appId: 'com.turner.ttgfigures2',
+    title: 'Teen Titans GO Figure!',
+    summary:
+     'Collect, customize and battle your favorite DC heroes! Multiplayer Beta is here!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/UYr6ZHJ9s9lOXlGUVBnL-hXqFGGpauxwj3_vILRewIo09NJn4Z3Ti4rR7pVwzcrjm8A=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$3.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ninjakiwi.btdadventuretime',
+    appId: 'com.ninjakiwi.btdadventuretime',
+    title: 'Bloons Adventure Time TD',
+    summary:
+     'Defend Ooo from the Bloon invasion in this epic tower defense crossover.',
+    developer: 'ninja kiwi',
+    developerId: '7266924558817293669',
+    icon:
+     '//lh3.googleusercontent.com/zKnBTopgnz-NwUQnauQ8-6VeKJTCGylJfIkj6VKq_8GC6xb1OZ3XKvPDgaG2mO-MkJs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.skystreaker',
+    appId: 'com.turner.skystreaker',
+    title: 'Sky Streaker - Gumball',
+    summary:
+     'Dodge clothes, grab coins, and outrun Gumball & Darwin as you climb sky high!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/xo9rAFmo54i2OQx84UUtmjRy2kIrZk6VDyUniscm7M6NX-T6uBEwAeWt9ukK7wsFew=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.superslimeblitz',
+    appId: 'com.turner.superslimeblitz',
+    title: 'Super Slime Blitz - Gumball',
+    summary: 'Test your skills on crazy, slime-covered obstacles.',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/BwYYwk1bdYjM01FZKcVyaOBWCiBZ_bbEhof_2GvPLwUNpoBQMIwNms95HFx9zeNDQZU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.StevenRhythm2016',
+    appId: 'com.turner.StevenRhythm2016',
+    title: 'Soundtrack Attack',
+    summary: 'Battle to the beat of your favorite Steven Universe songs!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/-ruAJBS8fkMGFZkhXRGfPXzrO1oxBEUzn1I2t7B3GcWcSX8P3RMrsfL-UWYmWWZqIjtT=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.lpt',
+    appId: 'com.turner.lpt',
+    title: 'OK K.O.! Lakewood Plaza Turbo',
+    summary:
+     'Use super radical moves to battle Lord Boxman in OK, K.O.! Lakewood Plaza Turbo!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/ESabHl4lxTQKuGgM8SV1_0AD_eziwMOVi1Y5WeMhul4S9FyNMbsmcYDHNN48FJCbq2i2=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.wbb2016',
+    appId: 'com.turner.wbb2016',
+    title: 'StirFry Stunts - We Bare Bears',
+    summary:
+     'Use Ice Bear\'s awesome cooking skills to serve up some delicious dishes!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/Xwx13O_0HfsmTiO8cr3b8vmO9tAGwH5TXprUb1zFlD4HSSgfoRzxFpz4nJkBGP8OGJr8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.cnblamburger',
+    appId: 'com.turner.cnblamburger',
+    title: 'Blamburger - Clarence',
+    summary:
+     'Help Clarence conquer a frenzy of falling food to build the perfect burger!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/PwSXac0fGoE5Q3Spic-UiB1jS_PACKUA0JqaBCANHvO8hUcuBSPaT6iIxK16RdJ7ays=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.partydash',
+    appId: 'com.turner.partydash',
+    title: 'Cartoon Network Party Dash',
+    summary: 'Launch Gumball into the Void to save his friends.',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/1rkpkoMvY_TkCBZQjv-m-LxixODXQIynfZNqshV4fPfnxGpvo220K99xtPubS8TF9g=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.freefurall',
+    appId: 'com.turner.freefurall',
+    title: 'Free Fur All – We Bare Bears',
+    summary:
+     'Play a variety of We Bare Bear minigames with Grizz, Panda and Ice Bear.',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/j0fQgo_PivZ4YS37N0gz6P-dmG9QNEnOnHDpM184OEmBRhkBNUf331ZYXyFSbsrIwRY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.fcallstars',
+    appId: 'com.turner.fcallstars',
+    title: 'Formula Cartoon All Stars',
+    summary:
+     'LIMITED TIME SALE – Race your favorite Cartoon Network characters for 66% off!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/dumqkH2fs3YneqzghzKBiCPmRYOQwCl8khoe9Rgg9Czm-AcXkYfls_oNS8-pxDPsYQ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.gumballbkom',
+    appId: 'com.turner.gumballbkom',
+    title: 'Wrecker\'s Revenge - Gumball',
+    summary: 'Help Gumball save Elmore in Wrecker’s Revenge!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/W5pySI94Kwci9iR11yeHSmtIkEHuP2oLlMZAsIUSwsz7WsBrcIPUP3t7AzECWCxhpHc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.summercampar',
+    appId: 'com.turner.summercampar',
+    title: 'Summer Camp Island AR',
+    summary:
+     'Explore Summer Camp Island in AR and stick animated faces on anything.',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/ZOlQeOAQ0hJTvcmm3CAcWzRldbsCgFlYhTxJMDQdmcTR0ACBYR3w7GR5sMfwk2n21Q=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.ppgstem',
+    appId: 'com.turner.ppgstem',
+    title: 'Glitch Fixers: Powerpuff Girls',
+    summary:
+     'Learn the basics of coding as you battle monsters and solve puzzles!',
+    developer: 'Cartoon Network',
+    developerId: '7977642132858801607',
+    icon:
+     '//lh3.googleusercontent.com/J-g9vqI310TfVQMRszAHleq1bMkfCrSkXuQkkOrVoxWQpGeJ5-WgOvhp-0mz2Z8Zu8yA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

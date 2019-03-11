@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.mg.beefirst.mg',
+    appId: 'com.mg.beefirst.mg',
+    title: 'MG Club Egypt',
+    summary:
+     'The official app of MG Club Egypt affiliated to MG Car Club UK.',
+    developer: 'Bee First',
+    developerId: 'Bee+First',
+    icon:
+     '//lh3.googleusercontent.com/fb5nhQOpciPSSS1i7Qmw415NOegYnXnP2367B8-mknlN6JiJASHfvGjKXJag-fjYUB8S=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.triactivemedia.mgenthusiast',
+    appId: 'com.triactivemedia.mgenthusiast',
+    title: 'MG Enthusiast',
+    summary: 'The world\'s best-selling MG magazine.',
+    developer: 'Pocketmags.com',
+    developerId: '8560162257577595232',
+    icon:
+     'https://lh4.ggpht.com/PU3VI02ADu1VlPDU1dpRauZfPI8ELPSpThrimP7IYOp4ukGJfCU-z7Xv4flqoySm08Q=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.jp.ymw.mgplayer',
+    appId: 'air.jp.ymw.mgplayer',
+    title: 'Mg video player',
+    summary: 'You can receive broadcast live on the smartphone.',
+    developer: 'Yonden Media Works Co.,Inc',
+    developerId: 'Yonden+Media+Works+Co.,Inc',
+    icon:
+     'https://lh3.ggpht.com/eqosSIKq6GcttSrTCLM_wLpkSdEB14chRGjwq7fRhHd7kuKeuc1DocBCLh54LC6XQTPJ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.kfcc.mobilebank',
+    appId: 'kr.co.kfcc.mobilebank',
+    title: 'MG상상뱅크',
+    summary:
+     'MG imaginary bank made as to imagine1,300 for community credit in my hands in!For now Community Credit interest rate start shopping.',
+    developer: 'MG새마을금고',
+    developerId: 'MG%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0',
+    icon:
+     '//lh3.googleusercontent.com/l2aMMyqKf6xwytyxkFPoZyDq-NeGneVUoHQM-d6tYb_1Qa7Tj-VY0Ra-8YpkoVfC3OQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gurukrupaenterprise.modgstagent',
+    appId: 'com.gurukrupaenterprise.modgstagent',
+    title: 'MG Agent',
+    summary:
+     'This application is useful only for ModGst Desktop software Dealer.',
+    developer: 'GURUKRUPA ENTERPRISE',
+    developerId: '7325653636187442412',
+    icon:
+     '//lh3.googleusercontent.com/X8uwffxGPF8YIIndvIbbz27R9zguGKFPKrgRK6J9Mt652nGFDvWajJk5220sz4fTuQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.gov.mg.fazenda.ipvamobile',
+    appId: 'br.gov.mg.fazenda.ipvamobile',
+    title: 'IPVA - MG',
+    summary:
+     'Download the IPVA MG-Mobile and check the tax status of any vehicle.',
+    developer: 'Secretaria de Estado de Fazenda de Minas Gerais',
+    developerId: 'Secretaria+de+Estado+de+Fazenda+de+Minas+Gerais',
+    icon:
+     '//lh3.ggpht.com/y-KTSX-vq6BfT_9Jx-HI8X8dZQ9gZD05E3oVUN4-QH2vVpq2UtY9ROy0phhxK9bK_Q=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ITGates.PulpoPlus_MG',
+    appId: 'com.ITGates.PulpoPlus_MG',
+    title: 'PulpoPlus-MG',
+    summary:
+     'Fully Pharmaceutical CRM and Sales Integrated System Mobile App.',
+    developer: 'IT Gates',
+    developerId: 'IT+Gates',
+    icon:
+     '//lh3.googleusercontent.com/ENpaUSGejPiKdWEyiuDpMonzxuo3ZoeAPlLLEvHmofSKPtTMJYuqidAKlT-fejX2tGU=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smg.mgnoti',
+    appId: 'com.smg.mgnoti',
+    title: 'MG스마트알림',
+    summary:
+     '입출금 알림! 이제 스마트하게 받자.새마을금고 입출금내역, 금융안내, 체크카드 승인내역, 공제등 다양한 알림 메시지를 받을 수 있습니다.',
+    developer: 'MG새마을금고',
+    developerId: 'MG%EC%83%88%EB%A7%88%EC%9D%84%EA%B8%88%EA%B3%A0',
+    icon:
+     '//lh3.googleusercontent.com/Cb1g-9xnD3NaZC9cceNnY5l_H7wCuXAsT0JxqVDWtC-wP5HWconymLn0yvOz1sCoVnY=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pegasustranstech.transflonowplus.mglogistics',
+    appId: 'com.pegasustranstech.transflonowplus.mglogistics',
+    title: 'MG Logistics',
+    summary: 'A mobile tool for MGL driving partners.',
+    developer: 'Pegasus TransTech',
+    developerId: 'Pegasus+TransTech',
+    icon:
+     '//lh3.googleusercontent.com/5Hr2zB_kg9QDdBSz3hwFjf_hNKo2YLBCcefSPigeCAWOWOSdbOazmZCXpawE8qoqjNw=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.digitalautoguides.mgtfmm',
+    appId: 'com.digitalautoguides.mgtfmm',
+    title: 'DAG MG TF2 Maintenance Manual',
+    summary:
+     'An electronic maintenance manual for the MG TF-2 sports cars.',
+    developer: 'Digital Auto Guides',
+    developerId: 'Digital+Auto+Guides',
+    icon:
+     '//lh3.googleusercontent.com/yNv8rQZerFvOR_S18GtQjMn5mri5OItR9fcM0I9NPPb5V0cacZsifPevnys6YeXIkdN7=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.phoenikia.korg',
+    appId: 'com.phoenikia.korg',
+    title: 'MG Hub',
+    summary:
+     'MUSIC GEAR HUB is proud to announce the new PA4X OR MG Edition.',
+    developer: 'Phoenikia',
+    developerId: 'Phoenikia',
+    icon:
+     '//lh3.googleusercontent.com/TCOi6ChchqABjlNcilZYTM__RHGQBYzeVsSX3l6lMFgw3AeNPILuhdKRDqgryUlZYw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.southerntelecom.mglighting',
+    appId: 'com.southerntelecom.mglighting',
+    title: 'MG Lighting by Sharper Image',
+    summary:
+     'MG Lighting is the companion app for your Sharper Image Bluetooth® Smart Bulb',
+    developer: 'Southern Telecom',
+    developerId: 'Southern+Telecom',
+    icon:
+     '//lh3.googleusercontent.com/PQjSFP4BMwz8qTgB0EinCjaM0yNo3n2Q75oMrYJNH2v0nKKuFEAibJVdGbWR048VaNs=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.digitalautoguides.mgtfom',
+    appId: 'com.digitalautoguides.mgtfom',
+    title: 'DAG M.G. TF Operation Manual',
+    summary:
+     'An electronic owner’s manual and reference for the M.G. TF Midget sports car.',
+    developer: 'Digital Auto Guides',
+    developerId: 'Digital+Auto+Guides',
+    icon:
+     '//lh3.googleusercontent.com/85bxOcyzm0aXrqQZL8XUOieACmEU3IAdd3H8y7WgNqpVLNvUn32hGQofIWVWtiF809jY=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.gov.prodemge',
+    appId: 'br.gov.prodemge',
+    title: 'Detran MG - app descontinuado',
+    summary: 'The DMV MG application was replaced by MG App.',
+    developer: 'Prodemge - Companhia de Tec. Infor. do Est. de MG',
+    developerId: 'Prodemge+-+Companhia+de+Tec.+Infor.+do+Est.+de+MG',
+    icon:
+     '//lh5.ggpht.com/OWYQLtO9SacFzIs-ZH5OJl-rOiyxRAoUyc_H3ZLLdLedHsucSROYwTwvx3CKeCtUjw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.digitalautoguides.mgtd_om',
+    appId: 'com.digitalautoguides.mgtd_om',
+    title: 'DAG M.G. TD Operation Manual',
+    summary:
+     'An electronic owner’s manual and reference for the M.G. TD Midget sports car.',
+    developer: 'Digital Auto Guides',
+    developerId: 'Digital+Auto+Guides',
+    icon:
+     '//lh3.googleusercontent.com/Hc0PfZJYxl2SYRxjRV6ngD10EHMtLVI2kzDEzT3wg-3MWENc5LeUFWv3yJ0-T-JE11cs=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.emerson.barcellos.mgordenservicopremium',
+    appId: 'com.emerson.barcellos.mgordenservicopremium',
+    title: 'MG Ordem de Serviço',
+    summary: 'Keep track of your services, customers and stock.',
+    developer: 'Mgo Studio',
+    developerId: '5591457961444396727',
+    icon:
+     '//lh3.googleusercontent.com/Aa-BdWIJ91auAasdFZALoVCg36QMCAjMX_aHX4a5ZOxzpv9OG630wNja-kVV3cZLBQwp=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '$5.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sevenym.WorkitWithMg',
+    appId: 'com.sevenym.WorkitWithMg',
+    title: 'Work It with MG',
+    summary:
+     'Work It with MG is Madalin Giorgetta’s women’s health and fitness app.',
+    developer: '7-YM PTY LTD',
+    developerId: '7-YM+PTY+LTD',
+    icon:
+     '//lh3.googleusercontent.com/fBcNvYfJOUcyLIHwH4izzJbavk3MiRjiqHN7TwYGIdQwmoVYYXhfom_c30eEYcP7lpA=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.honeygrow.hgmg.android.app',
+    appId: 'com.honeygrow.hgmg.android.app',
+    title: 'hg + mg',
+    summary:
+     'wholesome noodles + greens honeygrow minigrow order ahead earn loyalty eat happy',
+    developer: 'honeygrowLLC',
+    developerId: '6173784203177777220',
+    icon:
+     '//lh3.googleusercontent.com/Ea9HDWkQmJsN7gdbZWgqvJGeCfazUci6-CbUP54mugY7L5oQga5_RCR5MvXohYNA6dOe=w340',
+    score: 2.1,
+    scoreText: ' Rated 2.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=iqaplicaciones.mgalaire',
+    appId: 'iqaplicaciones.mgalaire',
+    title: 'MG al Aire Radio',
+    summary:
+     'Listen from anywhere in the world and at the time you want MG to Air.',
+    developer: 'Jose Luis Gudiño',
+    developerId: 'Jose+Luis+Gudi%C3%B1o',
+    icon:
+     '//lh3.googleusercontent.com/4Dv4RbU4v_UwaLsQSE-AmxxnORzmy-cFNT7FxjfXN9NowCi9s7cLrft0MucTgPsbaZE=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ikonopia.mgfrance',
+    appId: 'com.ikonopia.mgfrance',
+    title: 'MG France',
+    summary: 'MG France',
+    developer: 'Ikonopia Agence Digitale',
+    developerId: '6029932415538983440',
+    icon:
+     '//lh3.googleusercontent.com/7ZTMZDoVU4lfE4Qt7dAEzmtiD2VLk7Va15qAZacot1gQG6iNSsx3Ik628-XURPPgSoo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

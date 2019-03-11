@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.magv.mzplus',
+    appId: 'com.magv.mzplus',
+    title: 'MZ+ 當期雜誌',
+    summary:
+     'Won the 2015 Recommended Taiwan Best Google Play appHere, the quest for profit or Taiwan and Hong Kong magazine, your best reading platform!',
+    developer: 'MagV Co., Ltd.',
+    developerId: 'MagV+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/Nbsm8Grx_lP4T-8DT-QCVM3wOHKgxyu36Mxx8GOGe0qzRAsEBxhDl7Xs2M9Ufbp2wtc=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.airealmobile.mountzion_1317',
+    appId: 'com.airealmobile.mountzion_1317',
+    title: 'MZ Connect',
+    summary:
+     'MZ Connect is the mobile app for Mount Zion Baptist Church in Snellville GA.',
+    developer: 'Aware3, LLC',
+    developerId: 'Aware3,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/dJN6mz05apv3SXLD8eowUnMruWkfctHqzLGmaVpNPi-23H8j2rHgEJfdhXtsms9Zb7Y=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mzassistant',
+    appId: 'com.mzassistant',
+    title: 'MZ Assistant',
+    summary:
+     'MZ Assistant provides you useful information about your ManagerZone Soccer Team.',
+    developer: 'IASprojects',
+    developerId: 'IASprojects',
+    icon:
+     'https://lh6.ggpht.com/90KP2Hfrvze93Q2SHQnofZTwLmMznR4DEdoWyB4RD-9THRlF-qnyUKCc12-Fhg3S3Y8=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '$1.50',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad',
+    appId: 'com.mxtech.videoplayer.ad',
+    title: 'MX Player',
+    summary:
+     'Powerful video player with advanced hardware acceleration and subtitle supports.',
+    developer: 'J2 Interactive',
+    developerId: 'J2+Interactive',
+    icon:
+     '//lh3.googleusercontent.com/xMfDQZL-ySD8oCbU_bjT6ME-A9BNgZHxnX8LDBN5-Ng_GmRwnlA-RIj6dWlUKQf_JpI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mzdelivery.app',
+    appId: 'com.mzdelivery.app',
+    title: 'MZ CafeCatering',
+    summary: 'Hungry? See in Bangi? Book now at MZ food Cafe now!',
+    developer: 'MZ Cafe Bangi',
+    developerId: 'MZ+Cafe+Bangi',
+    icon:
+     '//lh3.googleusercontent.com/bfVraC4IihRvR79Owq9O61Tw-ojpWPkugtdPzyX-FXAVpPj5ZtXZBYoOsWFO01yNXg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gumhold.RetroRunnerMZ',
+    appId: 'com.gumhold.RetroRunnerMZ',
+    title: 'RetroRunner MZ',
+    summary:
+     'Real RETRO feeling with re-coded Sharp MZ-700 games, not more, not less.',
+    developer: 'gumhold.com',
+    developerId: '7793401971822902143',
+    icon:
+     '//lh3.ggpht.com/Umqhtg7rjWNPh35fwFbbItZF2EkNHYnbD_DOsYxiLEYXu49UHH-spyYkItMrnic493Ko=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.newscope.news.mz',
+    appId: 'com.newscope.news.mz',
+    title: 'MZ News App für Smartphone',
+    summary: 'The new News App of Münster newspaper.',
+    developer: 'Aschendorff Medien GmbH & Co.KG',
+    developerId: 'Aschendorff+Medien+GmbH+%26+Co.KG',
+    icon:
+     '//lh3.googleusercontent.com/ilsvOHUgaR9o9fPqtIAcdbZWl6_mDD5iZXlHVYysj1OfHUbNLtQVOJUfWtB6Yt6Var1T=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.machinezone.gow',
+    appId: 'com.machinezone.gow',
+    title: 'Game of War - Fire Age',
+    summary:
+     'Become a legend, fight epic creatures and unlock rare treasure in Game of War!',
+    developer: 'Machine Zone, Inc.',
+    developerId: 'Machine+Zone,+Inc.',
+    icon:
+     '//lh3.ggpht.com/g3S82b8rLnIN-uG0ffQPJQCmqsWQ1Im9kQff1BJArot77A78Fam7PcWLrnXSdGyRgTs=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myzone.myzoneble',
+    appId: 'com.myzone.myzoneble',
+    title: 'Myzone™',
+    summary:
+     'Myzone™ is a complete monitoring system to track the physical activity of users.',
+    developer: 'MYZONE',
+    developerId: 'MYZONE',
+    icon:
+     '//lh3.googleusercontent.com/YCbP0F-cSGIrkj3clGGvC4PIw1rSz-pcu0MI8RKvj8gb5Bb2VjPV8Me2jWJmY_fJS_w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ch.gemeinde.mz.zollikofen',
+    appId: 'ch.gemeinde.mz.zollikofen',
+    title: 'MZ Zollikofen',
+    summary: 'Messages from Zollikofen',
+    developer: 'eCrome Digital AG',
+    developerId: '5262561906257332724',
+    icon:
+     '//lh3.googleusercontent.com/oy9imXp-5ukfAKKjnEA3rhYfWsxDufEGR7vbuF9lyH83eoG0DcxqC39lQzzKv36PQQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iqrabelajarquran.ceramahzainuddinmzmp3',
+    appId: 'com.iqrabelajarquran.ceramahzainuddinmzmp3',
+    title: 'Ceramah KH Zainudin MZ MP3',
+    summary: 'Ceramah KH Zainudin MZ MP3',
+    developer: 'Iqro Belajar Quran Apps',
+    developerId: 'Iqro+Belajar+Quran+Apps',
+    icon:
+     '//lh3.googleusercontent.com/xd-zSPONab8rOiTYnTDexXd7RGQFFvOX7oYjisEXoG49HhW5PoQ7v9gP0ztaD53VcYmN=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.machinezone.gow',
+    appId: 'com.machinezone.gow',
+    title: 'Game of War - Fire Age',
+    summary:
+     'Become a legend, fight epic creatures and unlock rare treasure in Game of War!',
+    developer: 'Machine Zone, Inc.',
+    developerId: 'Machine+Zone,+Inc.',
+    icon:
+     '//lh3.ggpht.com/g3S82b8rLnIN-uG0ffQPJQCmqsWQ1Im9kQff1BJArot77A78Fam7PcWLrnXSdGyRgTs=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zheng.meizi.com.sudoku',
+    appId: 'zheng.meizi.com.sudoku',
+    title: 'MZ Sudoku Solver',
+    summary: 'Help to solve the Sudoku. Free, fast and simple.',
+    developer: 'JTMZ Group',
+    developerId: 'JTMZ+Group',
+    icon:
+     '//lh3.googleusercontent.com/ufIUOUxWlqEBklgWbAHawZTVPc84g23mYscS5tle0EmRoCG0sE4o7ojyFL9NtPRXOms=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Khzainuddinmzceramah.hadidroid',
+    appId: 'com.Khzainuddinmzceramah.hadidroid',
+    title: 'Kh zainuddin mz: lecture mp3',
+    summary: 'Collection of religious cerama from kh zainuddin mz',
+    developer: 'hadidroid',
+    developerId: 'hadidroid',
+    icon:
+     '//lh3.googleusercontent.com/7A2AeBfRL-DDO0Yfh4EixjFtzpWvX45HBv3YaWcdsoVRCkH4si0yx_rg7eidP_fTrPE=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.CeramahKhZainudinMz.hadidroid',
+    appId: 'com.CeramahKhZainudinMz.hadidroid',
+    title: 'Lecture: Kh Zainudin Mz',
+    summary: 'Collection of lectures kh zainuddin mz complete',
+    developer: 'hadidroid',
+    developerId: 'hadidroid',
+    icon:
+     '//lh3.googleusercontent.com/hGs9YxGobE1ry_k-09Z_y9jcTQyT2wU0QR8TGkK9PJYK1Hq-pO9DjOWCIHDr8W3V1dkI=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.marhamahtundev.ceramahoflinezainuddinmz',
+    appId: 'com.marhamahtundev.ceramahoflinezainuddinmz',
+    title: 'Zainuddin MZ',
+    summary: 'Kumpulan Ceramah Zainuddin MZ',
+    developer: 'Marhamahtun Dev',
+    developerId: 'Marhamahtun+Dev',
+    icon:
+     '//lh3.googleusercontent.com/xcLg9nhXecJUpChrMBG_PG-hk9PLKymj_0-LkV59WV2U2o3kqd3M8rmObbM62Qng3g=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.andromo.dev442089.app510882',
+    appId: 'com.andromo.dev442089.app510882',
+    title: 'Ceramah Zainudin MZ',
+    summary:
+     'Lectures Legendary collection of Ustadz Zainudin MZ K.H with audio format.',
+    developer: 'andromoapp',
+    developerId: 'andromoapp',
+    icon:
+     '//lh3.googleusercontent.com/F_kLmAS2QHgB4oN3rRXK8TF9mbmxt4KUri3uJx-2fSr-erOzjijhv0dIuaerGlH76Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad',
+    appId: 'com.mxtech.videoplayer.ad',
+    title: 'MX Player',
+    summary:
+     'Powerful video player with advanced hardware acceleration and subtitle supports.',
+    developer: 'J2 Interactive',
+    developerId: 'J2+Interactive',
+    icon:
+     '//lh3.googleusercontent.com/xMfDQZL-ySD8oCbU_bjT6ME-A9BNgZHxnX8LDBN5-Ng_GmRwnlA-RIj6dWlUKQf_JpI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hiebfull.ceramahagama.zainuddinmz',
+    appId: 'com.hiebfull.ceramahagama.zainuddinmz',
+    title: 'KH. Zainuddin MZ. Ceramah dan Taushiyah Lengkap',
+    summary:
+     'Ceramah agama dan taushiyah agama KH. Zainuddin MZ. Ceramaha KH. Zainuddin MZ',
+    developer: 'Heeb Full',
+    developerId: 'Heeb+Full',
+    icon:
+     '//lh3.googleusercontent.com/dN1oq-meG8kAGNwe2YKn-p3d7_72XBYSoWPlpjpqFCUVMroihzV__B3HPVTEkO4fHF0=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=binungandroid.Ceramah.ceramah.kh.zainudinmz',
+    appId: 'binungandroid.Ceramah.ceramah.kh.zainudinmz',
+    title: 'ceramah KH Zainudin MZ',
+    summary:
+     'ceramah KH Zainudin MZ-Aplikasi ini bermanfaat bagi umat islam',
+    developer: 'BINUNGANDROID',
+    developerId: 'BINUNGANDROID',
+    icon:
+     '//lh3.googleusercontent.com/Ms0I75PoY6rAb0NUeJMa5y1BJ4o845SbsfejmtZNhAmGSyxEMB5ADFoXNj-7XCczsEbX=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]
