@@ -152,20 +152,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
-    appId: 'com.expressvpn.vpn',
-    title: 'ExpressVPN - Best Android VPN',
-    summary:
-     'High speed & ultra secure VPN. Android Authority Editor’s Choice.',
-    developer: 'ExpressVPN',
-    developerId: 'ExpressVPN',
-    icon:
-     '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
     appId: 'com.psiphon3.subscription',
     title: 'Psiphon Pro - The Internet Freedom VPN',
@@ -177,6 +163,20 @@
      '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
+    appId: 'com.expressvpn.vpn',
+    title: 'ExpressVPN - Best Android VPN',
+    summary:
+     'High speed & ultra secure VPN. Android Authority Editor’s Choice.',
+    developer: 'ExpressVPN',
+    developerId: 'ExpressVPN',
+    icon:
+     '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

@@ -222,20 +222,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
-    appId: 'com.security.xvpn.z35kb',
-    title: 'X-VPN - Free Unlimited VPN Proxy',
-    summary:
-     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
-    developer: 'Free Connected Limited',
-    developerId: 'Free+Connected+Limited',
-    icon:
-     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
     appId: 'com.expressvpn.vpn',
     title: 'ExpressVPN - Best Android VPN',
@@ -247,6 +233,20 @@
      '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
     score: 4.1,
     scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
+    appId: 'com.security.xvpn.z35kb',
+    title: 'X-VPN - Free Unlimited VPN Proxy',
+    summary:
+     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
+    developer: 'Free Connected Limited',
+    developerId: 'Free+Connected+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

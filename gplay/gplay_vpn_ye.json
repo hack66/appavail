@@ -194,6 +194,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn',
+    appId: 'ufovpn.free.unblock.proxy.vpn',
+    title: 'UFO VPN - Best Free VPN Proxy & Secure WiFi Master',
+    summary:
+     'Best Free Unlimited VPN for Secure WiFi Hotspots & Accessing Internet Anonymous',
+    developer: 'DreamFii（Mobile VPN & Clean）',
+    developerId: 'DreamFii%EF%BC%88Mobile+VPN+%26+Clean%EF%BC%89',
+    icon:
+     '//lh3.googleusercontent.com/dZ2D5wbPK7IYFsVuuKqt3gjOi6P-tMfJm_Fuf4OT8NJxCSY2nrGI4bY1kMFTI3xPiTY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
     appId: 'com.northghost.touchvpn',
     title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
@@ -219,20 +233,6 @@
      '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn',
-    appId: 'ufovpn.free.unblock.proxy.vpn',
-    title: 'UFO VPN - Best Free VPN Proxy & Secure WiFi Master',
-    summary:
-     'Best Free Unlimited VPN for Secure WiFi Hotspots & Accessing Internet Anonymous',
-    developer: 'DreamFii（Mobile VPN & Clean）',
-    developerId: 'DreamFii%EF%BC%88Mobile+VPN+%26+Clean%EF%BC%89',
-    icon:
-     '//lh3.googleusercontent.com/dZ2D5wbPK7IYFsVuuKqt3gjOi6P-tMfJm_Fuf4OT8NJxCSY2nrGI4bY1kMFTI3xPiTY=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url: 'https://play.google.com/store/apps/details?id=org.hola',

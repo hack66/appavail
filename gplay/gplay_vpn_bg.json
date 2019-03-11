@@ -262,15 +262,15 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
-    appId: 'free.vpn.unblock.proxy.vpnpro',
-    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
     summary:
-     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
-    developer: 'Lemon Clove',
-    developerId: 'Lemon+Clove',
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
     icon:
-     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',

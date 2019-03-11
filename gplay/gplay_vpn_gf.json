@@ -248,6 +248,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
     appId: 'free.vpn.unblock.proxy.securevpn',
     title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
@@ -257,20 +271,6 @@
     developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
     icon:
      '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=vpn.unblock.proxy.usavpn',
-    appId: 'vpn.unblock.proxy.usavpn',
-    title: 'USA VPN  - Free VPN  Proxy : Unblock Sites',
-    summary:
-     'forever free , unblock website , apps , videos , WiFi hotspot security , proxy',
-    developer: 'World Vpn',
-    developerId: '5302007940761300760',
-    icon:
-     '//lh3.googleusercontent.com/jj24wbgZl2kBvkIQ3r2RZSSXJlaU7FJRUcbxhNzt6bZhjnk4ja0tCR3HOSt_8RqU0qcY=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',

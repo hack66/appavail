@@ -25,20 +25,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.facebook.orca',
-    appId: 'com.facebook.orca',
-    title: 'Messenger – Text and Video Chat for Free',
-    summary:
-     'Be together whenever with a simple way to text, video chat and rally the group.',
-    developer: 'Facebook',
-    developerId: 'Facebook',
-    icon:
-     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.facebook.katana',
     appId: 'com.facebook.katana',
     title: 'Facebook',
@@ -53,17 +39,17 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
-    appId: 'com.facebook.mlite',
-    title: 'Messenger Lite: Free Calls & Messages',
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
     summary:
-     'A faster version of Messenger that works in all network conditions',
+     'Be together whenever with a simple way to text, video chat and rally the group.',
     developer: 'Facebook',
     developerId: 'Facebook',
     icon:
-     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -81,6 +67,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
+    appId: 'com.facebook.mlite',
+    title: 'Messenger Lite: Free Calls & Messages',
+    summary:
+     'A faster version of Messenger that works in all network conditions',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.android.chrome',
     appId: 'com.android.chrome',
     title: 'Google Chrome: Fast & Secure',
@@ -95,17 +95,17 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.microsoft.office.outlook',
-    appId: 'com.microsoft.office.outlook',
-    title: 'Microsoft Outlook',
+     'https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox',
+    appId: 'com.google.android.googlequicksearchbox',
+    title: 'Google',
     summary:
-     'The official Microsoft Outlook app for Android phones and tablets.',
-    developer: 'Microsoft Corporation',
-    developerId: '6720847872553662727',
+     'Find quick answers, explore your interests, and stay up to date with Discover.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
     icon:
-     '//lh3.googleusercontent.com/_gpQ5T1jLbbpyoaDHgYoJV_seHudPYAqfYe7me5MApKMYUuY91E_h6y3Jy_Cxe8OO8E=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/DKoidc0T3T1KvYC2stChcX9zwmjKj1pgmg3hXzGBDQXM8RG_7JjgiuS0CLOh8DUa7as=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -123,15 +123,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
-    appId: 'com.zhiliaoapp.musically',
-    title: 'TikTok',
-    summary: 'Short Videos For You',
-    developer: 'musical.ly',
-    developerId: 'musical.ly',
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
     icon:
-     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
+     '//lh3.googleusercontent.com/IEfXGTOwQbUi9z41fvRfRXKnZmzYGwIzptjwHd8UKNfIdUUWFrHun9HHv8N2EoEkFgI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

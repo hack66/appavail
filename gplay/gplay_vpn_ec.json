@@ -26,6 +26,19 @@
     scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
+    summary:
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
+    icon:
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
   { url:
      'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
     appId: 'com.fast.free.unblock.secure.vpn',
@@ -52,19 +65,6 @@
      '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url: 'https://play.google.com/store/apps/details?id=org.hola',
-    appId: 'org.hola',
-    title: 'Hola Free VPN Proxy Unblocker',
-    summary:
-     'Unblock most websites or application. Enjoy Free and Fast VPN.',
-    developer: 'Hola',
-    developerId: 'Hola',
-    icon:
-     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

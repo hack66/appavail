@@ -27,20 +27,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
-    appId: 'free.vpn.unblock.proxy.turbovpn',
-    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
-    summary:
-     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
-    developer: 'Innovative Connecting',
-    developerId: 'Innovative+Connecting',
-    icon:
-     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
     appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
     title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
@@ -52,6 +38,20 @@
      '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

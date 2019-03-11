@@ -167,20 +167,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
-    appId: 'com.tunnelbear.android',
-    title: 'TunnelBear VPN',
-    summary:
-     'TunnelBear is a free app to browse the Internet privately and securely.',
-    developer: 'TunnelBear, LLC',
-    developerId: 'TunnelBear,+LLC',
-    icon:
-     '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
     appId: 'free.vpn.unblock.proxy.vpn.master.pro',
     title: 'VPN Proxy Master - free unblock VPN & security VPN',
@@ -192,6 +178,20 @@
      '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
+    appId: 'com.tunnelbear.android',
+    title: 'TunnelBear VPN',
+    summary:
+     'TunnelBear is a free app to browse the Internet privately and securely.',
+    developer: 'TunnelBear, LLC',
+    developerId: 'TunnelBear,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url: 'https://play.google.com/store/apps/details?id=org.hola',
@@ -250,20 +250,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
-    appId: 'me.skyvpn.app',
-    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
-    summary:
-     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
-    developer: 'Sentry SkyVPN Security Technology',
-    developerId: 'Sentry+SkyVPN+Security+Technology',
-    icon:
-     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
     appId: 'com.ow.free.usavpn',
     title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
@@ -273,6 +259,20 @@
     developerId: '5302007940761300760',
     icon:
      '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',

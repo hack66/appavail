@@ -97,17 +97,17 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
-    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
-    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
     summary:
-     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
-    developer: 'Giga Studio',
-    developerId: 'Giga+Studio',
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
     icon:
-     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url: 'https://play.google.com/store/apps/details?id=org.hola',
@@ -121,6 +121,20 @@
      '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -177,20 +191,6 @@
      '//lh3.googleusercontent.com/YgJ7P8Wte2D79wzJqABTtu0JTiH6HXs-m6QfkljNBCr-RyYDG2YKiBhfMQz_2RS146w=w340',
     score: 4.4,
     scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
-    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
-    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
-    summary:
-     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
-    developer: 'Unlimited VPN - Free High Speed VPN Experts',
-    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
-    icon:
-     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -262,16 +262,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=us.gospeed.speedvpn',
-    appId: 'us.gospeed.speedvpn',
-    title: 'SpeedVPN Free VPN Proxy',
+     'https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN',
+    appId: 'com.chengcheng.FreeVPN',
+    title: 'Super VPN - Best Free Proxy',
     summary:
-     'SpeedVPN, Best Free VPN proxy.One click to connect, multi locations to select',
-    developer: 'GoSpeed Software',
-    developerId: 'GoSpeed+Software',
+     'Fastest android VPN for Unblock sites, Wi-Fi Security & Privacy.',
+    developer: 'SuperVPN Inc',
+    developerId: 'SuperVPN+Inc',
     icon:
-     '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/vVOcy8T_k3e-bLWHnZZ9XWWceAMU2Nor0gQcJ5K50KBcsnndVgAztojnF3Lezb6oQB8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

@@ -235,20 +235,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=net.tntapp.app.zerovpn',
-    appId: 'net.tntapp.app.zerovpn',
-    title: 'Zero VPN',
-    summary:
-     'All new designed free VPN, unblock websites or apps, watch restricted videos.',
-    developer: 'TNTAPP',
-    developerId: 'TNTAPP',
-    icon:
-     '//lh4.ggpht.com/XkthmZNYmz9GDjs-Do0wksys3p_eYK_AocyTVVMYehBGnCVIN5JBU4sLr0tfA32YNA0=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
     appId: 'free.vpn.unblock.proxy.securevpn',
     title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
@@ -260,6 +246,20 @@
      '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.tntapp.app.zerovpn',
+    appId: 'net.tntapp.app.zerovpn',
+    title: 'Zero VPN',
+    summary:
+     'All new designed free VPN, unblock websites or apps, watch restricted videos.',
+    developer: 'TNTAPP',
+    developerId: 'TNTAPP',
+    icon:
+     '//lh4.ggpht.com/XkthmZNYmz9GDjs-Do0wksys3p_eYK_AocyTVVMYehBGnCVIN5JBU4sLr0tfA32YNA0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

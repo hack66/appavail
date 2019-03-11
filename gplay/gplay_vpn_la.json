@@ -122,20 +122,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
-    appId: 'com.fast.free.unblock.thunder.vpn',
-    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
-    summary:
-     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
-    developer: 'Signal Lab',
-    developerId: '6481577571535301345',
-    icon:
-     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
-    score: 4.8,
-    scoreText: ' Rated 4.8 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=net.openvpn.openvpn',
     appId: 'net.openvpn.openvpn',
     title: 'OpenVPN Connect – Fast & Safe SSL VPN Client',
@@ -147,6 +133,20 @@
      '//lh3.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg=w340',
     score: 4.2,
     scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

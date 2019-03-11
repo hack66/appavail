@@ -263,16 +263,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
-    appId: 'me.skyvpn.app',
-    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+     'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
+    appId: 'de.mobileconcepts.cyberghost',
+    title: 'CyberGhost VPN - Fast & Secure WiFi protection',
     summary:
-     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
-    developer: 'Sentry SkyVPN Security Technology',
-    developerId: 'Sentry+SkyVPN+Security+Technology',
+     'The fastest free VPN to unblock and access all your favorite apps and sites',
+    developer: 'CyberGhost SA',
+    developerId: 'CyberGhost+SA',
     icon:
-     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
+     '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
     priceText: '',
     free: true } ]

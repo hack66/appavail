@@ -262,15 +262,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnpayment',
-    appId: 'com.jrzheng.supervpnpayment',
-    title: 'VPN Payment Tool',
-    summary: 'VPN Payment, please install SuperVPN first',
-    developer: 'SuperSoftTech',
-    developerId: 'SuperSoftTech',
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
+    appId: 'free.vpn.unblock.proxy.vpn.master.pro',
+    title: 'VPN Proxy Master - free unblock VPN & security VPN',
+    summary:
+     'Free & unlimited vpn client to unblock sites, bypass apps & secure wifi hotspot',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
     icon:
-     '//lh4.ggpht.com/tAGKEXDfDrqkXO5zE00KIwobgoOoklo-cX0GWQ8fq6ZPjO_AbIjWjaV0PW9AOGbX8Ptw=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true } ]

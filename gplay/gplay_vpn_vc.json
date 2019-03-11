@@ -234,6 +234,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity',
     appId: 'net.flashsoft.flashvpn.activity',
     title: 'FlashVPN Free VPN Proxy',
@@ -245,20 +259,6 @@
      '//lh5.ggpht.com/6EuQBjeuCM_uprSijvxH5tBUXTbMyPJ3RdngCYz9w3pY0CViahcO_lxSUxcB6wOMcQ=w340',
     score: 4.4,
     scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
-    appId: 'de.mobileconcepts.cyberghost',
-    title: 'CyberGhost VPN - Fast & Secure WiFi protection',
-    summary:
-     'The fastest free VPN to unblock and access all your favorite apps and sites',
-    developer: 'CyberGhost SA',
-    developerId: 'CyberGhost+SA',
-    icon:
-     '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

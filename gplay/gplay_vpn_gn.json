@@ -192,6 +192,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.freevpnintouch',
     appId: 'com.freevpnintouch',
     title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
@@ -254,20 +268,6 @@
     developerId: 'Magic+2019+development+studio',
     icon:
      '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
-    appId: 'com.ow.free.usavpn',
-    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
-    summary:
-     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
-    developer: 'World Vpn',
-    developerId: '5302007940761300760',
-    icon:
-     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',

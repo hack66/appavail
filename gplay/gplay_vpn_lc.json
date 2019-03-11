@@ -125,20 +125,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
-    appId: 'com.ow.free.usavpn',
-    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
-    summary:
-     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
-    developer: 'World Vpn',
-    developerId: '5302007940761300760',
-    icon:
-     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
     appId: 'com.northghost.touchvpn',
     title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
@@ -150,6 +136,20 @@
      '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
+    appId: 'com.ow.free.usavpn',
+    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
+    developer: 'World Vpn',
+    developerId: '5302007940761300760',
+    icon:
+     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -261,16 +261,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity',
-    appId: 'net.flashsoft.flashvpn.activity',
-    title: 'FlashVPN Free VPN Proxy',
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
     summary:
-     'FlashVPN Free VPN ProxyOne-click to connect, unlimited to use',
-    developer: 'FlashSoftware',
-    developerId: 'FlashSoftware',
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
     icon:
-     '//lh5.ggpht.com/6EuQBjeuCM_uprSijvxH5tBUXTbMyPJ3RdngCYz9w3pY0CViahcO_lxSUxcB6wOMcQ=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

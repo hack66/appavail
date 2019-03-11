@@ -166,16 +166,15 @@
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
-    appId: 'org.geckonet.gecko',
-    title: 'GeckoVPN Free Fast Unlimited Proxy VPN',
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
     summary:
-     'GeckoVPN, best free fast unlimited VPN proxy service. One tap, connect the world',
-    developer: 'Best Free VPN Proxy',
-    developerId: 'Best+Free+VPN+Proxy',
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
     icon:
-     '//lh3.googleusercontent.com/CrZsH5QwlsReFjdVjn-NPTkFFtSPdIaFy7lSFW4sJSCpPWPr8Ua11DdoPRFkxYdJZA=w340',
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -195,6 +194,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
+    appId: 'org.geckonet.gecko',
+    title: 'GeckoVPN Free Fast Unlimited Proxy VPN',
+    summary:
+     'GeckoVPN, best free fast unlimited VPN proxy service. One tap, connect the world',
+    developer: 'Best Free VPN Proxy',
+    developerId: 'Best+Free+VPN+Proxy',
+    icon:
+     '//lh3.googleusercontent.com/CrZsH5QwlsReFjdVjn-NPTkFFtSPdIaFy7lSFW4sJSCpPWPr8Ua11DdoPRFkxYdJZA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=hssb.android.free.app',
     appId: 'hssb.android.free.app',
     title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
@@ -206,19 +219,6 @@
      '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url: 'https://play.google.com/store/apps/details?id=org.hola',
-    appId: 'org.hola',
-    title: 'Hola Free VPN Proxy Unblocker',
-    summary:
-     'Unblock most websites or application. Enjoy Free and Fast VPN.',
-    developer: 'Hola',
-    developerId: 'Hola',
-    icon:
-     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

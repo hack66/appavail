@@ -111,20 +111,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
-    appId: 'com.northghost.touchvpn',
-    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
-    summary:
-     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
-    developer: 'TouchVPN Inc.',
-    developerId: 'TouchVPN+Inc.',
-    icon:
-     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.freevpnintouch',
     appId: 'com.freevpnintouch',
     title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
@@ -134,6 +120,20 @@
     developerId: 'Betternet+LLC',
     icon:
      '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -181,20 +181,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
-    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
-    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
-    summary:
-     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
-    developer: 'Giga Studio',
-    developerId: 'Giga+Studio',
-    icon:
-     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
     appId: 'org.geckonet.gecko',
     title: 'GeckoVPN Free Fast Unlimited Proxy VPN',
@@ -209,6 +195,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
     appId: 'co.infinitevpn.free.proxy',
     title: 'VPN Inf - Free stable fast unlimited VPN.',
@@ -217,6 +217,20 @@
     developerId: 'Magic+2019+development+studio',
     icon:
      '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
+    appId: 'free.vpn.unblock.proxy.securevpn',
+    title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
+    summary:
+     'Hide my ip, Unblock websites master, Wifi hotspot security VPN, Super VPN',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
@@ -236,20 +250,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
-    appId: 'free.vpn.unblock.proxy.securevpn',
-    title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
-    summary:
-     'Hide my ip, Unblock websites master, Wifi hotspot security VPN, Super VPN',
-    developer: 'Hotspot VPN( Proxy & Security )',
-    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
-    icon:
-     '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=hotspotshield.android.vpn',
     appId: 'hotspotshield.android.vpn',
     title: 'Hotspot Shield Free VPN Proxy & Wi-Fi Security',
@@ -264,16 +264,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=co.infinitysoft.vpn360',
-    appId: 'co.infinitysoft.vpn360',
-    title: 'VPN 360 - Unlimited Free VPN Proxy',
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
+    appId: 'free.vpn.unblock.proxy.vpnpro',
+    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
     summary:
-     'VPN 360 is a free VPN to hide your IP and secure your Wi-Fi connection.',
-    developer: 'TouchVPN Inc.',
-    developerId: 'TouchVPN+Inc.',
+     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
+    developer: 'Lemon Clove',
+    developerId: 'Lemon+Clove',
     icon:
-     '//lh3.googleusercontent.com/xnxLJlCKaFwTTUsRjFB5kJQWgpkI11ShRs4RICep6nLdNlrqhe4IE2b5N8vmwbEQqRY=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
+     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

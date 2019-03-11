@@ -13,6 +13,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
     appId: 'com.security.xvpn.z35kb',
     title: 'X-VPN - Free Unlimited VPN Proxy',
@@ -50,20 +64,6 @@
     developerId: 'SuperVPN+Inc',
     icon:
      '//lh3.googleusercontent.com/vVOcy8T_k3e-bLWHnZZ9XWWceAMU2Nor0gQcJ5K50KBcsnndVgAztojnF3Lezb6oQB8=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
-    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
-    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
-    summary:
-     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
-    developer: 'Unlimited VPN - Free High Speed VPN Experts',
-    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
-    icon:
-     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
@@ -195,6 +195,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.unlimited.turbo.qatarvpn',
+    appId: 'com.unlimited.turbo.qatarvpn',
+    title: 'Qatar VPN - Unlimited Free & Fast Security Proxy',
+    summary:
+     'forever free , unblock website , apps , videos , WiFi hotspot security , proxy',
+    developer: 'World Vpn',
+    developerId: '5302007940761300760',
+    icon:
+     '//lh3.googleusercontent.com/BWtgsjilbSEtl0yPWcKy35kVRjXyE1F2WypdOh7PHnzSzkIsKxhWiBsIq-Qyc6Kv5ULs=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.freevpnintouch',
     appId: 'com.freevpnintouch',
     title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
@@ -262,19 +276,5 @@
      '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
-    appId: 'hssb.android.free.app',
-    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
-    summary:
-     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
-    developer: 'AnchorFree GmbH',
-    developerId: '6875401605969588379',
-    icon:
-     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

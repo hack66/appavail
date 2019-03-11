@@ -96,19 +96,6 @@
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
-  { url: 'https://play.google.com/store/apps/details?id=org.hola',
-    appId: 'org.hola',
-    title: 'Hola Free VPN Proxy Unblocker',
-    summary:
-     'Unblock most websites or application. Enjoy Free and Fast VPN.',
-    developer: 'Hola',
-    developerId: 'Hola',
-    icon:
-     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
   { url:
      'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
     appId: 'com.northghost.touchvpn',
@@ -119,6 +106,19 @@
     developerId: 'TouchVPN+Inc.',
     icon:
      '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
+    summary:
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
+    icon:
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -180,6 +180,19 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
+    appId: 'co.infinitevpn.free.proxy',
+    title: 'VPN Inf - Free stable fast unlimited VPN.',
+    summary: 'VPN Inf - Free stable fast unlimited VPN.',
+    developer: 'Magic 2019 development studio',
+    developerId: 'Magic+2019+development+studio',
+    icon:
+     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
     appId: 'de.mobileconcepts.cyberghost',
     title: 'CyberGhost VPN - Fast & Secure WiFi protection',
@@ -191,19 +204,6 @@
      '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
-    appId: 'co.infinitevpn.free.proxy',
-    title: 'VPN Inf - Free stable fast unlimited VPN.',
-    summary: 'VPN Inf - Free stable fast unlimited VPN.',
-    developer: 'Magic 2019 development studio',
-    developerId: 'Magic+2019+development+studio',
-    icon:
-     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

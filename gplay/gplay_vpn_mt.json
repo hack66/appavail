@@ -55,20 +55,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
-    appId: 'com.tunnelbear.android',
-    title: 'TunnelBear VPN',
-    summary:
-     'TunnelBear is a free app to browse the Internet privately and securely.',
-    developer: 'TunnelBear, LLC',
-    developerId: 'TunnelBear,+LLC',
-    icon:
-     '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
     appId: 'com.jrzheng.supervpnfree',
     title: 'SuperVPN Free VPN Client',
@@ -80,6 +66,20 @@
      '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
+    appId: 'com.tunnelbear.android',
+    title: 'TunnelBear VPN',
+    summary:
+     'TunnelBear is a free app to browse the Internet privately and securely.',
+    developer: 'TunnelBear, LLC',
+    developerId: 'TunnelBear,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -125,20 +125,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
-    appId: 'com.expressvpn.vpn',
-    title: 'ExpressVPN - Best Android VPN',
-    summary:
-     'High speed & ultra secure VPN. Android Authority Editor’s Choice.',
-    developer: 'ExpressVPN',
-    developerId: 'ExpressVPN',
-    icon:
-     '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
     appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
     title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
@@ -164,6 +150,20 @@
      '//lh3.googleusercontent.com/cajuhX4z5gUTKbcyWhjCiOmmhjC6m8rHLNONHqdgVNh18wkXZAfMK_HUB6evDGzuTXCR=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
+    appId: 'com.expressvpn.vpn',
+    title: 'ExpressVPN - Best Android VPN',
+    summary:
+     'High speed & ultra secure VPN. Android Authority Editor’s Choice.',
+    developer: 'ExpressVPN',
+    developerId: 'ExpressVPN',
+    icon:
+     '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
     priceText: '',
     free: true },
   { url: 'https://play.google.com/store/apps/details?id=org.hola',
@@ -222,20 +222,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.appatomic.vpnhub',
-    appId: 'com.appatomic.vpnhub',
-    title: 'Free VPN - No Logs: VPNhub - Stream, Play, Browse',
-    summary:
-     'Best Free & Unlimited VPN - Hide Your IP, Bypass Site Blocking & Firewalls',
-    developer: 'AppAtomic Limited',
-    developerId: '5457155986580660672',
-    icon:
-     '//lh3.googleusercontent.com/YgJ7P8Wte2D79wzJqABTtu0JTiH6HXs-m6QfkljNBCr-RyYDG2YKiBhfMQz_2RS146w=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
     appId: 'de.mobileconcepts.cyberghost',
     title: 'CyberGhost VPN - Fast & Secure WiFi protection',
@@ -247,6 +233,20 @@
      '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appatomic.vpnhub',
+    appId: 'com.appatomic.vpnhub',
+    title: 'Free VPN - No Logs: VPNhub - Stream, Play, Browse',
+    summary:
+     'Best Free & Unlimited VPN - Hide Your IP, Bypass Site Blocking & Firewalls',
+    developer: 'AppAtomic Limited',
+    developerId: '5457155986580660672',
+    icon:
+     '//lh3.googleusercontent.com/YgJ7P8Wte2D79wzJqABTtu0JTiH6HXs-m6QfkljNBCr-RyYDG2YKiBhfMQz_2RS146w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

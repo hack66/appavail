@@ -167,20 +167,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
-    appId: 'de.mobileconcepts.cyberghost',
-    title: 'CyberGhost VPN - Fast & Secure WiFi protection',
-    summary:
-     'The fastest free VPN to unblock and access all your favorite apps and sites',
-    developer: 'CyberGhost SA',
-    developerId: 'CyberGhost+SA',
-    icon:
-     '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
     appId: 'com.northghost.touchvpn',
     title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
@@ -192,6 +178,20 @@
      '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
+    appId: 'de.mobileconcepts.cyberghost',
+    title: 'CyberGhost VPN - Fast & Secure WiFi protection',
+    summary:
+     'The fastest free VPN to unblock and access all your favorite apps and sites',
+    developer: 'CyberGhost SA',
+    developerId: 'CyberGhost+SA',
+    icon:
+     '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

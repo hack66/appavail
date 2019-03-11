@@ -233,6 +233,19 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
+    appId: 'co.infinitevpn.free.proxy',
+    title: 'VPN Inf - Free stable fast unlimited VPN.',
+    summary: 'VPN Inf - Free stable fast unlimited VPN.',
+    developer: 'Magic 2019 development studio',
+    developerId: 'Magic+2019+development+studio',
+    icon:
+     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
     appId: 'com.security.xvpn.z35kb',
     title: 'X-VPN - Free Unlimited VPN Proxy',
@@ -244,19 +257,6 @@
      '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
-    appId: 'co.infinitevpn.free.proxy',
-    title: 'VPN Inf - Free stable fast unlimited VPN.',
-    summary: 'VPN Inf - Free stable fast unlimited VPN.',
-    developer: 'Magic 2019 development studio',
-    developerId: 'Magic+2019+development+studio',
-    icon:
-     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

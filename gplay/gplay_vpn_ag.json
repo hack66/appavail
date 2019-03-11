@@ -166,20 +166,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
-    appId: 'com.security.xvpn.z35kb',
-    title: 'X-VPN - Free Unlimited VPN Proxy',
-    summary:
-     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
-    developer: 'Free Connected Limited',
-    developerId: 'Free+Connected+Limited',
-    icon:
-     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=hssb.android.free.app',
     appId: 'hssb.android.free.app',
     title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
@@ -194,6 +180,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
+    appId: 'com.security.xvpn.z35kb',
+    title: 'X-VPN - Free Unlimited VPN Proxy',
+    summary:
+     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
+    developer: 'Free Connected Limited',
+    developerId: 'Free+Connected+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
     appId: 'com.ow.free.usavpn',
     title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
@@ -203,6 +203,20 @@
     developerId: '5302007940761300760',
     icon:
      '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
@@ -261,19 +275,5 @@
      '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=co.infinitysoft.vpn360',
-    appId: 'co.infinitysoft.vpn360',
-    title: 'VPN 360 - Unlimited Free VPN Proxy',
-    summary:
-     'VPN 360 is a free VPN to hide your IP and secure your Wi-Fi connection.',
-    developer: 'TouchVPN Inc.',
-    developerId: 'TouchVPN+Inc.',
-    icon:
-     '//lh3.googleusercontent.com/xnxLJlCKaFwTTUsRjFB5kJQWgpkI11ShRs4RICep6nLdNlrqhe4IE2b5N8vmwbEQqRY=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
     priceText: '',
     free: true } ]

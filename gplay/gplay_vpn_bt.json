@@ -166,6 +166,33 @@
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
+    summary:
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
+    icon:
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
+    appId: 'com.ow.free.usavpn',
+    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
+    developer: 'World Vpn',
+    developerId: '5302007940761300760',
+    icon:
+     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
   { url:
      'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
     appId: 'org.geckonet.gecko',
@@ -176,19 +203,6 @@
     developerId: 'Best+Free+VPN+Proxy',
     icon:
      '//lh3.googleusercontent.com/CrZsH5QwlsReFjdVjn-NPTkFFtSPdIaFy7lSFW4sJSCpPWPr8Ua11DdoPRFkxYdJZA=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url: 'https://play.google.com/store/apps/details?id=org.hola',
-    appId: 'org.hola',
-    title: 'Hola Free VPN Proxy Unblocker',
-    summary:
-     'Unblock most websites or application. Enjoy Free and Fast VPN.',
-    developer: 'Hola',
-    developerId: 'Hola',
-    icon:
-     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -222,6 +236,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
     appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
     title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
@@ -236,20 +264,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
-    appId: 'com.ow.free.usavpn',
-    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
-    summary:
-     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
-    developer: 'World Vpn',
-    developerId: '5302007940761300760',
-    icon:
-     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=us.gospeed.speedvpn',
     appId: 'us.gospeed.speedvpn',
     title: 'SpeedVPN Free VPN Proxy',
@@ -261,19 +275,5 @@
      '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.freenetvpn',
-    appId: 'free.vpn.unblock.proxy.freenetvpn',
-    title: 'VPN Robot -Free Unlimited VPN Proxy &WiFi Security',
-    summary:
-     'Best Free unlimited VPN to unblock site, protect WiFi hotspot security & privacy',
-    developer: 'Lemon Clove',
-    developerId: 'Lemon+Clove',
-    icon:
-     '//lh3.googleusercontent.com/Z_PaRLFNt0Y_UOuDKYk37pF2eTy8RNp5c5Obv3d63q4rJP1hRYz0L0-yilzP7TuhFg=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

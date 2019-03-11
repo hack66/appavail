@@ -152,20 +152,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
-    appId: 'me.skyvpn.app',
-    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
-    summary:
-     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
-    developer: 'Sentry SkyVPN Security Technology',
-    developerId: 'Sentry+SkyVPN+Security+Technology',
-    icon:
-     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.freevpnintouch',
     appId: 'com.freevpnintouch',
     title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
@@ -194,17 +180,17 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
-    appId: 'free.vpn.proxy.unblock.android.easy.app',
-    title: 'VPN Easy',
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
     summary:
-     'Easy to use Free VPN ProxyUnblock Websites & AppsSecure and Anonymous Surf',
-    developer: 'ZPN',
-    developerId: 'ZPN',
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
     icon:
-     '//lh3.googleusercontent.com/9-63ouBNNo-BmrmTerLleWU3odKSWmxi8nPJUz3TFGniHAo47OCn9fYJeTcQvkTrpTg=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -219,6 +205,20 @@
      '//lh3.googleusercontent.com/cajuhX4z5gUTKbcyWhjCiOmmhjC6m8rHLNONHqdgVNh18wkXZAfMK_HUB6evDGzuTXCR=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
+    appId: 'free.vpn.proxy.unblock.android.easy.app',
+    title: 'VPN Easy',
+    summary:
+     'Easy to use Free VPN ProxyUnblock Websites & AppsSecure and Anonymous Surf',
+    developer: 'ZPN',
+    developerId: 'ZPN',
+    icon:
+     '//lh3.googleusercontent.com/9-63ouBNNo-BmrmTerLleWU3odKSWmxi8nPJUz3TFGniHAo47OCn9fYJeTcQvkTrpTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

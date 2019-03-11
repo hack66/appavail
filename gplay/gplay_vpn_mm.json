@@ -138,20 +138,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
-    appId: 'com.fast.free.unblock.secure.vpn',
-    title: 'Secure VPN – A high speed, ultra secure VPN',
-    summary:
-     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
-    developer: 'Signal Lab',
-    developerId: '6481577571535301345',
-    icon:
-     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn',
     appId: 'ufovpn.free.unblock.proxy.vpn',
     title: 'UFO VPN - Best Free VPN Proxy & Secure WiFi Master',
@@ -163,6 +149,20 @@
      '//lh3.googleusercontent.com/dZ2D5wbPK7IYFsVuuKqt3gjOi6P-tMfJm_Fuf4OT8NJxCSY2nrGI4bY1kMFTI3xPiTY=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

@@ -111,20 +111,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
-    appId: 'com.freevpnintouch',
-    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
-    summary:
-     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
-    developer: 'Betternet LLC',
-    developerId: 'Betternet+LLC',
-    icon:
-     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
     appId: 'com.tunnelbear.android',
     title: 'TunnelBear VPN',
@@ -134,6 +120,20 @@
     developerId: 'TunnelBear,+LLC',
     icon:
      '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -167,6 +167,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
     appId: 'de.mobileconcepts.cyberghost',
     title: 'CyberGhost VPN - Fast & Secure WiFi protection',
@@ -192,20 +206,6 @@
      '//lh3.googleusercontent.com/cajuhX4z5gUTKbcyWhjCiOmmhjC6m8rHLNONHqdgVNh18wkXZAfMK_HUB6evDGzuTXCR=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
-    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
-    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
-    summary:
-     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
-    developer: 'Giga Studio',
-    developerId: 'Giga+Studio',
-    icon:
-     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

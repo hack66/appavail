@@ -166,6 +166,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
+    appId: 'free.vpn.unblock.proxy.vpnpro',
+    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
+    summary:
+     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
+    developer: 'Lemon Clove',
+    developerId: 'Lemon+Clove',
+    icon:
+     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
     appId: 'free.vpn.proxy.unblock.android.easy.app',
     title: 'VPN Easy',
@@ -191,20 +205,6 @@
      '//lh3.googleusercontent.com/CbdMtLYVCs37N4lDVMil7oZkz--RAzkWOznl813SDKzVk9gy_8iWlO5XK2fGdaNnjkt5=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
-    appId: 'free.vpn.unblock.proxy.vpnpro',
-    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
-    summary:
-     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
-    developer: 'Lemon Clove',
-    developerId: 'Lemon+Clove',
-    icon:
-     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -249,19 +249,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
-    appId: 'co.infinitevpn.free.proxy',
-    title: 'VPN Inf - Free stable fast unlimited VPN.',
-    summary: 'VPN Inf - Free stable fast unlimited VPN.',
-    developer: 'Magic 2019 development studio',
-    developerId: 'Magic+2019+development+studio',
-    icon:
-     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=hssb.android.free.app',
     appId: 'hssb.android.free.app',
     title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
@@ -273,5 +260,19 @@
      '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true } ]

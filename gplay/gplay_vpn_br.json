@@ -26,20 +26,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
-    appId: 'free.vpn.unblock.proxy.turbovpn',
-    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
-    summary:
-     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
-    developer: 'Innovative Connecting',
-    developerId: 'Innovative+Connecting',
-    icon:
-     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
     appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
     title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
@@ -51,6 +37,20 @@
      '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -261,16 +261,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.expressvpn.vpn',
-    appId: 'com.expressvpn.vpn',
-    title: 'ExpressVPN - Best Android VPN',
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
     summary:
-     'High speed & ultra secure VPN. Android Authority Editor’s Choice.',
-    developer: 'ExpressVPN',
-    developerId: 'ExpressVPN',
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
     icon:
-     '//lh3.googleusercontent.com/Mit-xftzEDGYWbhMyv4y6gUR9rbJCaeS-nQd63uKFK_Y9-ELjEvYmH_6Xn6IRxSoSeg=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

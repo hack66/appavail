@@ -1,18 +1,4 @@
 [ { url:
-     'https://play.google.com/store/apps/details?id=com.open.hotspot.vpn.free',
-    appId: 'com.open.hotspot.vpn.free',
-    title: 'Free VPN - Unlimited Fast Secure Hotspot',
-    summary:
-     '⭐⭐⭐⭐⭐Best Unlimited Free VPN - High Speed Servers For Your Privacy and Security.',
-    developer: 'FREE VPN (Unlimited Fast VPN Master)',
-    developerId: 'FREE+VPN+(Unlimited+Fast+VPN+Master)',
-    icon:
-     '//lh3.googleusercontent.com/C-XydFihu39wVT0I_wNkIWJrdCMUxk54YtK1JtmTQBATjqnS6zUlXdd-a6l8vdPizp0=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
     appId: 'free.vpn.unblock.proxy.turbovpn',
     title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
@@ -24,6 +10,20 @@
      '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.open.hotspot.vpn.free',
+    appId: 'com.open.hotspot.vpn.free',
+    title: 'Free VPN - Unlimited Fast Secure Hotspot',
+    summary:
+     '⭐⭐⭐⭐⭐Best Unlimited Free VPN - High Speed Servers For Your Privacy and Security.',
+    developer: 'FREE VPN (Unlimited Fast VPN Master)',
+    developerId: 'FREE+VPN+(Unlimited+Fast+VPN+Master)',
+    icon:
+     '//lh3.googleusercontent.com/C-XydFihu39wVT0I_wNkIWJrdCMUxk54YtK1JtmTQBATjqnS6zUlXdd-a6l8vdPizp0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -69,20 +69,6 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
-    appId: 'com.freevpn.unblock.proxy',
-    title: 'Free VPN Unlimited Proxy - Proxy Master',
-    summary:
-     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
-    developer: 'Hotspot VPN( Proxy & Security )',
-    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
-    icon:
-     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
      'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
     appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
     title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
@@ -111,6 +97,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.freevpnintouch',
     appId: 'com.freevpnintouch',
     title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
@@ -122,34 +122,6 @@
      '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
-    appId: 'com.psiphon3.subscription',
-    title: 'Psiphon Pro - The Internet Freedom VPN',
-    summary:
-     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
-    developer: 'Psiphon Inc.',
-    developerId: 'Psiphon+Inc.',
-    icon:
-     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN',
-    appId: 'com.chengcheng.FreeVPN',
-    title: 'Super VPN - Best Free Proxy',
-    summary:
-     'Fastest android VPN for Unblock sites, Wi-Fi Security & Privacy.',
-    developer: 'SuperVPN Inc',
-    developerId: 'SuperVPN+Inc',
-    icon:
-     '//lh3.googleusercontent.com/vVOcy8T_k3e-bLWHnZZ9XWWceAMU2Nor0gQcJ5K50KBcsnndVgAztojnF3Lezb6oQB8=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -167,56 +139,59 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
-    appId: 'com.ow.free.usavpn',
-    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
+     'https://play.google.com/store/apps/details?id=vpn.vpnmaster',
+    appId: 'vpn.vpnmaster',
+    title: 'VPN Master',
     summary:
-     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
-    developer: 'World Vpn',
-    developerId: '5302007940761300760',
+     'VPN Master Free VPN Proxy,VPN Proxy Master Free unlimited vpn bypas wifi hotspot',
+    developer: 'Vpn Master',
+    developerId: 'Vpn+Master',
     icon:
-     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
+     '//lh3.googleusercontent.com/KVHypdYTen1ATUT_BqMkyy9Bvf6o_XVG6DH39vemEL-1Sv5z0KPGtZj7e2EMgo7YHQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
     priceText: '',
     free: true },
-  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
-    appId: 'com.psiphon3',
-    title: 'Psiphon',
-    summary: 'Access Everything on the Open Internet with Psiphon',
-    developer: 'Psiphon Inc.',
-    developerId: 'Psiphon+Inc.',
+  { url:
+     'https://play.google.com/store/apps/details?id=co.infinitysoft.vpn360',
+    appId: 'co.infinitysoft.vpn360',
+    title: 'VPN 360 - Unlimited Free VPN Proxy',
+    summary:
+     'VPN 360 is a free VPN to hide your IP and secure your Wi-Fi connection.',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
     icon:
-     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/xnxLJlCKaFwTTUsRjFB5kJQWgpkI11ShRs4RICep6nLdNlrqhe4IE2b5N8vmwbEQqRY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
     priceText: '',
     free: true },
-  { url: 'https://play.google.com/store/apps/details?id=com.yogavpn',
-    appId: 'com.yogavpn',
-    title: 'Yoga VPN - Free Unlimited & Secure Proxy & Unblock',
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
     summary:
-     'Yoga VPN - Permanent free, Global high-speed proxy server, Privacy protection.',
-    developer: 'Sarah Hawken',
-    developerId: 'Sarah+Hawken',
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
     icon:
-     '//lh3.googleusercontent.com/KPWW5pom1NBaiqvIAb5Vxw3tTwd5QcLlq8P-n9Cl73hRPHuBNXe_Ako_ZSl6rAU-Kyw=w340',
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
-    appId: 'hssb.android.free.app',
-    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+     'https://play.google.com/store/apps/details?id=com.secure.vpn.fast.vpn.free.unlimited.vpn',
+    appId: 'com.secure.vpn.fast.vpn.free.unlimited.vpn',
+    title: 'Secure VPN-Fast VPN Free & Unlimited VPN',
     summary:
-     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
-    developer: 'AnchorFree GmbH',
-    developerId: '6875401605969588379',
+     'Hide real ip ,encrypts data and bypass firewalls, unblock proxy&fast private vpn',
+    developer: 'App Shaap Studio',
+    developerId: 'App+Shaap+Studio',
     icon:
-     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
+     '//lh3.googleusercontent.com/ed3p46fOmJ5a0bKNjVLbcXR7sgXrWqoi-GHoJpCPRmXWHbdCrU20aiS1c0jru3xZb_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -233,45 +208,70 @@
     scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
-    appId: 'org.geckonet.gecko',
-    title: 'GeckoVPN Free Fast Unlimited Proxy VPN',
+  { url: 'https://play.google.com/store/apps/details?id=com.yogavpn',
+    appId: 'com.yogavpn',
+    title: 'Yoga VPN - Free Unlimited & Secure Proxy & Unblock',
     summary:
-     'GeckoVPN, best free fast unlimited VPN proxy service. One tap, connect the world',
-    developer: 'Best Free VPN Proxy',
-    developerId: 'Best+Free+VPN+Proxy',
+     'Yoga VPN - Permanent free, Global high-speed proxy server, Privacy protection.',
+    developer: 'Sarah Hawken',
+    developerId: 'Sarah+Hawken',
     icon:
-     '//lh3.googleusercontent.com/CrZsH5QwlsReFjdVjn-NPTkFFtSPdIaFy7lSFW4sJSCpPWPr8Ua11DdoPRFkxYdJZA=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
-    appId: 'com.security.xvpn.z35kb',
-    title: 'X-VPN - Free Unlimited VPN Proxy',
-    summary:
-     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
-    developer: 'Free Connected Limited',
-    developerId: 'Free+Connected+Limited',
-    icon:
-     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
-    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
-    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
-    summary:
-     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
-    developer: 'Giga Studio',
-    developerId: 'Giga+Studio',
-    icon:
-     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+     '//lh3.googleusercontent.com/KPWW5pom1NBaiqvIAb5Vxw3tTwd5QcLlq8P-n9Cl73hRPHuBNXe_Ako_ZSl6rAU-Kyw=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=pm.tap.vpn',
+    appId: 'pm.tap.vpn',
+    title: 'TapVPN Free VPN',
+    summary:
+     'Be Free, Truly Anonymous & Secured. Unblock Any Site. Fast Free VPN for android!',
+    developer: 'Mobbo',
+    developerId: 'Mobbo',
+    icon:
+     '//lh3.googleusercontent.com/nTQVIG8HZ16lvA0ctBghP_sktq0v-uZQKNofrX8gjkrsx8ODCndk6_1JBiHgdconIg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
+    summary:
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
+    icon:
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.atschoolfree.unlimited.earth.vpn',
+    appId: 'com.atschoolfree.unlimited.earth.vpn',
+    title: 'VPN EARTH - Free & Unlimited & Security VPN Proxy',
+    summary:
+     'VPN EARTH-free unlimited & security VPN proxy,100% free VPN!',
+    developer: 'FIFA VPN',
+    developerId: 'FIFA+VPN',
+    icon:
+     '//lh3.googleusercontent.com/r0exHmE-PEAFeEOtMwfmoh2oNBvJ5lUDEfOWqsB25sMDxcdC4CvJ4MrxorJA9emfAg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.powervpn',
+    appId: 'com.vpn.powervpn',
+    title: 'Power VPN Free VPN',
+    summary:
+     'Access blocked web freely with Power VPN! Unlimited Free VPN. Download Torrents',
+    developer: 'PowerVPN',
+    developerId: 'PowerVPN',
+    icon:
+     '//lh3.googleusercontent.com/CbdMtLYVCs37N4lDVMil7oZkz--RAzkWOznl813SDKzVk9gy_8iWlO5XK2fGdaNnjkt5=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true } ]

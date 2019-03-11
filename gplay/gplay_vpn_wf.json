@@ -96,19 +96,6 @@
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
-  { url: 'https://play.google.com/store/apps/details?id=org.hola',
-    appId: 'org.hola',
-    title: 'Hola Free VPN Proxy Unblocker',
-    summary:
-     'Unblock most websites or application. Enjoy Free and Fast VPN.',
-    developer: 'Hola',
-    developerId: 'Hola',
-    icon:
-     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
   { url:
      'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
     appId: 'com.northghost.touchvpn',
@@ -119,6 +106,19 @@
     developerId: 'TouchVPN+Inc.',
     icon:
      '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.hola',
+    appId: 'org.hola',
+    title: 'Hola Free VPN Proxy Unblocker',
+    summary:
+     'Unblock most websites or application. Enjoy Free and Fast VPN.',
+    developer: 'Hola',
+    developerId: 'Hola',
+    icon:
+     '//lh3.googleusercontent.com/MrFx_tgOawx0g_NlL2t7gpURDG0n7wLPvtDQszXl42eQYQrOEEGBCaZMaVvx5sQ6T3I=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
@@ -180,44 +180,17 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnmonster',
-    appId: 'free.vpn.unblock.proxy.vpnmonster',
-    title: 'Unlimited Free VPN Monster - Fast Secure VPN Proxy',
+     'https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn',
+    appId: 'ufovpn.free.unblock.proxy.vpn',
+    title: 'UFO VPN - Best Free VPN Proxy & Secure WiFi Master',
     summary:
-     'Unlimited VPN to unblock website, protect security and privacy.',
-    developer: 'Autumn Breeze 2018',
-    developerId: 'Autumn+Breeze+2018',
+     'Best Free Unlimited VPN for Secure WiFi Hotspots & Accessing Internet Anonymous',
+    developer: 'DreamFii（Mobile VPN & Clean）',
+    developerId: 'DreamFii%EF%BC%88Mobile+VPN+%26+Clean%EF%BC%89',
     icon:
-     '//lh3.googleusercontent.com/4JBAXDW-2zQY7wIKsH78zyF6b_GZbvLJk4euCYSHYRLB_uo9v4NokbpdB-WIcNcsqA=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url: 'https://play.google.com/store/apps/details?id=com.yogavpn',
-    appId: 'com.yogavpn',
-    title: 'Yoga VPN - Free Unlimited & Secure Proxy & Unblock',
-    summary:
-     'Yoga VPN - Permanent free, Global high-speed proxy server, Privacy protection.',
-    developer: 'Sarah Hawken',
-    developerId: 'Sarah+Hawken',
-    icon:
-     '//lh3.googleusercontent.com/KPWW5pom1NBaiqvIAb5Vxw3tTwd5QcLlq8P-n9Cl73hRPHuBNXe_Ako_ZSl6rAU-Kyw=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
-    appId: 'free.vpn.unblock.proxy.vpn.master.pro',
-    title: 'VPN Proxy Master - free unblock VPN & security VPN',
-    summary:
-     'Free & unlimited vpn client to unblock sites, bypass apps & secure wifi hotspot',
-    developer: 'Innovative Connecting',
-    developerId: 'Innovative+Connecting',
-    icon:
-     '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
-    score: 4.7,
-    scoreText: ' Rated 4.7 stars out of five stars ',
+     '//lh3.googleusercontent.com/dZ2D5wbPK7IYFsVuuKqt3gjOi6P-tMfJm_Fuf4OT8NJxCSY2nrGI4bY1kMFTI3xPiTY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -235,6 +208,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
+    appId: 'com.security.xvpn.z35kb',
+    title: 'X-VPN - Free Unlimited VPN Proxy',
+    summary:
+     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
+    developer: 'Free Connected Limited',
+    developerId: 'Free+Connected+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.appatomic.vpnhub',
     appId: 'com.appatomic.vpnhub',
     title: 'Free VPN - No Logs: VPNhub - Stream, Play, Browse',
@@ -249,17 +236,31 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=us.gospeed.speedvpn',
-    appId: 'us.gospeed.speedvpn',
-    title: 'SpeedVPN Free VPN Proxy',
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
     summary:
-     'SpeedVPN, Best Free VPN proxy.One click to connect, multi locations to select',
-    developer: 'GoSpeed Software',
-    developerId: 'GoSpeed+Software',
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
     icon:
-     '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
+    appId: 'free.vpn.unblock.proxy.vpn.master.pro',
+    title: 'VPN Proxy Master - free unblock VPN & security VPN',
+    summary:
+     'Free & unlimited vpn client to unblock sites, bypass apps & secure wifi hotspot',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:

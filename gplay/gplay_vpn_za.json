@@ -264,16 +264,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=net.tntapp.app.zerovpn',
-    appId: 'net.tntapp.app.zerovpn',
-    title: 'Zero VPN',
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnmonster',
+    appId: 'free.vpn.unblock.proxy.vpnmonster',
+    title: 'Unlimited Free VPN Monster - Fast Secure VPN Proxy',
     summary:
-     'All new designed free VPN, unblock websites or apps, watch restricted videos.',
-    developer: 'TNTAPP',
-    developerId: 'TNTAPP',
+     'Unlimited VPN to unblock website, protect security and privacy.',
+    developer: 'Autumn Breeze 2018',
+    developerId: 'Autumn+Breeze+2018',
     icon:
-     '//lh4.ggpht.com/XkthmZNYmz9GDjs-Do0wksys3p_eYK_AocyTVVMYehBGnCVIN5JBU4sLr0tfA32YNA0=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
+     '//lh3.googleusercontent.com/4JBAXDW-2zQY7wIKsH78zyF6b_GZbvLJk4euCYSHYRLB_uo9v4NokbpdB-WIcNcsqA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true } ]

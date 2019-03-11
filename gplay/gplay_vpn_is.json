@@ -208,6 +208,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
     appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
     title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
@@ -219,20 +233,6 @@
      '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=net.openvpn.openvpn',
-    appId: 'net.openvpn.openvpn',
-    title: 'OpenVPN Connect – Fast & Safe SSL VPN Client',
-    summary:
-     'Official secure client for Access Server, Private Tunnel & any OpenVPN service',
-    developer: 'OpenVPN',
-    developerId: 'OpenVPN',
-    icon:
-     '//lh3.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -250,6 +250,20 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=net.openvpn.openvpn',
+    appId: 'net.openvpn.openvpn',
+    title: 'OpenVPN Connect – Fast & Safe SSL VPN Client',
+    summary:
+     'Official secure client for Access Server, Private Tunnel & any OpenVPN service',
+    developer: 'OpenVPN',
+    developerId: 'OpenVPN',
+    icon:
+     '//lh3.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=it.colucciweb.sstpvpnclient',
     appId: 'it.colucciweb.sstpvpnclient',
     title: 'SSTP VPN Client',
@@ -262,18 +276,4 @@
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '€6.99',
-    free: false },
-  { url:
-     'https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost',
-    appId: 'de.mobileconcepts.cyberghost',
-    title: 'CyberGhost VPN - Fast & Secure WiFi protection',
-    summary:
-     'The fastest free VPN to unblock and access all your favorite apps and sites',
-    developer: 'CyberGhost SA',
-    developerId: 'CyberGhost+SA',
-    icon:
-     '//lh3.googleusercontent.com/ichypsd3kuio4-IBDa-vNpKJZLVp8XGio6qjtjgS9fDkrxr1vcgxeGhts69Kg3skfKQ=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true } ]
+    free: false } ]

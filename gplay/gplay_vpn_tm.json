@@ -136,6 +136,19 @@
     priceText: '',
     free: true },
   { url:
+     'https://play.google.com/store/apps/details?id=world.letsgo.booster.android.pro',
+    appId: 'world.letsgo.booster.android.pro',
+    title: 'Lets VPN - The VPN that Always Connects',
+    summary: '⭐⭐⭐⭐⭐The VPN that Always Connects',
+    developer: 'LetsGo Network',
+    developerId: 'LetsGo+Network',
+    icon:
+     '//lh3.googleusercontent.com/NRQofZvy9N5Jx3NVFU96hbTxjWCO-QRIPAUrCl5brFSJHIIV6yxC_SnkVh8DwngNagA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
      'https://play.google.com/store/apps/details?id=com.olovpn.app',
     appId: 'com.olovpn.app',
     title: 'OLO VPN - Unlimited Free VPN',
@@ -150,16 +163,16 @@
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=world.letsgo.booster.android.pro',
-    appId: 'world.letsgo.booster.android.pro',
-    title: 'Lets VPN - The VPN that Always Connects',
-    summary: '⭐⭐⭐⭐⭐The VPN that Always Connects',
-    developer: 'LetsGo Network',
-    developerId: 'LetsGo+Network',
+     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
+    appId: 'co.infinitevpn.free.proxy',
+    title: 'VPN Inf - Free stable fast unlimited VPN.',
+    summary: 'VPN Inf - Free stable fast unlimited VPN.',
+    developer: 'Magic 2019 development studio',
+    developerId: 'Magic+2019+development+studio',
     icon:
-     '//lh3.googleusercontent.com/NRQofZvy9N5Jx3NVFU96hbTxjWCO-QRIPAUrCl5brFSJHIIV6yxC_SnkVh8DwngNagA=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
+     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -174,19 +187,6 @@
      '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
     score: 4.5,
     scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
-    appId: 'co.infinitevpn.free.proxy',
-    title: 'VPN Inf - Free stable fast unlimited VPN.',
-    summary: 'VPN Inf - Free stable fast unlimited VPN.',
-    developer: 'Magic 2019 development studio',
-    developerId: 'Magic+2019+development+studio',
-    icon:
-     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
@@ -269,7 +269,7 @@
     developerId: 'VPN+Master+Labs',
     icon:
      '//lh3.googleusercontent.com/6hX_sa-aHwvtCONZNqaTZECcOA57mXBzH5qUNHhpDpv4-l7Avvg5jJ4afFntTZiN5Q=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]
