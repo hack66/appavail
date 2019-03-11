@@ -1,279 +1,278 @@
 [ { url:
-     'https://play.google.com/store/apps/details?id=com.et.market',
-    appId: 'com.et.market',
-    title: 'ET Markets : NSE & BSE India',
+     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
+    appId: 'com.jrzheng.supervpnfree',
+    title: 'SuperVPN Free VPN Client',
     summary:
-     'News & share market live updates from NSE & BSE India in 8 regional languages',
-    developer: 'Times Internet Limited',
-    developerId: '6759146811367238757',
+     'SuperVPN, total free VPN client.Easy to use, one click to connecting VPN.',
+    developer: 'SuperSoftTech',
+    developerId: 'SuperSoftTech',
     icon:
-     '//lh3.googleusercontent.com/bAjjoQzOU6hJLsqiS3qG_gdMwP2zHC4J2AYSkpdg-mIrLIS111oR_A_6fgtwUwqHog=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
-    appId: 'com.netflix.mediaclient',
-    title: 'Netflix',
-    summary:
-     'Netflix is the leading subscription service for watching TV episodes and movies.',
-    developer: 'Netflix, Inc.',
-    developerId: 'Netflix,+Inc.',
-    icon:
-     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=cn.wps.moffice_eng',
-    appId: 'cn.wps.moffice_eng',
-    title: 'WPS Office - Word, Docs, PDF, Note, Slide & Sheet',
-    summary:
-     'All-in-one Free Mobile Office Suite App: Word,PDF,Powerpoint,Excel,Docs and Note',
-    developer: 'Kingsoft Office Software Corporation Limited',
-    developerId: '6181440280366444424',
-    icon:
-     '//lh3.googleusercontent.com/qxP7Vlv8mlL3L4YGr5YtGAkATEHA8thIK8MNI-6KvlDAlNesuiZwsPYrtddxaaaSIQQ=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.juststatus.sms_poems_amour.activity',
-    appId: 'com.juststatus.sms_poems_amour.activity',
-    title: 'Messages et Poemes d\'Amour en français',
-    summary:
-     'Collection de poème d\'amour - Love SMS - citation d\'amour - Saint-Valentin',
-    developer: 'Just Status',
-    developerId: 'Just+Status',
-    icon:
-     '//lh4.ggpht.com/DfUc-upfQFBXf2oKSzyfnvbRaUykpV5VrwZN9oeCtGz8D0qDeGkftN-XpPOT4u_QQrDW=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.wsandroid.suite',
-    appId: 'com.wsandroid.suite',
-    title: 'Mobile Security: Antivirus, Wi-Fi VPN & Anti-Theft',
-    summary:
-     'Safe Wi-Fi Guard VPN. Free Antivirus Scan, Phone Cleaner & App Lock Protection',
-    developer: 'McAfee LLC',
-    developerId: 'McAfee+LLC',
-    icon:
-     '//lh3.googleusercontent.com/6_xFvitDtt3NwnpgNgxs4zaj2qZmbL3wVdEC-CJwWmL01E_tYT110sRbC28wOLR7B8U=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDMHM',
-    appId: 'com.gameloft.android.ANMP.GloftDMHM',
-    title: 'Minion Rush: Despicable Me Official Game',
-    summary:
-     'Run and have fun with the Minions in the official Despicable Me game!',
-    developer: 'Gameloft',
-    developerId: '6258770168633898802',
-    icon:
-     '//lh3.googleusercontent.com/IZOmxlAn1jJHXF4W3DoDuZZOKwZJLpRFd7m6_CbngsQG50jUH1xCJ2R3mO55JKjo9w=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro',
-    appId: 'com.mapswithme.maps.pro',
-    title: 'MAPS.ME – Offline Map and Travel Navigation',
-    summary:
-     'Access worldwide offline maps with navigation, driving directions & traffic info',
-    developer: 'My.com B.V.',
-    developerId: '5496590613422638755',
-    icon:
-     '//lh3.googleusercontent.com/TzoBFmHUozHaQfH-qzhx-Yi5FXZXuJt5pFw4vH8vK5vSPm2sK2SVWcOClosd4Bdn0rg=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.expedia.bookings',
-    appId: 'com.expedia.bookings',
-    title: 'Expedia Hotels, Flights & Car Rental Travel Deals',
-    summary:
-     'Book car, flight, package. Get instant access to hotel discounts and 2x rewards',
-    developer: 'Expedia',
-    developerId: '9168645875493882147',
-    icon:
-     '//lh3.googleusercontent.com/yZPx3GnHZzCNFI9Ymg6yHjAQTiOCGSI4adnawzg7QToK4d5ap1xotn5LSUkuzMud5A=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.sgn.geniesandgems.gp',
-    appId: 'com.sgn.geniesandgems.gp',
-    title: 'Genies & Gems - Jewel & Gem Matching Adventure',
-    summary:
-     'A magic match 3 game with 💍 Gems & Jewels 💍 Grab gold in a matching adventure!',
-    developer: 'Jam City, Inc.',
-    developerId: '5509190841173705883',
-    icon:
-     '//lh3.googleusercontent.com/yEgPYu2jv0lNe2w94aXy8zUmSwc-D4sm9mXiEoVEcZLaavZTGO3a9yyuYjP31NuwNur7=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.picsart.studio',
-    appId: 'com.picsart.studio',
-    title: 'PicsArt Photo Studio: Collage Maker & Pic Editor',
-    summary:
-     'Remix free-to-edit pictures & stickers into awesome collages and memes',
-    developer: 'PicsArt',
-    developerId: '5408830062919995155',
-    icon:
-     '//lh3.googleusercontent.com/YkKlWr2lH8hLTQx2Pzz64bKtpnbxXlcEm4_bnAzCsHk04dnR7YfcrPTHyU-tq_DbYVI=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.indigokids.mim',
-    appId: 'com.indigokids.mim',
-    title: 'Masha and the Bear Child Games',
-    summary:
-     'The best game about adventures of Masha and Misha for your child!',
-    developer: 'Edutainment Kids Games',
-    developerId: '6672223492195848186',
-    icon:
-     '//lh3.googleusercontent.com/ExXIgVUk4jYcK7aGUv9U3op4E9avSiQjGcdvUXCNXqkf1MwXCGxuw5QsoCS2F9T3Tlc=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.atomicadd.fotos',
-    appId: 'com.atomicadd.fotos',
-    title: 'A+ Gallery - Photos & Videos',
-    summary:
-     'World\'s BEST photo gallery for viewing and organising your photos',
-    developer: 'AtomicAdd Team',
-    developerId: 'AtomicAdd+Team',
-    icon:
-     '//lh3.googleusercontent.com/OR9GgUfH_jSdU2FskIWiag6d7S7Rs6TXo4sEAAhYUflcMwcL_UoFu3yNrOitoHkX_cc=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.cyberlink.youperfect',
-    appId: 'com.cyberlink.youperfect',
-    title: 'YouCam Perfect - Best Selfie Photo Editor',
-    summary:
-     'Filters & Effects to Beautify Selfies. Auto-Beautify, Color Correction & More!',
-    developer: 'Perfect Corp.',
-    developerId: '5286790089270932286',
-    icon:
-     '//lh3.googleusercontent.com/ZbyCZsKPLWwcaWrt57TC5HHif7eFnQ42Y_cKY5uVwsv3sZm54pHVnVudsxPMx7rUfAM=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=deezer.android.app',
-    appId: 'deezer.android.app',
-    title: 'Deezer Music Player: Songs, Radio & Podcasts',
-    summary:
-     'The best MP3 playlist - stream chart hits & any track, tune, artist or album',
-    developer: 'Deezer Mobile',
-    developerId: 'Deezer+Mobile',
-    icon:
-     '//lh3.googleusercontent.com/G9zOlgMtJkyhbjTLPXEKtXvbBMkpO8CZwBZL7kB6P1womhVP5zvcY0v8nhcLPFoHyw=w340',
-    score: 4.1,
-    scoreText: ' Rated 4.1 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.cyberlink.youcammakeup',
-    appId: 'com.cyberlink.youcammakeup',
-    title: 'YouCam Makeup - Magic Selfie Makeovers',
-    summary:
-     'Filters & Effects to Beautify Selfies. Auto-Beautify, Color Correction & More!',
-    developer: 'Perfect Corp.',
-    developerId: '5286790089270932286',
-    icon:
-     '//lh3.googleusercontent.com/aqy8UQQB7T8MQGPGY32ixcabLycCavnFGprzD-CpFIJvM0YldZp1cCntqVRF7CutezMM=w340',
-    score: 4.6,
-    scoreText: ' Rated 4.6 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.google.android.apps.maps',
-    appId: 'com.google.android.apps.maps',
-    title: 'Maps - Navigate & Explore',
-    summary:
-     'Real-time GPS navigation & local suggestions for food, events, & activities',
-    developer: 'Google LLC',
-    developerId: '5700313618786177705',
-    icon:
-     '//lh3.googleusercontent.com/MOf9Kxxkj7GvyZlTZOnUzuYv0JAweEhlxJX6gslQvbvlhLK5_bSTK6duxY2xfbBsj43H=w340',
+     '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
     score: 4.3,
     scoreText: ' Rated 4.3 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.invoice2go.invoice2goplus',
-    appId: 'com.invoice2go.invoice2goplus',
-    title: 'Invoice 2go — Professional Invoices and Estimates',
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
     summary:
-     'Google *Top Developer*. #1 invoice maker for 10+ yrs. Invoice and accept payment',
-    developer: 'Invoice2go',
-    developerId: 'Invoice2go',
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
     icon:
-     '//lh3.googleusercontent.com/ca6jhgjJaAqSQoVweeFsVH6Li8NJyUm57JghpzTNc3QPMK7ssQuIc7vJ7BnTEmKNkcM=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.frozax.tentsandtrees',
-    appId: 'com.frozax.tentsandtrees',
-    title: 'Tents and Trees Puzzles',
+     'https://play.google.com/store/apps/details?id=com.open.hotspot.vpn.free',
+    appId: 'com.open.hotspot.vpn.free',
+    title: 'Free VPN - Unlimited Fast Secure Hotspot',
     summary:
-     'Place a tent next to each tree in this original puzzle game!',
-    developer: 'Frozax Games',
-    developerId: 'Frozax+Games',
+     '⭐⭐⭐⭐⭐Best Unlimited Free VPN - High Speed Servers For Your Privacy and Security.',
+    developer: 'FREE VPN (Unlimited Fast VPN Master)',
+    developerId: 'FREE+VPN+(Unlimited+Fast+VPN+Master)',
     icon:
-     '//lh3.googleusercontent.com/dhCmD0Ym92rmKh4upct8tU_s-wrfCma5ciMyomnLp5cPtFURw59Y0YU6uHTFaDURFL8q=w340',
+     '//lh3.googleusercontent.com/C-XydFihu39wVT0I_wNkIWJrdCMUxk54YtK1JtmTQBATjqnS6zUlXdd-a6l8vdPizp0=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.droid27.transparentclockweather',
-    appId: 'com.droid27.transparentclockweather',
-    title: 'Transparent clock & weather',
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
     summary:
-     'Accurate weather forecast and beautiful weather & clock widgets',
-    developer: 'MACHAPP Software Ltd',
-    developerId: '7032303803416115669',
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
     icon:
-     '//lh3.googleusercontent.com/nIenkMvx3o8AcWeqoT9BQwBNLAxSy_DwmcdgUCMx4K9P65aqhzpQHJbmVDHsvUIqkmM=w340',
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.tntapp.app.zerovpn',
+    appId: 'net.tntapp.app.zerovpn',
+    title: 'Zero VPN',
+    summary:
+     'All new designed free VPN, unblock websites or apps, watch restricted videos.',
+    developer: 'TNTAPP',
+    developerId: 'TNTAPP',
+    icon:
+     '//lh4.ggpht.com/XkthmZNYmz9GDjs-Do0wksys3p_eYK_AocyTVVMYehBGnCVIN5JBU4sLr0tfA32YNA0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN',
+    appId: 'com.chengcheng.FreeVPN',
+    title: 'Super VPN - Best Free Proxy',
+    summary:
+     'Fastest android VPN for Unblock sites, Wi-Fi Security & Privacy.',
+    developer: 'SuperVPN Inc',
+    developerId: 'SuperVPN+Inc',
+    icon:
+     '//lh3.googleusercontent.com/vVOcy8T_k3e-bLWHnZZ9XWWceAMU2Nor0gQcJ5K50KBcsnndVgAztojnF3Lezb6oQB8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.gospeed.speedvpn',
+    appId: 'us.gospeed.speedvpn',
+    title: 'SpeedVPN Free VPN Proxy',
+    summary:
+     'SpeedVPN, Best Free VPN proxy.One click to connect, multi locations to select',
+    developer: 'GoSpeed Software',
+    developerId: 'GoSpeed+Software',
+    icon:
+     '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
+    appId: 'com.ow.free.usavpn',
+    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
+    developer: 'World Vpn',
+    developerId: '5302007940761300760',
+    icon:
+     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
+    appId: 'free.vpn.unblock.proxy.vpn.master.pro',
+    title: 'VPN Proxy Master - free unblock VPN & security VPN',
+    summary:
+     'Free & unlimited vpn client to unblock sites, bypass apps & secure wifi hotspot',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
+    appId: 'free.vpn.unblock.proxy.vpnpro',
+    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
+    summary:
+     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
+    developer: 'Lemon Clove',
+    developerId: 'Lemon+Clove',
+    icon:
+     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.flashsoft.flashvpn.activity',
+    appId: 'net.flashsoft.flashvpn.activity',
+    title: 'FlashVPN Free VPN Proxy',
+    summary:
+     'FlashVPN Free VPN ProxyOne-click to connect, unlimited to use',
+    developer: 'FlashSoftware',
+    developerId: 'FlashSoftware',
+    icon:
+     '//lh5.ggpht.com/6EuQBjeuCM_uprSijvxH5tBUXTbMyPJ3RdngCYz9w3pY0CViahcO_lxSUxcB6wOMcQ=w340',
     score: 4.4,
     scoreText: ' Rated 4.4 stars out of five stars ',
     priceText: '',
     free: true },
-  { url: 'https://play.google.com/store/apps/details?id=net.osmand',
-    appId: 'net.osmand',
-    title: 'OsmAnd — Offline Travel Maps & Navigation',
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
     summary:
-     'Offline Travel Maps, POI, Transit & Navigation based on OpenStreetMap (OSM) data',
-    developer: 'OsmAnd',
-    developerId: '8483587772816822023',
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
     icon:
-     '//lh3.googleusercontent.com/EAaraCuM2A5m-S0bkJkk9wDXIdXN2jm8khmHGpz7qseDpsgB4UHN6Z68h-4rGRzlZ10=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.infinitysoft.vpn360',
+    appId: 'co.infinitysoft.vpn360',
+    title: 'VPN 360 - Unlimited Free VPN Proxy',
+    summary:
+     'VPN 360 is a free VPN to hide your IP and secure your Wi-Fi connection.',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/xnxLJlCKaFwTTUsRjFB5kJQWgpkI11ShRs4RICep6nLdNlrqhe4IE2b5N8vmwbEQqRY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
+    appId: 'free.vpn.unblock.proxy.securevpn',
+    title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
+    summary:
+     'Hide my ip, Unblock websites master, Wifi hotspot security VPN, Super VPN',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]

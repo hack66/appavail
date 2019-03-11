@@ -1,277 +1,280 @@
 [ { url:
-     'https://play.google.com/store/apps/details?id=com.tradinos.wasilni',
-    appId: 'com.tradinos.wasilni',
-    title: 'Wasilni',
+     'https://play.google.com/store/apps/details?id=com.open.hotspot.vpn.free',
+    appId: 'com.open.hotspot.vpn.free',
+    title: 'Free VPN - Unlimited Fast Secure Hotspot',
     summary:
-     'Wasilni is a car booking app that provides you with reliable ride at a low cost',
-    developer: 'Tradinos UG',
-    developerId: 'Tradinos+UG',
+     '⭐⭐⭐⭐⭐Best Unlimited Free VPN - High Speed Servers For Your Privacy and Security.',
+    developer: 'FREE VPN (Unlimited Fast VPN Master)',
+    developerId: 'FREE+VPN+(Unlimited+Fast+VPN+Master)',
     icon:
-     '//lh3.googleusercontent.com/LO4otVGHm5RZ1UAcWjRsvGrm2h3Ha6qIF1p4IlHx_9r0EMVYbZ7cuboKN6P18LzqvGM=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=in.jatinderjyoti.juugcbcs',
-    appId: 'in.jatinderjyoti.juugcbcs',
-    title: 'JU(UG) CBCS',
-    summary:
-     'Complete Updates Related to Under Graduate Courses, University of Jammu.',
-    developer: 'JATINDER JYOTI',
-    developerId: 'JATINDER+JYOTI',
-    icon:
-     '//lh3.googleusercontent.com/U2HeIAkIr872qvnQ-McLpgDOLMwpBnnPWVnT1NL1tL54PKjvmWSXE-Zi-zUQFmxa9jE=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.mobidoc.musawo',
-    appId: 'com.mobidoc.musawo',
-    title: 'Musawo UG',
-    summary:
-     'MUSAWO is a health necessisity APP designed to ensure that you are healthy.',
-    developer: 'Mobi-Doc',
-    developerId: 'Mobi-Doc',
-    icon:
-     '//lh3.googleusercontent.com/34qqu9QVzPQNQIioqQs0L11284w4E6Fbi6PvJidnsLGK508vGOmQ9YEslf-LQD99uWgn=w340',
+     '//lh3.googleusercontent.com/C-XydFihu39wVT0I_wNkIWJrdCMUxk54YtK1JtmTQBATjqnS6zUlXdd-a6l8vdPizp0=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=ug.co.buzen.android.cinemaug',
-    appId: 'ug.co.buzen.android.cinemaug',
-    title: 'Cinema UG',
-    summary: 'This is an app for all movie and TV lovers.',
-    developer: 'Buzen Tech',
-    developerId: '5426997585131798235',
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
     icon:
-     '//lh3.googleusercontent.com/U4M3ayo8ZVpX1OBZc_rCLfkKNAUW7WhpOe78erKyu2UQ4S-YspEmQK8uxEzBXRLLNO8z=w340',
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.fast.unlimited.unblock.hotspot.vpn.free',
+    appId: 'free.fast.unlimited.unblock.hotspot.vpn.free',
+    title: 'Free VPN Unlimited - Best Fastest VPN Hotspot!',
+    summary:
+     '🏅Free VPN Unlimited - Super Fast Global Servers For Your Privacy and Security',
+    developer: 'Unlimited VPN - Free High Speed VPN Experts',
+    developerId: 'Unlimited+VPN+-+Free+High+Speed+VPN+Experts',
+    icon:
+     '//lh3.googleusercontent.com/fipZHJ-7NJYgtwLVtI-0owcMsW0y4nj3z8sVcnJNwMlWps_6nf-TeYf6w3glwnL0z8k=w340',
     score: 4.6,
     scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=com.logate.unifi',
-    appId: 'com.logate.unifi',
-    title: 'UniFi UG',
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
     summary:
-     'Locate and view UNIFI and UNIFI Travel locations and connect to hotspots.',
-    developer: 'United Group B.V.',
-    developerId: 'United+Group+B.V.',
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
     icon:
-     '//lh3.googleusercontent.com/y5yMJG2BcBVpKGwYu9YxHZxwT2KS6ZVjQAc843XmDR08f8DWbDPOoyLTMo9XfeYKpYQ=w340',
-    score: 4,
-    scoreText: ' Rated 4.0 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.UniversidadGuanajuato.SeguridadUG1',
-    appId: 'com.UniversidadGuanajuato.SeguridadUG1',
-    title: 'Seguridad UG',
-    summary:
-     'Generate reports of security incidents at the University of Guanajuato.',
-    developer: 'Universidad de Guanajuato',
-    developerId: 'Universidad+de+Guanajuato',
-    icon:
-     '//lh3.googleusercontent.com/iCmD5lW2_S20CnyWfdbxqQf_ZEmytiSDBC1bInprRxx1EojF7edx84d11GL37cz12YU=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.muzurisana.birthday',
-    appId: 'com.muzurisana.birthday',
-    title: 'Birthdays',
-    summary:
-     'Easy to use birthday viewer with widgets and notification about upcoming events',
-    developer: 'Muzurisana UG (haftungsbeschränkt)',
-    developerId: 'Muzurisana+UG+(haftungsbeschr%C3%A4nkt)',
-    icon:
-     'https://lh6.ggpht.com/VIHO4cNHZHjRVLLnUlB92juwJ-fCR4xyPxEX1YDFESt9T86la-viMjDvhSHKsu-YCQI=w340',
-    score: 4.2,
-    scoreText: ' Rated 4.2 stars out of five stars ',
-    priceText: '$2.49',
-    free: false },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.ITGates.PulpoPlus_Ug',
-    appId: 'com.ITGates.PulpoPlus_Ug',
-    title: 'PulpoPlus-Ug',
-    summary:
-     'Fully Pharmaceutical CRM and Sales Integrated System Mobile App.',
-    developer: 'IT Gates',
-    developerId: 'IT+Gates',
-    icon:
-     '//lh3.googleusercontent.com/QCt83GFXCtc1WLcUbqd1jQezA0DVaQMOuFHzG4YFTYwNyyp-nzLiKqjxoaXW5M9cOQ=w340',
-    score: undefined,
-    scoreText: undefined,
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.unitedglobalfx.android',
-    appId: 'com.unitedglobalfx.android',
-    title: 'UG Currency',
-    summary:
-     'Convert major currencies with a live rate offered by United Global F.X. Sdn Bhd.',
-    developer: 'United Global F.X. Sdn Bhd',
-    developerId: 'United+Global+F.X.+Sdn+Bhd',
-    icon:
-     '//lh3.googleusercontent.com/3GKZW_tA5qtGrezXCHJ5WPBBQEL6aylZ0pJmeUHs1I1BYLFFz444EG47K3NPrqlXgc7M=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=io.kodular.vishwatechlogic.KUD_UG_NOTES',
-    appId: 'io.kodular.vishwatechlogic.KUD_UG_NOTES',
-    title: 'KUD UG NOTES',
-    summary:
-     'NOTES JOURNAL QUESTION PAPERS AVAILABLE OF BCA BCOM BSC BBA BA COURSES',
-    developer: 'Vishwa tech logic',
-    developerId: '8042858381945372426',
-    icon:
-     '//lh3.googleusercontent.com/VTnFqAJYIC974BJKziegIJM9CWLpUH0zo8PZkqZHHiZEaPIRXcFD9guz3iaVz-R1weU=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.ugstreams.android',
-    appId: 'com.ugstreams.android',
-    title: 'UG TV',
-    summary:
-     'Recordings (Major Update) - EPG Settings, Subtitle Settings Added- Bug Fixes',
-    developer: 'Hybridapps',
-    developerId: 'Hybridapps',
-    icon:
-     '//lh3.googleusercontent.com/bTMGJE_oy6PGjkp3Rq321Lmd77wR-Pp-1l7jsMmmVLbQpnfwzKD88FiFPI4GOm5dfQ=w340',
-    score: 4.3,
-    scoreText: ' Rated 4.3 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
-    appId: 'com.UCMobile.intl',
-    title: 'UC Browser – Short Video Status & Video Downloader',
-    summary:
-     'Download & Share Funny Video, Status Video, and Trending Videos in UC Browser',
-    developer: 'UCWeb Inc.',
-    developerId: '5209823851140033458',
-    icon:
-     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.tinilabs.paul',
-    appId: 'com.tinilabs.paul',
-    title: 'PruMobi-UG',
-    summary:
-     'An insurance app from Prudential Uganda to answer all your questions',
-    developer: 'TiniLabs (Kenya) Limited',
-    developerId: 'TiniLabs+(Kenya)+Limited',
-    icon:
-     '//lh3.googleusercontent.com/RE-QV6flTPqV152FMBaJR0Qxe-7v46IE57CK96p6IWco4qGpil6NWSZGGxu-SMuvpDM=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.papenmeier.wifibabymonitor',
-    appId: 'com.papenmeier.wifibabymonitor',
-    title: 'WiFi Baby Monitor',
-    summary:
-     'Turn your smartphone or tablet into a modern baby monitor! (full version)',
-    developer: 'Papenmeier Software UG (haftungsbeschränkt)',
-    developerId: 'Papenmeier+Software+UG+(haftungsbeschr%C3%A4nkt)',
-    icon:
-     '//lh5.ggpht.com/0JalCF0Mr7J_DDZcnQY6LcY9cPr7usY2AT1UpCxpgVSGeJFQDxwpnk5oe9U2YXaSedru=w340',
-    score: 4.4,
-    scoreText: ' Rated 4.4 stars out of five stars ',
-    priceText: '$4.00',
-    free: false },
-  { url:
-     'https://play.google.com/store/apps/details?id=mx.ugto.culturaug',
-    appId: 'mx.ugto.culturaug',
-    title: 'Cultura UG',
-    summary: 'Application on culture within the university',
-    developer: 'Universidad de Guanajuato',
-    developerId: 'Universidad+de+Guanajuato',
-    icon:
-     '//lh3.googleusercontent.com/xIiPjXYeVC19PNnu3OyGD5JfDJ6isQqv3TLvfLSYqniHsPhHjJhiIUIfFcjaPRB6E6s=w340',
-    score: 5,
-    scoreText: ' Rated 5.0 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs',
-    appId: 'com.ultimateguitar.tabs',
-    title: 'Ultimate Guitar: Chords & Tabs',
-    summary:
-     'Discover over 1.400.000 free tabs & chords for guitar, bass or ukulele!',
-    developer: 'Ultimate Guitar USA LLC',
-    developerId: '7532879156454387436',
-    icon:
-     '//lh3.googleusercontent.com/aGJg8X4_nU58gIp-T7mKA9wRW2QxqChXf9ifpmqQtRqmWoXSuSK56fHSMQOlncAClCM=w340',
-    score: 4.5,
-    scoreText: ' Rated 4.5 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.lancehenderson.ugcalculator',
-    appId: 'com.lancehenderson.ugcalculator',
-    title: 'UG Calculator',
-    summary:
-     'A simple Industrial Radiography Geometric Unsharpness Calculator',
-    developer: 'Lance Henderson',
-    developerId: 'Lance+Henderson',
-    icon:
-     '//lh3.googleusercontent.com/jlhAA2JegMYLFvxuKaPdA0XQmo7iUb4evHdmk4De43xCdDP7GOqq_nn15wDme190S8o=w340',
-    score: 5,
-    scoreText: ' Rated 5.0 stars out of five stars ',
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.mypthub.ugapp',
-    appId: 'com.mypthub.ugapp',
-    title: 'UG App',
-    summary: 'UG App Fitness App',
-    developer: 'Branded Apps by Fitii Ltd.',
-    developerId: 'Branded+Apps+by+Fitii+Ltd.',
-    icon:
-     '//lh3.googleusercontent.com/awvEdIdaq2qq08YHhAfyzolw8FZqjkBMFfoiaenhrxHCvhWIZ1JK9eh4eco2XLpTog=w340',
-    score: undefined,
-    scoreText: undefined,
-    priceText: '',
-    free: true },
-  { url:
-     'https://play.google.com/store/apps/details?id=com.jatinderjyotiapps.JU_EXAMS',
-    appId: 'com.jatinderjyotiapps.JU_EXAMS',
-    title: 'UG Exams Updates JU',
-    summary:
-     'Updates related to Under Graduation Examinations  from Jammu University',
-    developer: 'JATINDER JYOTI',
-    developerId: 'JATINDER+JYOTI',
-    icon:
-     '//lh3.googleusercontent.com/f1nwOoBfUA664dEj1qmYsakIBw6wsnUdLi554XTsrTA5TjLJ-AX70HWsKrxZU9n4Cg=w340',
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
     score: 4.7,
     scoreText: ' Rated 4.7 stars out of five stars ',
     priceText: '',
     free: true },
   { url:
-     'https://play.google.com/store/apps/details?id=ug.ienter_terminal',
-    appId: 'ug.ienter_terminal',
-    title: 'iEnter ug',
+     'https://play.google.com/store/apps/details?id=com.chengcheng.FreeVPN',
+    appId: 'com.chengcheng.FreeVPN',
+    title: 'Super VPN - Best Free Proxy',
     summary:
-     'This app allows your device to become a customer loyalty system\'s terminal',
-    developer: 'Robert Kaamu',
-    developerId: 'Robert+Kaamu',
+     'Fastest android VPN for Unblock sites, Wi-Fi Security & Privacy.',
+    developer: 'SuperVPN Inc',
+    developerId: 'SuperVPN+Inc',
     icon:
-     '//lh3.googleusercontent.com/iAW_RBK5TVKgDhU66VRrPxVMfxwOkNVIdm-lQfSFLYIxdUln7WFUqPaciu7wx4r5mQ=w340',
-    score: 5,
-    scoreText: ' Rated 5.0 stars out of five stars ',
+     '//lh3.googleusercontent.com/vVOcy8T_k3e-bLWHnZZ9XWWceAMU2Nor0gQcJ5K50KBcsnndVgAztojnF3Lezb6oQB8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
+    appId: 'com.jrzheng.supervpnfree',
+    title: 'SuperVPN Free VPN Client',
+    summary:
+     'SuperVPN, total free VPN client.Easy to use, one click to connecting VPN.',
+    developer: 'SuperSoftTech',
+    developerId: 'SuperSoftTech',
+    icon:
+     '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
+    appId: 'free.vpn.unblock.proxy.securevpn',
+    title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
+    summary:
+     'Hide my ip, Unblock websites master, Wifi hotspot security VPN, Super VPN',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.free.usavpn',
+    appId: 'com.ow.free.usavpn',
+    title: 'USA VPN - Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'The most trusted VPN proxy - free, unlimited & no restrictions. One tap to use!',
+    developer: 'World Vpn',
+    developerId: '5302007940761300760',
+    icon:
+     '//lh3.googleusercontent.com/p3EVBrtko0Iib4jaLsY_sQga9BwGxZhku2doh35seGQSEUljWyJbTAAcnV_n0diAlQR8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.geckonet.gecko',
+    appId: 'org.geckonet.gecko',
+    title: 'GeckoVPN Free Fast Unlimited Proxy VPN',
+    summary:
+     'GeckoVPN, best free fast unlimited VPN proxy service. One tap, connect the world',
+    developer: 'Best Free VPN Proxy',
+    developerId: 'Best+Free+VPN+Proxy',
+    icon:
+     '//lh3.googleusercontent.com/CrZsH5QwlsReFjdVjn-NPTkFFtSPdIaFy7lSFW4sJSCpPWPr8Ua11DdoPRFkxYdJZA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.tntapp.app.zerovpn',
+    appId: 'net.tntapp.app.zerovpn',
+    title: 'Zero VPN',
+    summary:
+     'All new designed free VPN, unblock websites or apps, watch restricted videos.',
+    developer: 'TNTAPP',
+    developerId: 'TNTAPP',
+    icon:
+     '//lh4.ggpht.com/XkthmZNYmz9GDjs-Do0wksys3p_eYK_AocyTVVMYehBGnCVIN5JBU4sLr0tfA32YNA0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tunnelbear.android',
+    appId: 'com.tunnelbear.android',
+    title: 'TunnelBear VPN',
+    summary:
+     'TunnelBear is a free app to browse the Internet privately and securely.',
+    developer: 'TunnelBear, LLC',
+    developerId: 'TunnelBear,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/vmPy9XTc9gXaaRRbDdnPd9aoKUUIRrBm0bpGnlcBB_5cBLu2DIo5wDHRn9HFsswo2zww=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.gospeed.speedvpn',
+    appId: 'us.gospeed.speedvpn',
+    title: 'SpeedVPN Free VPN Proxy',
+    summary:
+     'SpeedVPN, Best Free VPN proxy.One click to connect, multi locations to select',
+    developer: 'GoSpeed Software',
+    developerId: 'GoSpeed+Software',
+    icon:
+     '//lh4.ggpht.com/3V1rrW5BRs--7FC0hQnPlnY5v7xAeVL2HJ7adXz_7gaZYFdBiTcjIouWe9TyKQ19tR98=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpnpro',
+    appId: 'free.vpn.unblock.proxy.vpnpro',
+    title: 'Snap VPN - Unlimited Free & Super Fast VPN Proxy',
+    summary:
+     'The best free vpn client for unblock proxy, wifi security, privacy protection.',
+    developer: 'Lemon Clove',
+    developerId: 'Lemon+Clove',
+    icon:
+     '//lh3.googleusercontent.com/bf-sP8U6UwAkeGxW03y6lA9rlmtUc2_4aNhXaI2gkWQ1RS5xtX_qQNqEIkVZE_csWg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
     priceText: '',
     free: true } ]
