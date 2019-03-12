@@ -1,0 +1,62 @@
+{ title: 'Orbot: Proxy with Tor',
+  description:
+   'Orbot is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis.\r\n\r\n*** Android 4.0 and lower, you can download older versions from https://guardianproject.info/releases/ or through the FDroid.org open app store at https://f-droid.org. The last release with KitKat and older support is: https://guardianproject.info/releases/Orbot-v14.1.4-UpToKitKat-nonPIE.apk ***\r\n\r\n*** SAMSUNG GALAXY USERS ***\r\nOn some devices, aSamsung app is listening on the same network port that Orbot needs. Download \'SockStat\' from Google Play. Look for the app on port 9050. Force stop and disable that app. You can also try to change Orbot\'s "Tor SOCKS" setting under the Debug section to 9051 or AUTO. You can see the fix in this video: https://www.youtube.com/watch?v=yK-nK4F67_g\r\n*****\r\n\r\nOrbot is the only app that creates a truly private internet connection. As the New York Times writes, “when a communication arrives from Tor, you can never know where or whom it’s from.” Tor won the 2012 Electronic Frontier Foundation (EFF) Pioneer Award.\r\n\r\n★ ACCEPT NO SUBSTITUTES: Orbot is the safest way to use the Internet on Android. Period. Orbot bounces your encrypted traffic several times through computers around the world, instead of connecting you directly like VPNs and proxies. This process takes a little longer, but the strongest privacy and identity protection available is worth the wait.\r\n\r\n★ PRIVATE WEB SURFING: Use with Orfox, the most anonymous way to access any website, even if it’s normally blocked, monitored, or on the hidden web. Get Orfox: https://play.google.com/store/apps/details?id=info.guardianproject.orfox\r\n\r\n★ PRIVACY FOR APPS: Any installed app can use Tor through Orbot\'s built-in VPN\r\n\r\n★ PRIVACY FOR EVERYONE: Tor can help you confidentially research a competitor, get around someone blocking your favorite site, or circumvent a firewall to watch sports at work.\r\n\r\n★ PRIVACY MADE EASY: Check out our fun, interactive walkthrough: https://guardianproject.info/howto/browsefreely\r\n\r\n★ IT’S OFFICIAL: This is the official version of the Tor onion routing service for Android.\r\n\r\n***We Love Feedback***\r\n★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.\r\n★ OPEN-SOURCE: Orbot is free software. Take a look at our source code, or join the community to make it better: https://gitweb.torproject.org/orbot.git or https://github.com/n8fr8/orbot\r\n★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? We’d love to hear from you! Send us an email: support@guardianproject.info\r\n\r\n***Disclaimer***\r\nThe Guardian Project makes apps that are designed to protect your security and anonymity. The protocols that we use are widely regarded as the state of the art in security technology. While we are constantly upgrading our software to combat the latest threats and eliminate bugs, no technology is 100% foolproof. For maximum security and anonymity users must utilize best practices to keep themselves safe.',
+  descriptionHTML:
+   'Orbot is a free proxy app that empowers other apps to use the internet more securely. Orbot uses Tor to encrypt your Internet traffic and then hides it by bouncing through a series of computers around the world. Tor is free software and an open network that helps you defend against a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security known as traffic analysis.<br><br>*** Android 4.0 and lower, you can download older versions from https://guardianproject.info/releases/ or through the FDroid.org open app store at https://f-droid.org. The last release with KitKat and older support is: https://guardianproject.info/releases/Orbot-v14.1.4-UpToKitKat-nonPIE.apk ***<br><br>*** SAMSUNG GALAXY USERS ***<br>On some devices, aSamsung app is listening on the same network port that Orbot needs. Download &#39;SockStat&#39; from Google Play. Look for the app on port 9050. Force stop and disable that app. You can also try to change Orbot&#39;s &quot;Tor SOCKS&quot; setting under the Debug section to 9051 or AUTO. You can see the fix in this video: https://www.youtube.com/watch?v=yK-nK4F67_g<br>*****<br><br>Orbot is the only app that creates a truly private internet connection. As the New York Times writes, “when a communication arrives from Tor, you can never know where or whom it’s from.” Tor won the 2012 Electronic Frontier Foundation (EFF) Pioneer Award.<br><br>★ ACCEPT NO SUBSTITUTES: Orbot is the safest way to use the Internet on Android. Period. Orbot bounces your encrypted traffic several times through computers around the world, instead of connecting you directly like VPNs and proxies. This process takes a little longer, but the strongest privacy and identity protection available is worth the wait.<br><br>★ PRIVATE WEB SURFING: Use with Orfox, the most anonymous way to access any website, even if it’s normally blocked, monitored, or on the hidden web. Get Orfox: https://play.google.com/store/apps/details?id=info.guardianproject.orfox<br><br>★ PRIVACY FOR APPS: Any installed app can use Tor through Orbot&#39;s built-in VPN<br><br>★ PRIVACY FOR EVERYONE: Tor can help you confidentially research a competitor, get around someone blocking your favorite site, or circumvent a firewall to watch sports at work.<br><br>★ PRIVACY MADE EASY: Check out our fun, interactive walkthrough: https://guardianproject.info/howto/browsefreely<br><br>★ IT’S OFFICIAL: This is the official version of the Tor onion routing service for Android.<br><br>***We Love Feedback***<br>★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.<br>★ OPEN-SOURCE: Orbot is free software. Take a look at our source code, or join the community to make it better: https://gitweb.torproject.org/orbot.git or https://github.com/n8fr8/orbot<br>★ MESSAGE US: Are we missing your favorite feature? Found an annoying bug? We’d love to hear from you! Send us an email: support@guardianproject.info<br><br>***Disclaimer***<br>The Guardian Project makes apps that are designed to protect your security and anonymity. The protocols that we use are widely regarded as the state of the art in security technology. While we are constantly upgrading our software to combat the latest threats and eliminate bugs, no technology is 100% foolproof. For maximum security and anonymity users must utilize best practices to keep themselves safe.',
+  summary:
+   'Enhance your privacy, break through firewalls and communicate more safely.',
+  installs: '10,000,000+',
+  minInstalls: 10000000,
+  score: 4.262461,
+  scoreText: '4.3',
+  ratings: 145873,
+  reviews: 38413,
+  histogram: { '1': 13621, '2': 4892, '3': 9741, '4': 18945, '5': 98674 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: '18M',
+  androidVersion: '4.1',
+  androidVersionText: '4.1 and up',
+  developer: 'The Tor Project',
+  developerId: 'The+Tor+Project',
+  developerEmail: 'support@guardianproject.info',
+  developerWebsite: 'https://guardianproject.info/apps/orbot/',
+  developerAddress: undefined,
+  privacyPolicy:
+   'https://guardianproject.info/home/data-usage-and-protection-policies/',
+  genre: 'Communication',
+  genreId: 'COMMUNICATION',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E',
+  headerImage:
+   'https://lh3.googleusercontent.com/ks8ncdSu2nbeEL2zMsQNdClBfoyZEC9Us4fEJKrMRFXBjGBwL-nNXdi-xSLgAsQS9wo',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/nJ7Xfb_8he61cq4XmMFUyNjReCp1jhWg_ilG5LMMR2cyxsbL48zDKcX1kflT5RiaO3M',
+     'https://lh3.googleusercontent.com/uCW6IdyYvCDTqrpOawnMTBf4llr6E9VMm_Lnb2LFM1nF64fC-DeP4qCokNUzjQmHRO3J',
+     'https://lh3.googleusercontent.com/LgP9gHDD-zI_fYd3IU0NqgnI9an23cnMS0CPI7ieyOR5qfbVcmnTxe5hh7fJvbdcESc',
+     'https://lh3.googleusercontent.com/Kdp8kkULCO6dgS0fGsZ_9XcYO0QtezL_5rKMkZlnBhCH-dZaZkoeh0oGfqqPxQmm4A',
+     'https://lh3.googleusercontent.com/guHApMB0oXyUQP0K8c83asYTpzDAuB116eZojFklngXt5I7lZFoISh1VA4WQ5toqm8Ww' ],
+  video:
+   'https://www.youtube.com/embed/JWII85UlzKw?ps=play&vq=large&rel=0&autohide=1&showinfo=0',
+  videoImage: 'https://i.ytimg.com/vi/JWII85UlzKw/hqdefault.jpg',
+  contentRating: 'Rated for 3+',
+  contentRatingDescription: undefined,
+  adSupported: false,
+  released: 'Aug 13, 2010',
+  updated: 1544817831000,
+  version: '16.0.5-RC-2-tor-0.3.4.9',
+  recentChanges: 'Fixes crash related to starting a background service',
+  comments:
+   [ 'the app worked really well the first few times, but then it suddenly dropped down to 0 kbps download and upload speed. no change in my internet at all during this time. this doesn\'t change with what WiFi i use, whether i use wi-fi or data, or whether I\'m close to or far from the router. i even tried uninstalling and reinstalling but that didn\'t work. if this is fixed, though, it will definitely be much better.',
+     'This works exactly as advertised. It\'s been a wonderful expirience using this because of the easy. I\'m currently on a Chromebook and to have this instead of some barely working chrome extension is truely great, and even on top of that, it works for any app to set it for. It\'s very customizable and I could use it for hours. The only downside is it\'s not the fastest I think it could be, but you have to expect that from a free app running off Wifi.',
+     'It works but after a matter of days, It will stop working, It does not VPN app anymore. It will open by itself without touching. Some is it just blocks my internet passing through other apps except for Youtube and Facebook. I was about to give this 5 stars but I was wrong, it is better to give it 1 star rather than 5 stars. You know I can give you 5 stars if you would fix the bugs. And you know what? I\'m switching to NordVPN!',
+     'the app works great !! , the only problem i have with it is that i never seen those key badge on the top of my screen anymore when i turn the vpn on, used to see it in the past but now it just gone? all the notifications setting in app is turned on, ohh well.. didn\'t really have any affect on how the app run anyway',
+     'It worked perfect the 1st and 2nd time I used it. After that it didn\'t work at all and actually prevented me from connecting to the internet. This was all done on the same internet connection within the span of 2 days. Nothing changed, no settings or configurations. It just randomly stopped working' ],
+  appId: 'org.torproject.android',
+  url:
+   'https://play.google.com/store/apps/details?id=org.torproject.android&hl=en&gl=bn' }

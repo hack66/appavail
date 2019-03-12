@@ -1,0 +1,61 @@
+{ title: 'Shadowsocks',
+  description:
+   'Shadowsocks is a high-performance cross-platform secured socks5 proxy. It will help you surf the internet privately and securely.\r\n\r\n*NOTE: You may need to unisntall and reinstall the app, after upgrading to 3.x or above.*\r\n\r\nFEATURES\r\n\r\n1. Bleeding edge techniques with Asynchronous I/O and Event-driven programming.\r\n2. Low resource comsumption, suitable for low end boxes and embedded devices.\r\n3. Avaliable on multiple platforms, including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT).\r\n4. Open source implementions in python, node.js, golang, C#, and pure C.\r\n\r\nVisit our project site for more details: https://www.shadowsocks.org\r\n\r\nSETUP\r\n\r\n1. To setup your own server, please refer to: https://shadowsocks.org/en/download/servers.html\r\n2. To view the source codes or build your own apk, please refer to: https://github.com/shadowsocks/shadowsocks-android\r\n\r\nFAQ\r\n\r\nhttps://github.com/shadowsocks/shadowsocks-android/wiki/FAQ\r\n\r\nLICENSE\r\n\r\nCopyright (C) 2016 by Max Lv\r\nCopyright (C) 2016 by Mygod Studio\r\n\r\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\r\n\r\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\r\n\r\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.\r\n\r\nOther open source licenses can be found here: https://github.com/shadowsocks/shadowsocks-android/blob/master/README.md#open-source-licenses',
+  descriptionHTML:
+   'Shadowsocks is a high-performance cross-platform secured socks5 proxy. It will help you surf the internet privately and securely.<br><br>*NOTE: You may need to unisntall and reinstall the app, after upgrading to 3.x or above.*<br><br>FEATURES<br><br>1. Bleeding edge techniques with Asynchronous I/O and Event-driven programming.<br>2. Low resource comsumption, suitable for low end boxes and embedded devices.<br>3. Avaliable on multiple platforms, including PC, MAC, Mobile (Android and iOS) and Routers (OpenWRT).<br>4. Open source implementions in python, node.js, golang, C#, and pure C.<br><br>Visit our project site for more details: https://www.shadowsocks.org<br><br>SETUP<br><br>1. To setup your own server, please refer to: https://shadowsocks.org/en/download/servers.html<br>2. To view the source codes or build your own apk, please refer to: https://github.com/shadowsocks/shadowsocks-android<br><br>FAQ<br><br>https://github.com/shadowsocks/shadowsocks-android/wiki/FAQ<br><br>LICENSE<br><br>Copyright (C) 2016 by Max Lv<br>Copyright (C) 2016 by Mygod Studio<br><br>This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.<br><br>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.<br><br>You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.<br><br>Other open source licenses can be found here: https://github.com/shadowsocks/shadowsocks-android/blob/master/README.md#open-source-licenses',
+  summary: 'Shadowsocks: a secure socks5 proxy.',
+  installs: '1,000,000+',
+  minInstalls: 1000000,
+  score: 4.551323,
+  scoreText: '4.6',
+  ratings: 57703,
+  reviews: 16188,
+  histogram: { '1': 2926, '2': 1007, '3': 2609, '4': 5947, '5': 45214 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: 'Varies with device',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Max Lv',
+  developerId: 'Max+Lv',
+  developerEmail: 'max.c.lv@gmail.com',
+  developerWebsite: 'https://shadowsocks.org',
+  developerAddress:
+   '2701 San Tomas Expressway at Walsh Avenue, Santa Clara, California',
+  privacyPolicy:
+   'https://github.com/shadowsocks/shadowsocks-android/blob/master/privacy_policy.md',
+  genre: 'Communication',
+  genreId: 'COMMUNICATION',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/PiHUVJ8e9V-R8-xjHCcEXniGd2ofNAVcygbzLS9Ntc1gmf6a0qgsbwrW5rXHazEuOA',
+  headerImage:
+   'https://lh5.ggpht.com/gftf8DNavexfJZbh2hlfm7TyqmViO2c_09i-lOtIvehvUzOYNP09TL1ED8Bck_dzgA',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/-bdZ7GF18Trsvef6mGM6A_IOopLA6n_ZilhuZ-SUAobhQBqP2ExLpgqhsJJgwyqHbeM',
+     'https://lh3.googleusercontent.com/oyGTKJfiQIW3TIrYf2ZhtLgLUwbsXDirx6Wwkku7p74P8sxeB0rQhZeviZM_LT-R9eU',
+     'https://lh3.googleusercontent.com/XYdRidrIsPbeyAv4sJq_Vn6zXTrJa85hLHyzC31ClFnvylkzsKsEVoFTFIclTN4srccF',
+     'https://lh3.googleusercontent.com/8a4TlHg2c-yow2Pz9aq-DpGeVedTENzlvIj3wVyk9wCiPeODqIjqdUuqtbqRDH4dgOGl' ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Rated for 3+',
+  contentRatingDescription: undefined,
+  adSupported: true,
+  released: 'Dec 16, 2012',
+  updated: 1547026005000,
+  version: 'Varies with device',
+  recentChanges:
+   '* Redesign the UI following Material 2.0.<br>* Refine local database.<br>* Fix minor bugs.<br><br>Warning: Please upgrade from v4.5.x version. Otherwise your local configs will be erased.',
+  comments:
+   [ 'It is work as it must',
+     'The new look is so ugly. Pure white text on pure Black background just hurts my eyes. Please tweak the color to something more plesent (just check the dark color scheme for text editors) or at least provide a "light theme" option.',
+     '升级8.1后，开启代理，系统会将wifi网络识别为计费的移动网络。请问是系统不兼容的原因吗？',
+     'Thx a lot! This is a very cool tool for our poor people inside GFW',
+     'since my phone updated to android 9,shadowsocks very frequently stops.idont know why,maybe new battery optimize,maybe it always commits suicide for some reason' ],
+  appId: 'com.github.shadowsocks',
+  url:
+   'https://play.google.com/store/apps/details?id=com.github.shadowsocks&hl=en&gl=nf' }

@@ -1,0 +1,63 @@
+{ title: 'Signal Private Messenger',
+  description:
+   'Privacy is possible. Signal makes it easy.\r\n\r\nUsing Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal\'s servers never have access to any of your communication and never store any of your data.\r\n\r\n★ Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.\r\n\r\n★ Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code.  Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.\r\n\r\n★ Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.\r\n\r\n★ Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once.  Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.\r\n\r\n★ Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.\r\n\r\n★ Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges. \r\n\r\nSignal is not currently compatible with tablets, but support for larger screens is on our roadmap and will be included in a future release!\r\n\r\nFor support, questions, or more information, please visit:\r\nhttps://support.signal.org\r\n\r\nMore details:\r\nhttps://www.signal.org/#encrypted_texts\r\n\r\nSource code:\r\nhttps://github.com/signalapp/Signal-Android',
+  descriptionHTML:
+   'Privacy is possible. Signal makes it easy.<br><br>Using Signal, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media or other files all with complete privacy. Signal&#39;s servers never have access to any of your communication and never store any of your data.<br><br>★ Say Anything. Signal uses an advanced end-to-end encryption protocol to keep your conversations private. Every message, every call, every time.<br><br>★ Open Source. Signal is Free and Open Source, enabling anyone to verify its security by auditing the code.  Signal is the only private messenger that uses open source peer-reviewed cryptographic protocols to keep your messages and calls safe.<br><br>★ Be Yourself - Signal uses your existing phone number and address book. There are no separate logins, usernames, passwords, or PINs to manage or lose.<br><br>★ Group Chat. Signal allows you to create encrypted groups so you can have private conversations with all your friends at once.  Not only are the messages encrypted, but the Signal server never has access to any group metadata such as the membership list, group title, or group icon.<br><br>★ Fast. The Signal protocol is designed to operate in the most constrained environment possible. Using Signal, messages are instantly delivered to friends.<br><br>★ Speak Freely - Make crystal-clear phone calls to people who live across town, or across the ocean, with no long-distance charges. <br><br>Signal is not currently compatible with tablets, but support for larger screens is on our roadmap and will be included in a future release!<br><br>For support, questions, or more information, please visit:<br>https://support.signal.org<br><br>More details:<br>https://www.signal.org/#encrypted_texts<br><br>Source code:<br>https://github.com/signalapp/Signal-Android',
+  summary:
+   'Signal makes privacy simple. Send text, photos, and group messages for free!',
+  installs: '10,000,000+',
+  minInstalls: 10000000,
+  score: 4.59148,
+  scoreText: '4.6',
+  ratings: 292835,
+  reviews: 91262,
+  histogram:
+   { '1': 6168, '2': 4046, '3': 12910, '4': 56999, '5': 212712 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: '39M',
+  androidVersion: '4.0',
+  androidVersionText: '4.0 and up',
+  developer: 'Signal Foundation',
+  developerId: 'Signal+Foundation',
+  developerEmail: 'support@signal.org',
+  developerWebsite: 'https://signal.org',
+  developerAddress:
+   '650 Castro Street, Suite 120-414, Mountain View, California 94041-2055',
+  privacyPolicy: 'https://signal.org/privacy',
+  genre: 'Communication',
+  genreId: 'COMMUNICATION',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w',
+  headerImage:
+   'https://lh3.googleusercontent.com/m_sHnpDp3qcmYEhP8tVUEjHZvP_xJtTH2YEJGLSXn4BSbvFm3x1EO33Qjl141_vm8VM',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/FOl552Dy28dHU_nMKM-fgOmhNqpdtKhqZA0n4-IitjXANvWlyZNEube4_3aE404-uw0',
+     'https://lh3.googleusercontent.com/7eBWyewbsC80QuEUdwiHa56IFP_r1XjOu-B5GBCcG2F7-zl88PZR_w17hod6Q_5CdOY',
+     'https://lh3.googleusercontent.com/UECtG0WLkfRONPNEW7P7R97m9bwOwb0zrnSjKcX2A5YAMuGw_ojm6RfpumAaRIen2R4',
+     'https://lh3.googleusercontent.com/qpZ476iogU9X2d_Pit5vCRrqereOQGGnpK8YtcV-VLrcD2XszyMV4tgnG_89MWotEg',
+     'https://lh3.googleusercontent.com/FzLOUOfIe1www8HB849mBCh7BF59Xo-FoHJc7IndIIAI2eiNU12-qyI6uPQ4fyNgwg' ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Rated for 3+',
+  contentRatingDescription: undefined,
+  adSupported: false,
+  released: 'May 25, 2010',
+  updated: 1552254918000,
+  version: '4.35.3',
+  recentChanges:
+   '★ A brand-new registration flow streamlines the setup process for first-time users.<br>★ Additional search improvements make a few bugs harder to find (because they are gone).',
+  comments:
+   [ 'Excellent security tool. One persistent problem though has been the inability to send and receive voice calls due to what appears to be a time variation issue according to several chat forms.',
+     'i have used this app for many months and i have come to apperciate the attention to detail to even down to the emojis. 🙂 this internal mental break down of emoji has been used to bring people closer. and the attention to detail in how big the emojis can be based on use is nice. 5/5 good eyes for detail.',
+     'Why cant i choose which SIM card i want to send SMS from? I was trying to start a new conversation and the app kept trying to send SMS from SIM 2 which wasn\'t even activated. I had to download another app just because i wanted to send a SMS from SIM 1. phew!',
+     'great app but it has limited use because every contact is allowed to send media. need a way to only allow certain contacts to send media. those without media permissions should get a transmission error if they try to send a picture, video, link, document, basically text only 4u & u.',
+     'Excellent private messenger and wifi phone app. I\'ve used Signal for years and it\'s first rate. it\'s great as a group discussion spp too. i cannot think why anyone would use a so-called privacy messenger that\'s owned by Facebook, premier corporate mass surveillance company (WhatsApp). Ditch it and get your privacy app from a company you can trust! ,' ],
+  appId: 'org.thoughtcrime.securesms',
+  url:
+   'https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en&gl=gs' }

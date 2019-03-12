@@ -1,0 +1,62 @@
+{ title: 'Psiphon Pro - The Internet Freedom VPN',
+  description:
+   'Psiphon Pro gives you unprecedented access to your favourite news broadcast or social media platforms. By its nature, Psiphon Pro also protects you when accessing WiFi hotspots by creating a secure, private tunnel between you and the Internet. Psiphon Pro is the best VPN tool for accessing everything on the Internet.\r\n\r\nFeatures:\r\n• Global network featuring thousands of servers and diverse entry points, keeping you connected at all times\r\n• No registration required, just download and connect for free\r\n• Wider selection of protocols than a VPN, offering unparalleled access to everything on the Internet through our global Psiphon server network\r\n• In-app usage stats\r\n• Configuration options - make Psiphon your own VPN with customized proxy settings\r\n• Choose which apps to exclude from the VPN tunnel\r\n• Open-source, peer-reviewed and trustworthy. Find out more at https://bit.ly/psiphon-source, and read a full audit here - https://bit.ly/psiphon-audit\r\n\r\nYou can pay a subscription fee through Google Play to remove ads and enjoy a further optimized use of Psiphon Pro, the best VPN out there.',
+  descriptionHTML:
+   'Psiphon Pro gives you unprecedented access to your favourite news broadcast or social media platforms. By its nature, Psiphon Pro also protects you when accessing WiFi hotspots by creating a secure, private tunnel between you and the Internet. Psiphon Pro is the best VPN tool for accessing everything on the Internet.<br><br><b>Features:</b><br>• Global network featuring thousands of servers and diverse entry points, keeping you connected at all times<br>• No registration required, just download and connect for free<br>• Wider selection of protocols than a VPN, offering unparalleled access to everything on the Internet through our global Psiphon server network<br>• In-app usage stats<br>• Configuration options - make Psiphon your own VPN with customized proxy settings<br>• Choose which apps to exclude from the VPN tunnel<br>• Open-source, peer-reviewed and trustworthy. Find out more at https://bit.ly/psiphon-source, and read a full audit here - https://bit.ly/psiphon-audit<br><br>You can pay a subscription fee through Google Play to remove ads and enjoy a further optimized use of Psiphon Pro, the best VPN out there.',
+  summary:
+   'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+  installs: '10,000,000+',
+  minInstalls: 10000000,
+  score: 4.3077784,
+  scoreText: '4.3',
+  ratings: 358011,
+  reviews: 123612,
+  histogram:
+   { '1': 30945, '2': 9869, '3': 28377, '4': 37682, '5': 251138 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: true,
+  size: 'Varies with device',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Psiphon Inc.',
+  developerId: 'Psiphon+Inc.',
+  developerEmail: 'psiphon-pro@psiphon.ca',
+  developerWebsite: 'https://psiphon.ca/',
+  developerAddress: 'Canada',
+  privacyPolicy: 'https://psiphon.ca/en/privacy.html',
+  genre: 'Communication',
+  genreId: 'COMMUNICATION',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg',
+  headerImage:
+   'https://lh3.googleusercontent.com/9qYglkNVIEiFhUllvWRFJp37pMGSbVdxkWrudKkCDKyA_ex0sNB2l46O1F2QYAdFIsub',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/eoNggHLA_PzJ_KMxJDPB4BMkTu6MX_EgjYQ3liRdtn4_txyqxWxbhfO8jeAvLuAqvKvf',
+     'https://lh3.googleusercontent.com/FVlY40TZpDFD10BcOwNJTkbA4nvk0BIYQnTohNhE80jEM4C_NuzM11CUJWIX0s8sge8',
+     'https://lh3.googleusercontent.com/5Kre_ywqIUnUjQIVVjEmZ2EK5ZqZOznYWfs4Sk9Cb-wtJiC1-9YTH73VFalH0HP2smU',
+     'https://lh3.googleusercontent.com/p2zHD-BHimxTcnx7WLLiebKVoyJ3KyFrSmnKidAXNbNaAYCHeUiaPCYLLmlRO1vW29U',
+     'https://lh3.googleusercontent.com/dioPUb5hpaVSV-4zvkXfQ7eJxOLVL91cVMvijNZ3AV8hhYAB_kax6cyCop-PKyi56dMr' ],
+  video:
+   'https://www.youtube.com/embed/jTwmcwlkGi0?ps=play&vq=large&rel=0&autohide=1&showinfo=0',
+  videoImage: 'https://i.ytimg.com/vi/jTwmcwlkGi0/hqdefault.jpg',
+  contentRating: 'Rated for 3+',
+  contentRatingDescription: undefined,
+  adSupported: true,
+  released: 'Nov 2, 2015',
+  updated: 1551985924000,
+  version: 'Varies with device',
+  recentChanges: undefined,
+  comments:
+   [ 'it\'s wow..installing it there is no tension about mobile data..anytime anywhere free free sometimes it doesn\'t work as well but it\'s cool..and guys install it',
+     'The best free vpn in the play store. Hands down. A nice selection of countries to choose from, among other great features like selective tunnelling and the fact that it\'s open-source, make this my new go-to vpn. I\'m stuck on this one. It kicks the pants off the other free vpns. Get it, you won\'t regret it! Deserves 6 stars. ALSO, you should look into what F-droid is! Churz',
+     'This even works on school Wi-Fi But needs more options so I can be able to contact them or cancel my payment. but overall this is great but need more things so I wont feel like I got scamed and just taking money out of my account. but great for wifi and school so you look up anything you want in the outside world of school.',
+     'Hello developer, I just need to know if your app has free internet or it works because the tunnel was connected if I have wifi or data but it can\'t access if I have no wifi or data. My wifi was limited and I didn\'t want to cost the MB so I just want to have unlimited wifi. Please comment me if it is works for umlimited wifi and I will give you 5 stars 😁',
+     'from feb 2019 onwards its having issues cany connect... even if it does it disconnects within few minutes.' ],
+  appId: 'com.psiphon3.subscription',
+  url:
+   'https://play.google.com/store/apps/details?id=com.psiphon3.subscription&hl=en&gl=eg' }

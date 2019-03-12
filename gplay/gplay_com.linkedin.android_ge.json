@@ -1,0 +1,62 @@
+{ title: 'LinkedIn: Jobs, professional profile, & networking',
+  description:
+   'Job search smarter with the LinkedIn app. Give your job search a boost by using our enhanced job search to filter through the millions of job openings to find the right ones for you. Create job search alerts, ask for referrals from your network, and apply with your resume or professional profile in just a few taps.\r\n\r\nNot actively looking for a job? Use LinkedIn to build and keep in touch with your professional network and discover the latest industry news & opportunities. LinkedIn makes business networking easy - connect with companies, industry experts and the LinkedIn community, wherever you are.\r\n\r\n5 reasons you’ll love the LinkedIn app:\r\n\r\n- Professional profile: Create your own profile & highlight your skillset\r\n- Job search & recruiting: Find jobs suited to you and apply with your resume via the app\r\n- Industry news: Share articles or write your own posts\r\n- Career opportunities: See if companies you’re interested in are recruiting\r\n- LinkedIn community: Follow the activities of your connections\r\n\r\nApply for your dream job, share your knowledge or get the latest industry news. LinkedIn offers you the easiest way to connect with recruiting contacts, professionals and companies.\r\n\r\nPROFESSIONAL PROFILE\r\n• Use your LinkedIn profile as a virtual resume to highlight your experience\r\n• Professional profile: share your accomplishments, job responsibilities and skills\r\n\r\nJOB SEARCH & CAREER\r\n• Find jobs & apply using your LinkedIn resume\r\n• Connect with recruiting managers & find new contacts\r\n\r\nCONTACTS & COMMUNITY\r\n• Join groups and trusted communities that share and support your goals\r\n• Import your contacts for a quick and easy way to grow your network \r\n\r\nINDUSTRY NEWS \r\n• Share articles with the LinkedIn community and your business contacts\r\n• Write your own posts & share them with your network \r\n\r\nBUSINESS NETWORKING\r\n• Follow companies, influencers and professionals to see updates & activities\r\n• Business networking on the go; get new contacts and easily find industry experts\r\n\r\nBUILD YOUR BRAND\r\n• Leverage your employees to build the talent brand of your company\r\n• Showcase your company or product with a great marketing opportunity\r\n\r\nWith professionals, industry experts and job search tools and career opportunities at your fingertips, the LinkedIn app offers a great way to network, apply to jobs and find new contacts - straight from your phone, wherever you are.\r\n\r\nWant to make the most of LinkedIn? Upgrade to a Premium subscription for exclusive tools. \r\n\r\nWe ask for a few permissions when you use this app. Here’s why: http://linkd.in/1l0S8YZ',
+  descriptionHTML:
+   'Job search smarter with the LinkedIn app. Give your job search a boost by using our enhanced job search to filter through the millions of job openings to find the right ones for you. Create job search alerts, ask for referrals from your network, and apply with your resume or professional profile in just a few taps.<br><br>Not actively looking for a job? Use LinkedIn to build and keep in touch with your professional network and discover the latest industry news &amp; opportunities. LinkedIn makes business networking easy - connect with companies, industry experts and the LinkedIn community, wherever you are.<br><br>5 reasons you’ll love the LinkedIn app:<br><br>- Professional profile: Create your own profile &amp; highlight your skillset<br>- Job search &amp; recruiting: Find jobs suited to you and apply with your resume via the app<br>- Industry news: Share articles or write your own posts<br>- Career opportunities: See if companies you’re interested in are recruiting<br>- LinkedIn community: Follow the activities of your connections<br><br>Apply for your dream job, share your knowledge or get the latest industry news. LinkedIn offers you the easiest way to connect with recruiting contacts, professionals and companies.<br><br>PROFESSIONAL PROFILE<br>• Use your LinkedIn profile as a virtual resume to highlight your experience<br>• Professional profile: share your accomplishments, job responsibilities and skills<br><br>JOB SEARCH &amp; CAREER<br>• Find jobs &amp; apply using your LinkedIn resume<br>• Connect with recruiting managers &amp; find new contacts<br><br>CONTACTS &amp; COMMUNITY<br>• Join groups and trusted communities that share and support your goals<br>• Import your contacts for a quick and easy way to grow your network <br><br>INDUSTRY NEWS <br>• Share articles with the LinkedIn community and your business contacts<br>• Write your own posts &amp; share them with your network <br><br>BUSINESS NETWORKING<br>• Follow companies, influencers and professionals to see updates &amp; activities<br>• Business networking on the go; get new contacts and easily find industry experts<br><br>BUILD YOUR BRAND<br>• Leverage your employees to build the talent brand of your company<br>• Showcase your company or product with a great marketing opportunity<br><br>With professionals, industry experts and job search tools and career opportunities at your fingertips, the LinkedIn app offers a great way to network, apply to jobs and find new contacts - straight from your phone, wherever you are.<br><br>Want to make the most of LinkedIn? Upgrade to a Premium subscription for exclusive tools. <br><br>We ask for a few permissions when you use this app. Here’s why: http://linkd.in/1l0S8YZ',
+  summary:
+   'Job search, business networking &amp; industry news. Connect &amp; apply on the go.',
+  installs: '100,000,000+',
+  minInstalls: 100000000,
+  score: 4.2409377,
+  scoreText: '4.2',
+  ratings: 1357049,
+  reviews: 268647,
+  histogram:
+   { '1': 73009, '2': 39189, '3': 129143, '4': 362196, '5': 753512 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: '22M',
+  androidVersion: '5.0',
+  androidVersionText: '5.0 and up',
+  developer: 'LinkedIn',
+  developerId: '6860682062931868151',
+  developerEmail: 'team-mobile@linkedin.com',
+  developerWebsite: 'http://www.linkedin.com/',
+  developerAddress: undefined,
+  privacyPolicy: 'https://www.linkedin.com/legal/privacy-policy',
+  genre: 'Social',
+  genreId: 'SOCIAL',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys',
+  headerImage:
+   'https://lh3.googleusercontent.com/z0gMa0aRAkLxjS-lVaSOO1Ygb48rttOcR5iRpgJPTM6_enkfeCuN37JWm_9qcHJaJw',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/VQGdS3r4oXJUv9Eg9UR95d1X_3EB2XtuJdg5z1k9VmS3G_iQ2iHn_qaPhDFQI0VGJQA',
+     'https://lh3.googleusercontent.com/taViSg1FIYMi8uwZqHuJaA_8unT6VANEw8ipGjgFcnVa9wH_iBrH_A0E0DPsGVNIRrk',
+     'https://lh3.googleusercontent.com/G40rewzMVi6ruJRo_zWI0dUJsF88oEWSYtWZ_IvAj-j6Bs88hrs6K5VNNIjpmM6ZOQ',
+     'https://lh3.googleusercontent.com/obkzvpS3RLnVIOUUculleiCH1pMZzAHirckLMEyLYFqp3DUNN88_d8ltjCqSS8xNdiY',
+     'https://lh3.googleusercontent.com/SxSz-cLVONZ-Cw5Z2bkFVq06-DMTpBcl4J7VTzSoEU_OLn0nAIERbAyNogXYlQCnCAw' ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Rated for 12+',
+  contentRatingDescription: 'Parental Guidance Recommended',
+  adSupported: true,
+  released: 'Apr 7, 2011',
+  updated: 1551916918000,
+  version: '4.1.281',
+  recentChanges:
+   'Thanks for using LinkedIn! We regularly update our app to fix bugs, improve performance and add new features to help you connect with your professional network and advance your career.',
+  comments:
+   [ 'Helped me troubleshooting a problem within 24 hours of my complaint. Keep up to great work your platform is very good. Although my one issue is that your job recommendations are normally 4 years above my skill level. So a better method for identifying entry level jobs would be much appreciated.',
+     'The content and intent of the app is really good. But the performance of the app is really bad. It always says "we are unable to load feed, try again later" after n number of retries also it is not loading. Tried uninstalling and installing many times.This needs to be really fixed.',
+     'Too many outdated contacts. App keeps suggesting linking with people who have been dead for several years. Wants me to congratulate people on milestone achievements like work anniversaries, even though said person hasn\'t worked for that company for a while. Not reliable and actually is annoying.',
+     'Excellent app with focussed purpose. Much needed professional networking. Minor concern: Don\'t understand why the layout is changing so often (literally everyday) with the messaging icon being toggled between bottom centre and top right.',
+     'Session keep expired, cannot save message that I want to send to recruiters (Career interests - note to recruiter). Cannot upload resume. PLEASE DONT IGNORE USER REQUESTS. Im so frustrated about your attitude. Always selectively reply to users message and ignore the problems.' ],
+  appId: 'com.linkedin.android',
+  url:
+   'https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en&gl=ge' }
