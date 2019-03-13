@@ -1,0 +1,67 @@
+{ title: 'Skype - free IM & video calls',
+  description:
+   'Skype keeps the world talking. Say “hello” with an instant message, voice or video call – all for free*.\r\n\r\nUse Skype to send SMS messages to mobiles worldwide and with SMS Connect you can now also read and reply to your phone\'s SMS messages right from your computer. SMS connect will be released gradually.\r\n\r\n• Video calls – Don’t just hear the cheers, see them! Get together with 1 or 24 of your friends and family on a HD video call. Watch everyone’s smiles and cries when you tell them “We’re engaged!!!" \r\n• Chat – Reach people instantly. Send messages to your friends, grab someone’s attention with @ mentions, or create a group chat to plan a family reunion. \r\n• SMS Connect - Read and reply to your phone\'s SMS messages in Skype on your PC or Mac.\r\n• Share – Send photos and videos with your family and friends. Save shared photos and videos to your camera roll. Share your screen to make travel plans with friends or present designs to your team.\r\n• Voice calls – Camera shy? Make voice calls to anyone in the world on Skype. You can also call mobile and landlines at low rates.\r\n• Express yourself – Liven up conversations with emoticons, click on the “+” in chat to send a Giphy or images from the web, and annotate images with words, lines and more.\r\n\r\nBy downloading the Skype Preview, you’ll gain early access to our newest and coolest features. Of course, while you’re having fun, know that this app is a work in progress. We\'re hoping to get your vital feedback as we add new enhancements and features to Skype. Simply click the heart icon on the main screen and you will be able to send your comments to our team, helping us shape the future of Skype.\r\n\r\nSkype is available on phones, tablets, PCs and Macs.\r\n\r\n*Skype to Skype calls are free. Operator data charges may apply. We recommend using an unlimited data plan or WiFi connection.',
+  descriptionHTML:
+   'Skype keeps the world talking. Say “hello” with an instant message, voice or video call – all for free*.<br><br>Use Skype to send SMS messages to mobiles worldwide and with SMS Connect you can now also read and reply to your phone&#39;s SMS messages right from your computer. SMS connect will be released gradually.<br><br>• Video calls – Don’t just hear the cheers, see them! Get together with 1 or 24 of your friends and family on a HD video call. Watch everyone’s smiles and cries when you tell them “We’re engaged!!!&quot; <br>• Chat – Reach people instantly. Send messages to your friends, grab someone’s attention with @ mentions, or create a group chat to plan a family reunion. <br>• SMS Connect - Read and reply to your phone&#39;s SMS messages in Skype on your PC or Mac.<br>• Share – Send photos and videos with your family and friends. Save shared photos and videos to your camera roll. Share your screen to make travel plans with friends or present designs to your team.<br>• Voice calls – Camera shy? Make voice calls to anyone in the world on Skype. You can also call mobile and landlines at low rates.<br>• Express yourself – Liven up conversations with emoticons, click on the “+” in chat to send a Giphy or images from the web, and annotate images with words, lines and more.<br><br>By downloading the Skype Preview, you’ll gain early access to our newest and coolest features. Of course, while you’re having fun, know that this app is a work in progress. We&#39;re hoping to get your vital feedback as we add new enhancements and features to Skype. Simply click the heart icon on the main screen and you will be able to send your comments to our team, helping us shape the future of Skype.<br><br>Skype is available on phones, tablets, PCs and Macs.<br><br>*Skype to Skype calls are free. Operator data charges may apply. We recommend using an unlimited data plan or WiFi connection.',
+  summary:
+   'Talk to friends and family using voice, video, SMS or instant messages.',
+  installs: '1,000,000,000+',
+  minInstalls: 1000000000,
+  score: 4.134031,
+  scoreText: '4.1',
+  ratings: 10725607,
+  reviews: 2341703,
+  histogram:
+   { '1': 1098176,
+     '2': 450048,
+     '3': 915858,
+     '4': 1713478,
+     '5': 6548047 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: 'Varies with device',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Skype',
+  developerId: 'Skype',
+  developerEmail: 'skypeuploader@googlemail.com',
+  developerWebsite: 'http://www.skype.com',
+  developerAddress:
+   'Skype Software S.à.r.l, 23 – 29 Rives de Clausen, L-2165 Luxembourg',
+  privacyPolicy: 'http://www.skype.com/go/privacy',
+  genre: 'Communication',
+  genreId: 'COMMUNICATION',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw',
+  headerImage:
+   'https://lh3.googleusercontent.com/NrdVJFIR9RshVPyrfSXu-ws7ah0J8pVc1eGP5PzqdtLd5CLpWT2iqWT3lrWnK0-NHHo',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/U_kEjjE5GvfRufQt4dPJljyyBw-G6wEFKaQvd_3RTWX2M8mN3CRJvu4ubk1P8dDcnWWs',
+     'https://lh3.googleusercontent.com/_HKEYwMNkCMkB1GAbnh7mYfVUGFlEw_l0r350-fneCxh865uKHtoiVaNFt_aGG6f3A',
+     'https://lh3.googleusercontent.com/eWSAFQVNGO4ah5dugrGSJy-Evzlx8tIqdB4ix5RriuibgumLseP4aYYYVbVc_HNfFyw',
+     'https://lh3.googleusercontent.com/u143CW3vxT99aRZahquwfYiquowo-uhvRhjqKRa38xpezu7rRWlj-3ymrsQvrBG2EYE',
+     'https://lh3.googleusercontent.com/N_rMcWReEcsoOguT7cq8t5EzFkMoCwmvemvJDezgIA7zMBD058CrOwNwmDej2Mh6dgk' ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Rated for 3+',
+  contentRatingDescription: undefined,
+  adSupported: true,
+  released: 'Oct 4, 2010',
+  updated: 1551903554000,
+  version: 'Varies with device',
+  recentChanges:
+   'We&#39;re listening to your feedback and working hard to improve Skype. Here&#39;s what&#39;s new:<br>- Stability and reliability improvements.',
+  comments:
+   [ 'UPDATED: There\'s a delay in sending messages on mobile data which is a hassle since I have to clear cache or reset the phone to have my messages sent. I liked the old design better. We should be also be able to change the status as before. What are the plans to fix this bug? The old version is user friendly unlike this one.',
+     'It seems like every update changes things that no one asked for, most recently the notification sound. It\'s hard to hear and isnt unique at all so I never know it\'s a Skype notification. You also have no option to change it back so you get stuck with it until the next update.',
+     'To all Microsoft states in Skype the capability to block all calls not in your contact list. I can state with 100 percent confidence this feature does not work. I get dozens of calls per week from numbers not in my contact list. For this reason you should choose this product carefully.',
+     'I am unable to call a landline in Belfast, Northern Ireland. The call rings and is answered with "they are not receiving calls at time and you may leave a message". I did this but the person I was calling didn\'t get it. This all happened in 2019. I have been calling the same person from my Skype account for several years without problems. How can this be fixed? Very frustrating !!',
+     'Original posting Feb 28, 2019: When people are depending on this APP for their work and as the on going update happens whenever necessary, it doesn\'t gave the Skype the right to treat all existng users like beta testers. Skype has becoming unstable whenever an update is rolled out, and and unstabilities are getting more frequent. update: March 11, 2019. Skype on Android still crashing...' ],
+  appId: 'com.skype.raider',
+  url:
+   'https://play.google.com/store/apps/details?id=com.skype.raider&hl=en&gl=mg' }
