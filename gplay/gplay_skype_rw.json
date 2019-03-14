@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.skype.m2',
+    appId: 'com.skype.m2',
+    title: 'Skype Lite - Free Video Call & Chat (Unreleased)',
+    summary:
+     'Free chat, voice & video calls with Skype Lite on slow phone & slow network.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/Tqgy9wddo_e_IegqVDAiYfPcWg0iXESll_DvU2yDfdJQCj-gzWcGOnO9tb_WY-dEUuY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.insiders',
+    appId: 'com.skype.insiders',
+    title: 'Skype Preview (Unreleased)',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/5mPU4oU3EIbuAotT3o9iEqFz_1CrmcJlMwjKvAqoLvQtbW2t0o_91Z8fSMQEQMHc5eur=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.lync15',
+    appId: 'com.microsoft.office.lync15',
+    title: 'Skype for Business for Android',
+    summary:
+     'Skype for Business extends the power of Lync and Skype to your mobile device',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.googleusercontent.com/5hqcg29p7TkwDWchqG41kMDgoa_IXSUgt9ilfft3ZF2scKW_9Jz5511HPAAqVbVKRQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.updatefreesk2019',
+    appId: 'com.updatefreesk2019',
+    title: 'Update For Skype 2019',
+    summary: 'Update For Skype 2019',
+    developer: 'goteviloyt',
+    developerId: 'goteviloyt',
+    icon:
+     '//lh3.googleusercontent.com/AMwYpBcx4edt2jdfC5CGB60KFejIgn_q0pt1iDESXwMKFBK8p3dAHFM9ReZdEaTWxsY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ergames.findskypeusernames',
+    appId: 'com.ergames.findskypeusernames',
+    title: 'Find Skype Friends',
+    summary:
+     'Find Skype usernames and make new friends with this friend finder app!',
+    developer: 'UNDERSCORE: Apps and Games',
+    developerId: '7571735847772242141',
+    icon:
+     '//lh3.googleusercontent.com/lfqrt76B1UP8Kv6Duy1skdIbxNqjP8P5Yyf1CDa4DQJ03VE77lI3B0IMDwBO5nOq0Q=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nimeshm.skydialer',
+    appId: 'com.nimeshm.skydialer',
+    title: 'Sky Dialer for Skype',
+    summary: 'The easy way to make Skype to Phone calls!',
+    developer: 'Nimesh Madhavan',
+    developerId: 'Nimesh+Madhavan',
+    icon:
+     '//lh4.ggpht.com/EvJMi7J7pI6nY7QudDNXzt3XcFxS26p3rdqIFrvp6lxBvLvke9rJlBzhMCxn7WE_YKwR=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.starter',
+    appId: 'com.skype.starter',
+    title: 'Simple Starter for Skype',
+    summary:
+     'Starts Skype whenever an Internet-connection becomes available.',
+    developer: 'Dutch Apps',
+    developerId: 'Dutch+Apps',
+    icon:
+     '//lh4.ggpht.com/y7dYo53R4TagFwoYyQHpbjMBl-RJqoNrIwEzdlgi9neP-UI-rLAXMzlV5qAS6gvVyj6W=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=keyboard.theme.k820006549',
+    appId: 'keyboard.theme.k820006549',
+    title: 'Keyboard Theme for Skype Messenger',
+    summary: 'Download this Keyboard Theme for Skype Messenger',
+    developer: 'IamThemer',
+    developerId: '4621291099277301137',
+    icon:
+     '//lh3.googleusercontent.com/KGPhANhrGIDxb53alUX9I2uR9iMaN0QhYJ7o782yfpydJP80Il8EQFcF1essxsXuMK4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dantelo.lync.monitor',
+    appId: 'com.dantelo.lync.monitor',
+    title: 'Mobile Presence Skype Business Enterprise Server',
+    summary:
+     'Publish user- and mobile call state directly into Skype for Business',
+    developer: 'Dantelo ApS',
+    developerId: 'Dantelo+ApS',
+    icon:
+     '//lh3.ggpht.com/8_eemWJueW1Vz-KYhHGOJ425DdthGq85JNA8_GeklOlNItPSu-gV_dhu7y6ovA5aShk=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zausan.zskypeartforskype',
+    appId: 'com.zausan.zskypeartforskype',
+    title: 'Z-Art for Skype',
+    summary:
+     'Paint, add objects and share your drawings directly from Skype.',
+    developer: 'ZAUSAN Innovación Tecnológica',
+    developerId: 'ZAUSAN+Innovaci%C3%B3n+Tecnol%C3%B3gica',
+    icon:
+     '//lh6.ggpht.com/H0MkD95CT5w46vXdMOvFuX5yf9ZPMwFNdPPvD4reTidKtg9UH6Pu3WSzwRr7cc2J-YRk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.projexam.android.mailtoskypeback',
+    appId: 'com.projexam.android.mailtoskypeback',
+    title: 'Mail To Skype Back',
+    summary:
+     'MailToSkypeBack is an app for Skype Talking with who can not act to answer.',
+    developer: 'projexam.com',
+    developerId: 'projexam.com',
+    icon:
+     '//lh6.ggpht.com/C3-r47HGvymJ_b-zY8FvTJjy21jTE3uCv6KekwAms4dahGfkqXA57gSIYvrkYW-mdI9I=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pk.tafheemulquran',
+    appId: 'pk.tafheemulquran',
+    title: 'Learn Quran Via Skype Classes',
+    summary: 'Free to install',
+    developer: 'urs host',
+    developerId: 'urs+host',
+    icon:
+     '//lh3.googleusercontent.com/Hr9dATZUcuPkG3OF4tfKi9jzMaUta13VDYvv3HRWz2nsQ-rCeQuqXayRyE5mRXkdbw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.viber.voip',
+    appId: 'com.viber.voip',
+    title: 'Viber Messenger - Messages, Group Chats & Calls',
+    summary:
+     'Special Price! Call non-Viber numbers with Viber Out Unlimited Plan at $8.99/mo',
+    developer: 'Viber Media S.à r.l.',
+    developerId: '7446565317689230946',
+    icon:
+     '//lh3.googleusercontent.com/jP_uAfj6cYJIPhnOY9ve-gIjiSPptSInG7TLp-ts6I5iyLdKhiX8wrxOcturOhQ8q_o0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.michaelfotiadis.eventtriggeredskypecaller',
+    appId: 'com.michaelfotiadis.eventtriggeredskypecaller',
+    title: 'Beacon and NFC Skype Caller',
+    summary:
+     'Skype caller which can be triggered by detecting NFC or Beacons',
+    developer: 'Michael Fotiadis',
+    developerId: 'Michael+Fotiadis',
+    icon:
+     '//lh6.ggpht.com/xoTjzO5mtD1u4xB_2efe0_YInz2FlQ1CNJPvFJ1augptEXhwVpPPiFkfZAmDxsbZANE=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.free.mp3.ringtone.sound.notification.alarm.geometry.fantasy.soda.fun.game.slope.mobile.skyp',
+    appId:
+     'com.free.mp3.ringtone.sound.notification.alarm.geometry.fantasy.soda.fun.game.slope.mobile.skyp',
+    title: 'Notification for Skype - Talk. Chat. Collaborate.',
+    summary:
+     'Tap the Ringtone Name to set cool ringtone or notification for your smartphone!',
+    developer: 'messengernotification',
+    developerId: '6350059224995713537',
+    icon:
+     '//lh3.googleusercontent.com/9ueMm1jjj-hmMG4AX8-mirTdN9nQ1UHrfnNBlvhn_29bADbfLStSp2tSuhiOkuQSq6A=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.quadsystem.skyphone',
+    appId: 'jp.co.quadsystem.skyphone',
+    title: 'SkyPhone - Free Calls',
+    summary:
+     'Clearer than face to face!FREE call with Clear voiceSimple end Easy app',
+    developer: 'QuadSystem Co., Ltd.',
+    developerId: 'QuadSystem+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/w8Q7XkugGRJCduUT9qYqpNacxNAan2TN24YZcD4DxU-H9zvr9qhAhBG70nNPH1LaP54=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.recommended.videocall',
+    appId: 'com.recommended.videocall',
+    title: 'Video Call',
+    summary: 'All your favorite video call apps in one place.',
+    developer: 'FORBIS s.r.o.',
+    developerId: '6066994521290468340',
+    icon:
+     '//lh3.googleusercontent.com/O8eqcFx6jPpKMQNZDa9nXajNUcWRXSfF2vo9Q4kGw1mxWhUoD9Ld-Y_NWd2p3EvIVQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.whatsapp',
+    appId: 'com.whatsapp',
+    title: 'WhatsApp Messenger',
+    summary: 'Simple. Personal. Secure.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

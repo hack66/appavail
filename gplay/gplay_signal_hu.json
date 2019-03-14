@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms',
+    appId: 'org.thoughtcrime.securesms',
+    title: 'Signal Private Messenger',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'Signal Foundation',
+    developerId: 'Signal+Foundation',
+    icon:
+     '//lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.SMAPP',
+    appId: 'com.SMAPP',
+    title: 'Signal Plus Messenger (Unofficial)',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'SMAPP. Inc',
+    developerId: '4940292592233703785',
+    icon:
+     '//lh3.googleusercontent.com/Az8O5nCD6p7cIlby6F3WOIZOBp76Y-s7ft3QzIzxRqWmhgN1xvAwsugM_b9XQK43XRQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.telnet',
+    appId: 'de.android.telnet',
+    title: 'Network Signal Info',
+    summary:
+     'An easy to use Wifi (WLAN) and Mobile network information app.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/yQz_Wa6BSYKHoYnFLb0Q9IdNJVcNjdVGnVjZiwA-wgFsdSYYbapjJZpppmI4Y2mJOSz1=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.telnet2',
+    appId: 'de.android.telnet2',
+    title: 'Network Signal Info Pro',
+    summary:
+     'An easy to use Wifi (WLAN) and Mobile network information app.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/Kt4sSfWrUq4tLsQ_NZLL_by3EJXC9cx92bx6NoDiSbKSne2VI9O81bSUbYEfh0pDgWk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: 'HUF 1,099.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.satochan3955.signalrefreshw',
+    appId: 'com.satochan3955.signalrefreshw',
+    title: 'Signal Refresh 3G/4G/LTE/WiFi',
+    summary:
+     'It\'s free convenient apps which refresh signal strength.Ping network response.',
+    developer: 'SatoChanNetworks',
+    developerId: 'SatoChanNetworks',
+    icon:
+     '//lh3.googleusercontent.com/Yf5Rk5pBFeP5gl-oHzGbEZt5BOJ3en5klPIl92yYtlFiEu4BNr4ocKUinS9Fe20CQLI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dynamicsignal.androidphone',
+    appId: 'com.dynamicsignal.androidphone',
+    title: 'Dynamic Signal (VoiceStorm)',
+    summary: 'Connect with Every Employee',
+    developer: 'Dynamic Signal',
+    developerId: 'Dynamic+Signal',
+    icon:
+     '//lh3.googleusercontent.com/Np8QPluuyi6vtE6yBSVzaCQf03bNegwLBpvF3QLW3yVW2PGC79hy2qDZeZP_4p8GRQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cls.networkwidget',
+    appId: 'com.cls.networkwidget',
+    title: 'Signal Strength',
+    summary:
+     'Cellular/WiFi signal strength, networks, speed + some great home screen widgets',
+    developer: 'Lakshman',
+    developerId: 'Lakshman',
+    icon:
+     '//lh3.googleusercontent.com/l7bkbcMUwoFvIYRFjzsssmq69o_bGfGZc5wNtUFiiGynm-p7gtGeSeZZJau9wxF5QsM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.realapps.networksignalbooster',
+    appId: 'com.realapps.networksignalbooster',
+    title: 'Network Signal Booster',
+    summary:
+     'Use Network Signal Booster to dramatically boost your cellular signal strength.',
+    developer: 'RealAppsMaker',
+    developerId: 'RealAppsMaker',
+    icon:
+     '//lh3.googleusercontent.com/xUn-_Raw5rsoQmp1WsYk4MEESO5yoQvT7OU0FegT9o2FYHk6DaZVdPqG_dac31C0uUE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qtrun.QuickTest',
+    appId: 'com.qtrun.QuickTest',
+    title: 'Network Signal Guru',
+    summary:
+     'This app require ROOT permission and base on QUALCOMM chipset',
+    developer: 'QTRUN Technologies',
+    developerId: 'QTRUN+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/nRpR-6V9kYRuA6l1DkHSFAvBptdKZ3vbDUHPIHYFcB5MUKJK8OdXfKW_FvwXtk0sEA=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.duoduosoft.signalguardpro',
+    appId: 'com.duoduosoft.signalguardpro',
+    title: 'Signal Guard Pro',
+    summary:
+     'Real-time monitor & Improve signal strength; repair signal problem, log tracking',
+    developer: 'kevin.zhang',
+    developerId: 'kevin.zhang',
+    icon:
+     '//lh5.ggpht.com/cjvti3QchyXdiMDcUdTVgREtPJBI-UpK87RCUS_ZVgdfFzj5llNrEn597JM1uSEk2bY=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: 'HUF 1,748.79',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wilysis.cellinfolite',
+    appId: 'com.wilysis.cellinfolite',
+    title: 'Network Cell Info Lite',
+    summary:
+     'The network cell signal monitoring tool for LTE, UMTS, GSM, CDMA.',
+    developer: 'Wilysis',
+    developerId: 'Wilysis',
+    icon:
+     '//lh3.googleusercontent.com/IsCycpevS1kQpz5bzWXAFgf7II-bq6yjxMe8E4rJ6gMpROR4DV1ShzMmoS2SRe-0EHs=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anggrayudi.ping',
+    appId: 'com.anggrayudi.ping',
+    title: 'Signal Detector',
+    summary: 'Monitor your internet connection and make it stable!',
+    developer: 'Anggrayudi',
+    developerId: 'Anggrayudi',
+    icon:
+     '//lh3.googleusercontent.com/K-zc5t7HTxu-BFgQ38u583E0pCFID7YQ1i9CRHkhY5oHAr8WvVUqSlv_uVNOS528bas=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoringpro',
+    appId: 'com.signalmonitoring.gsmsignalmonitoringpro',
+    title: 'Cell Signal Monitor Pro - mobile networks monitor',
+    summary:
+     '📶 The application collects data about base stations of mobile network',
+    developer: 'Alexander Kozyukov',
+    developerId: 'Alexander+Kozyukov',
+    icon:
+     '//lh3.googleusercontent.com/AiWQPvbdvwBtIvlk4ykA1qUZrmfk0ZQA8ogUZZS9kzZbvfscpVRabXp5VolxLds9WvZM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: 'HUF 1,099.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.VesloGames.PhantomSignal',
+    appId: 'com.VesloGames.PhantomSignal',
+    title: 'Phantom Signal',
+    summary:
+     'Phantom Signal is a real-time sci-fi strategy game with unusual mechanics.',
+    developer: 'Veslo Games',
+    developerId: 'Veslo+Games',
+    icon:
+     '//lh3.googleusercontent.com/B0qMWYFtJkY8w_fypmYr4myFBK08yNTygdBlzw0GDtBiwEfDiU-H1pEBwWe820_hYi2o=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: 'HUF 690.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northbridge.wifisignalstrength',
+    appId: 'com.northbridge.wifisignalstrength',
+    title: 'WiFi Signal Strength',
+    summary: 'Find the sweet spots in your WiFi network.',
+    developer: 'NorthBridge',
+    developerId: 'NorthBridge',
+    icon:
+     '//lh6.ggpht.com/MTlcFVG75jTMAocm7JjYFKjOV7moGIv-5b7M3FF3S6Z5OJPgQZMjPlWjGexbUkEhksQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.novvia.fispy',
+    appId: 'com.novvia.fispy',
+    title: 'Signal Spy - Monitor Signal Strength & Data Usage',
+    summary:
+     'Monitor connections (cell and wifi) and switch cell carriers (Project Fi users).',
+    developer: 'Novvia',
+    developerId: 'Novvia',
+    icon:
+     '//lh3.googleusercontent.com/y5cjQdR-ApdS9cacPdnUVxRGpTZbglTRohP93eKSuGsJGxt5eIn28d1OEEuss8MSPO4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=solonsky.signal.twitter',
+    appId: 'solonsky.signal.twitter',
+    title: 'Signal for Twitter',
+    summary: 'A read-only Twitter client *',
+    developer: 'Alex Solonsky',
+    developerId: 'Alex+Solonsky',
+    icon:
+     '//lh3.googleusercontent.com/8f-6Oj-NpxFNujIfXP19VbONDxRvZQcxLJh9xTVJZXDUtkqXvdRuOMlY-gVapdUI1Q=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: 'HUF 1,799.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer',
+    appId: 'com.farproc.wifi.analyzer',
+    title: 'Wifi Analyzer',
+    summary: 'Turns your android phone into a Wi-Fi analyzer!',
+    developer: 'farproc',
+    developerId: 'farproc',
+    icon:
+     '//lh6.ggpht.com/LnrDTAN6yC2lvtiFbMq15Z0kvtWqtvCDsvyuSR4_iaHDliV4tFMT4J40qAclL6QG_cI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=abdelrahman.wifianalyzerpro',
+    appId: 'abdelrahman.wifianalyzerpro',
+    title: 'WiFi Analyzer',
+    summary:
+     'Optimize your WiFi network using WiFi Analyzer, No Location Permission!',
+    developer: 'Abdelrahman M. Sid',
+    developerId: 'Abdelrahman+M.+Sid',
+    icon:
+     '//lh3.googleusercontent.com/mflDNfTZo8bx3Uwb2lET-1FTJpQqx4Brf0VQAHk-ZLt9wKqzpj0EJUC4TtPKu298mMI=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.signal.refresher.free',
+    appId: 'com.signal.refresher.free',
+    title: 'Network Signal Refresher Pro',
+    summary:
+     'We’ve all had those moments where our signal dies - this app aims to fight that.',
+    developer: 'Zenith Apps Pro',
+    developerId: 'Zenith+Apps+Pro',
+    icon:
+     '//lh3.googleusercontent.com/PSVutEYLagIvvoqjS1LBr158Paf-FlsmmQ-poAwoMNQV1pHV-pPLqBHXmmcvt2ValW8=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: 'HUF 999.00',
+    free: false } ]

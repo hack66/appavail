@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.absherjo.app.absherjo',
+    appId: 'com.absherjo.app.absherjo',
+    title: 'أبشر - Absher',
+    summary:
+     'Abshar ... to provide all services related to cars, cleaning houses and hospitality services.',
+    developer: 'Absher JO',
+    developerId: '9023314014966152190',
+    icon:
+     '//lh3.googleusercontent.com/ApxPyxtgIsr3eR9TH88MVVHMdOpbwkK34KkNklnzKtL9-Jlj2Y1I6qt4DHWciWWf0WE=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.AbsherOffers',
+    appId: 'com.AbsherOffers',
+    title: 'Absher Offers',
+    summary:
+     'The Absher Offers app enables privileged members to avail incredible discounts.',
+    developer: 'IMC Middle East',
+    developerId: 'IMC+Middle+East',
+    icon:
+     '//lh3.googleusercontent.com/eBVXIdXDofWiEYxyBR66c3uXb-89EN5-dyUQ6HVwEk227CM3O12wnwQfnbmEY17RKtyz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.absher_asistant.app',
+    appId: 'com.absher_asistant.app',
+    title: 'Absher Assistant',
+    summary:
+     'Calculate the expiration date of your visa from Abshar Hijri or Gregorian',
+    developer: 'adel_elgo',
+    developerId: 'adel_elgo',
+    icon:
+     '//lh3.googleusercontent.com/AS6ymbRvuXU67xXVu0pFbqqffos_02vXh4fsGFgtQYSLPLlahLdH-E9COIImqdG6bZfG=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=gdp.gov.sa',
+    appId: 'gdp.gov.sa',
+    title: 'الجوازات',
+    summary:
+     'The official application for Services Directorate General of Passports',
+    developer: 'المديرية العامة للجوازات - GDP',
+    developerId:
+     '%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9+%D9%84%D9%84%D8%AC%D9%88%D8%A7%D8%B2%D8%A7%D8%AA+-+GDP',
+    icon:
+     '//lh3.googleusercontent.com/kDRr9W18eSNWYryqtUjPJzkqeKt45c-J8aXWBpUfOmToxZQwTqOMMG_nDAf8A9jJK-RJ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tuchguru.saudiiqamastatus',
+    appId: 'com.tuchguru.saudiiqamastatus',
+    title: 'Saudi Iqama Status',
+    summary: 'CHECK IQAMA EXPIRY DATE OR VALIDITY',
+    developer: 'Naaz Soft',
+    developerId: 'Naaz+Soft',
+    icon:
+     '//lh3.googleusercontent.com/dGBmQNQCbsnhNhLAZ6bT7ivZeMEIGGxGRLHx_pWz6NqsBl2favkwBxXy2KVz0uWKIh0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.princraza.Saudia_Iqama_Statushelp',
+    appId: 'com.princraza.Saudia_Iqama_Statushelp',
+    title: 'Saudia iqama Visa online  Check',
+    summary: 'Easy Check All Iqama visa Details Saudia',
+    developer: 'RAZA TECH.',
+    developerId: 'RAZA+TECH.',
+    icon:
+     '//lh3.googleusercontent.com/7n_GsxGsW-Jh1t6z0cvaAAp_6zxiUfU8_5L4uD0A_zyyiRWgtAZFbsiPiZ1tEo2lQFw=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ahmadraja0809999.Saudia_Iqama_Status',
+    appId: 'com.ahmadraja0809999.Saudia_Iqama_Status',
+    title: 'Saudia Iqama Status online',
+    summary: 'CHECK IQAMA EXPIRY DATE OR VALIDITY AND ETC',
+    developer: 'A.F DEVP.',
+    developerId: 'A.F+DEVP.',
+    icon:
+     '//lh3.googleusercontent.com/nSlth_2e1VayJ5_NVs8AJPT1ZZwgS-UQL8pEnbP8F9aQPrK27r3-3Le5PGosyciUlL8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anydroid.apps.share',
+    appId: 'com.anydroid.apps.share',
+    title: 'Apps Share',
+    summary: 'Apps Share amazing sharing Application and Apk files',
+    developer: 'Mango Yellow Studio',
+    developerId: 'Mango+Yellow+Studio',
+    icon:
+     '//lh3.googleusercontent.com/qgmPgSzq47ryj0x9vaUBbf51xgZmuyfY1YvhwV6-F3N3p4Pzi1bdsHBjj_O8xqiz03E=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sik0555666.Iqama_Expiry',
+    appId: 'com.sik0555666.Iqama_Expiry',
+    title: 'Iqama Expiry Date Checker Online',
+    summary:
+     'This is a tool it use for check the Iqama Expiry Information free in a minute.',
+    developer: 'Freeapp351',
+    developerId: 'Freeapp351',
+    icon:
+     '//lh3.googleusercontent.com/RvjqV-D6pO3hKthAIGe2aKucu17dnLMzFZSY7jBrXBSHDF9PniqplT7wWgLu4ZOCHg8=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appybuilder.apnapak2020.iqamacheck',
+    appId: 'com.appybuilder.apnapak2020.iqamacheck',
+    title: 'Iqama,Visa and Traffic Violations check in saudia',
+    summary:
+     'you can easily check Iqama, Visa and Traffic Violations in saudi Arabia',
+    developer: 'APNAPAK',
+    developerId: 'APNAPAK',
+    icon:
+     '//lh3.googleusercontent.com/Msozd3OccDYHJLMnYzt8VWTBxxj8lSY3Fg-EtnoutpeAvCvq7IGr1Ks-I6t6lv4nqDU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thunkable.android.princraza.KSA_Traffic_FineCheck',
+    appId: 'com.thunkable.android.princraza.KSA_Traffic_FineCheck',
+    title: 'Saudia  Traffic Fine  Checker',
+    summary: 'ALL KSA TRAFFIC FINE CHECK EASY',
+    developer: 'RAZA TECH.',
+    developerId: 'RAZA+TECH.',
+    icon:
+     '//lh3.googleusercontent.com/DlH1A1RI_y3mqb5EviJi5eb3i-8UU5iiVQHeGKktBJ25SGM8NkRuuY7h4EGxBHez3A0=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.obtainlikes.sultan.myiqamacheck',
+    appId: 'com.obtainlikes.sultan.myiqamacheck',
+    title: 'Iqama Check',
+    summary:
+     'You can use this app for checking Iqama (Saudi ID). Iqama Help.',
+    developer: 'MowlaSoft',
+    developerId: 'MowlaSoft',
+    icon:
+     '//lh3.googleusercontent.com/wFr27DBnatmSvpfvSaiZwrdGJatAiCZL8VCdg21OVUEkZjUzaScRA3CbDMFHvAtFYTyY=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kr.moiq',
+    appId: 'com.kr.moiq',
+    title: 'Electronic inquiries for Saudi MOI',
+    summary:
+     'Helping citizens and residents to inquires MOI services in easy & fast way',
+    developer: '3rb Apps',
+    developerId: '9058062722232726524',
+    icon:
+     '//lh3.googleusercontent.com/adkBySIZUp21UVjE2TR6DiYIVx597obaExOgsT5DvTQ2rTHYgm9FtEpnHKzE3eqvtW0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saudi.iqama.information',
+    appId: 'com.saudi.iqama.information',
+    title: 'Saudi Iqama Information',
+    summary:
+     'All About Your Saudi Iqama Information in Saudi Arabia Query Iqama Expiry Servic',
+    developer: 'Naaz Soft',
+    developerId: 'Naaz+Soft',
+    icon:
+     '//lh3.googleusercontent.com/SEa6PxLBNgVdgieu6WEOUTCh96Zn8wkEz8K9bBFENciBvjq8r0OM6PDYXTrMpSbEFTiu=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thunkable.android.princraza.saudia_trraaic_fine_checker',
+    appId:
+     'com.thunkable.android.princraza.saudia_trraaic_fine_checker',
+    title: 'مخالفات المرؤرية (المملكة االعربية السعؤدية)',
+    summary:
+     'البرنامج لمعرؤفة المخالفات المرؤرية (المملكة العربية السعؤدية)',
+    developer: 'RAZA TECH.',
+    developerId: 'RAZA+TECH.',
+    icon:
+     '//lh3.googleusercontent.com/pHSnc0sx1anfrLR8BV7bu5wCGEvqpU-z5K_mRoirkzF068TJIoq-cNkjCT-tht0JOQ8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thunkable.android.urdunewsksaonline1.Iqama_Help_Saudi_Arabia',
+    appId:
+     'com.thunkable.android.urdunewsksaonline1.Iqama_Help_Saudi_Arabia',
+    title: 'Iqama Online Services',
+    summary: 'This is the app of Iqama Online Services',
+    developer: 'Faibru',
+    developerId: 'Faibru',
+    icon:
+     '//lh3.googleusercontent.com/gyuySoeb8hpBJ13jK35GszDSvKWab6DdArsBavvFX9uv445rHl1Qm-IVfiTG5d8Lyg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yschi.MyAppSharer',
+    appId: 'com.yschi.MyAppSharer',
+    title: 'MyAppSharer',
+    summary: 'Easy to share your app\'s link or APK (Full package).',
+    developer: 'Jones Chi',
+    developerId: 'Jones+Chi',
+    icon:
+     'https://lh3.ggpht.com/uGyLZFJw5sVX7K6ty_znPH9EJpNBIoxPCzsVU2AH8R7p06nVdqOyHor8-ER746lcBI8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myapps.dara.compass',
+    appId: 'com.myapps.dara.compass',
+    title: 'Compass',
+    summary:
+     'Accurate Compass with Google Map, Route Finder, Metal Detection, and Speedometer',
+    developer: 'AwesomeDev',
+    developerId: 'AwesomeDev',
+    icon:
+     '//lh3.googleusercontent.com/tsvH5KJSnWq6UCOu4gzfbdE7h-6Fiz_HjsD9elgyBl--0M84PX2bl3zquwx7flLViz3u=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fw.appshare',
+    appId: 'com.fw.appshare',
+    title: 'ShareCloud - Share By 1-Click',
+    summary: 'Share files with your friends by 1-Click.',
+    developer: 'For2ww',
+    developerId: 'For2ww',
+    icon:
+     '//lh3.googleusercontent.com/3OcJ_oYd-QVie5vxDU6dthpVot6ZQL45fqsQP_hatyP433IE8t5rx8ouaqMDfPhIoYE=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.kodular.mjhstudioapps.Saudi_Iqama_Checker',
+    appId: 'io.kodular.mjhstudioapps.Saudi_Iqama_Checker',
+    title: 'Saudi Iqama Checker',
+    summary: 'Saudi e-services all in one application',
+    developer: 'MJH STUDIO',
+    developerId: 'MJH+STUDIO',
+    icon:
+     '//lh3.googleusercontent.com/Pw30k7k4IcwzISRFKe1v4u8HRC0t9F_-CITDfCf6LYL9l_pKgDo5F1bnBHKGFOoQP1k=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

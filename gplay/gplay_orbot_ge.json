@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=info.guardianproject.orfox',
+    appId: 'info.guardianproject.orfox',
+    title: 'Orfox',
+    summary:
+     'A privacy-focused web browser for use with Orbot, based on Tor Browser',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/PFc7EGoYhQ0XDXDp9nVT53O7y_tVUGucUon8Dcs2sZkJfhfGhjph5dHOVoIsdaBB2J4z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onionsearchengine.onionsearchengine',
+    appId: 'com.onionsearchengine.onionsearchengine',
+    title: 'Onion Search Engine',
+    summary:
+     'Onion Search Engine for  Tor Network index hidden service anonymous navigation',
+    developer: 'Onion search engine',
+    developerId: '4926229139228249054',
+    icon:
+     '//lh3.googleusercontent.com/O0GOKMXeHMkV04y2FSVr4uPIius8mc46h5C4wtxRQTEIWaAMSkccOLba8AeSEKie_e72=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inetric.orxy',
+    appId: 'com.inetric.orxy',
+    title: 'Orxy: Tor Proxy',
+    summary: 'Orxy - Anonymous Tor Proxy',
+    developer: 'Inetric, LLC',
+    developerId: 'Inetric,+LLC',
+    icon:
+     '//lh6.ggpht.com/QZncffsEQnlhVueGXSg74qAr9UsRrs00swrurxOYGEF9gnpRAHHf5mdsBaQY0-hW-cXm=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.pryvate.onionbrowser',
+    appId: 'net.pryvate.onionbrowser',
+    title: 'Pryvate Onion Browser',
+    summary: 'Pryvate Light Onion Browser',
+    developer: 'Criptyque -Pryvate Limited',
+    developerId: 'Criptyque+-Pryvate+Limited',
+    icon:
+     '//lh3.googleusercontent.com/9OqzdQ_rDNolpV3Byv8jBecaQb_DqQGoypJFxycc7XRA2NoJG7bm6LQ7Z3CCjfCH6i4=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
+    appId: 'com.jrzheng.supervpnfree',
+    title: 'SuperVPN Free VPN Client',
+    summary:
+     'SuperVPN, total free VPN client.Easy to use, one click to connecting VPN.',
+    developer: 'SuperSoftTech',
+    developerId: 'SuperSoftTech',
+    icon:
+     '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ch.safecall.android',
+    appId: 'ch.safecall.android',
+    title: 'SafeCall Droid Security',
+    summary:
+     'SafeCall increases security of Android by installing advanced security tools.',
+    developer: 'Jim Sanders',
+    developerId: 'Jim+Sanders',
+    icon:
+     '//lh3.googleusercontent.com/2VBjNF9IgMPcsN0RkBKiD9PJW6Fzwqxz2MZ8kyg2BFEt-b3ZU7tC58Sy_PwbsuTOpMGY=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adamkruger.myipaddressinfo',
+    appId: 'com.adamkruger.myipaddressinfo',
+    title: 'IP Pro (Open Source)',
+    summary:
+     'Quick and simple tool to retrieve your external IP Address, country, and more',
+    developer: 'Adam Kruger',
+    developerId: 'Adam+Kruger',
+    icon:
+     '//lh6.ggpht.com/JA4ADKRQJUmxsCzgEjP9e2RWDPt6PFdSmH22iYn4BzQrYX7i4oWBzkwNfojOyCrP8As=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inetric.anonify',
+    appId: 'com.inetric.anonify',
+    title: 'Orxify: Tor VPN',
+    summary:
+     'Orxify - Zero configuration full traffic tor anonimization.',
+    developer: 'Inetric, LLC',
+    developerId: 'Inetric,+LLC',
+    icon:
+     '//lh6.ggpht.com/2bhxYYmNA882zW89pxSZtE1nTBU9mWab68jiYNiad17I3LAGB44XYzCYEQ7aRtiGngJF=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: 'GEL 5.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.free.vpn.unblock.vpn.proxy.master.pro',
+    appId: 'com.free.vpn.unblock.vpn.proxy.master.pro',
+    title: 'VPN Master – Free VPN Proxy',
+    summary:
+     'The best FREE VPN - VPN Master app to unblock sites unblock proxy with VPN Proxy',
+    developer: 'foapp',
+    developerId: 'foapp',
+    icon:
+     '//lh3.googleusercontent.com/USwgtpgd0gUqx-l1InVCOOPMMRpoOhcWQon8SuwsUls5y18J51oraGLWn9QY4KsEvnDS=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mozilla.fennec_aurora',
+    appId: 'org.mozilla.fennec_aurora',
+    title: 'Firefox Nightly for Developers (Unreleased)',
+    summary:
+     'For Developers - Be the first to test future releases of Firefox',
+    developer: 'Mozilla',
+    developerId: '7083182635971239206',
+    icon:
+     '//lh3.googleusercontent.com/5ZYLS3ztW1XBfSf32onyhAVLq_uZQmJIYdhz8VlQwuvpB7x73jaDqtJlTtmxcsvit0I=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pro.codelikea.darkbrowser',
+    appId: 'pro.codelikea.darkbrowser',
+    title: 'Dark Browser - TOR and I2P Browser',
+    summary: 'Browse I2P and TOR onion addresses.',
+    developer: 'Code Like A Pro LLC',
+    developerId: 'Code+Like+A+Pro+LLC',
+    icon:
+     '//lh3.googleusercontent.com/ZyxxmYajFkfiqNJV2OuN_ysSNbrCSVrYj1nJz87n2WjPivxN-c4ewSD52KGImmfK_Bw=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.basusta.deepweb',
+    appId: 'com.basusta.deepweb',
+    title: 'Deep Web - Dark Web and Tor: Unlimited knowledge',
+    summary:
+     'Deep Web - Dark Web and Tor: Unlimited knowledge, education and training',
+    developer: 'Kusta Mobile Systems',
+    developerId: 'Kusta+Mobile+Systems',
+    icon:
+     '//lh3.googleusercontent.com/amvDjjQDKeTlM3KaE12Xm_Z94cbgP08f-k5Ur8kBfkV5PB_dNTbUGHFgc9kb0pVmnQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger',
+    appId: 'com.frostnerd.dnschanger',
+    title: 'DNS Changer (No Root - IPv6 - All connections)',
+    summary:
+     'Change the used DNS servers without root. Supports IPv6, 2G/3G/4G and Ethernet.',
+    developer: 'Frostnerd.com',
+    developerId: 'Frostnerd.com',
+    icon:
+     '//lh3.googleusercontent.com/Lx0XZtYCsmPU3hQNEp3lstlAcVkyE0rVCHPMkI1z9kMrh-cV7JivF6Znjc4TEJybCs4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.fast.psiphon.unblock.proxy.vpn_master.thunder_vpn',
+    appId: 'free.fast.psiphon.unblock.proxy.vpn_master.thunder_vpn',
+    title: 'Super VPN Master – Fast & Unlimited Free VPN Proxy',
+    summary:
+     'VPN Master is a blazing-fast VPN client provide unlimited free VPN proxy service',
+    developer: 'Free Unlimited Fast Super VPN Master',
+    developerId: 'Free+Unlimited+Fast+Super+VPN+Master',
+    icon:
+     '//lh3.googleusercontent.com/b7CImRyl9xXYPx6iRYu8svTxt-qRaT-M1nIn2o3zsviwmJy9SUv7PQdoDJVt2ZfrsWA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mozilla.firefox',
+    appId: 'org.mozilla.firefox',
+    title: 'Firefox Browser fast & private',
+    summary:
+     'Get the customizable, private & free mobile browser that syncs across devices.',
+    developer: 'Mozilla',
+    developerId: '7083182635971239206',
+    icon:
+     '//lh3.googleusercontent.com/shH5ALdqmZysSU2F5SF52674W7NFP1xtLBZMuzUR5u6Uotbgql3ATFFFhtkJjBCm4R3i=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protonvpn.android',
+    appId: 'com.protonvpn.android',
+    title: 'ProtonVPN – advanced online security for everyone',
+    summary: 'A VPN dedicated to online security, privacy, & freedom.',
+    developer: 'ProtonVPN AG',
+    developerId: 'ProtonVPN+AG',
+    icon:
+     '//lh3.googleusercontent.com/vLwrF-7yqP4RNAfhfgkUBNSlZnyH_szFJTB8jwzJ2N8KrNy-nGqM3hIdn55cpmXMu9s=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=sysrqb.ortt',
+    appId: 'sysrqb.ortt',
+    title: 'ORTT_a (Unreleased)',
+    summary: 'Onion Ring Time Trial (alpha)',
+    developer: 'Matthew Finkel',
+    developerId: 'Matthew+Finkel',
+    icon:
+     '//lh3.googleusercontent.com/lrOIunTQO0XbNijkumaBi77JvcPs_BIajXGElbJ0b_H_q_QK7BP-fMih-UC5GKuYuNQA=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector.lite',
+    appId: 'com.evozi.injector.lite',
+    title: 'HTTP Injector Lite - (SSH/Proxy/VPN)',
+    summary:
+     'Lite VPN app to browse the Internet privately and securely with custom header 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/P1Xa8MFxPnUubn4xbpJ1REC3lZJ0y2VAJgqw1_zg-8OjWWM5ObsAW1ik-T4RU_vPo94=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

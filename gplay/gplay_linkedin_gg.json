@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android',
+    appId: 'com.linkedin.android',
+    title: 'LinkedIn: Jobs, professional profile, & networking',
+    summary:
+     'Job search, business networking & industry news. Connect & apply on the go.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android.jobs.jobseeker',
+    appId: 'com.linkedin.android.jobs.jobseeker',
+    title: 'LinkedIn Job Search',
+    summary:
+     'Now, opportunity doesn’t just knock. It also sends notifications.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh4.ggpht.com/BT6202BZJpiO6VNjgBlJxDl7CLGYz5gHgYgT_vlqWnrIGEw9-YGNezeYBIbsrypKdAY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.slideshare.mobile',
+    appId: 'net.slideshare.mobile',
+    title: 'LinkedIn SlideShare',
+    summary:
+     'Professional Knowledge well presented via presentations, infographics and videos',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh5.ggpht.com/dQRDgj18XXi5RsbxkVDQy1bxjsuNFsD99gDu3D5pMZ_Y1ZFIVl_8F5RAOI9B5oo9_Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android.learning',
+    appId: 'com.linkedin.android.learning',
+    title: 'LinkedIn Learning: Online Courses to Learn Skills',
+    summary:
+     'Learn in-demand business, tech and creative skills from industry experts',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/WGnfuvo95Yporu_v1zBaDDpt5RLYh_eM1YMMu56pos4V81Ae2djhMfTPtAI50DhLglT4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.recruiter',
+    appId: 'com.linkedin.recruiter',
+    title: 'LinkedIn Recruiter',
+    summary:
+     'Engage the best talent anywhere, anytime using LinkedIn Recruiter',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.ggpht.com/hQ_NcyT8XMbM_9tNy4XchuvW1rqEr-oZUuRNjLB6lisx-tC5ViH7PC51qFPixqWb-5s=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android.salesnavigator',
+    appId: 'com.linkedin.android.salesnavigator',
+    title: 'LinkedIn Sales Navigator',
+    summary:
+     'Find prospects and keep up with your accounts with LinkedIn Sales Navigator',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/bbtIzP_75b0XqfchPW_mTYkmyyCn6oqft9iLJYq_vD5bq1srshK2tcwXyFoNY_dUQSM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.leap',
+    appId: 'com.linkedin.leap',
+    title: 'LinkedIn Elevate',
+    summary: 'Build your reputation by sharing smart content.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/RJRm4ut135S8n-f5rXKPPA8eUWKotAanOCmTVYiogzmE0ywre8784TkoxoymQ-1VfAgT=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lynda.android.root',
+    appId: 'com.lynda.android.root',
+    title: 'Lynda - Online Training Videos',
+    summary:
+     'Learn technology, creative and business skills you can use today.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.ggpht.com/BcUwMmSD5qucuCRgCaapU2ZSc1iDJQspjs7LF0djEIthCIXnTOWo8dmn7PhXPKEytSMu=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.msjcsoftware.IN.PUBLISHER',
+    appId: 'com.msjcsoftware.IN.PUBLISHER',
+    title: 'My LinkedIn Publisher',
+    summary:
+     'This app lets you share a web article to your LinkedIn page.',
+    developer: 'MSJC Software',
+    developerId: 'MSJC+Software',
+    icon:
+     '//lh3.googleusercontent.com/vlv6ZVh55rE-Hkalg0_elDFqCN7790R-bLo_Ztxw8bvfeOTfSZetehlgaqf53McYEg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.keystolive.linkedintips',
+    appId: 'com.keystolive.linkedintips',
+    title: 'Guide for LinkedIn',
+    summary: 'Step by Step Guide for LinkedIn!',
+    developer: 'Alex Dabek',
+    developerId: '7276591774457684916',
+    icon:
+     '//lh3.googleusercontent.com/8hDL5EbTtljVIv9tSRqpyBaM7DBxHES08yaX11_UKwx2Y24JARTFTLX8JpwCNqzOXx0=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.focusnfly.linkedinmoves',
+    appId: 'com.focusnfly.linkedinmoves',
+    title: 'Movecoach moves LinkedIn',
+    summary:
+     'Track, post and share activity with personalized guidance from this app.',
+    developer: 'Focus-N-Fly, Inc',
+    developerId: 'Focus-N-Fly,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/-Fifr9qSmue_ZgbcKs8T5UqCXuKR9aCFogRXJgy0sh4DG_urcbJnZR-FVlKn3oSMzUbo=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedapp.protoapp',
+    appId: 'com.linkedapp.protoapp',
+    title: 'Linked - Linkedin profiles around',
+    summary: 'Find and chat with linkedin profiles around',
+    developer: 'Linked',
+    developerId: 'Linked',
+    icon:
+     '//lh3.googleusercontent.com/ibQ5ayea6oesIXVSFSWjqRraEtSdJHYX5z1Hk47wUJ-uUpdSV83O1e_LYlM5cD5k0JM=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.internetmarketing24k.linkedinmarketingguide',
+    appId: 'com.internetmarketing24k.linkedinmarketingguide',
+    title: 'Professional Networking Guide',
+    summary:
+     'The fundamentals of using leading professional network, LinkedIn, to make money.',
+    developer: 'InternetMarketing24k',
+    developerId: 'InternetMarketing24k',
+    icon:
+     '//lh3.googleusercontent.com/pIdjzdmjWf49Mtt3LklFSgw6YWbGmetey5mqPR9y5sNoy114JHIq559flaVNdhrstA=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iizix.run.networkin',
+    appId: 'com.iizix.run.networkin',
+    title: 'Networkin',
+    summary:
+     'Networkin is a real-time social business networking app based on LinkedIn.',
+    developer: 'Mindus SARL',
+    developerId: 'Mindus+SARL',
+    icon:
+     '//lh3.googleusercontent.com/d5clb0C-mqycnbuOKG3tK1XXEPuaE77S7qENiLVbtqhMXMN7P7euPOoyS6P6lM5dq2P5=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uniageit.All_Social_Media',
+    appId: 'com.uniageit.All_Social_Media',
+    title: 'All Social Media List - List of social networks',
+    summary:
+     'All Social Media application Provide easy access to all social networks.',
+    developer: 'Uni Age IT',
+    developerId: 'Uni+Age+IT',
+    icon:
+     '//lh3.googleusercontent.com/R1WzEXrixIQjc4E3-cocxzA0-ut5afCx5mc-JFVYDD2Z-ZoLRQQTcMrgUE16OuRAvHDU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.doubledutch.linkedintalentconnect',
+    appId: 'me.doubledutch.linkedintalentconnect',
+    title: 'Talent Connect',
+    summary: 'This is the official mobile app for Talent Connect.',
+    developer: 'LinkedIn Event',
+    developerId: 'LinkedIn+Event',
+    icon:
+     '//lh3.googleusercontent.com/tB1c4-pbn9kvKAd6UcG1VcFwcnEkefpQ0psC-w7ZV_8NsmhzEaQ-gfg_3nF9GxLwvcEE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ahtapot.tumsiadandroid',
+    appId: 'com.ahtapot.tumsiadandroid',
+    title: 'Tümsiad',
+    summary: 'TÜMSİAD\'ın Enterprise Applications',
+    developer: 'Ahtapot',
+    developerId: 'Ahtapot',
+    icon:
+     '//lh3.googleusercontent.com/s9a0vwNkMSi_zkBgUa4SWIlADdfwbECyYJcvzvFskM3IR_GDo16NzkAj-BE-6pkNqXPD=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedtalents.app',
+    appId: 'com.linkedtalents.app',
+    title: 'Linked Talents',
+    summary: 'Linked Talents is a professional networking platform.',
+    developer: 'Forum International Management Consultants DMCC',
+    developerId: '5385869838547105268',
+    icon:
+     '//lh3.googleusercontent.com/pdiPAelkNXOaUj2n7swXm9NSXtIdwmwiLIuT9I5fxUTqrGL2lo-OD6aTpBFWdMtCDssa=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.proven.xraylinkedinguide',
+    appId: 'com.proven.xraylinkedinguide',
+    title: 'Find LinkedIn Profiles Guide',
+    summary:
+     'This Guide will help you to find LinkedIn Profiles using Advanced Search Queries',
+    developer: 'Proven Digital Web Solutions',
+    developerId: '9128807532077172671',
+    icon:
+     '//lh4.ggpht.com/UpBqCD0v3h71NLKCCpyfWNIUdI5yMFRbB8RGXdGWt8ni_CaC0rK4F6HQRPZJScFdrhg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.everypost.android.everypost',
+    appId: 'com.everypost.android.everypost',
+    title: 'Social Media, Twitter, Google+',
+    summary:
+     'Everypost: Social Media Platform for Facebook, Twitter, Google+, Linkedin & more',
+    developer: 'Everypost (Twitter, Facebook)',
+    developerId: 'Everypost+(Twitter,+Facebook)',
+    icon:
+     '//lh3.ggpht.com/xFT6WlLKvsy_IHpy5wx6CNhhdTS4utDmiB22k7jHxNd74CDwS2IK1hQ2lkTzZHvde44=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

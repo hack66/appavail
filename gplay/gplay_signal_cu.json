@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms',
+    appId: 'org.thoughtcrime.securesms',
+    title: 'Signal Private Messenger',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'Signal Foundation',
+    developerId: 'Signal+Foundation',
+    icon:
+     '//lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.SMAPP',
+    appId: 'com.SMAPP',
+    title: 'Signal Plus Messenger (Unofficial)',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'SMAPP. Inc',
+    developerId: '4940292592233703785',
+    icon:
+     '//lh3.googleusercontent.com/Az8O5nCD6p7cIlby6F3WOIZOBp76Y-s7ft3QzIzxRqWmhgN1xvAwsugM_b9XQK43XRQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mcstealthapps3.networksignalsearch',
+    appId: 'com.mcstealthapps3.networksignalsearch',
+    title: 'Network Signal Speed Booster',
+    summary:
+     'The Pioneer, Original, Best Network Signal Speed Booster for Android OS!',
+    developer: 'MCStealth Apps',
+    developerId: 'MCStealth+Apps',
+    icon:
+     '//lh3.googleusercontent.com/vAks79YhrcyUXgXk-F96fhXADLrUPWznPfllVoO90LsdDYukftwqVj4b9iJdtBMjL8Va=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iutilities.HSPAP.Optimizer',
+    appId: 'com.iutilities.HSPAP.Optimizer',
+    title: 'HSPA+ Optimizer | H+ Signal Booster & Stabilizer',
+    summary:
+     'Boost 3G/4G H+ (HSPAP) connection for better and faster mobile data signal.',
+    developer: 'iUtility',
+    developerId: 'iUtility',
+    icon:
+     '//lh3.googleusercontent.com/7acLS9vuEfYLfZp0UscaRFSHdo7KtOiAWjhB-hGdnR9MN7q2QtFaVWvH1zlqzlPvDbGI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.satochan3955.signalrefreshw',
+    appId: 'com.satochan3955.signalrefreshw',
+    title: 'Signal Refresh 3G/4G/LTE/WiFi',
+    summary:
+     'It\'s free convenient apps which refresh signal strength.Ping network response.',
+    developer: 'SatoChanNetworks',
+    developerId: 'SatoChanNetworks',
+    icon:
+     '//lh3.googleusercontent.com/Yf5Rk5pBFeP5gl-oHzGbEZt5BOJ3en5klPIl92yYtlFiEu4BNr4ocKUinS9Fe20CQLI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anggrayudi.ping',
+    appId: 'com.anggrayudi.ping',
+    title: 'Signal Detector',
+    summary: 'Monitor your internet connection and make it stable!',
+    developer: 'Anggrayudi',
+    developerId: 'Anggrayudi',
+    icon:
+     '//lh3.googleusercontent.com/K-zc5t7HTxu-BFgQ38u583E0pCFID7YQ1i9CRHkhY5oHAr8WvVUqSlv_uVNOS528bas=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raxis.signalapp',
+    appId: 'com.raxis.signalapp',
+    title: 'Signal Offline Messenger',
+    summary:
+     'Signal is Wifi Direct based chat app which works without internet.',
+    developer: 'Khokho Developer',
+    developerId: 'Khokho+Developer',
+    icon:
+     '//lh3.googleusercontent.com/RS3b4_u0TYknTqa-Yj1fpRAE7drgq6rF-BkT7T8PfZAvCDnXOgLvdlwhLw1U-qXM0QM=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.realapps.networksignalbooster',
+    appId: 'com.realapps.networksignalbooster',
+    title: 'Network Signal Booster',
+    summary:
+     'Use Network Signal Booster to dramatically boost your cellular signal strength.',
+    developer: 'RealAppsMaker',
+    developerId: 'RealAppsMaker',
+    icon:
+     '//lh3.googleusercontent.com/xUn-_Raw5rsoQmp1WsYk4MEESO5yoQvT7OU0FegT9o2FYHk6DaZVdPqG_dac31C0uUE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.staircase3.opensignal',
+    appId: 'com.staircase3.opensignal',
+    title: '4G WiFi Maps & Speed Test. Find Signal & Data Now.',
+    summary:
+     'Free internet speed test, 3G/4G maps & network stats, compare operators globally',
+    developer: 'OpenSignal.com',
+    developerId: '7133415022327536166',
+    icon:
+     '//lh6.ggpht.com/5Vlpsx8ZjkfLeLHpiMI79vx7bjU0ca3plMMHLHH0FDTVZisOFFP1RAZCpCe6MWtN9w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.powertrix.booster',
+    appId: 'com.powertrix.booster',
+    title: '4G LTE Signal Booster Network',
+    summary: 'Pinger Your Mobile Network',
+    developer: 'Powertrix Mobile Ltd.',
+    developerId: 'Powertrix+Mobile+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/40kGnFhN7wqa012bxBjKXcMRAAmR1gtn4IALtIQlelY1jrpbhMMHgZs61iffCqTqsd-N=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sixtycelsius.signal',
+    appId: 'com.sixtycelsius.signal',
+    title: 'Signal',
+    summary: 'Only those who can handle both hands freely can survive.',
+    developer: '60°C',
+    developerId: '6840113075585787449',
+    icon:
+     '//lh3.googleusercontent.com/hi_66UdvjRejChytTAttoJP-ZHntA_8DKG2tyFYUXBGvEHE7vY1RAOI7QinsA-1z9kw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=it.geniusoft.signalfinder',
+    appId: 'it.geniusoft.signalfinder',
+    title: 'Signal Finder',
+    summary: 'Monitor for 2G, 3G, 4G, CDMA and EVDO networks',
+    developer: 'GeniuSoft Solutions',
+    developerId: 'GeniuSoft+Solutions',
+    icon:
+     '//lh3.googleusercontent.com/xFyrjqD7hf8GSnoUkP29QM2VREI_eMfgt5r0nDROx5aUJ9JLDLKhBrjdDyj9Vk63--M=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myamplifiers.info',
+    appId: 'com.myamplifiers.info',
+    title: 'Signal Booster 3G 4G GSM LTE Network Monitor',
+    summary:
+     'GSM, 3G & LTE signal monitor & analyzer with booster finder to boost connection',
+    developer: 'Myamplifiers.com',
+    developerId: 'Myamplifiers.com',
+    icon:
+     '//lh3.googleusercontent.com/He5dhr7CT96c-VngAsII2pkQrrb9qHqZcu4ByA-jkDoUO2RN9exETGT5ofcqCSlkcw=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.signalbooster.networkbooster',
+    appId: 'com.signalbooster.networkbooster',
+    title: 'Network Signal Booster',
+    summary:
+     'Filter and speed up the network or signal booster for android 2017 device.',
+    developer: 'Haliwell Mobi',
+    developerId: 'Haliwell+Mobi',
+    icon:
+     '//lh3.googleusercontent.com/LuS0qOpgm73VCBeubiACneG1FawUe9de3ghLvmlXhQKJNAj9LWdeBfnf4DtADLS8s64=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ro.cloud.signalexpert',
+    appId: 'ro.cloud.signalexpert',
+    title: 'Signal Expert',
+    summary:
+     'Signal Expert - asistenta in caz de dauna si asigurare pentru accident auto',
+    developer: 'Cloud Research Studio',
+    developerId: 'Cloud+Research+Studio',
+    icon:
+     '//lh3.googleusercontent.com/7cLpSUNsOD9RvniqXSZem9-BQl9OIXdKSHa0EZ6Ux21yGLDxeTHvxqtt4GTcjOr7kpQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pdm.gpssignal',
+    appId: 'com.pdm.gpssignal',
+    title: 'GPS Signal',
+    summary: 'Get information about GPS satellites from your location.',
+    developer: 'PDM',
+    developerId: 'PDM',
+    icon:
+     '//lh4.ggpht.com/gOYp8drkRNj9G8CFZkigXUm0o5L3HalwvD9e7eTCAJ-bwAdncJCoGoPTudZtiWEP90IN=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.BBsRs.HSPAP.Tweaker',
+    appId: 'com.BBsRs.HSPAP.Tweaker',
+    title: 'HSPA+ Tweaker (3G booster)',
+    summary:
+     'App to minimize ping of HSPA+ connection, And boost 3g quality connection!',
+    developer: 'Brothers Rovers',
+    developerId: '5873873619404965326',
+    icon:
+     '//lh3.googleusercontent.com/7DSpEUws8n-3syXxUYGpyYHwtVgJkAtQHIIwmyS1DaUh-8SzrzpRhwHMY1Cz5Zd0WA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.radioopt.signal',
+    appId: 'com.radioopt.signal',
+    title: 'Signal Monitor',
+    summary:
+     'Track the quality of the network signal on your mobile device',
+    developer: 'RadioOpt GmbH',
+    developerId: 'RadioOpt+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/GjiEuVsmSSPM0_5IPb-fgKXuSjyWG73DQ-kq08Ui4s393o4JWzYakXyRcV_9G8ccL4o=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=info.kfsoft.phonemanager',
+    appId: 'info.kfsoft.phonemanager',
+    title: 'Phone Manager: Signal, phone usage & SIM Info',
+    summary: 'Show network signals and SIM info, analyze phone usage',
+    developer: 'KF Software House',
+    developerId: 'KF+Software+House',
+    icon:
+     '//lh3.googleusercontent.com/-ktIF554tUpDvN7T2NYPvurJnRPv0aMgg-iKTIaO8RcTVicZ3lo-9woNQNlt4uZuJxkX=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.pinpointglobal.surveyapp',
+    appId: 'net.pinpointglobal.surveyapp',
+    title: 'Coverage - Cell and Wifi Network Signal Test',
+    summary:
+     'Your phone\'s personal 2G, 3G, 4G, and WiFi coverage map, speed tester, and more.',
+    developer: 'Pinpoint Global',
+    developerId: 'Pinpoint+Global',
+    icon:
+     '//lh3.googleusercontent.com/rWdCHMfZaAIf_zYyy4KFukqUyk44J85g753v3H67Qo52L4-iZcwJ-rENslj3kbSOSUGK=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

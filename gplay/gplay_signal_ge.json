@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.sixtycelsius.signal',
+    appId: 'com.sixtycelsius.signal',
+    title: 'Signal',
+    summary: 'Only those who can handle both hands freely can survive.',
+    developer: '60°C',
+    developerId: '6840113075585787449',
+    icon:
+     '//lh3.googleusercontent.com/hi_66UdvjRejChytTAttoJP-ZHntA_8DKG2tyFYUXBGvEHE7vY1RAOI7QinsA-1z9kw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raxis.signalapp',
+    appId: 'com.raxis.signalapp',
+    title: 'Signal Offline Messenger',
+    summary:
+     'Signal is Wifi Direct based chat app which works without internet.',
+    developer: 'Khokho Developer',
+    developerId: 'Khokho+Developer',
+    icon:
+     '//lh3.googleusercontent.com/RS3b4_u0TYknTqa-Yj1fpRAE7drgq6rF-BkT7T8PfZAvCDnXOgLvdlwhLw1U-qXM0QM=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.radioopt.signal',
+    appId: 'com.radioopt.signal',
+    title: 'Signal Monitor',
+    summary:
+     'Track the quality of the network signal on your mobile device',
+    developer: 'RadioOpt GmbH',
+    developerId: 'RadioOpt+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/GjiEuVsmSSPM0_5IPb-fgKXuSjyWG73DQ-kq08Ui4s393o4JWzYakXyRcV_9G8ccL4o=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.satochan3955.signalrefreshw',
+    appId: 'com.satochan3955.signalrefreshw',
+    title: 'Signal Refresh 3G/4G/LTE/WiFi',
+    summary:
+     'It\'s free convenient apps which refresh signal strength.Ping network response.',
+    developer: 'SatoChanNetworks',
+    developerId: 'SatoChanNetworks',
+    icon:
+     '//lh3.googleusercontent.com/Yf5Rk5pBFeP5gl-oHzGbEZt5BOJ3en5klPIl92yYtlFiEu4BNr4ocKUinS9Fe20CQLI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ro.cloud.signalexpert',
+    appId: 'ro.cloud.signalexpert',
+    title: 'Signal Expert',
+    summary:
+     'Signal Expert - asistenta in caz de dauna si asigurare pentru accident auto',
+    developer: 'Cloud Research Studio',
+    developerId: 'Cloud+Research+Studio',
+    icon:
+     '//lh3.googleusercontent.com/7cLpSUNsOD9RvniqXSZem9-BQl9OIXdKSHa0EZ6Ux21yGLDxeTHvxqtt4GTcjOr7kpQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.WhoCaresGames.Signal',
+    appId: 'com.WhoCaresGames.Signal',
+    title: 'Signal--',
+    summary:
+     'Explore the deep sea using your sonar and by extending the signal range!',
+    developer: 'WhoCaresGames',
+    developerId: 'WhoCaresGames',
+    icon:
+     '//lh3.googleusercontent.com/o0l2CAf0sQlEhX8e8E4jISYAdwuXfdrEfk5nd_BpscdBj87y7sRy6VyEAHELCNu9iw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anggrayudi.ping',
+    appId: 'com.anggrayudi.ping',
+    title: 'Signal Detector',
+    summary: 'Monitor your internet connection and make it stable!',
+    developer: 'Anggrayudi',
+    developerId: 'Anggrayudi',
+    icon:
+     '//lh3.googleusercontent.com/K-zc5t7HTxu-BFgQ38u583E0pCFID7YQ1i9CRHkhY5oHAr8WvVUqSlv_uVNOS528bas=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in_so.network_cell_info',
+    appId: 'com.in_so.network_cell_info',
+    title: 'Network Signal Info',
+    summary:
+     'Network Monitoring tool for Cell Tower, Wifi Signal, System, Battery & CPU info',
+    developer: 'Inter-Soft',
+    developerId: 'Inter-Soft',
+    icon:
+     '//lh3.googleusercontent.com/x4u86WqyNMUxpiWol69axQtnq7ifV7KdTllGhb5b_gdcH4gnPjk6LU2mOaPbjgz4r4c=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myamplifiers.info',
+    appId: 'com.myamplifiers.info',
+    title: 'Signal Booster 3G 4G GSM LTE Network Monitor',
+    summary:
+     'GSM, 3G & LTE signal monitor & analyzer with booster finder to boost connection',
+    developer: 'Myamplifiers.com',
+    developerId: 'Myamplifiers.com',
+    icon:
+     '//lh3.googleusercontent.com/He5dhr7CT96c-VngAsII2pkQrrb9qHqZcu4ByA-jkDoUO2RN9exETGT5ofcqCSlkcw=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.simplymobile.btsignal',
+    appId: 'me.simplymobile.btsignal',
+    title: 'Signal Sniffer - Fitbit finder',
+    summary:
+     'Looking for something? Lost your Fitbit, Withings, Jawbone, Nike, a smartwatch?',
+    developer: 'Mobili',
+    developerId: 'Mobili',
+    icon:
+     '//lh3.ggpht.com/mgXqyTDnvIB0hEmclu3WlNlfY78z6KKzcoe6q2jXdWCOXVT8uYsdeEqTMY2aFwgHPw=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.telnet2',
+    appId: 'de.android.telnet2',
+    title: 'Network Signal Info Pro',
+    summary:
+     'An easy to use Wifi (WLAN) and Mobile network information app.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/Kt4sSfWrUq4tLsQ_NZLL_by3EJXC9cx92bx6NoDiSbKSne2VI9O81bSUbYEfh0pDgWk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: 'GEL 8.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=baront.dreamsignal',
+    appId: 'baront.dreamsignal',
+    title: 'DREAMBOX SIGNAL METER',
+    summary: 'The best signal meter (satfinder) for ENIGMA2',
+    developer: 'bigmetamobile',
+    developerId: '5379820201564386154',
+    icon:
+     '//lh3.googleusercontent.com/bDXCiRU_4T9cXm2EYczACdap_zjBbFW8t6VsPYbuP0SJfdtjQBn6niHZ1ftFq5Zwmg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.signalsupervisor.boosterus',
+    appId: 'com.signalsupervisor.boosterus',
+    title: 'Signal Supervisor',
+    summary:
+     'Signal Supervisor is used for monitor your HiBoost cell phone signal booster.',
+    developer: 'HUAPTEC US INC',
+    developerId: 'HUAPTEC+US+INC',
+    icon:
+     '//lh3.googleusercontent.com/upa6KY8NJPTmfu9by4s8hjew4MJDYhfuVwH07YaDC0IK_9oR915IWYj5znlldhcr0A=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.signalstart.forex',
+    appId: 'com.signalstart.forex',
+    title: 'Forex Signals',
+    summary:
+     'Live forex signals delivered automatically to your forex trading account.',
+    developer: 'Myfxbook',
+    developerId: 'Myfxbook',
+    icon:
+     '//lh3.googleusercontent.com/Xi4PmjCy9p95B2-idFrIkwfBmkGnHrZcKgQk14TSFn87RD0vYcWm-B0R07x26tYKVpse=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplesoft.gpsapp',
+    appId: 'com.simplesoft.gpsapp',
+    title: 'GPS-Status Data: Signal,Radars',
+    summary:
+     'All outdoors GPS Data: info, status, speedometer, signal, radars. Easy GPS Test.',
+    developer: 'Simple Soft Alliance',
+    developerId: 'Simple+Soft+Alliance',
+    icon:
+     '//lh3.googleusercontent.com/DHf3nV7jM1Nbr8Nm6MJlIAEzts3wsDuDV7LTB_CNw0-3caDYzb5ZRi8AIKunV4Ov5w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=android_design.signal_generator',
+    appId: 'android_design.signal_generator',
+    title: 'Sound Signal Generator',
+    summary:
+     'Signal generator creates Sine, Triangle, Sawtooth and Square audio frequencies.',
+    developer: 'android-design.nl',
+    developerId: 'android-design.nl',
+    icon:
+     '//lh4.ggpht.com/_2YmneiVNErFYuAVNe8sEkbrk1qN-mKsBZbH0yW0nFVLWN7wKntGqWE06rUUxfhIqteU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.MyAndroidTools_ws.wifisignal',
+    appId: 'com.MyAndroidTools_ws.wifisignal',
+    title: 'WIFI Signal',
+    summary: 'WIFI Signal',
+    developer: 'Марат Аскаров',
+    developerId:
+     '%D0%9C%D0%B0%D1%80%D0%B0%D1%82+%D0%90%D1%81%D0%BA%D0%B0%D1%80%D0%BE%D0%B2',
+    icon:
+     '//lh3.googleusercontent.com/lkMFRxP51HHlN8Q4Cs-t26SRcUMyjNkbBkHl2Wn5G4Ud-lc1DPKhXmHzf-z_86Lxcq8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.novosalus.signal',
+    appId: 'com.novosalus.signal',
+    title: 'Signal: Virtual Assistant to Report Adverse Event',
+    summary:
+     'Signal is a virtual assistant for adverse event causality assessment, reporting',
+    developer: 'Novosalus',
+    developerId: 'Novosalus',
+    icon:
+     '//lh3.googleusercontent.com/cjnIiNXXooVyJyMdatR5Ey9NxxhqzfzYyjEmXJZoUH-QpvwPr7dS62cJAA15IYhXhg=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cc.signalinfo',
+    appId: 'com.cc.signalinfo',
+    title: 'Advanced Signal Status',
+    summary:
+     '► View all stats your carrier uses for signal quality► Toggle 2G, 3G & 4G',
+    developer: 'Coding Creation',
+    developerId: 'Coding+Creation',
+    icon:
+     '//lh5.ggpht.com/TYZhCUE2_yoIYMsz5_mp7GWWCOCru5eIl86HIG0HB1-vKWoARZo5nB3eC9rU20a5ZlE=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.olivergrimm.lostgpsalarm',
+    appId: 'com.olivergrimm.lostgpsalarm',
+    title: 'GPS-Alarm (Lost Signal)',
+    summary:
+     'warns acoustically or through vibrations if the GPS signal is lost',
+    developer: 'OGApps',
+    developerId: 'OGApps',
+    icon:
+     '//lh3.googleusercontent.com/VIWQZ64vOapLVpYx_4NzplzfOSQGtaE0ptPhVYuN8bO2T2sY1_EG8a-doRWZZTBdn0z7=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

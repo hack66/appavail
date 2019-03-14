@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms',
+    appId: 'org.thoughtcrime.securesms',
+    title: 'Signal Private Messenger',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'Signal Foundation',
+    developerId: 'Signal+Foundation',
+    icon:
+     '//lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.SMAPP',
+    appId: 'com.SMAPP',
+    title: 'Signal Plus Messenger (Unofficial)',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'SMAPP. Inc',
+    developerId: '4940292592233703785',
+    icon:
+     '//lh3.googleusercontent.com/Az8O5nCD6p7cIlby6F3WOIZOBp76Y-s7ft3QzIzxRqWmhgN1xvAwsugM_b9XQK43XRQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.telnet',
+    appId: 'de.android.telnet',
+    title: 'Network Signal Info',
+    summary:
+     'An easy to use Wifi (WLAN) and Mobile network information app.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/yQz_Wa6BSYKHoYnFLb0Q9IdNJVcNjdVGnVjZiwA-wgFsdSYYbapjJZpppmI4Y2mJOSz1=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dynamicsignal.androidphone',
+    appId: 'com.dynamicsignal.androidphone',
+    title: 'Dynamic Signal (VoiceStorm)',
+    summary: 'Connect with Every Employee',
+    developer: 'Dynamic Signal',
+    developerId: 'Dynamic+Signal',
+    icon:
+     '//lh3.googleusercontent.com/Np8QPluuyi6vtE6yBSVzaCQf03bNegwLBpvF3QLW3yVW2PGC79hy2qDZeZP_4p8GRQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.satochan3955.signalrefreshw',
+    appId: 'com.satochan3955.signalrefreshw',
+    title: 'Signal Refresh 3G/4G/LTE/WiFi',
+    summary:
+     'It\'s free convenient apps which refresh signal strength.Ping network response.',
+    developer: 'SatoChanNetworks',
+    developerId: 'SatoChanNetworks',
+    icon:
+     '//lh3.googleusercontent.com/Yf5Rk5pBFeP5gl-oHzGbEZt5BOJ3en5klPIl92yYtlFiEu4BNr4ocKUinS9Fe20CQLI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qtrun.QuickTest',
+    appId: 'com.qtrun.QuickTest',
+    title: 'Network Signal Guru',
+    summary:
+     'This app require ROOT permission and base on QUALCOMM chipset',
+    developer: 'QTRUN Technologies',
+    developerId: 'QTRUN+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/nRpR-6V9kYRuA6l1DkHSFAvBptdKZ3vbDUHPIHYFcB5MUKJK8OdXfKW_FvwXtk0sEA=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anggrayudi.ping',
+    appId: 'com.anggrayudi.ping',
+    title: 'Signal Detector',
+    summary: 'Monitor your internet connection and make it stable!',
+    developer: 'Anggrayudi',
+    developerId: 'Anggrayudi',
+    icon:
+     '//lh3.googleusercontent.com/K-zc5t7HTxu-BFgQ38u583E0pCFID7YQ1i9CRHkhY5oHAr8WvVUqSlv_uVNOS528bas=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iutilities.HSPAP.Optimizer',
+    appId: 'com.iutilities.HSPAP.Optimizer',
+    title: 'HSPA+ Optimizer | H+ Signal Booster & Stabilizer',
+    summary:
+     'Boost 3G/4G H+ (HSPAP) connection for better and faster mobile data signal.',
+    developer: 'iUtility',
+    developerId: 'iUtility',
+    icon:
+     '//lh3.googleusercontent.com/7acLS9vuEfYLfZp0UscaRFSHdo7KtOiAWjhB-hGdnR9MN7q2QtFaVWvH1zlqzlPvDbGI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pixelindustrie.harmonic',
+    appId: 'com.pixelindustrie.harmonic',
+    title: 'harmonic signal',
+    summary: 'Harmonic patterns in the currency markets (trading signal)',
+    developer: 'samibelDev',
+    developerId: 'samibelDev',
+    icon:
+     '//lh3.googleusercontent.com/pOCIYdKMGVlORXwKuIAY_nuZrfbYnu3SxzSUqgjBI2nHZGYpmhGIWiilhv3VrJNLDTs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mcstealthapps3.networksignalsearch',
+    appId: 'com.mcstealthapps3.networksignalsearch',
+    title: 'Network Signal Speed Booster',
+    summary:
+     'The Pioneer, Original, Best Network Signal Speed Booster for Android OS!',
+    developer: 'MCStealth Apps',
+    developerId: 'MCStealth+Apps',
+    icon:
+     '//lh3.googleusercontent.com/vAks79YhrcyUXgXk-F96fhXADLrUPWznPfllVoO90LsdDYukftwqVj4b9iJdtBMjL8Va=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ro.cloud.signalexpert',
+    appId: 'ro.cloud.signalexpert',
+    title: 'Signal Expert',
+    summary:
+     'Signal Expert - asistenta in caz de dauna si asigurare pentru accident auto',
+    developer: 'Cloud Research Studio',
+    developerId: 'Cloud+Research+Studio',
+    icon:
+     '//lh3.googleusercontent.com/7cLpSUNsOD9RvniqXSZem9-BQl9OIXdKSHa0EZ6Ux21yGLDxeTHvxqtt4GTcjOr7kpQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.powertrix.booster',
+    appId: 'com.powertrix.booster',
+    title: '4G LTE Signal Booster Network',
+    summary: 'Pinger Your Mobile Network',
+    developer: 'Powertrix Mobile Ltd.',
+    developerId: 'Powertrix+Mobile+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/40kGnFhN7wqa012bxBjKXcMRAAmR1gtn4IALtIQlelY1jrpbhMMHgZs61iffCqTqsd-N=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raxis.signalapp',
+    appId: 'com.raxis.signalapp',
+    title: 'Signal Offline Messenger',
+    summary:
+     'Signal is Wifi Direct based chat app which works without internet.',
+    developer: 'Khokho Developer',
+    developerId: 'Khokho+Developer',
+    icon:
+     '//lh3.googleusercontent.com/RS3b4_u0TYknTqa-Yj1fpRAE7drgq6rF-BkT7T8PfZAvCDnXOgLvdlwhLw1U-qXM0QM=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.logicmonkey.signalnotifyfree',
+    appId: 'com.logicmonkey.signalnotifyfree',
+    title: 'Signal Notification (Free)',
+    summary: 'Put your signal strength in the status bar.',
+    developer: 'LogicMonkey',
+    developerId: 'LogicMonkey',
+    icon:
+     '//lh3.googleusercontent.com/-eb0nqqsF2L-cqMR97JrOz-P146otVGjv2sXL1xpM60PEAjriKJlFUgqFyJeLU8WMA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.realapps.networksignalbooster',
+    appId: 'com.realapps.networksignalbooster',
+    title: 'Network Signal Booster',
+    summary:
+     'Use Network Signal Booster to dramatically boost your cellular signal strength.',
+    developer: 'RealAppsMaker',
+    developerId: 'RealAppsMaker',
+    icon:
+     '//lh3.googleusercontent.com/xUn-_Raw5rsoQmp1WsYk4MEESO5yoQvT7OU0FegT9o2FYHk6DaZVdPqG_dac31C0uUE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sixtycelsius.signal',
+    appId: 'com.sixtycelsius.signal',
+    title: 'Signal',
+    summary: 'Only those who can handle both hands freely can survive.',
+    developer: '60°C',
+    developerId: '6840113075585787449',
+    icon:
+     '//lh3.googleusercontent.com/hi_66UdvjRejChytTAttoJP-ZHntA_8DKG2tyFYUXBGvEHE7vY1RAOI7QinsA-1z9kw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.staircase3.opensignal',
+    appId: 'com.staircase3.opensignal',
+    title: '4G WiFi Maps & Speed Test. Find Signal & Data Now.',
+    summary:
+     'Free internet speed test, 3G/4G maps & network stats, compare operators globally',
+    developer: 'OpenSignal.com',
+    developerId: '7133415022327536166',
+    icon:
+     '//lh6.ggpht.com/5Vlpsx8ZjkfLeLHpiMI79vx7bjU0ca3plMMHLHH0FDTVZisOFFP1RAZCpCe6MWtN9w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.WhoCaresGames.Signal',
+    appId: 'com.WhoCaresGames.Signal',
+    title: 'Signal--',
+    summary:
+     'Explore the deep sea using your sonar and by extending the signal range!',
+    developer: 'WhoCaresGames',
+    developerId: 'WhoCaresGames',
+    icon:
+     '//lh3.googleusercontent.com/o0l2CAf0sQlEhX8e8E4jISYAdwuXfdrEfk5nd_BpscdBj87y7sRy6VyEAHELCNu9iw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.radioopt.signal',
+    appId: 'com.radioopt.signal',
+    title: 'Signal Monitor',
+    summary:
+     'Track the quality of the network signal on your mobile device',
+    developer: 'RadioOpt GmbH',
+    developerId: 'RadioOpt+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/GjiEuVsmSSPM0_5IPb-fgKXuSjyWG73DQ-kq08Ui4s393o4JWzYakXyRcV_9G8ccL4o=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ro.signaliduna.signalcareassistant',
+    appId: 'ro.signaliduna.signalcareassistant',
+    title: 'Signal Care Assistant',
+    summary:
+     'The application brings Signal Iduna\'s health insurance to your fingertips.',
+    developer: 'Signal Iduna Asigurare Reasigurare S.A.',
+    developerId: 'Signal+Iduna+Asigurare+Reasigurare+S.A.',
+    icon:
+     '//lh5.ggpht.com/OS8gctKTsYPKvTtRwn5VZx54QsGtpgoUhpculphk4tYyiNN9abHwLSSgEi6BcnDJW0o=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

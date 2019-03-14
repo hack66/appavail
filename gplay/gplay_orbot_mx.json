@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.android',
+    appId: 'org.torproject.android',
+    title: 'Orbot: Proxy with Tor',
+    summary:
+     'Enhance your privacy, break through firewalls and communicate more safely.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=info.guardianproject.orfox',
+    appId: 'info.guardianproject.orfox',
+    title: 'Orfox',
+    summary:
+     'A privacy-focused web browser for use with Orbot, based on Tor Browser',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/PFc7EGoYhQ0XDXDp9nVT53O7y_tVUGucUon8Dcs2sZkJfhfGhjph5dHOVoIsdaBB2J4z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.torbrowser_alpha',
+    appId: 'org.torproject.torbrowser_alpha',
+    title: 'Tor Browser for Android (Alpha)',
+    summary:
+     'Experience real private browsing without tracking, surveillance, or censorship.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/hSIeC-yfECtAecW5lX6lL6OVLGrokP7TBqY6s7s18UcZDdz8nJ47RDcRv7RWMGI9CbE=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.openobservatory.ooniprobe',
+    appId: 'org.openobservatory.ooniprobe',
+    title: 'OONI Probe',
+    summary: 'Measure Internet Censorship, Speed & Performance',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/nO_nfDPzim0PmiTi0GemYfxi50kO9usdKwNCy90T9IXK3TwCDEd6jeaJ5rHwcC0d=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inetric.orxy',
+    appId: 'com.inetric.orxy',
+    title: 'Orxy: Tor Proxy',
+    summary: 'Orxy - Anonymous Tor Proxy',
+    developer: 'Inetric, LLC',
+    developerId: 'Inetric,+LLC',
+    icon:
+     '//lh6.ggpht.com/QZncffsEQnlhVueGXSg74qAr9UsRrs00swrurxOYGEF9gnpRAHHf5mdsBaQY0-hW-cXm=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onionsearchengine.onionsearchengine',
+    appId: 'com.onionsearchengine.onionsearchengine',
+    title: 'Onion Search Engine',
+    summary:
+     'Onion Search Engine for  Tor Network index hidden service anonymous navigation',
+    developer: 'Onion search engine',
+    developerId: '4926229139228249054',
+    icon:
+     '//lh3.googleusercontent.com/O0GOKMXeHMkV04y2FSVr4uPIius8mc46h5C4wtxRQTEIWaAMSkccOLba8AeSEKie_e72=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android',
+    appId: 'com.duckduckgo.mobile.android',
+    title: 'DuckDuckGo Privacy Browser',
+    summary:
+     'Browse the web privately, search anonymously, and escape ad trackers.',
+    developer: 'DuckDuckGo',
+    developerId: 'DuckDuckGo',
+    icon:
+     '//lh3.googleusercontent.com/8GiPaoaCopqI1AiBajxwx91ndKDeeAI-p2w7hDZlG7yi6KoXJ5bzWA0VteFpTAB5uhM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=upstream.torum',
+    appId: 'upstream.torum',
+    title: 'TORUM',
+    summary: 'TOR secured browser',
+    developer: 'Иван Москвин',
+    developerId:
+     '%D0%98%D0%B2%D0%B0%D0%BD+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B8%D0%BD',
+    icon:
+     '//lh3.googleusercontent.com/BrwHxYNcBnN7Ox0y262h-sIzb7MvJ851uoLh4fS5yxfhndADOKvr7UCC2YXqi-0IBQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser.beta',
+    appId: 'nu.tommie.inbrowser.beta',
+    title: 'InBrowser Beta',
+    summary:
+     'InBrowser is a fully featured incognito/private browsing experience for Android.',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/oyn0Sl2Pv7uzW4NfpsfAScz2DhlUWyXVDyrS1zP0WCGEYAyxq_WDeUeNr5pcUunF6Hw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.standard',
+    appId: 'com.stoutner.privacybrowser.standard',
+    title: 'Privacy Browser',
+    summary: 'A web browser that respects your privacy.',
+    developer: 'Stoutner',
+    developerId: '9186044213536700058',
+    icon:
+     '//lh3.googleusercontent.com/ONN9fa7kh14_wtc20-ZAlvnId-VpwgY-RRT_WAy8F3TilkUQFLicPcW9ewFZ85Qhjw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: 'MX$5.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=fr.telnet.telnetclient',
+    appId: 'fr.telnet.telnetclient',
+    title: 'TelnetClient proxy sett',
+    summary:
+     'telnet client with the possibility to use tor or any other type of socks5 proxy',
+    developer: 'RICCIUTI',
+    developerId: 'RICCIUTI',
+    icon:
+     '//lh4.ggpht.com/GnmY8sVGAbvnC0ZGAjmc76J58Q28bi8YWySidk_I2c_biiOts0ow9P0wDM6c3KIZFwU=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: 'MX$13.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.stoutner.privacybrowser.free',
+    appId: 'com.stoutner.privacybrowser.free',
+    title: 'Privacy Browser Free',
+    summary:
+     'A web browser that respects your privacy - free ad supported version.',
+    developer: 'Stoutner',
+    developerId: '9186044213536700058',
+    icon:
+     '//lh3.googleusercontent.com/tYJJgvAyseEwKy1Jrb0ZPMRCoGSqjHSq6pmC7d-jbwaWw3wS3NKuv-AvJ20Noo_G7Hw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.pryvate.onionbrowser',
+    appId: 'net.pryvate.onionbrowser',
+    title: 'Pryvate Onion Browser',
+    summary: 'Pryvate Light Onion Browser',
+    developer: 'Criptyque -Pryvate Limited',
+    developerId: 'Criptyque+-Pryvate+Limited',
+    icon:
+     '//lh3.googleusercontent.com/9OqzdQ_rDNolpV3Byv8jBecaQb_DqQGoypJFxycc7XRA2NoJG7bm6LQ7Z3CCjfCH6i4=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=freedom.theanarch.org.freedom',
+    appId: 'freedom.theanarch.org.freedom',
+    title: 'Freedom - Browser',
+    summary:
+     'Freedom is a fast browser that lets you experience the web in a new way.',
+    developer: 'The Anarch',
+    developerId: '6898132238412736885',
+    icon:
+     '//lh3.googleusercontent.com/GzwrhGszAMWg1bNvlJh5-DD1oXOOk5PTZSdJ1A1n630BM8rsaojfZMJHMimAh2eAPA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN – Free Unlimited VPN & Secure Hotspot',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onionsearchengine.widgetonionsearchengine',
+    appId: 'com.onionsearchengine.widgetonionsearchengine',
+    title: 'Onion Search Engine Widget',
+    summary:
+     'Widget for use Onion Search Engine directly from the smartphone\'s main screen',
+    developer: 'Onion search engine',
+    developerId: '4926229139228249054',
+    icon:
+     '//lh3.googleusercontent.com/6pLiFTQAJNOhEPFoUR3fIvTdFvJtktKWz9iMj1LHLwhjPVMa2CfTqrDz5PAWpa8JKMqd=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adamkruger.myipaddressinfo',
+    appId: 'com.adamkruger.myipaddressinfo',
+    title: 'IP Pro (Open Source)',
+    summary:
+     'Quick and simple tool to retrieve your external IP Address, country, and more',
+    developer: 'Adam Kruger',
+    developerId: 'Adam+Kruger',
+    icon:
+     '//lh6.ggpht.com/JA4ADKRQJUmxsCzgEjP9e2RWDPt6PFdSmH22iYn4BzQrYX7i4oWBzkwNfojOyCrP8As=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.barrikadeionic710856',
+    appId: 'com.ionicframework.barrikadeionic710856',
+    title: 'Barrikade',
+    summary:
+     'The official app for barrikade.info - with optional Tor support',
+    developer: 'almueller',
+    developerId: 'almueller',
+    icon:
+     '//lh3.googleusercontent.com/n88oB_RGNGqVc-mmZtMZ9Z29gYbX_rgi03ESKKEJXs7ITT8f-LnxE1x1hWe9JiZIKbk=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inetric.anonify',
+    appId: 'com.inetric.anonify',
+    title: 'Orxify: Tor VPN',
+    summary:
+     'Orxify - Zero configuration full traffic tor anonimization.',
+    developer: 'Inetric, LLC',
+    developerId: 'Inetric,+LLC',
+    icon:
+     '//lh6.ggpht.com/2bhxYYmNA882zW89pxSZtE1nTBU9mWab68jiYNiad17I3LAGB44XYzCYEQ7aRtiGngJF=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: 'MX$38.00',
+    free: false } ]

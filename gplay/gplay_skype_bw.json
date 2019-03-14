@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.skype.m2',
+    appId: 'com.skype.m2',
+    title: 'Skype Lite - Free Video Call & Chat (Unreleased)',
+    summary:
+     'Free chat, voice & video calls with Skype Lite on slow phone & slow network.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/Tqgy9wddo_e_IegqVDAiYfPcWg0iXESll_DvU2yDfdJQCj-gzWcGOnO9tb_WY-dEUuY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.insiders',
+    appId: 'com.skype.insiders',
+    title: 'Skype Preview (Unreleased)',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/5mPU4oU3EIbuAotT3o9iEqFz_1CrmcJlMwjKvAqoLvQtbW2t0o_91Z8fSMQEQMHc5eur=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.lync15',
+    appId: 'com.microsoft.office.lync15',
+    title: 'Skype for Business for Android',
+    summary:
+     'Skype for Business extends the power of Lync and Skype to your mobile device',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.googleusercontent.com/5hqcg29p7TkwDWchqG41kMDgoa_IXSUgt9ilfft3ZF2scKW_9Jz5511HPAAqVbVKRQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.updatefreesk2019',
+    appId: 'com.updatefreesk2019',
+    title: 'Update For Skype 2019',
+    summary: 'Update For Skype 2019',
+    developer: 'goteviloyt',
+    developerId: 'goteviloyt',
+    icon:
+     '//lh3.googleusercontent.com/AMwYpBcx4edt2jdfC5CGB60KFejIgn_q0pt1iDESXwMKFBK8p3dAHFM9ReZdEaTWxsY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=keyboard.theme.k820006549',
+    appId: 'keyboard.theme.k820006549',
+    title: 'Keyboard Theme for Skype Messenger',
+    summary: 'Download this Keyboard Theme for Skype Messenger',
+    developer: 'IamThemer',
+    developerId: '4621291099277301137',
+    icon:
+     '//lh3.googleusercontent.com/KGPhANhrGIDxb53alUX9I2uR9iMaN0QhYJ7o782yfpydJP80Il8EQFcF1essxsXuMK4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.outlook',
+    appId: 'com.microsoft.office.outlook',
+    title: 'Microsoft Outlook',
+    summary:
+     'The official Microsoft Outlook app for Android phones and tablets.',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.googleusercontent.com/_gpQ5T1jLbbpyoaDHgYoJV_seHudPYAqfYe7me5MApKMYUuY91E_h6y3Jy_Cxe8OO8E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ergames.findskypeusernames',
+    appId: 'com.ergames.findskypeusernames',
+    title: 'Find Skype Friends',
+    summary:
+     'Find Skype usernames and make new friends with this friend finder app!',
+    developer: 'UNDERSCORE: Apps and Games',
+    developerId: '7571735847772242141',
+    icon:
+     '//lh3.googleusercontent.com/lfqrt76B1UP8Kv6Duy1skdIbxNqjP8P5Yyf1CDa4DQJ03VE77lI3B0IMDwBO5nOq0Q=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx',
+    appId: 'com.dev47apps.droidcamx',
+    title: 'DroidCamX Wireless Webcam Pro',
+    summary:
+     'Use your Android device as a webcam on your computer over WiFi or USB.',
+    developer: 'Dev47Apps',
+    developerId: 'Dev47Apps',
+    icon:
+     '//lh3.googleusercontent.com/kFK4VtMfRjxyth_-DLelMtL233zOY-t9VoEPuS7SfBBTJaI5S4PcqxawWhefmko7i1o=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: 'US$3.73',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.zoom.videomeetings',
+    appId: 'us.zoom.videomeetings',
+    title: 'ZOOM Cloud Meetings',
+    summary:
+     'Zoom is a free HD meeting app with video and screen sharing for up to 100 people',
+    developer: 'zoom.us',
+    developerId: 'zoom.us',
+    icon:
+     '//lh3.googleusercontent.com/1DqxbUca62LmV1ehZirHGWYBef9Jrtl3DhZ4m6YBnWCUX-XNr3lcnYKb31R-7ukpKAw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.talk',
+    appId: 'com.google.android.talk',
+    title: 'Hangouts',
+    summary: 'Hangouts - free messaging, video, and voice',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/5puZavg4x2pThSTJgos1sARWoARea7tzr_B8AWEwn2lV05RoXo9M8BM2XwcvwG6nIGc=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.viber.voip',
+    appId: 'com.viber.voip',
+    title: 'Viber Messenger - Messages, Group Chats & Calls',
+    summary:
+     'Special Price! Call non-Viber numbers with Viber Out Unlimited Plan at $8.99/mo',
+    developer: 'Viber Media S.à r.l.',
+    developerId: '7446565317689230946',
+    icon:
+     '//lh3.googleusercontent.com/jP_uAfj6cYJIPhnOY9ve-gIjiSPptSInG7TLp-ts6I5iyLdKhiX8wrxOcturOhQ8q_o0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.starter',
+    appId: 'com.skype.starter',
+    title: 'Simple Starter for Skype',
+    summary:
+     'Starts Skype whenever an Internet-connection becomes available.',
+    developer: 'Dutch Apps',
+    developerId: 'Dutch+Apps',
+    icon:
+     '//lh4.ggpht.com/y7dYo53R4TagFwoYyQHpbjMBl-RJqoNrIwEzdlgi9neP-UI-rLAXMzlV5qAS6gvVyj6W=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=production.raj.allinone',
+    appId: 'production.raj.allinone',
+    title: 'All Social Network in one app',
+    summary:
+     'All Social Networks one application that groups and provide an easy access',
+    developer: 'Soft Tech.com',
+    developerId: 'Soft+Tech.com',
+    icon:
+     '//lh3.googleusercontent.com/TiMfsznIkIWsFqaAXcco8JiB6RkMjiDCdxKi-LFliE-MGCzC9705qWjBmSWGTc_7EIM=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kinoni.webcampro',
+    appId: 'com.kinoni.webcampro',
+    title: 'EpocCam Pro - Wireless HD Webcam for Mac and PC',
+    summary:
+     'The best quality PC webcam application for Android with over 5 million downloads',
+    developer: 'Kinoni Oy',
+    developerId: '6057585544674879132',
+    icon:
+     '//lh3.googleusercontent.com/Tyx9de10uJ-mss3dJdynMEYW-BaSU_i_UpSn8Pb04h5eHgQMVRPNUEvLHTfotQzJIro=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: 'US$5.65',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.subzoron.yiiri',
+    appId: 'com.subzoron.yiiri',
+    title: 'Yiiri - Meet New People',
+    summary:
+     'Find Facebook friends, WhatsApp numbers, Snapchat usernames and many more!',
+    developer: 'Subzoron',
+    developerId: '4874925637824165306',
+    icon:
+     '//lh3.googleusercontent.com/RkNpoexSfugwB3BTMUUd5qhT0yM23ECCNbgxFr7FjplDcu9MA3xzH6yrAgFrk6fKTg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pk.tafheemulquran',
+    appId: 'pk.tafheemulquran',
+    title: 'Learn Quran Via Skype Classes',
+    summary: 'Free to install',
+    developer: 'urs host',
+    developerId: 'urs+host',
+    icon:
+     '//lh3.googleusercontent.com/Hr9dATZUcuPkG3OF4tfKi9jzMaUta13VDYvv3HRWz2nsQ-rCeQuqXayRyE5mRXkdbw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nimeshm.skydialer',
+    appId: 'com.nimeshm.skydialer',
+    title: 'Sky Dialer for Skype',
+    summary: 'The easy way to make Skype to Phone calls!',
+    developer: 'Nimesh Madhavan',
+    developerId: 'Nimesh+Madhavan',
+    icon:
+     '//lh4.ggpht.com/EvJMi7J7pI6nY7QudDNXzt3XcFxS26p3rdqIFrvp6lxBvLvke9rJlBzhMCxn7WE_YKwR=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.morrison.applock',
+    appId: 'com.morrison.applock',
+    title: 'Perfect App Lock Pro',
+    summary: 'Perfect App Lock Pro (App Lock)',
+    developer: 'Morrison Software',
+    developerId: 'Morrison+Software',
+    icon:
+     '//lh3.googleusercontent.com/tUAni5F7a9bJmYw35qNlZm77UEbWy0ubAqua6bqFPKXd8QRMTAX7uchOP-S-1ITk2w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: 'US$2.80',
+    free: false } ]

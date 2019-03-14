@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.absherjo.app.absherjo',
+    appId: 'com.absherjo.app.absherjo',
+    title: 'أبشر - Absher',
+    summary:
+     'Abshar ... to provide all services related to cars, cleaning houses and hospitality services.',
+    developer: 'Absher JO',
+    developerId: '9023314014966152190',
+    icon:
+     '//lh3.googleusercontent.com/ApxPyxtgIsr3eR9TH88MVVHMdOpbwkK34KkNklnzKtL9-Jlj2Y1I6qt4DHWciWWf0WE=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anydroid.apps.share',
+    appId: 'com.anydroid.apps.share',
+    title: 'Apps Share',
+    summary: 'Apps Share amazing sharing Application and Apk files',
+    developer: 'Mango Yellow Studio',
+    developerId: 'Mango+Yellow+Studio',
+    icon:
+     '//lh3.googleusercontent.com/qgmPgSzq47ryj0x9vaUBbf51xgZmuyfY1YvhwV6-F3N3p4Pzi1bdsHBjj_O8xqiz03E=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.AbsherOffers',
+    appId: 'com.AbsherOffers',
+    title: 'Absher Offers',
+    summary:
+     'The Absher Offers app enables privileged members to avail incredible discounts.',
+    developer: 'IMC Middle East',
+    developerId: 'IMC+Middle+East',
+    icon:
+     '//lh3.googleusercontent.com/eBVXIdXDofWiEYxyBR66c3uXb-89EN5-dyUQ6HVwEk227CM3O12wnwQfnbmEY17RKtyz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cab.snapp.passenger.play',
+    appId: 'cab.snapp.passenger.play',
+    title: 'Snapp',
+    summary: 'the largest ride-hailing app in the Middle East',
+    developer: 'Snapp Cab',
+    developerId: 'Snapp+Cab',
+    icon:
+     '//lh3.googleusercontent.com/eGUQEK6u8r-qXniRA3ZTFQ9WJAhgXHaDydrXOicKTh9iLPwuGus5ORU8OjmnhUeT4vA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.absher_asistant.app',
+    appId: 'com.absher_asistant.app',
+    title: 'Absher Assistant',
+    summary:
+     'Calculate the expiration date of your visa from Abshar Hijri or Gregorian',
+    developer: 'adel_elgo',
+    developerId: 'adel_elgo',
+    icon:
+     '//lh3.googleusercontent.com/AS6ymbRvuXU67xXVu0pFbqqffos_02vXh4fsGFgtQYSLPLlahLdH-E9COIImqdG6bZfG=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yschi.MyAppSharer',
+    appId: 'com.yschi.MyAppSharer',
+    title: 'MyAppSharer',
+    summary: 'Easy to share your app\'s link or APK (Full package).',
+    developer: 'Jones Chi',
+    developerId: 'Jones+Chi',
+    icon:
+     'https://lh3.ggpht.com/uGyLZFJw5sVX7K6ty_znPH9EJpNBIoxPCzsVU2AH8R7p06nVdqOyHor8-ER746lcBI8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fw.appshare',
+    appId: 'com.fw.appshare',
+    title: 'ShareCloud - Share By 1-Click',
+    summary: 'Share files with your friends by 1-Click.',
+    developer: 'For2ww',
+    developerId: 'For2ww',
+    icon:
+     '//lh3.googleusercontent.com/3OcJ_oYd-QVie5vxDU6dthpVot6ZQL45fqsQP_hatyP433IE8t5rx8ouaqMDfPhIoYE=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=map.livestreetview',
+    appId: 'map.livestreetview',
+    title: 'Live Street View - Global Satellite Earth Live Map',
+    summary:
+     'Live Street View - Latest Live Maps & live Satellite View available here.',
+    developer: 'FreetoUse',
+    developerId: 'FreetoUse',
+    icon:
+     '//lh3.googleusercontent.com/QuJ7k8fgaTBjGBivQkZ-TnxkZ_aPmh3o7VgpIz3Nccjh42hU2LwpZAOJpj8DafY7AJZ4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vialsoft.radars_uk_free',
+    appId: 'com.vialsoft.radars_uk_free',
+    title: 'Speed Camera Detector Free',
+    summary:
+     'Protect your Driver’s Licence. Speed Camera Detector. 100% legal and reliable',
+    developer: 'Iteration Mobile & Vialsoft Apps',
+    developerId: '6250558401774233464',
+    icon:
+     '//lh3.googleusercontent.com/pit68o3_ieN2SzhmedCK_gUlJBW8AWa8HdEDDDH0IBIAsapiyP5I5SIt5C2H1ITsn34=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.voice.gps.navigation.map.location.route',
+    appId: 'com.voice.gps.navigation.map.location.route',
+    title: 'Voice GPS Driving Directions - GPS Navigation',
+    summary:
+     'Voice GPS navigation app is point by point location on maps with its map tracker',
+    developer: 'Coloring Games and Coloring Book for Adults',
+    developerId: 'Coloring+Games+and+Coloring+Book+for+Adults',
+    icon:
+     '//lh3.googleusercontent.com/R3FVcLnzJ7p9QeB-BykxYYQnNYXB4WcS5vgIpFUcIIUijSE78rsSHlEGb34ZsYgyPQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myapps.dara.compass',
+    appId: 'com.myapps.dara.compass',
+    title: 'Compass',
+    summary:
+     'Accurate Compass with Google Map, Route Finder, Metal Detection, and Speedometer',
+    developer: 'AwesomeDev',
+    developerId: 'AwesomeDev',
+    icon:
+     '//lh3.googleusercontent.com/tsvH5KJSnWq6UCOu4gzfbdE7h-6Fiz_HjsD9elgyBl--0M84PX2bl3zquwx7flLViz3u=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pransuinc.nightclock',
+    appId: 'com.pransuinc.nightclock',
+    title: 'Night Clock',
+    summary:
+     'Night Clock is a live Analog & Digital clock wallpaper and Widget app.',
+    developer: 'PransuInc',
+    developerId: '5922835369854337147',
+    icon:
+     '//lh3.googleusercontent.com/_l5scEvsZzOujpgfOP3fPpkthkCoUDSPzbw_bNlBdCqNIZkry4a2wa78BUib0boeJFw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.tools.appshare',
+    appId: 'us.tools.appshare',
+    title: 'App Share',
+    summary: 'Share your favorite apps with your friends!',
+    developer: 'AndroidRockers',
+    developerId: 'AndroidRockers',
+    icon:
+     '//lh3.googleusercontent.com/tKsen5L9Tk-QN66sV3X8KEpGRn0UqbaH2Ve3vddg32AUCRUyr7LpyMFoj7UZsnugsf4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sik0555666.Iqama_Expiry',
+    appId: 'com.sik0555666.Iqama_Expiry',
+    title: 'Iqama Expiry Date Checker Online',
+    summary:
+     'This is a tool it use for check the Iqama Expiry Information free in a minute.',
+    developer: 'Freeapp351',
+    developerId: 'Freeapp351',
+    icon:
+     '//lh3.googleusercontent.com/RvjqV-D6pO3hKthAIGe2aKucu17dnLMzFZSY7jBrXBSHDF9PniqplT7wWgLu4ZOCHg8=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.dtalpen.qibla',
+    appId: 'org.dtalpen.qibla',
+    title: 'Qibla Direction and Location',
+    summary:
+     'Qibla for your location. Map method or compass method shows qiblah angle.',
+    developer: 'Heidi Mobil Apps',
+    developerId: 'Heidi+Mobil+Apps',
+    icon:
+     'https://lh4.ggpht.com/7zCOdAAO-o2p6783LaU7CCQk6D9GRMldM9su1YFgBn1BNT7vd3vD0TggEkk7C1tywH4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yahia.eng.ksa',
+    appId: 'com.yahia.eng.ksa',
+    title: 'اعمالي',
+    summary:
+     'This application contains many important sites for many individuals and institutional owners',
+    developer: 'Yahia Zakaria',
+    developerId: 'Yahia+Zakaria',
+    icon:
+     '//lh3.googleusercontent.com/cj7k3fF53hiHGySmD6KeK9nusVBttyrY2dGlDMOHhqo5F2dd0aLZ3uHecmmRbFTTTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appybuilder.apnapak2020.iqamacheck',
+    appId: 'com.appybuilder.apnapak2020.iqamacheck',
+    title: 'Iqama,Visa and Traffic Violations check in saudia',
+    summary:
+     'you can easily check Iqama, Visa and Traffic Violations in saudi Arabia',
+    developer: 'APNAPAK',
+    developerId: 'APNAPAK',
+    icon:
+     '//lh3.googleusercontent.com/Msozd3OccDYHJLMnYzt8VWTBxxj8lSY3Fg-EtnoutpeAvCvq7IGr1Ks-I6t6lv4nqDU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thunkable.android.urdunewsksaonline1.Iqama_Help_Saudi_Arabia',
+    appId:
+     'com.thunkable.android.urdunewsksaonline1.Iqama_Help_Saudi_Arabia',
+    title: 'Iqama Online Services',
+    summary: 'This is the app of Iqama Online Services',
+    developer: 'Faibru',
+    developerId: 'Faibru',
+    icon:
+     '//lh3.googleusercontent.com/gyuySoeb8hpBJ13jK35GszDSvKWab6DdArsBavvFX9uv445rHl1Qm-IVfiTG5d8Lyg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hundred.qibla',
+    appId: 'com.hundred.qibla',
+    title: 'Muslim: Prayer Times, Qibla Finder, Quran',
+    summary:
+     'Halal app with Daily Prayer Times with Adhan Alarm, Quran and Qibla Direction!',
+    developer: 'Muslim Assistant',
+    developerId: '7178763725457724012',
+    icon:
+     '//lh3.googleusercontent.com/d_35rLdnP1H9KucjPCBsIwcwG45VUnhM67jUKfxLt652brDh8CkHFov06Gr31xLZaAkl=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

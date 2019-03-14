@@ -1,0 +1,140 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.flying.car.robot.games',
+    appId: 'com.flying.car.robot.games',
+    title: 'Flying Car Robot Transformation Game',
+    summary:
+     'Chase enemy robots with flying car robot to save your city from evil machinery.',
+    developer: 'Gamelounge',
+    developerId: 'Gamelounge',
+    icon:
+     '//lh3.googleusercontent.com/5HQ3oRURKWPu0K_8t5cxtjZMUZJc5v_k1TjkWlhh4bL6sMqHlGGep81KGhUaBphtKQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.speedygtgames.trafficsimulationfastcarracer',
+    appId: 'com.speedygtgames.trafficsimulationfastcarracer',
+    title: 'Traffic Simulation : Fast Car Racer',
+    summary: 'A kind of lunatic race simulation.',
+    developer: 'Speedy GT Games',
+    developerId: 'Speedy+GT+Games',
+    icon:
+     '//lh3.googleusercontent.com/KwTreZwjrg4RHMuH4s_XKkjgORlAPgXy7JrZOAM5C15ep_JPdw4QhTCT05WdO8wFfec=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.budgestudios.TransformersRescueBotsHeroAdventures',
+    appId: 'com.budgestudios.TransformersRescueBotsHeroAdventures',
+    title: 'Transformers Rescue Bots: Hero Adventures',
+    summary: 'Transformers Rescue Bots - roll to the rescue!',
+    developer: 'Budge Studios',
+    developerId: '7489594886728593506',
+    icon:
+     '//lh3.googleusercontent.com/0jM5VbtMhWYU8ETIf8CvIlINHx07Hk7hBRAjSGznaiy3unRmqVvVxXpJZZv0HRgC=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gts.carrobot.transformation.robot.games.offroad.truck.simulator',
+    appId:
+     'com.gts.carrobot.transformation.robot.games.offroad.truck.simulator',
+    title: 'US Robot Transform Car: Robot Transport Games 2018',
+    summary:
+     'Enjoy to play Transform Robots & Drive Cargo Truck to Transport Mega Robots',
+    developer: 'Game Town Studio',
+    developerId: '6632498816130253988',
+    icon:
+     '//lh3.googleusercontent.com/TWEZLOWWurXJpKqYtk2J0isOw6DZDJp5li9ATxr6o1dXOWZxyWmaP2ZDpeINOXUdPqOM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gshg.grand.uspolice.robot.transform.bike.spy.mission.battle.crime.city.game',
+    appId:
+     'com.gshg.grand.uspolice.robot.transform.bike.spy.mission.battle.crime.city.game',
+    title: 'US Robot Bike Transform Shooting Game',
+    summary:
+     'Be best rider of us moto robot bike transform & enjoy steel robot transmute',
+    developer: 'Grand Superhero Games',
+    developerId: 'Grand+Superhero+Games',
+    icon:
+     '//lh3.googleusercontent.com/44wazGUFKcjA_1q_KSGDmi_e8XuvE_NYvyne4tMSZV8nIoQMK4EJxluVQ7Bv5Q4tXHY=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.magic.futuristic_robot_battle_gang',
+    appId: 'com.magic.futuristic_robot_battle_gang',
+    title: 'Futuristic Robot Battle : Flying Car War',
+    summary:
+     'Transform futuristic robot to flying car and perform deadly stunts.',
+    developer: 'Magic Five',
+    developerId: 'Magic+Five',
+    icon:
+     '//lh3.googleusercontent.com/_VucSWd9XwCSmslzoazzeZmy3tp_dNuYewvCa7otBfO99tj-NxxPQIjP8VlZp2kxQmM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.minicades.stockcars',
+    appId: 'com.minicades.stockcars',
+    title: 'Stock Car Racing',
+    summary:
+     'Drivers start your engines! The professional oval track stock car racing sim.',
+    developer: 'Minicades Mobile',
+    developerId: '4616666496320324735',
+    icon:
+     '//lh3.googleusercontent.com/jpXlIqzHbHC1D2qPyRCU1jNyPrHCJw2J-MKKT7paj9C3a5Hn7u9Lu7jLm4TPjyhaDkvH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.CostumeNinjaConstructionToys.LegoNinjago',
+    appId: 'com.CostumeNinjaConstructionToys.LegoNinjago',
+    title: 'Costume Ninja Construction Toys',
+    summary:
+     'Look like a lego character with this boy hair changer – lego movie stickers!',
+    developer: 'Free Photo Editing Apps',
+    developerId: 'Free+Photo+Editing+Apps',
+    icon:
+     '//lh3.googleusercontent.com/Jc5UsnRJPLmh0W1YUgTUIFfoakPclzJyb3phBr6jLsAFP-FKq7b7Xig-QRER7yew9c7N=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.racing.car.crash.turbo',
+    appId: 'com.racing.car.crash.turbo',
+    title: 'Crazy for Speed',
+    summary:
+     'Enjoy racing with your cool cars! Roll on the most dangerous roads!',
+    developer: 'MAGIC SEVEN',
+    developerId: 'MAGIC+SEVEN',
+    icon:
+     '//lh3.googleusercontent.com/AWfq-IsaG8cUXnM3Jc8of1juCCRPomg09JWPnXYB7gl8TUxVP637hWz43DtYlxYqYaE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ErenApaydin.CorollaDriftandDrivingSimulator',
+    appId: 'com.ErenApaydin.CorollaDriftandDrivingSimulator',
+    title: 'Corolla Drift & Driving Simulator',
+    summary:
+     'Discover the best Corolla Drift & Driving Simulator world on the market.',
+    developer: 'Apaydın Games',
+    developerId: 'Apayd%C4%B1n+Games',
+    icon:
+     '//lh3.googleusercontent.com/hNsRQTGV1ZqYodR5VEr-0qHAbgXqIRhuT_2DYWE-z6h-Zwr9AUw-1xRzOMsPlMe2UvX6=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]
