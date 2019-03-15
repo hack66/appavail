@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=me.spotytube.spotytube',
+    appId: 'me.spotytube.spotytube',
+    title: 'Trending Viral Music Chart from Spotify: SpotyTube',
+    summary:
+     '🎶 Discover Top, Trending & Viral Music from Spotify, YouTube and Billboard 🎶',
+    developer: 'Charana Studios',
+    developerId: '7091159021830398545',
+    icon:
+     '//lh3.googleusercontent.com/YmX_GVngCkJ7xfkTjgir-7I1ziBsz6y6VS5J1mdKrOmZnmBMf1hzopnwptnPKMsDwPU5=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hoffmann.felix.projectomega',
+    appId: 'com.hoffmann.felix.projectomega',
+    title: 'Spotify Playlist Finder',
+    summary: 'Find Spotify Playlists with songs that you actually like!',
+    developer: 'Felix Hoffmann',
+    developerId: 'Felix+Hoffmann',
+    icon:
+     '//lh3.googleusercontent.com/ZV7AMgbDq-ec41mX-a42B8fZiFBgCZ9im6Sm8Mu9sAyXh07W5VR0kNki8k8YtG-r3H8=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobtower.spotify.timer',
+    appId: 'com.mobtower.spotify.timer',
+    title: 'Sleep Timer for Spotify, Music, and Video',
+    summary:
+     'Stop all of your music and video players automatically with Sleep Timer!',
+    developer: 'Mobile Tower',
+    developerId: 'Mobile+Tower',
+    icon:
+     '//lh3.googleusercontent.com/CmNA_dxSRTeLXH_61f5QPxmdhg1nfp_Q38ZKUgMTOt-gF9RmAvKWosZ8oN4mKbtGpA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.core.spotty',
+    appId: 'com.core.spotty',
+    title: 'Spotty (for Spotify and SONOS)',
+    summary:
+     'One app to stream radio and Spotify tunesto your SONOS system and smartphone.',
+    developer: 'TrackThisOut',
+    developerId: 'TrackThisOut',
+    icon:
+     '//lh4.ggpht.com/duhQ6tT3J1CdfrocVL5f1FDNN_s5PphH5wPtV3R2jtdP8MSJ-sNp2e9WdWWKRA299g=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.reissgrvs.spotifyplaylisttool',
+    appId: 'com.reissgrvs.spotifyplaylisttool',
+    title: 'Playlist Manager',
+    summary:
+     'Playlist Manager is a playlist management tool for Spotify.',
+    developer: 'reissGRVS',
+    developerId: 'reissGRVS',
+    icon:
+     '//lh3.googleusercontent.com/bRKb2b--K5sXVq91_lxp1R5HEkFemqXlmeZFxu-rlI7WF2S4j9NlWRfqd6AQDzSoetVe=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rievo.unison',
+    appId: 'com.rievo.unison',
+    title: 'Unison Music Player',
+    summary:
+     'The best music player on Android. Free Music and Spotify Integration. Ad Free',
+    developer: 'Rievo',
+    developerId: 'Rievo',
+    icon:
+     '//lh3.googleusercontent.com/REvZLSnWsaYWspcILzmhC9miMb2BJvz6_XwNxdniFTVqa1adczPa-J9pmf9Kn7O9tX8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wavy.spotifyplaylistwidget',
+    appId: 'com.wavy.spotifyplaylistwidget',
+    title: 'Homescreen Playlists for Spotify',
+    summary:
+     'Widget that instantly launches your playlists from the homescreen.',
+    developer: 'BiitSoft',
+    developerId: 'BiitSoft',
+    icon:
+     '//lh3.googleusercontent.com/lJJrakUCFaHmArkbHLEY0LI6iC_oQK4OgjxBj_35B0B0axmWs-U5kAPGMOJwwhXDjHM=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=name.supreeth.android.spoticon',
+    appId: 'name.supreeth.android.spoticon',
+    title: 'Spoticon - Concert for Spotify',
+    summary: 'Find nearby concerts of your favorite Spotify artists.',
+    developer: 'Supreeth',
+    developerId: 'Supreeth',
+    icon:
+     '//lh3.googleusercontent.com/2zY6VYQnqGO4PgTdI_08CVWO1-C_LP0rU8gltaOBP5ad2gX4qDwrisbR3w6dzS9g0mSH=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wiseschematics.eqfy',
+    appId: 'com.wiseschematics.eqfy',
+    title: 'Eqfy Equalizer',
+    summary:
+     'Premium 10-Band music equalizer & sound booster for Spotify users',
+    developer: 'WiseSchematics',
+    developerId: '6976192343062494733',
+    icon:
+     '//lh3.googleusercontent.com/TbbxeYnP8Pt_0J_x7ewVnVG_EUBKwKRAeodAm-QVkdVl9YEn7rmwgzOTchElRP_9=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: 'GEL 8.00',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.zinokader.spotiq',
+    appId: 'se.zinokader.spotiq',
+    title: 'SpotiQ - Party Jukebox for Spotify',
+    summary:
+     'Make a real-time collaborative playlist for Spotify - with friends!',
+    developer: 'Zino Kader',
+    developerId: '4630046838693272688',
+    icon:
+     '//lh3.googleusercontent.com/eYNvyWp9quciPQ18OsBSH7nj98A_8DgAKujsJbW08sqR61wMb0NrZkeOSm_CEiteMg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=io.audiorave',
+    appId: 'io.audiorave',
+    title: 'Free Mp3 Music Streaming & Streamer - AudioRave',
+    summary:
+     'Mp3 music streamer, free music streamer, free hip hop mixtapes, song streaming',
+    developer: 'AudioRave',
+    developerId: 'AudioRave',
+    icon:
+     '//lh3.googleusercontent.com/08DiwFlgLa7BiqMBqtQAXATdOalXinzQ3k73tkKKUikXC4XFyCNWiBPOrT1a2MT_IA=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.atpc',
+    appId: 'com.atpc',
+    title: 'Free Music Player, Music Downloader, Offline MP3',
+    summary:
+     'Free Music, YouTube, Music Downloader, Player 🎧 Offline MP3,FM Radio,50M+ Songs',
+    developer: 'Best Free Music Player Apps',
+    developerId: '6577981237362163650',
+    icon:
+     '//lh3.googleusercontent.com/akJ5M2yD2kshkeJqunJ0Umz4nXmWdxx3sua4SjVMUmu5srJb05XMXqOPcu_VReh5PQw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.houdinilabs.sayhoudini',
+    appId: 'com.houdinilabs.sayhoudini',
+    title: 'Houdini - handsfree Spotify streaming to your car.',
+    summary:
+     'Music streaming in your car, powered by artificial intelligence.',
+    developer: 'Houdini (Leo Group)',
+    developerId: 'Houdini+(Leo+Group)',
+    icon:
+     '//lh3.googleusercontent.com/pF3qv0Fl3UlyzwnUnqokGXptoRe-7AQYu1fidrov_EmGdaePMWJ1kF-xJL2gEs-RvA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alexe.sleeptimer',
+    appId: 'com.alexe.sleeptimer',
+    title: 'Sleep Timer for Spotify',
+    summary: 'A simple Spotify sleep timer.',
+    developer: 'A E',
+    developerId: 'A+E',
+    icon:
+     '//lh3.googleusercontent.com/HRHj0_z7u7qbNn2i1K7qyusg6vAAdzf7hx7z-YBQxWGOFe_NQWjIeXR_2NGyPHdyBEMC=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tmacstudios.spotifyvoice',
+    appId: 'com.tmacstudios.spotifyvoice',
+    title: 'Voice Recognition for Spotify',
+    summary:
+     'Control Spotify with voice commands through this third party app!',
+    developer: 'Michael.M.White',
+    developerId: 'Michael.M.White',
+    icon:
+     '//lh3.googleusercontent.com/VPlb3RR9Uy6qxxgOiV7pYk0wQYO3nFd_ML-UWVXg95R9l8GeBeRajNJQN6prVlnF7PA=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amp.android',
+    appId: 'com.amp.android',
+    title: 'AmpMe - Speaker Booster',
+    summary:
+     'Play Music & Watch Videos at the SAME TIME on multiple devices!',
+    developer: 'AmpMe Inc',
+    developerId: 'AmpMe+Inc',
+    icon:
+     '//lh3.googleusercontent.com/_7ter8D8r-_fbB6id5-XlVEvSwvjlioPTKozEW59fNKZcepKHfnsQlpUcxus0XN1uA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imagination.lily',
+    appId: 'com.imagination.lily',
+    title: 'Pure Go',
+    summary: 'Companion App to compatible Pure digital radio products.',
+    developer: 'Pure International Limited',
+    developerId: 'Pure+International+Limited',
+    icon:
+     '//lh3.googleusercontent.com/xWcB51LB1ccnHwC8sog1BN0wpI0DBl3hmWe-9LFIPTXKtPk2qj59scQnFYF8R62Ejxc=w340',
+    score: 1.6,
+    scoreText: ' Rated 1.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saites.skiplicit',
+    appId: 'com.saites.skiplicit',
+    title: 'Skiplicit for Spotify',
+    summary: 'Skips songs marked explicit when listening to Spotify',
+    developer: 'Saites',
+    developerId: 'Saites',
+    icon:
+     '//lh3.googleusercontent.com/tPJI2WSzUupqMyWSwjtY3W-Z7aNIGK6cnOfubUnFayGYCh8L8ipP33teSv9bMZvRbpc=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.n7mobile.micromusic',
+    appId: 'com.n7mobile.micromusic',
+    title: 'BuMP Music Player',
+    summary:
+     'Music player in a floating above all bubble with Spotify and local music support',
+    developer: 'N7 Mobile Sp. z o.o.',
+    developerId: '4717034007793529190',
+    icon:
+     '//lh3.googleusercontent.com/26LwsbvuyR5fpiImsDmvP6GJrHWPl5Hj93CH1aPxinhYZa5WoCeMcg2pxuQZJ0U7NhcW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amapolis.thingifyv2',
+    appId: 'com.amapolis.thingifyv2',
+    title: 'Thingify - Manage your Spotify playlists easier!',
+    summary:
+     'Add and remove Spotify-songs directly to your Spotify-playlists from everywhere!',
+    developer: 'Amapolis',
+    developerId: 'Amapolis',
+    icon:
+     '//lh3.googleusercontent.com/OUHh4lkcjQZyfteZOumfsNwjy3kHkPYaisNuLovdH2RmAYNTl0GRC1aa2DmDNZYAkA=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

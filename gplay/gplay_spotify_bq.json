@@ -1,0 +1,136 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.android.chrome',
+    appId: 'com.android.chrome',
+    title: 'Google Chrome: Fast & Secure',
+    summary:
+     'Fast, simple, and secure. Google Chrome browser for Android phones and tablets.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.katana',
+    appId: 'com.facebook.katana',
+    title: 'Facebook',
+    summary:
+     'Find friends, watch live videos, play games & save photos in your social network',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.whatsapp',
+    appId: 'com.whatsapp',
+    title: 'WhatsApp Messenger',
+    summary: 'Simple. Personal. Secure.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.samsung.knox.securefolder',
+    appId: 'com.samsung.knox.securefolder',
+    title: 'Secure Folder',
+    summary:
+     'Get a more secure mobile life with Samsung\'s unique "Secure Folder"!',
+    developer: 'Samsung Electronics Co.,  Ltd.',
+    developerId: '5200379633052405703',
+    icon:
+     '//lh3.googleusercontent.com/1EjZ4I1xWdQNN44skn8tJLcsynQotyIbmVi9ZX53fMgGNP95G2PQ3EgqeQXzUOXNmTk=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.lite',
+    appId: 'com.facebook.lite',
+    title: 'Facebook Lite',
+    summary:
+     'This version of Facebook uses less data and works in all network conditions.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/Alon4Gigwl2DqrT36O6JMn-M40tinuxFHWROtv0TP8ozX8Sr5MiBM1CuHX-veqFhnKvQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.android.app.launcher',
+    appId: 'com.sec.android.app.launcher',
+    title: 'Samsung Experience Home',
+    summary:
+     'Meet the official Samsung launcher for Galaxy. It\'s beautiful and convenient.',
+    developer: 'Samsung Electronics Co.,  Ltd.',
+    developerId: '5200379633052405703',
+    icon:
+     '//lh3.googleusercontent.com/2vk9SPc90c9vatLicTQ1NOvuVHiUUke9CbrYvOzpOAIP3W3mq1mkz_HsvPFXqa_Lfg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.skydrive',
+    appId: 'com.microsoft.skydrive',
+    title: 'Microsoft OneDrive',
+    summary:
+     'Access and share your photos, docs, and more from anywhere for free.',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.googleusercontent.com/fvcvos7yoV2ARXkiudyQlKEL8Hohf_o2juAu_fuY8KLmp5GMbdE4CISdRFGsWRE4PyU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.android.inputmethod',
+    appId: 'com.sec.android.inputmethod',
+    title: 'Samsung Keyboard',
+    summary: 'Have fun typing with Samsung Keyboard.',
+    developer: 'Samsung Electronics Co.,  Ltd.',
+    developerId: '5200379633052405703',
+    icon:
+     '//lh3.googleusercontent.com/prLqPX7IIeSUKhcksTC6kB_CIq35dYwV6Z4j85iJqKuxOeDx2Lv9nEImDRxmJ6o5rxvR=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.instagram.android',
+    appId: 'com.instagram.android',
+    title: 'Instagram',
+    summary: 'Instagram – Like, capture and share the world’s moments',
+    developer: 'Instagram',
+    developerId: 'Instagram',
+    icon:
+     '//lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

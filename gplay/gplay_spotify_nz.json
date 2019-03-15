@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.spotify.music',
+    appId: 'com.spotify.music',
+    title: 'Spotify - Music and Podcasts',
+    summary:
+     'Spotify gives you instant access to millions of songs and podcasts.',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotify.tv.android',
+    appId: 'com.spotify.tv.android',
+    title: 'Spotify Music - for Android TV',
+    summary: 'Listen to music for free on your Android TV',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/f1Nwch1_2rkVOcS7ro4eLEn1mRtxFYVluBtF_6qPsBXVO8lcV_z__fCQx6sqIjOj5tU=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotify.s4a',
+    appId: 'com.spotify.s4a',
+    title: 'Spotify for Artists',
+    summary:
+     'Spotify’s official artist app, with free tools designed for artists and teams.',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/u5--nVUXGjh0npJKCophbNQjxsMU4DyOq2PbXcrULXWi5KdNl5JY87jhA82G12gNOrk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundtrap.studioapp',
+    appId: 'com.soundtrap.studioapp',
+    title: 'Soundtrap - Make Music Online',
+    summary:
+     'Make music together online. Record instruments, vocals and use loop library.',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/ZWe8C7ML3doYJfesZmA-tMb0V2M1_hb1gkbdjCwagLeAf6emMRDtUfoBtjzhZWUYgg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobtower.spotify.timer',
+    appId: 'com.mobtower.spotify.timer',
+    title: 'Sleep Timer for Spotify, Music, and Video',
+    summary:
+     'Stop all of your music and video players automatically with Sleep Timer!',
+    developer: 'Mobile Tower',
+    developerId: 'Mobile+Tower',
+    icon:
+     '//lh3.googleusercontent.com/CmNA_dxSRTeLXH_61f5QPxmdhg1nfp_Q38ZKUgMTOt-gF9RmAvKWosZ8oN4mKbtGpA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mlpsoftwarellc.companionforspotify',
+    appId: 'com.mlpsoftwarellc.companionforspotify',
+    title: 'Companion 4 Spotify',
+    summary:
+     'Finds Spotify new releases & updates to playlists you follow. Playlist generator',
+    developer: 'MLP Software, LLC',
+    developerId: 'MLP+Software,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/9L_H_04E-QxvntVvsfewedgWXI0g9WmHAhv94mQgb0BwWWdPLkTwF3ITnkEMX8Mv_DM=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wavy.spotifyplaylistwidget',
+    appId: 'com.wavy.spotifyplaylistwidget',
+    title: 'Homescreen Playlists for Spotify',
+    summary:
+     'Widget that instantly launches your playlists from the homescreen.',
+    developer: 'BiitSoft',
+    developerId: 'BiitSoft',
+    icon:
+     '//lh3.googleusercontent.com/lJJrakUCFaHmArkbHLEY0LI6iC_oQK4OgjxBj_35B0B0axmWs-U5kAPGMOJwwhXDjHM=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music',
+    appId: 'com.google.android.apps.youtube.music',
+    title: 'YouTube Music - Stream Songs & Music Videos',
+    summary: 'The official YouTube app built just for music.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/PyHp7h1ae6xInrDLRjg5mmW0GiiQH4q0W2v5xv50vmOX7rtM4-xJ61WFMUXvc7_Xc6k=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mk.sign.spotifyv2',
+    appId: 'com.mk.sign.spotifyv2',
+    title: 'Sign for Spotify - Spotify Widgets and Shortcuts',
+    summary:
+     'Play any Spotify content through widgets, shortcuts and notifications.',
+    developer: 'Maximilian Keppeler',
+    developerId: 'Maximilian+Keppeler',
+    icon:
+     '//lh3.googleusercontent.com/tTCamQJvl4t_m3-hUAJkJPRNZAcvrdlYWRlLAIzzr-XRa9WqJZ3ucX7trD0WXU31LKKS=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gmail.jbillstromdevelopment.utrack',
+    appId: 'com.gmail.jbillstromdevelopment.utrack',
+    title: 'uTrack, for Spotify',
+    summary:
+     'uTrack can find the Artists, Tracks, and Genres you listen to most on Spotify',
+    developer: 'Joseph Billstrom',
+    developerId: 'Joseph+Billstrom',
+    icon:
+     '//lh3.googleusercontent.com/S8NgLqnvkwd6A1ToI-Zx0SdcPQqPZvC_3qigtFRjN6aYuV1yAwUjaoznaNRKIGuKZAw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify',
+    appId: 'com.musixmatch.android.lyrify',
+    title: 'Musixmatch - Lyrics for your music',
+    summary: 'All the music you love with lyrics and translations',
+    developer: 'Musixmatch',
+    developerId: 'Musixmatch',
+    icon:
+     '//lh4.ggpht.com/yrUJPyt4kgNtLTnWK42fHteubCfllwm-Hk0uDut2jQr96mkch4-uNwEoQXwVIEtmUeGd=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apple.android.music',
+    appId: 'com.apple.android.music',
+    title: 'Apple Music',
+    summary: '50 million songs. All ad-free.',
+    developer: 'Apple Inc.',
+    developerId: 'Apple+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/-E-jAfuwURMbYgvRhS8xLL8p280U9ueeC-IDrJOFmxGZpBJCWOY4jTbOKK1DZkPIFAUu=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.reissgrvs.spotifyplaylisttool',
+    appId: 'com.reissgrvs.spotifyplaylisttool',
+    title: 'Playlist Manager',
+    summary:
+     'Playlist Manager is a playlist management tool for Spotify.',
+    developer: 'reissGRVS',
+    developerId: 'reissGRVS',
+    icon:
+     '//lh3.googleusercontent.com/bRKb2b--K5sXVq91_lxp1R5HEkFemqXlmeZFxu-rlI7WF2S4j9NlWRfqd6AQDzSoetVe=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sportifyapp.sportify',
+    appId: 'com.sportifyapp.sportify',
+    title: 'Sportify App',
+    summary:
+     'A must have for sport players - Game organising and court booking app.',
+    developer: 'Sportify App',
+    developerId: 'Sportify+App',
+    icon:
+     '//lh3.googleusercontent.com/3rQlQW4iSJW0gu68AnN_NP_wG9fmaR4ZJv-dIhX3nuIxA2iR96XSNJwRAA-_VT_C6g=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.musicalarms.spotify',
+    appId: 'com.musicalarms.spotify',
+    title: 'Mornings - Alarm for Spotify',
+    summary: 'Music alarm clock app that is built for Spotify Music.',
+    developer: 'Music Alarms',
+    developerId: '6731505799014744793',
+    icon:
+     '//lh3.googleusercontent.com/v_6z4-t2fYKYWFIKPZZFv7GmbZUk-3VM4WrRbptBfzm8TqzIgBickvtbLR32WYPsKAr0=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ehzstudios.spotifys7edgepanel',
+    appId: 'com.ehzstudios.spotifys7edgepanel',
+    title: 'Edge Panel for Spotify Music',
+    summary: 'Bring your songs from Spotify music to Edge Panel',
+    developer: 'Edge Master',
+    developerId: 'Edge+Master',
+    icon:
+     '//lh3.googleusercontent.com/lFWS4TNpo2FvrkGUsxMtCkgjK1NfgK9aM0B3-LDnC1PV7LEN3pnGrykRQGlTH---Ums=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '$3.09',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.sandrokl.playlistmerger4spotify',
+    appId: 'net.sandrokl.playlistmerger4spotify',
+    title: 'Playlist Merger 4 Spotify',
+    summary:
+     'Combine and merge multiple Spotify* playlists into a new one.',
+    developer: 'Sandro Klostermann',
+    developerId: 'Sandro+Klostermann',
+    icon:
+     '//lh3.googleusercontent.com/F-uu4mfJQqD7qat6PQ2vcM0Ugh1LoXdsT--LiT5rtF0EM7IjCl48gqyPw2g4RmYOLD4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=wearablesoftware.wearspotifyplayer',
+    appId: 'wearablesoftware.wearspotifyplayer',
+    title: 'Wear Spotify For Wear OS (Android Wear)',
+    summary: 'Spotify is now available on your Android Wear smartwatch.',
+    developer: 'Wearable Software',
+    developerId: '9027257451638050761',
+    icon:
+     '//lh6.ggpht.com/p8vU4wBfCyAH3kVimoXQc6junW4zdjWw18oMOtMZKcQpwxjc3m_6t_X8RRwUQiBTDA=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.developments.samu.muteforspotify',
+    appId: 'com.developments.samu.muteforspotify',
+    title: 'SpotMute - Mute ads',
+    summary:
+     'No-frills Spotify ad muter. Automagically mutes sound when an ad is playing.',
+    developer: 'samu.developments',
+    developerId: 'samu.developments',
+    icon:
+     '//lh3.googleusercontent.com/uo4fzDF3m-Y9A9ISu7KbZvoItU6lbPkSuTvGkQR6b1-3vRPfSGSa26Qvvs2IX_5RlG2-=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]
