@@ -1,0 +1,67 @@
+{ title: 'Tumblr',
+  description:
+   'Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. Whether it’s fandoms or philosophy, fashion or felines, Tumblr is where your interests connect you with your people.\r\n\r\nEXPRESS YOURSELF\r\n— Post photos, GIFs, text, videos, live videos, audio, anything. \r\n— Make your own GIFs. Cover them in stickers and text, if you like.\r\n\r\nBE YOURSELF\r\n— Look however you want. Customize your Tumblr’s colors, fonts, layout, everything.\r\n— Follow whatever topics you’re interested in. Find new ones you didn’t even know existed. \r\n\r\nCONNECT WITH YOUR PEOPLE\r\n— Join millions of people in millions of communities across millions of #tags. \r\n— See something you love? Reblog it to your Tumblr and start a conversation.\r\n— Start a private conversation with your friends in messaging. \r\n— Or just follow, if you’re feeling shy. No big deal.\r\n\r\nLive streaming of sporting events on Tumblr in the United States features Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. Please see www.nielsen.com/digitalprivacy for more information. US users may also visit Settings in the app to opt out of Nielsen measurement.',
+  descriptionHTML:
+   'Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. Whether it’s fandoms or philosophy, fashion or felines, Tumblr is where your interests connect you with your people.<br><br>EXPRESS YOURSELF<br>— Post photos, GIFs, text, videos, live videos, audio, anything. <br>— Make your own GIFs. Cover them in stickers and text, if you like.<br><br>BE YOURSELF<br>— Look however you want. Customize your Tumblr’s colors, fonts, layout, everything.<br>— Follow whatever topics you’re interested in. Find new ones you didn’t even know existed. <br><br>CONNECT WITH YOUR PEOPLE<br>— Join millions of people in millions of communities across millions of #tags. <br>— See something you love? Reblog it to your Tumblr and start a conversation.<br>— Start a private conversation with your friends in messaging. <br>— Or just follow, if you’re feeling shy. No big deal.<br><br>Live streaming of sporting events on Tumblr in the United States features Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. Please see www.nielsen.com/digitalprivacy for more information. US users may also visit Settings in the app to opt out of Nielsen measurement.',
+  summary:
+   'Tumblr is where your interests connect you with your people.',
+  installs: '100,000,000+',
+  minInstalls: 100000000,
+  score: 4.3454733,
+  scoreText: '4.3',
+  ratings: 3243946,
+  reviews: 895716,
+  histogram:
+   { '1': 242070, '2': 76995, '3': 194540, '4': 534905, '5': 2195436 },
+  price: 0,
+  free: true,
+  currency: 'USD',
+  priceText: 'Free',
+  offersIAP: false,
+  size: 'Varies with device',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Tumblr, Inc.',
+  developerId: 'Tumblr,+Inc.',
+  developerEmail: 'support@tumblr.com',
+  developerWebsite: 'http://tumblr.com',
+  developerAddress: undefined,
+  privacyPolicy: 'https://www.tumblr.com/privacy',
+  genre: 'Social',
+  genreId: 'SOCIAL',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon:
+   'https://lh3.googleusercontent.com/fbIR6OKfxqbDctbwn4MyjZp2vdw7UEVO6oqDxTl2dc9Heulc1953PxDnduUe7dsEOuY',
+  headerImage:
+   'https://lh4.ggpht.com/Mc9Z9_SRMIK9SLo_A1esqA6yWqvyL3TeYAiRkQfL_zD03Ia4QupsNQNjYxXJyuirBsI',
+  screenshots:
+   [ 'https://lh3.googleusercontent.com/tvJmSYZ-TLLn6C4-him8y4KicM9268sGc1803Uo-P5eDFUT3NKMcgdx7Y7Me8Ue3Mw',
+     'https://lh3.googleusercontent.com/kkpi6ZS1NYfWn-GFUc-MzdY1wRvWyI43oH_0YPhBZ233F8LlrG6BBrqrPA_sftL2s7Y',
+     'https://lh3.googleusercontent.com/oaMUctM5RWeYkzjS9GUD0AMnvG53nw1rwEIycukAd34yot7hstFaUn4E4MZRWtuOOA',
+     'https://lh3.googleusercontent.com/VPY8GNjlKem3_6OivCWN75E3SxfIf9R1FAMaoLRKzA9Y4cTS-n_ZEI4rKXhHhmxG-A',
+     'https://lh3.googleusercontent.com/c4SkUOBduHRUIEVZgfiddrtp1k_HZXiouPh6uoaoXsePZ4wGl3MOLWq7gkbyp3ztrV4',
+     'https://lh3.googleusercontent.com/59jRKRpSlU5sweJiFeEmHsj4ctxiKYmZUO-A9k4f1jCvDzgDQsz0JCxv7gAC5mVFVWQ',
+     'https://lh3.googleusercontent.com/AtA5Pl77--Ud-PW2o4GrygdIitrlIqfjmtviWkTLGFF4QCs396-Mivz30pj1u4Lxiw',
+     'https://lh3.googleusercontent.com/4eC8GMWCJZa7nfmW8RbYwkzEvx019jx49bZ4U0N_GTHWtGpa4oci3TdcjnHFvQQwTalU',
+     'https://lh3.googleusercontent.com/tMUbdtcXx5xlxJKs4YDNSfmhfAro9lXH8EahtC4Yg0wbD0TeRnUFgHViickeK8g0INc' ],
+  video:
+   'https://www.youtube.com/embed/sAn_h1zV4c0?ps=play&vq=large&rel=0&autohide=1&showinfo=0',
+  videoImage: 'https://i.ytimg.com/vi/sAn_h1zV4c0/hqdefault.jpg',
+  contentRating: 'Rated for 12+',
+  contentRatingDescription: 'Parental Guidance Recommended',
+  adSupported: true,
+  released: 'Aug 14, 2010',
+  updated: 1553699885000,
+  version: 'Varies with device',
+  recentChanges:
+   'Thanks for choosing Tumblr, a place to connect with others over shared interests.<br><br>We&#39;ve increased the text block limit to 250 beautiful text blocks. Please have fun filling them with your favorite vowels and consonants.<br><br>Follow @staff for updates, feature announcements, and highlights from the community.',
+  comments:
+   [ 'When will you learn? Back in 2015 I gave this app 5 stars but now, I have to revoke 3 of them. Ever since Tumblr decided to become the next kids website, things have gone to all hell. Removing NSFW? Bright colors? What is this, coolmathgames? The porn bots are still here, Tumblr. Half my followers are porn bots at this point. You need to take a good look at what you\'re doing. I\'m not mad, I\'m disappointed.',
+     'I used to use this app daily before they attempted to purge all NSFW content. Don\'t get me wrong, I understand why it was done. So, coming back, the app\'s design is pretty good, they fixed the tags option so its easier to use. People are complaining about the darker blue, but I can\'t see the difference. Anyways, as communities go, you\'re going to find something you don\'t like. But there may be a really good community for you! Just keep looking. :)',
+     'Judy like about 95% of the reviews I just went through, I gotta say more or less the same thing, TUMBLR NOW SUCKS COW DICK. Really disappointed. Use to be my source for amazing pictures you can\'t find anywhere else. Now it\'s just a error filled oppressed wasteland. 🖕🏻 YOU TUMBLR',
+     'Tumblr went down hill fast. Was an amazing blogging platform last year too. But now, been a member for over 5 years, and just had my account terminated the other day because they can\'t tell the difference between ecchi and hentai, and can\'t contact them about it. 100k followers, gone.',
+     'Clicking keep reading doesn\'t go anywhere, just refreshes that page. Multiple blogs need to be completely separate, I don\'t want to see post and followers from my other blogs. No point in having more than one for different things. Wont change profile picture. Flags posts for no reason.' ],
+  appId: 'com.tumblr',
+  url:
+   'https://play.google.com/store/apps/details?id=com.tumblr&hl=en&gl=mn' }

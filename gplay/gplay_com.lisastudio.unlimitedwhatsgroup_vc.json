@@ -1,0 +1,3 @@
+{ Error: App not found (404)
+    at /home/user/node_modules/google-play-scraper/lib/utils/request.js:42:19
+    at process._tickCallback (internal/process/next_tick.js:68:7) status: 404 }
