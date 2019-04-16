@@ -7,6 +7,7 @@ the paper *Shedding Light on Mobile App Store Censorship*.
 
 ```
 .
+├── AppStoreCensorship.pdf           - The published report
 ├── README.md                        - This documentation file
 ├── gplay                            - Google Play Store measurements
 ├── gplay_app.js                     - Google Play app ID search script
@@ -21,3 +22,8 @@ the paper *Shedding Light on Mobile App Store Censorship*.
 └── tencent                          - Tencent MyApp Store measurements
     └── apk                          - Tencent MyApp apk files
 ```
+
+## Citing the paper
+
+Vasilis Ververis, Marios Isaakidis, Valentin Weber, and Benjamin Fabian. 2019. Shedding Light on Mobile App Store Censorship. In 27th Conference on User Modeling, Adaptation and Personalization Adjunct (UMAP’19 Adjunct), June 9–12, 2019, Larnaca, Cyprus. ACM, New York, NY, USA, 6 pages.
+https://doi.org/10.1145/3314183.3324965
