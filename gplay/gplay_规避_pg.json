@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bsp.mbapp',
+    appId: 'com.bsp.mbapp',
+    title: 'BSP Mobile Banking',
+    summary: 'BSP Mobile Banking',
+    developer: 'Bank of South Pacific Limited',
+    developerId: 'Bank+of+South+Pacific+Limited',
+    icon:
+     '//lh3.googleusercontent.com/m6G9Fm4cc-7VAyQlqnQrt7y0GzNK8E96YLmCn7OKqk72o8zRDCNZ4gnIDMQjg-wcABEE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=book.of.revelation',
+    appId: 'book.of.revelation',
+    title: 'BOOK OF REVELATION',
+    summary:
+     'An in-depth guide on the Book of Revelations by Clarence Larkin.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/iNqA8xWN8lVwdG4PSxBHJGkEtOT2IefSaYje3sjfncSlsg72sIcqVPG3bG5M2c2q0x4=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appsmmb.dreamsmeaning',
+    appId: 'com.appsmmb.dreamsmeaning',
+    title: 'Dreams and their meanings',
+    summary:
+     'What does what I dreamed mean? Download dreams and find out!',
+    developer: 'Apps MMB',
+    developerId: '9145006927110019238',
+    icon:
+     '//lh3.googleusercontent.com/GpMoKybww6akEsKnaukW6BbiPj-3JqZYO1PKBguVpUfZ0CSeuJ3Y37LOdPh2HTZxqAne=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.solar.panel.installation.wiring.diagram',
+    appId: 'com.solar.panel.installation.wiring.diagram',
+    title: 'Solar Panel Installation',
+    summary: 'Download now: solar panel installation diagrams for free.',
+    developer: 'Monik-INC',
+    developerId: 'Monik-INC',
+    icon:
+     '//lh3.googleusercontent.com/lY90IeaTQMGKRrZvn9pksZPVL6S5CYnk5k4RevLmmtxfr74KhLrT_Egkhr_49bx3NQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.modernenglishstudio.HowToSpeak',
+    appId: 'com.modernenglishstudio.HowToSpeak',
+    title: 'How to Speak Real English',
+    summary:
+     'You will not find any better English Application than this anywhere.',
+    developer: 'DS&T_Modern English Studio',
+    developerId: 'DS%26T_Modern+English+Studio',
+    icon:
+     '//lh5.ggpht.com/cQvFpBRWzMI1qHvhVYJKFbgKTUaqrey4Z783JaAPoAWiyfEe_jwDVIPqrO97FmbEnsZ1=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ergonlabs.SabbathSchool',
+    appId: 'com.ergonlabs.SabbathSchool',
+    title: 'SDA Sabbath School Quarterly',
+    summary:
+     'Sabbath School Quarterly app allows you to take your studies wherever you go.',
+    developer: 'Stefan Rusek',
+    developerId: 'Stefan+Rusek',
+    icon:
+     '//lh4.ggpht.com/PKqix0PLkLUwzS1Ttw7cz_pbqGlKW4xgAADiHso6FMaKzuMp4VV90OCJJ5khu_BTHg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.missingyou.greatmind',
+    appId: 'com.missingyou.greatmind',
+    title: 'I Miss You Love Messages',
+    summary:
+     'Love inspires us and moves us. Get the best missing you message plus lots more',
+    developer: 'GreatMindsGub',
+    developerId: 'GreatMindsGub',
+    icon:
+     '//lh3.googleusercontent.com/LqhRX7gj_WB0Z4BQGBA4ITSSOp3bhNXFrV2bdQhwrw8L-Tc85FawYCwDRdnZAJbBgNM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=book.of.enoch.app',
+    appId: 'book.of.enoch.app',
+    title: 'Book Of Enoch',
+    summary:
+     'This app showcases the full version of the Book of Enoch in organized fashion.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/XAO-A2LOtoSz4QJcMGwa56Ye10EDO4G2salvAo6cbr43aFr2hnx2JJilvfH533lsmR0=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xovato.powerfulbibleprayers',
+    appId: 'com.xovato.powerfulbibleprayers',
+    title: 'Powerful Bible Prayers',
+    summary: 'This app contains powerful life changing prayers',
+    developer: 'Xovato',
+    developerId: 'Xovato',
+    icon:
+     '//lh3.googleusercontent.com/6226p6WQF7ZF0Ld4fXw2-VXnh-EQkTHYCEq0Xj3vi_1FPkVQNu-KYl1kSMymvFYIIdrS=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.ho.tokpisinbible.tokpisin',
+    appId: 'org.ho.tokpisinbible.tokpisin',
+    title: 'Tok Pisin Bible with Audio 2.5',
+    summary:
+     'The whole Bible in Tok Pisin. Audio is included for the book of Mark only.',
+    developer: 'Education for Life',
+    developerId: 'Education+for+Life',
+    icon:
+     '//lh3.googleusercontent.com/TpU_zOMmQ0eeUExEKEPgtQJaf5Z4OMudf0gu_wUmOkXrib5vtVqq91wkhEEqpREbv0g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=myapp.com.questions',
+    appId: 'myapp.com.questions',
+    title: 'Questions to ask a girl',
+    summary:
+     'Romantic, love, funny, relationship, Flirty, sexy Questions to ask a girl.',
+    developer: 'Professional Girl Apps',
+    developerId: 'Professional+Girl+Apps',
+    icon:
+     '//lh3.googleusercontent.com/KVh328y2A9VOmkMkkl2e6SG2VZgsaOH6x2ekoZAt5SZDE5PhCxJheCOTQh1bIpFhAzbu=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.trailarapp.secretofeverythingmindpowersecret',
+    appId: 'com.trailarapp.secretofeverythingmindpowersecret',
+    title: 'The Secrets of Everything : Spirituality',
+    summary:
+     'The Secrets of Everything : Your life is a result of creation of your mind.',
+    developer: 'Trailar App',
+    developerId: '6010573341462333647',
+    icon:
+     '//lh3.googleusercontent.com/gYAUEUfaPGBfkGv1LSf4b957HAs4R0EUFvKVb-l7GUBlYJIw2eDY72cRviYZlYDbgVh-=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.certsoftwares.sdadoctrines',
+    appId: 'com.certsoftwares.sdadoctrines',
+    title: 'SDA Beliefs',
+    summary:
+     'Seventh-day Adventists accept the Bible as the only source of our beliefs.',
+    developer: 'Cert Softwares',
+    developerId: 'Cert+Softwares',
+    icon:
+     '//lh3.googleusercontent.com/1uDlxMbu4IDFK87a5JLClxEYDRWplD_TVlszC03PTF6HYRkD47F7IhQiljMsi5H0q1Q=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crazyapps.howtogetanythingyouwant',
+    appId: 'com.crazyapps.howtogetanythingyouwant',
+    title: 'How To Get Anything You Want',
+    summary:
+     'Create a plan of action and start taking the steps to achieve Anything You Want.',
+    developer: 'Smart Goal Trainings',
+    developerId: 'Smart+Goal+Trainings',
+    icon:
+     '//lh3.googleusercontent.com/iMYYvzFfMzGynTbcYxYtgIq-fhtnLlqSKqL3dRweixxwz4-a9ek385h1EzwjIZBH-Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=howto.studyfor.exams.sp',
+    appId: 'howto.studyfor.exams.sp',
+    title: 'How to Study For Exams',
+    summary: 'Study Smart For More With our app How to Study For Exams',
+    developer: 'Simple Easy',
+    developerId: '6567728338289153470',
+    icon:
+     '//lh3.googleusercontent.com/1si1zcBSzLfqxQ1roYbVR4tv2y3xz_THtxzc4i3SgbLAZFDQYtDJfs6i-I5TDAdhrEO8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mel.mitsappworld.tokpisin.ky',
+    appId: 'mel.mitsappworld.tokpisin.ky',
+    title: 'Tok Pisin Baibel',
+    summary:
+     'The Holy Bible with Deuterocanon in the Tok Pisin Language of Papua New Guinea',
+    developer: 'MITS APP WORLD',
+    developerId: 'MITS+APP+WORLD',
+    icon:
+     '//lh3.googleusercontent.com/rPCgu8vV-V6WDdFQKYoOMs3Hfp2G3LXWhwvDa44p6jZaiSmaQj6_dHslW2LodvxSi1-H=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

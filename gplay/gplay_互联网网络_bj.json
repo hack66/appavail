@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=net.tweakwarevpn.tw_android',
+    appId: 'net.tweakwarevpn.tw_android',
+    title: 'Tweakware',
+    summary:
+     'A VPN Application that encrypts your mobile internet traffic.',
+    developer: 'castsports',
+    developerId: 'castsports',
+    icon:
+     '//lh3.googleusercontent.com/XxGmChajlFB5GPvIEO3Z2363HL4Qu6BvQyADk7LkoPCS9RFqW_OEtPHiILH9MFszYXU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.upx.proxy.browser',
+    appId: 'net.upx.proxy.browser',
+    title: 'UPX Unblock Websites Proxy Browser - Private, Fast',
+    summary:
+     'Speed, secure proxy browser with chrome adblock. Easy download, unblock websites',
+    developer: 'Unblock Vpn Proxy Browser',
+    developerId: 'Unblock+Vpn+Proxy+Browser',
+    icon:
+     '//lh3.googleusercontent.com/uccVoPMGC8SmVSTyF51vKlv2cYvdJD24g_ursb3TqX6TQrRVjCh_vj0NcyH8AWkdKK8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.generaciondemillonarios99.internetgratisguiamegasgratis',
+    appId:
+     'com.generaciondemillonarios99.internetgratisguiamegasgratis',
+    title: 'Internet Gratis y Rápido (Android) Guía',
+    summary:
+     'Free internet for your cell phone, free megs to surf the internet (guide)',
+    developer: 'Pensamientos millonarios',
+    developerId: 'Pensamientos+millonarios',
+    icon:
+     '//lh3.googleusercontent.com/VI6p2d82GcjTIS-yGpqwF_Fl8VzBQl5vJhEzLnvm00SnjdfkTHXZkhM5CytL6uzsjA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nezdroid.internetspeedmaster',
+    appId: 'com.nezdroid.internetspeedmaster',
+    title: 'Internet Speed Master',
+    summary: 'Speed up and boost your connection',
+    developer: 'nez droid',
+    developerId: 'nez+droid',
+    icon:
+     '//lh5.ggpht.com/LDEfgONyYQzx-fQQbhCF_UR6JTjp217He7_Vza899n_AHFv3nf2vwmyTd8xZ3gNidA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creative.infotech.internetspeedmeter',
+    appId: 'com.creative.infotech.internetspeedmeter',
+    title: 'Internet Speed Meter Live',
+    summary:
+     'Live Internet Speed  Dow. And Up. Speed In Screen Lock And Notification Bar',
+    developer: 'Creative Infotech',
+    developerId: '8528911163188240129',
+    icon:
+     '//lh3.googleusercontent.com/BuII53J4BnCvjs40_XumxlTesb4YfQYPCFo7juk3oDML0IVAT54k_fiO7ifWn2EaSd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.huawei.mw',
+    appId: 'com.huawei.mw',
+    title: 'Huawei HiLink (Mobile WiFi)',
+    summary:
+     'Huawei HiLink is an app for manage HiLink devices anytime, anywhere.',
+    developer: 'Huawei  Internet  Service',
+    developerId: 'Huawei++Internet++Service',
+    icon:
+     '//lh3.googleusercontent.com/YvKMOGnBIDn4MAo0cHmEHy2dA5AYYxZlZFqsgsMjaaZcFGCcXwTm1VyawBQsLpnoS7iq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nisargjhaveri.netspeed',
+    appId: 'com.nisargjhaveri.netspeed',
+    title: 'NetSpeed Indicator: Internet Speed Meter',
+    summary:
+     'Shows network speed in the status bar to easily monitor your internet connection',
+    developer: 'Nisarg Jhaveri',
+    developerId: 'Nisarg+Jhaveri',
+    icon:
+     '//lh3.googleusercontent.com/9KePOkP9f8yEBjHgkdFp8bjUbOeACj9xDgl3l8GGNs4D_MdVHNJPLyBrAdCuEkOe8fE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.website.blocker',
+    appId: 'com.website.blocker',
+    title: 'Free VPN Private Internet Access - Website Blocker',
+    summary:
+     'Unlimited free VPN and best VPN service to unblocked movies and websites',
+    developer: 'Mobile Security Lab 2019',
+    developerId: 'Mobile+Security+Lab+2019',
+    icon:
+     '//lh3.googleusercontent.com/F3xB0vL5ouvaqodb1CvCFNaIsCBlziHBJ3YfO1VOrUKw7RFusm8opGgQltnUqlpgA4w=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hero.browser4g.internet',
+    appId: 'hero.browser4g.internet',
+    title: '4G Internet Browser - Fast',
+    summary: 'Fastest Web Browser for Android.Enjoy the speed of 4G🌎',
+    developer: 'ACE Dev Team.',
+    developerId: 'ACE+Dev+Team.',
+    icon:
+     '//lh3.googleusercontent.com/JafZOpy5UVEAOueKX5teqwSQvIrMalWhiy4C5AhYoZjvDYUUjrrZY5PO5sJoQOUH46c=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sifitich.internetspeedfaster',
+    appId: 'com.sifitich.internetspeedfaster',
+    title: 'Internet Speed Faster - prank',
+    summary:
+     'Internet Speed master is a tool to help you improve internet connection.',
+    developer: 'sifitich',
+    developerId: 'sifitich',
+    icon:
+     '//lh3.googleusercontent.com/wXiGECauDRE7w_x-_Kz-Jehd2laWEfsCKnwSNC0TxHksCi5EZaZoH-fJQLyfzXp4E8cA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cholaware.eight',
+    appId: 'com.cholaware.eight',
+    title: '8.8.8.8 - Faster Internet & Unblock Sites',
+    summary:
+     'Faster internet and unblock all blocked sites using public Google\'s DNS',
+    developer: 'Cholaware',
+    developerId: '7679934854761174571',
+    icon:
+     '//lh3.googleusercontent.com/z-cz3x97_Ccb1d-lPGE2UQH25mwQUf1UYSHNazR5YoCoFvf-Kc5z-Lj5ay1tvFWKD3N_=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.max.vpn',
+    appId: 'com.max.vpn',
+    title: 'Unblock Websites w/ Free Fast VPN Unlimited Proxy',
+    summary:
+     'Unblock sites & Get access to unrestricted internet work w/ LTE, 4G, 3G & WIFI.',
+    developer: 'Woorks',
+    developerId: 'Woorks',
+    icon:
+     '//lh3.googleusercontent.com/j-N2H1Q-2mZQA7IYcWB_Fwn3qzHKpTPWybze1TqsasbR3G0gSOuXMTrEWjUE25ZL1VM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.worldvpn',
+    appId: 'com.ow.worldvpn',
+    title: 'WORLD VPN -  Free VPN proxy , Fast & Unlimited VPN',
+    summary: 'WORLD VPN - The Fastest VPN on the Google Play Store!',
+    developer: 'Free Vpn',
+    developerId: 'Free+Vpn',
+    icon:
+     '//lh3.googleusercontent.com/3iT7fLLOXWFFDJINUP0U66_qPI7_LhtrcArrYR6O_zh22fQvgf367-8tQhinouwLUUM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.snv.infosoft.internetspeed4gfast',
+    appId: 'com.snv.infosoft.internetspeed4gfast',
+    title: 'Internet Speed 4g Fast',
+    summary:
+     'Internet Speed 4g Fast, Network Speed Test, Check Download and Upload Speed',
+    developer: 'S&V Infosoft',
+    developerId: 'S%26V+Infosoft',
+    icon:
+     '//lh3.googleusercontent.com/UoE8qwGsFlO0ASUcWUKGg_fuFTuuA7ic54L_w6uh4kSoe0Iq7aCAo7L5GZQsegesqWg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.master.speed.app.free',
+    appId: 'com.freevpn.master.speed.app.free',
+    title: 'Unlimited Free VPN Turbo Speed VPN',
+    summary:
+     'Unlimited Free VPN Turbo Speed is the 2017 free master VPN for unblocking sites',
+    developer: 'Alpiyalian Apps',
+    developerId: 'Alpiyalian+Apps',
+    icon:
+     '//lh3.googleusercontent.com/JLLWHkopW8ZjFsrUAN-J0-BxDqOB0s2dJ34ZBzMj-WO0SrSyDOjlqNcY_mtSCds0Syw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creative.livenetspeedmeter',
+    appId: 'com.creative.livenetspeedmeter',
+    title: 'Internet Speed',
+    summary:
+     'Internet Speed 2G,3G,4G WIFI Live Information Upload&Download Speed For Android',
+    developer: 'Creative Infotech',
+    developerId: '8528911163188240129',
+    icon:
+     '//lh3.googleusercontent.com/nMLdV3MceU5ey0l5vx8f-hiNwudVO84XOWgtJTseIpDHJWcQGT1ZlJpRRcUHCWswgQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesfree',
+    appId: 'air.com.oranginalplan.weaphonesfree',
+    title: 'Weaphones™ Gun Sim Free Vol 1',
+    summary:
+     'Weaphones is the ultimate firearms simulator for your phone or tablet.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh4.ggpht.com/MGLNbiFliVDHb3CRpdp_JeVCc9bQMR_XSQA_cyJjSDl6Yr1g2XcUY8f4wbvWIpRixn4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DVloper.HouseOfSlendrinaFree',
+    appId: 'com.DVloper.HouseOfSlendrinaFree',
+    title: 'House of Slendrina (Free)',
+    summary: 'Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/8rQo90N_pneUOstddgsWufodEvSuuNHoQC0GZNZZK-Hx_qlDrsZi42dp3iP1Hwil2WU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.streaming.tcfm',
+    appId: 'com.streaming.tcfm',
+    title: 'Cariflix',
+    summary:
+     'Cariflix is the first true alternative to traditional cable TV in the Caribbean',
+    developer: 'Streann Media',
+    developerId: '8643885637513317740',
+    icon:
+     '//lh3.googleusercontent.com/3AT5-W943riHC55jxxQmDArVH2nH3m6i9qpS4XnlqNqzqiykYUBmFix4HY0gOhmDHoqG=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tvdirect13.directmedia',
+    appId: 'com.tvdirect13.directmedia',
+    title: 'Direct Media Curaçao',
+    summary:
+     'Official app of Direct Media Curaçao - TV Direct 13 - Radio Direct',
+    developer: 'Tarik Farah',
+    developerId: 'Tarik+Farah',
+    icon:
+     '//lh3.googleusercontent.com/9sFw20eHjiKiMNghQJfkQL3EKCnVxOlGR6jSzIK2JZu5MJA5Oyb8G8n3_ISGlDKbAQfJ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zadeapps.birthday',
+    appId: 'com.zadeapps.birthday',
+    title: 'Birth Day Cake Designs',
+    summary: 'Beautiful and Creative Birth Day Cake Designs.',
+    developer: 'Zade Apps Ltd',
+    developerId: 'Zade+Apps+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/L-8zNIVEUZT_2k81-eidSwk_-2TDVrlQerU7drmwKHNBP0HmLKH2sUkWCoqsKvGcTWyG=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.capitalbanking.bancodicaribe.sCapitalDX',
+    appId: 'com.capitalbanking.bancodicaribe.sCapitalDX',
+    title: 'Banco di Caribe Mobile Banking',
+    summary: 'Banco di Caribe Mobile Banking',
+    developer: 'Banco Di Caribe Mobile App',
+    developerId: 'Banco+Di+Caribe+Mobile+App',
+    icon:
+     '//lh3.googleusercontent.com/srAMe3Lj2EkX-GTD4HEMp7Lx_d6CpzmAQHH9TLiV4uIMqNLQKBCrkQFvUIXD2U9sH1c=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=forgotten.books.of.eden.app',
+    appId: 'forgotten.books.of.eden.app',
+    title: 'THE FORGOTTEN BOOKS OF EDEN',
+    summary:
+     'Contains 4 of the missing books of the bible a.k.a The Forgotten Books of Eden.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/HP6g7wWneNCoDHIhb0_xxMFvmE1EYg_xrswVoAUiA6CjiPfQpWc28dEIzepmG_Hb-w=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pausedrinkapp',
+    appId: 'com.pausedrinkapp',
+    title: 'Pause...drink! drinking game.',
+    summary:
+     'Pause...drink! is the drinking game to get your party started.',
+    developer: 'Philip Sole',
+    developerId: '7889235613603720774',
+    icon:
+     '//lh3.googleusercontent.com/AGlEGc5JZv9jISsGdLRPucxnaupq9FtTL-yl1pEewQglMk-TAb9wrT7_QkOoin9kYm0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=the.book.of.adam',
+    appId: 'the.book.of.adam',
+    title: 'THE BOOK OF ADAM',
+    summary:
+     'This Book Of Adam app is translated from the Georgian original.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tUKYys2fvswYtZj4ZK4ZbzMhTq3wj_btCaqc5N_9UxxHKMXJT6QPdSkIDa_doUxnpw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.joyplustech.android_mermaid1',
+    appId: 'net.joyplustech.android_mermaid1',
+    title: 'Mermaid Secrets1- Mermaid  Princess Rescue Story',
+    summary:
+     'Save Mermaid Princess Mia! Be the real princesa, best little mermaid games.',
+    developer: 'JoyPlus Technology Co., Ltd.',
+    developerId: 'JoyPlus+Technology+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/K_SHLDmdhEQk5dc-lomBuESmPxYJWEDcX75JsxmW_jd9D5alXpeBANwpuRHDZHBWOA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bornlucian.hotfm',
+    appId: 'com.bornlucian.hotfm',
+    title: 'CaribbeanHotFM',
+    summary:
+     'Caribbean Hot FM 105.3 & 96.1FM - The Supreme Sound of Saint Lucia.',
+    developer: 'BornLucian',
+    developerId: 'BornLucian',
+    icon:
+     '//lh6.ggpht.com/aACsCeA9ZlnJK1huIlTshEuEo1qr7YMBVDYetIrTrlFvXdNfa12SNMgULqeWZryw8kzJ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

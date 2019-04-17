@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.boxita.booster.supercleaner',
+    appId: 'com.boxita.booster.supercleaner',
+    title: 'All Cleaner - Speed Booster, Junk Cleaner',
+    summary:
+     'boost the memory of your phone, clean junk and get system info for free',
+    developer: 'codetips',
+    developerId: 'codetips',
+    icon:
+     '//lh3.googleusercontent.com/lF9aFLBEpQf7n4_YsTLQTqy2rpoxTqSENOFjEpj6AVZQyF3neJQwFYvRn-GrUIP6Ln9X=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hesoft.t2s.plugin.encoder.mp3',
+    appId: 'hesoft.t2s.plugin.encoder.mp3',
+    title: 'T2S plugin: mp3 encoder',
+    summary: 'The plugin enables T2S to export audio file in mp3 format',
+    developer: 'HE SOFT',
+    developerId: 'HE+SOFT',
+    icon:
+     '//lh3.googleusercontent.com/l2_JEXxbge7hiCre3IanTpYng9fn-rn7HRa2_bPbE8lP3VBV8TB2vxpoBkxeTfQAviCy=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tajawal',
+    appId: 'com.tajawal',
+    title: 'tajawal: Flights, Hotels and Holidays',
+    summary:
+     'Book hotels, flights & holiday packages to explore exciting destinations.',
+    developer: 'Tajawal.com',
+    developerId: 'Tajawal.com',
+    icon:
+     '//lh3.googleusercontent.com/pZqLHeehRJphD0LqbMZACSe0NZLyUsQs16RUSE5TDAXWTY43wgdnPoB5flWCqrXE7VM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=main.ClicFlyer',
+    appId: 'main.ClicFlyer',
+    title: 'ClicFlyer: Weekly Offers, Promotions & Deals',
+    summary:
+     'Easily search offers & deals in KSA, UAE, Kuwait, Bahrain, Qatar, Oman, Egypt',
+    developer: 'ClicFlyer',
+    developerId: 'ClicFlyer',
+    icon:
+     '//lh3.googleusercontent.com/LbEtiJTyoFOUHdLhP1JEPpjggB5yMj9r1679yOTkzJcB5tR6S4ujCtzRBW5mMtDDUw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sarahah.com',
+    appId: 'com.sarahah.com',
+    title: 'Sarahah',
+    summary:
+     'Sarahah helps people get honest feedback from family, friends and colleagues.',
+    developer: 'Sarahah',
+    developerId: 'Sarahah',
+    icon:
+     '//lh3.googleusercontent.com/0jG9AvlY5XNlyQVfoaPrVleLXUWU0i0j35jSep3j6M2eJNAVv6rczi5FF27f3g-CPg=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.dialglobe_communication.marrygold',
+    appId:
+     'com.revesoft.mobiledialer.dialglobe_communication.marrygold',
+    title: 'Marrygold itel',
+    summary: 'Marrygolditel',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh3.googleusercontent.com/CUkwwm3uIGHQ0JhAxJpEYCRlxWiX_SrbbezROQLJhutCHNXjHDuSzDGtj29HxmAAIC0=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.digital_gold_1547543455835_71240',
+    appId: 'com.revesoft.mobiledialer.digital_gold_1547543455835_71240',
+    title: 'Digitalgold',
+    summary: 'Digitalgold is a Mobile VOIP Application.',
+    developer: 'Mahammad Ajgor Ali',
+    developerId: 'Mahammad+Ajgor+Ali',
+    icon:
+     '//lh3.googleusercontent.com/kPgPMRj4cxT3wqgxpSodc3pqhsLTlbV5ht1emUQ7Mz6DPnfDFrRhPdpTe-1adece=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=apps.video.maxvideoplayer',
+    appId: 'apps.video.maxvideoplayer',
+    title: 'Max Player',
+    summary:
+     'Max player is a video playback app. It supports all video file formats.',
+    developer: 'Video Player Elite',
+    developerId: 'Video+Player+Elite',
+    icon:
+     '//lh3.googleusercontent.com/aGnsp94FTbeZWCiC70c1zqVLsqCXyfvMcgFjY18FjBuqCQ7srxIsPzrO7HiOes-3Ebs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.snoanime.iq',
+    appId: 'com.snoanime.iq',
+    title: 'SnoAnime',
+    summary:
+     'SnoAnime application is the best application with a very beautiful design for watching Anime and Movies',
+    developer: 'SnoDev LLC',
+    developerId: 'SnoDev+LLC',
+    icon:
+     '//lh3.googleusercontent.com/-__6d8yLpqhxwXcGbpiZfVT52pLRuyloSVpDh7oijknV3rlo6MWdYF2icBj3V2GK6jFB=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.amaf_ijaz.Kuwait_All_Fines_Checker',
+    appId: 'com.amaf_ijaz.Kuwait_All_Fines_Checker',
+    title: 'Kuwait All Fines Checker',
+    summary:
+     'Kuwait All Fines Checker. Online Checking Software is Now Available For Android.',
+    developer: 'Simple tech',
+    developerId: 'Simple+tech',
+    icon:
+     '//lh3.googleusercontent.com/bEGd0nzUdyhfcjZaouaXlBTIiGMW8olm3NMdq1ts_YOwlg5QrGzoLNjAvS1oMdWdpNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wandoujia.eyepetizer',
+    appId: 'com.wandoujia.eyepetizer',
+    title: '开眼',
+    summary:
+     'Eyepetizer - Featured video recommendations, eye-opening daily',
+    developer: 'Eyepetizer Inc.',
+    developerId: 'Eyepetizer+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/yfEqErZjNXWUX_pcn4FOTGI7uRgepl_EVjIF3ys6sN_6WTqOc6GodbvbSiKPNIK37Ps=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.idealindustries',
+    appId: 'com.idealindustries',
+    title: 'IDEAL AnyWARE™',
+    summary:
+     'Use the free IDEAL AnyWARE™ app from IDEAL Networks to view and send data cable',
+    developer: 'Ideal Networks',
+    developerId: 'Ideal+Networks',
+    icon:
+     '//lh3.googleusercontent.com/56Y3dhTrnUL5_e8-2jsz2pm0DtZjwQm7UyUitkRqUe5MT_jDpx0xOQ-FfdwOC99UlWLi=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.domyland.optiland',
+    appId: 'ru.domyland.optiland',
+    title: 'Optiland',
+    summary:
+     'For residents of the settlements of Bristol, Marseille and Cambridge',
+    developer: 'DOMYLAND',
+    developerId: 'DOMYLAND',
+    icon:
+     '//lh3.googleusercontent.com/vk6ZnIeZe8AFAmKheWdDargm8DWg2ZQQE07kcTzfArr4hfSvS2qf_6kGFek-KU5sSA=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

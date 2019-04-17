@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=dk.appbureauet.uddata',
+    appId: 'dk.appbureauet.uddata',
+    title: 'UDDATA+',
+    summary:
+     'OUTPUT + app gives you form and conversations at your fingertips.',
+    developer: 'IST Denmark',
+    developerId: 'IST+Denmark',
+    icon:
+     '//lh3.googleusercontent.com/z3g07dS9EyzHKQq5lpkEzHHIOr1CRZMbTJxNaZ3XMjrLyQrevPxlfCwauilYywDrps8=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.entercard.lo',
+    appId: 'dk.entercard.lo',
+    title: 'Dit Guldkort',
+    summary:
+     'Get full view of both balance and transactions with LO Plus Gold Card app.',
+    developer: 'Entercard',
+    developerId: 'Entercard',
+    icon:
+     '//lh3.googleusercontent.com/H4iRZG6yDZavLZLyAU4V5UT6Npv0QNVBahbrhvQSqGqz5e0FfhcvoG01e7PyDxRtvQ=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.danskebank.android.tribank',
+    appId: 'dk.danskebank.android.tribank',
+    title: 'Ældre version af mobilbank DK',
+    summary: 'Download New mobile banking DK instead.',
+    developer: 'Danske Bank',
+    developerId: 'Danske+Bank',
+    icon:
+     '//lh4.ggpht.com/Gaa0aXkzL8X0UEQcfyXZzY-5LS7uNSto6r9plJgnJIxedQ3TOxuo2-_D7A74nCIhxg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.nordea.mobilebank',
+    appId: 'dk.nordea.mobilebank',
+    title: 'Nordea Mobile Bank - Denmark',
+    summary:
+     'The most convenient way to do your daily banking business. All in one app',
+    developer: 'Nordea Bank Abp',
+    developerId: 'Nordea+Bank+Abp',
+    icon:
+     '//lh3.googleusercontent.com/D43xw3wJvoLjy9qlWE7xWYq3Ia3KImaNEYySwvNZI4LJSBi7pVBVaRK2bF0YrawcMGg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.danskebank.mobilebank3.dk',
+    appId: 'com.danskebank.mobilebank3.dk',
+    title: 'NY mobilbank DK - Danske Bank',
+    summary: 'Available in English!',
+    developer: 'Danske Bank',
+    developerId: 'Danske+Bank',
+    icon:
+     '//lh3.googleusercontent.com/n-RHyrEiW2jj9caWfV85EGjt0i_3gxoY3QyRKQSW1Jm71St9xD1BcH7Xq_7YzEDvcg=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.danskebank.mobilepay',
+    appId: 'dk.danskebank.mobilepay',
+    title: 'MobilePay',
+    summary:
+     'Send money to friends, pay in shops as easy as sending an SMS.',
+    developer: 'MobilePay A/S',
+    developerId: 'MobilePay+A/S',
+    icon:
+     '//lh3.googleusercontent.com/a5CpQQFBKcnvyr-Z5y6Cwp7Fk3NXR3ytv5IAM3_QXPYuIqf0Iguc8r41tBQDJ40eKTdg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.landbobanken.mobilbank',
+    appId: 'dk.landbobanken.mobilbank',
+    title: 'Landbobankens Mobilbank',
+    summary:
+     'With RL General Bank Mobile Banking, you always have your bank at your fingertips.',
+    developer: 'Ringkjøbing Landbobank',
+    developerId: 'Ringkj%C3%B8bing+Landbobank',
+    icon:
+     '//lh3.googleusercontent.com/G-j-bfNIWP_Fdzc0MyWoo7fRh-X-vsU7aife9gvWzzTAMpE5nUMem4heil6si_WNY24=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.aeldresagen.android',
+    appId: 'dk.aeldresagen.android',
+    title: 'Ældre Sagen - Tilbud og rabat nær dig',
+    summary:
+     'Save money. Easily find deals and discounts near you and online',
+    developer: 'Ældre Sagen',
+    developerId: '%C3%86ldre+Sagen',
+    icon:
+     '//lh3.googleusercontent.com/4EuTn6Ysi6LmPy5n5End_Z959gXNBkAaIABLSv1eg3xkmbbJ3kNSyxenGkHrx0EI0M4=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.nortec.elaundry',
+    appId: 'dk.nortec.elaundry',
+    title: 'e-vaskeri',
+    summary:
+     'With e-vaskeri, your laundry is always right at your fingertips.',
+    developer: 'Nortec A/S',
+    developerId: 'Nortec+A/S',
+    icon:
+     '//lh3.googleusercontent.com/p4_LoK2I8V2zO0TrUuNxqIbMzfnBZAiE1jOx2H4uKgG2etflAUQCJlxVkJcXW9Kf49O0=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.nettolager.booking',
+    appId: 'dk.nettolager.booking',
+    title: 'Nettolager - Danmarks billigste lagerhoteller',
+    summary:
+     'With Nettolager\'s booking app, you can easily rent and manage your rooms.',
+    developer: 'Nettolager',
+    developerId: 'Nettolager',
+    icon:
+     '//lh3.googleusercontent.com/Fj5x9oCsS0dsoEXd39fOMGFQZCm13DSI6JkC4xgHmiRhrm9ulswYrxNvTZDAKpoq2wU=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.assemble.bnet.viborg',
+    appId: 'dk.assemble.bnet.viborg',
+    title: 'Børne-Nettet',
+    summary:
+     'Kid-Net is a mobile version of the personal citizen universe Children network.',
+    developer: 'Assemble A/S',
+    developerId: 'Assemble+A/S',
+    icon:
+     '//lh3.googleusercontent.com/gvlVd_e3QQ4lqEP4PSvRbNwgHaXNvDgaAsIwXo_MAH_y2H9OShRX332qFAbEZnvD2DQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.bec.android.mb1.b00508.prod',
+    appId: 'dk.bec.android.mb1.b00508.prod',
+    title: 'Den Jyske Sparekasse Mobilbank',
+    summary:
+     'Get an overview of your finances and go in the savings bank via your mobile around the clock.',
+    developer: 'BEC a.m.b.a.',
+    developerId: 'BEC+a.m.b.a.',
+    icon:
+     '//lh3.googleusercontent.com/7v3vBQg2veBViiVqrRZwOrAcB5kDP141R5tA7ETyfLZsHVpsXGNDZYpIau6w22tOAA=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=dk.dr.versus',
+    appId: 'dk.dr.versus',
+    title: 'DR Versus',
+    summary: 'Play with Versus and win travel card',
+    developer: 'DR Mobil',
+    developerId: 'DR+Mobil',
+    icon:
+     '//lh3.googleusercontent.com/l8wpQwXhiWub4lOvAoE0QBkyuS3WVYDdT1GfqZlF5HuV4I71ZlL1vGgSXELBFE9Ia8g=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.bec.android.mb1.b00369.prod',
+    appId: 'dk.bec.android.mb1.b00369.prod',
+    title: 'Spar Nord Mobilbank',
+    summary:
+     'Spar Nord Bank Mobile - easily, quickly and easily wherever you are.',
+    developer: 'BEC a.m.b.a.',
+    developerId: 'BEC+a.m.b.a.',
+    icon:
+     '//lh3.googleusercontent.com/xcHn4PEQe0wcflv6T2QrC5KGvYKehXHe8IBNnyQ2cxQFKBMfcMYLT5zaSJbHrWP9RBQ=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.telenor.self_service',
+    appId: 'com.telenor.self_service',
+    title: 'Mit Telenor, Danmark',
+    summary:
+     'My Telenor is your shortcut to us – check your usage, see bills and buy data.',
+    developer: 'Telenor, Denmark',
+    developerId: 'Telenor,+Denmark',
+    icon:
+     '//lh3.googleusercontent.com/L3TVDnTC6gEju5CbTCLCNQndDL5fEjrY1-nY7YSukYybHJfP0UFrfplKuP3xnHIBv_o=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saxobank.investor',
+    appId: 'com.saxobank.investor',
+    title: 'SaxoInvestor',
+    summary:
+     'Saxo Investor is a simple and intuitive app for all investors.',
+    developer: 'Saxo Bank',
+    developerId: 'Saxo+Bank',
+    icon:
+     '//lh3.googleusercontent.com/NU5p7LK_GrCZAKotfamoWPKvo0Zmgnfrs3Fx11KYtpBvxKmphY-leXtuT87F0Ku7AuY=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.tdc.blockbuster.nordic',
+    appId: 'dk.tdc.blockbuster.nordic',
+    title: 'Blockbuster Nordic',
+    summary:
+     'Stream the latest films and series directly on your android mobile.',
+    developer: 'TDC',
+    developerId: 'TDC',
+    icon:
+     '//lh3.googleusercontent.com/XiZN7tZZvtJFhLYnEg6rgdq-ySh96iIqqihSE99Obm1XYRweOGseWxquTo5udLGUiJk=w340',
+    score: 1.3,
+    scoreText: ' Rated 1.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.parkone.ParkOne',
+    appId: 'dk.parkone.ParkOne',
+    title: 'ParkOne',
+    summary: 'ParkOne - The best parking',
+    developer: 'Needit Two ApS',
+    developerId: 'Needit+Two+ApS',
+    icon:
+     '//lh3.googleusercontent.com/TGdBxXPOl3Zh5f1gJw0cdob_-CQAeB4MidmVRGcqk8EKm5dxSWs35YVwThdcsZqOZeY=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.djf.DJFApp',
+    appId: 'dk.djf.DJFApp',
+    title: 'Jæger',
+    summary:
+     'Read Hunter, The Danish Hunters Association magazine about hunting, wildlife and nature.',
+    developer: 'Danmarks Jægerforbund',
+    developerId: 'Danmarks+J%C3%A6gerforbund',
+    icon:
+     '//lh3.googleusercontent.com/qo_Oand1kQ9VFNmzz9FOFNSbLKSayPA-hP9ibVeeIUqPmFhm4os8orIFzAe_9tY4AQw=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nets.betalingsservice',
+    appId: 'com.nets.betalingsservice',
+    title: 'Betalingsservice',
+    summary:
+     'The Betalingsservice app is allowing you to see all your payment agreements.',
+    developer: 'Nets A/S',
+    developerId: 'Nets+A/S',
+    icon:
+     '//lh3.googleusercontent.com/Xu0Wtf4nVlCiDA7A2ly0KQzn1QdH9nQnevrv2zYOmVYbfKDHyIU0K-1vr7FJLgmWyw=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

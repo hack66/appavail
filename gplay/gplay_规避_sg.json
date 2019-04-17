@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.singtel.hiaccount',
+    appId: 'com.singtel.hiaccount',
+    title: 'Singtel Prepaid hi!App',
+    summary:
+     'Manage your Singtel Prepaid account anytime, anywhere with hi!App!',
+    developer: 'Singtel Idea Factory Pte Ltd',
+    developerId: 'Singtel+Idea+Factory+Pte+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/WL6M1O3DfFO3cYgXjJkQ92KqGeRg70XEMcPAlIsbBWvJfCB3FBYNFVQq-joWvH7tAvY=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aia.wallet.sg',
+    appId: 'com.aia.wallet.sg',
+    title: 'AIA eCare',
+    summary:
+     'AIA eCare provides convenient access to policy related information & rewards.',
+    developer: 'AIA Singapore Private Limited',
+    developerId: 'AIA+Singapore+Private+Limited',
+    icon:
+     '//lh3.googleusercontent.com/mKGaf2L_woc90VDGdPZ1wWKujIT_a2Qv8eG0lC7AUIVcmTu26S7XEzSLSsfaFSPuwxs=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rydesharing.ryde',
+    appId: 'com.rydesharing.ryde',
+    title: 'RYDE',
+    summary: 'Carpool, Taxi and Private Hire app',
+    developer: 'RYDE Technologies',
+    developerId: 'RYDE+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/NyzTPyRghfOBTD6QqjFhZM-JgXnMNETE_nKRSS6RkDbRafpbltDgcccRF0uBX2hkje8=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.forevergroup.pyoneplay',
+    appId: 'com.forevergroup.pyoneplay',
+    title: 'Pyone Play',
+    summary: '​Pyone Play is Myanmar’s 1st online TV video platform.​',
+    developer: 'Forever Group Co.,Ltd',
+    developerId: 'Forever+Group+Co.,Ltd',
+    icon:
+     '//lh3.googleusercontent.com/D3LOYhsid4Ou3OJJCTi8WAyNiwnIm3udobXr-dvnzI8KMoWpPl84VevAvqUyP-to438=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.singtel.mysingtel',
+    appId: 'com.singtel.mysingtel',
+    title: 'My Singtel',
+    summary:
+     'The convenience of managing your Singtel account at your fingertips.',
+    developer: 'Singtel Idea Factory Pte Ltd',
+    developerId: 'Singtel+Idea+Factory+Pte+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/dKaEHxGkA97qaxQFaI1SOsKXrSrC1k5QIM77zwSb19DgCX_gTwC0kuc9ThNinzp5veI=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aia.sg.mypage.oneapp.wrapper.myaiasg',
+    appId: 'com.aia.sg.mypage.oneapp.wrapper.myaiasg',
+    title: 'AIA Vitality',
+    summary:
+     'Brought to you by AIA – helping you live a healthier, longer and better life!',
+    developer: 'AIA Technology Shared Services',
+    developerId: 'AIA+Technology+Shared+Services',
+    icon:
+     '//lh3.googleusercontent.com/KjabrnnmVr5YNLZjY9_6lkxl5TPjYl5xcvFdPw1zx_1GYVY5ZUTQp64kAibBJbSL_wM=w340',
+    score: 1.3,
+    scoreText: ' Rated 1.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.mediacorp.android',
+    appId: 'sg.mediacorp.android',
+    title: 'Toggle',
+    summary:
+     'Watch Mediacorp shows, LIVE sports and Toggle Originals anytime, anywhere!',
+    developer: 'Mediacorp Pte Ltd',
+    developerId: 'Mediacorp+Pte+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/zdDw8a2ESsHe_bnDiWKRefu7C0JWq71WI7P_YjOxYe6VhNOxno4zxP7wkxthBRPCtg=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.m1.mym1',
+    appId: 'com.m1.mym1',
+    title: 'My M1',
+    summary: 'A one-stop application to manage your M1 services.',
+    developer: 'M1 Limited',
+    developerId: 'M1+Limited',
+    icon:
+     '//lh3.googleusercontent.com/l5-5QHdsqR7f3lCSJQEFvyBGhWYdKloQ92h1dSDfhLLTNQdcEeceCvseFoz94pvIZA=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ge.sgp.rewards',
+    appId: 'com.ge.sgp.rewards',
+    title: 'UpGreat Singapore',
+    summary:
+     'UpGreat offers dining, retail and lifestyle deals and rewards',
+    developer: 'Great Eastern Life',
+    developerId: 'Great+Eastern+Life',
+    icon:
+     '//lh3.googleusercontent.com/H_InfCXgTpKtHPzCgDIUmMD1TuySwDpcfsiKTwVe2-w-UpjbWb8daZ320mXJr21kMfw=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nanoequipment.idawirelesssg',
+    appId: 'com.nanoequipment.idawirelesssg',
+    title: 'Wireless@SG',
+    summary:
+     'IMDA’s Wireless@SG app provides features to people who are always "on the move".',
+    developer: 'Info-communications Media Development Authority',
+    developerId: 'Info-communications+Media+Development+Authority',
+    icon:
+     '//lh3.googleusercontent.com/NJaF7PrLS2cS2ZCW0CK6954DUwK6gOQkJFN3ZVlkncRsoRHQiOgYq2IX5Lfg7q2l-wk=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.app.vivobee',
+    appId: 'com.app.vivobee',
+    title: 'VivoBee',
+    summary: 'A One-stop Mobile Services App for migrants.',
+    developer: 'VivoHub Mobile Pte Ltd',
+    developerId: 'VivoHub+Mobile+Pte+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/FD3kDCRWYKwLBcstddSGhg89_Y3LPQA2kKgtrG8jE9rx10oxUBUI74m_IAial9fSv2w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tmf.payate.slo',
+    appId: 'tmf.payate.slo',
+    title: 'ပရိတ္ႀကီး (၁၁) သုတ္',
+    summary: 'The law deciding http://www.visionrevision.org wipe (11)',
+    developer: 'San Lwin Oo',
+    developerId: 'San+Lwin+Oo',
+    icon:
+     '//lh3.googleusercontent.com/pvDt2WQ_jIpJ08C_RxAxpSuBM9YkSSinth9uSqOmEedQB1whBJ2sghNdLcN6PDOo52uQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.taidii.diibear.myworld',
+    appId: 'com.taidii.diibear.myworld',
+    title: 'MY World Preschool',
+    summary: 'An app for parent with child in kindergarten.',
+    developer: 'Taidii Singapore',
+    developerId: 'Taidii+Singapore',
+    icon:
+     '//lh3.googleusercontent.com/kPB3oesNS-ALxVbr-hWaP2blKNEK49bx3eZdXmGwU5ar8RLetyTZHhtpuLiH7AJxUw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sg.gov.lta.mytransportsg',
+    appId: 'sg.gov.lta.mytransportsg',
+    title: 'MyTransport.SG',
+    summary: 'Going places with the new MyTransport.SG.',
+    developer: 'Land Transport Authority',
+    developerId: 'Land+Transport+Authority',
+    icon:
+     '//lh3.googleusercontent.com/iwYhVj2Jt9Qt8bfq293i6Aug62Lixa5-hvHivPp-f12z2NvZNq6MqBwNEduFm8hjeugM=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=originally.us.buses',
+    appId: 'originally.us.buses',
+    title: 'SG BusLeh: Award Winning',
+    summary:
+     'Even tells you if the coming buses are double deck or bendy buses!',
+    developer: 'OriginallyUS.SG - Award Winning App Consultancy',
+    developerId: '8657364104187803118',
+    icon:
+     '//lh3.googleusercontent.com/KH6Ni3Qkak4kBxU-CeYvVDLiqQL_XKBipCNBQJuufzOP4LUpGlvDgSGbVkttTGSyV8qN=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.circles.selfcare',
+    appId: 'com.circles.selfcare',
+    title: 'Circles.Life - Events, Rewards & Telco',
+    summary:
+     'Discover cool sh!% to do and control your Circles.Life plan (if you have one)!',
+    developer: 'Liberty Wireless Pte Ltd.',
+    developerId: 'Liberty+Wireless+Pte+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/np2IwoXftU9GyBTjs0Ovb2l2yI6FHg5S4w1cu17EdOVy-jrjI2xJJ8SxGQJ_K7aDUQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ohmyhome.sg',
+    appId: 'com.ohmyhome.sg',
+    title: 'Ohmyhome - Buy. Sell. Rent. Property',
+    summary:
+     'The No.1 HDB DIY app connecting Flat Owners to Flat Searchers directly, for free',
+    developer: 'Ohmyhome Pte Ltd',
+    developerId: '7012692863587180130',
+    icon:
+     '//lh3.googleusercontent.com/bjs-BQJi7_5p8JYeJxFUr5XI60jGu5ZK0vl4cg538g2VRTwphZjI1homQq2Nk2pdxQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dbs.sg.dbsmbanking',
+    appId: 'com.dbs.sg.dbsmbanking',
+    title: 'DBS digibank SG',
+    summary:
+     'DBS digibank, the new mobile banking app. It’s simple, smart, fast and secure.',
+    developer: 'DBS Bank Ltd',
+    developerId: 'DBS+Bank+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/vNCQc9fPeIgyPy-Qc-bmVxrvZGnQIBYsIEOBRmv41XlNO-gy_MSQFxLiSEwM2WKfDTo=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uniqlo.sg.catalogue',
+    appId: 'com.uniqlo.sg.catalogue',
+    title: 'UNIQLO SG',
+    summary:
+     'Download the App to become a UNIQLO member and enjoy exclusive benefits.',
+    developer: 'UNIQLO CO., LTD.',
+    developerId: 'UNIQLO+CO.,+LTD.',
+    icon:
+     '//lh3.ggpht.com/HF4C09oAIJX35fqeKL7x30xhnGBq6GFut5ggitnpbf879nmJkZs6HxH_3OI2p_MyMPw=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

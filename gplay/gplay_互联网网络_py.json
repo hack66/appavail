@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.tweakwarevpn.tw_android',
+    appId: 'net.tweakwarevpn.tw_android',
+    title: 'Tweakware',
+    summary:
+     'A VPN Application that encrypts your mobile internet traffic.',
+    developer: 'castsports',
+    developerId: 'castsports',
+    icon:
+     '//lh3.googleusercontent.com/XxGmChajlFB5GPvIEO3Z2363HL4Qu6BvQyADk7LkoPCS9RFqW_OEtPHiILH9MFszYXU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.upx.proxy.browser',
+    appId: 'net.upx.proxy.browser',
+    title: 'UPX Unblock Websites Proxy Browser - Private, Fast',
+    summary:
+     'Speed, secure proxy browser with chrome adblock. Easy download, unblock websites',
+    developer: 'Unblock Vpn Proxy Browser',
+    developerId: 'Unblock+Vpn+Proxy+Browser',
+    icon:
+     '//lh3.googleusercontent.com/uccVoPMGC8SmVSTyF51vKlv2cYvdJD24g_ursb3TqX6TQrRVjCh_vj0NcyH8AWkdKK8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.vpnsellers.webtunnel',
+    appId: 'net.vpnsellers.webtunnel',
+    title: 'Web Tunnel',
+    summary: 'A Fast and powerful HTTP/SSL  tunning tool',
+    developer: 'Atom Communication',
+    developerId: 'Atom+Communication',
+    icon:
+     '//lh3.googleusercontent.com/_ncoo42XH-w-jsylV6yMUr6hkUOQLaIEdh9O5BKDRhkvaewYrBpV51ByeuBGFDgEVdOG=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector',
+    appId: 'com.evozi.injector',
+    title: 'HTTP Injector - (SSH/Proxy/VPN)',
+    summary:
+     'VPN app to browse the Internet privately and securely with custom header. 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/XIsfKV130h_8RRoy6P4fqG5nZXFB0Uhcew1Q_QLLil1rKXo25a25ETq4-yD81nQ_GBM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.NetworkGlobal.testSpeed',
+    appId: 'com.NetworkGlobal.testSpeed',
+    title: 'Internet Speed Test  - Wifi & 4G, 3G Speed check',
+    summary:
+     'Speedtest is new App helps to measure and verify the download speed andupload',
+    developer: 'GLOBAL NETWORK',
+    developerId: 'GLOBAL+NETWORK',
+    icon:
+     '//lh3.googleusercontent.com/yKikDwkL7qEKmVUCi2lzsw0mn-hodOsyQjXT3ijAMi4onziKadrsVj6J5iVbTF00ppCJ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nezdroid.internetspeedmaster',
+    appId: 'com.nezdroid.internetspeedmaster',
+    title: 'Internet Speed Master',
+    summary: 'Speed up and boost your connection',
+    developer: 'nez droid',
+    developerId: 'nez+droid',
+    icon:
+     '//lh5.ggpht.com/LDEfgONyYQzx-fQQbhCF_UR6JTjp217He7_Vza899n_AHFv3nf2vwmyTd8xZ3gNidA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.anonytun.android',
+    appId: 'com.anonytun.android',
+    title: 'AnonyTun',
+    summary:
+     'Free VPN Tunnel, Unlimited Bandwidth, IP Changer, Website Unblocker, Custom HTTP',
+    developer: 'Art Of Tunnel',
+    developerId: 'Art+Of+Tunnel',
+    icon:
+     '//lh3.googleusercontent.com/K91X6TN0fAUnttaCoCENDKRNAd4B8kL4l6JiNr1ga_O6_n2CJAiNbVLUGBwJF9cTwk8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zheng.meizi.com.share3g4g',
+    appId: 'zheng.meizi.com.share3g4g',
+    title: 'MZ Share Mobile Internet',
+    summary:
+     'MZ Share Mobile Internet 3G/4G support,one click share,Portable wifi Hotspot',
+    developer: 'JTMZ Group',
+    developerId: 'JTMZ+Group',
+    icon:
+     '//lh3.googleusercontent.com/DkEAavv9Qw_VCVkT4u1oOIJyJF-B_bdoJxKL4pzdVWv5B5oD59LGvDb1CAXGVTLKwaBz=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=appinventor.ai_traziotrazio.BrowserVelocepagamento',
+    appId: 'appinventor.ai_traziotrazio.BrowserVelocepagamento',
+    title: 'Internet Veloce',
+    summary: 'Internet Fast PRO',
+    developer: 'IGOR.SM',
+    developerId: 'IGOR.SM',
+    icon:
+     '//lh3.googleusercontent.com/zI7at6SlZrhWvH2GQ-0aD4BYy07-L1-iQS99bzhl4ExqQcuVUbGW4vcZd1J7d4bTSw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.website.blocker',
+    appId: 'com.website.blocker',
+    title: 'Free VPN Private Internet Access - Website Blocker',
+    summary:
+     'Unlimited free VPN and best VPN service to unblocked movies and websites',
+    developer: 'Mobile Security Lab 2019',
+    developerId: 'Mobile+Security+Lab+2019',
+    icon:
+     '//lh3.googleusercontent.com/F3xB0vL5ouvaqodb1CvCFNaIsCBlziHBJ3YfO1VOrUKw7RFusm8opGgQltnUqlpgA4w=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cholaware.eight',
+    appId: 'com.cholaware.eight',
+    title: '8.8.8.8 - Faster Internet & Unblock Sites',
+    summary:
+     'Faster internet and unblock all blocked sites using public Google\'s DNS',
+    developer: 'Cholaware',
+    developerId: '7679934854761174571',
+    icon:
+     '//lh3.googleusercontent.com/z-cz3x97_Ccb1d-lPGE2UQH25mwQUf1UYSHNazR5YoCoFvf-Kc5z-Lj5ay1tvFWKD3N_=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in.troiddns',
+    appId: 'com.in.troiddns',
+    title: 'VPN Over DNS  Tunnel : SlowDNS',
+    summary: 'VPN over DNS.Tunnel for Android',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/06UZ8OZI5NxtBrdWrEeqpEYKeQyH9Qa1Gmv6vIeyVHZ3jJUGBlMGgHQH3wTVlviGTiRb=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.huawei.mw',
+    appId: 'com.huawei.mw',
+    title: 'Huawei HiLink (Mobile WiFi)',
+    summary:
+     'Huawei HiLink is an app for manage HiLink devices anytime, anywhere.',
+    developer: 'Huawei  Internet  Service',
+    developerId: 'Huawei++Internet++Service',
+    icon:
+     '//lh3.googleusercontent.com/YvKMOGnBIDn4MAo0cHmEHy2dA5AYYxZlZFqsgsMjaaZcFGCcXwTm1VyawBQsLpnoS7iq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vtool.speedtest.speedcheck.internet',
+    appId: 'com.vtool.speedtest.speedcheck.internet',
+    title: 'Speed Test App: Internet Speed Test & Speed Check',
+    summary:
+     'Download network speed test app to help you internet speed test of the network',
+    developer: 'VTOOL',
+    developerId: '5193947737244988445',
+    icon:
+     '//lh3.googleusercontent.com/_Stixx62uLh_lBjAg1yHNSPpWv_DyF7r_JKNrp5tF2yAdFc-pJPwuM8TF6TkP5DQ--c=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fast.download.privacy.internet.explorer.im',
+    appId: 'fast.download.privacy.internet.explorer.im',
+    title: 'Internet browser & Explorer, adblocker browser',
+    summary: 'lite browser, fast ,secure, privacy',
+    developer: 'Apps Inventor',
+    developerId: 'Apps+Inventor',
+    icon:
+     '//lh3.googleusercontent.com/aarEyC5g1JFQJe7WyJAMYPqn5XYnUCwuS0Le2i2J_MUjJO5guNOExO1rIxyOnS7TysU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

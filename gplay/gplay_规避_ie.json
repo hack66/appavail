@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=aib.ibank.android',
+    appId: 'aib.ibank.android',
+    title: 'AIB Mobile',
+    summary:
+     'Put AIB Mobile on your phone, and your accounts in your hand',
+    developer: 'Allied Irish Banks, Public Limited Company',
+    developerId: 'Allied+Irish+Banks,+Public+Limited+Company',
+    icon:
+     '//lh3.googleusercontent.com/TVV-VdzrFsPtOez6qDTUdBGiOVX4op6BecNPIgqO0_DUUE5fXWGz_npDdeakRcU3nA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ie.donedeal.android',
+    appId: 'ie.donedeal.android',
+    title: 'DoneDeal: Buy & Sell Locally',
+    summary:
+     'Buy & sell cars easily and quickly on Ireland\'s largest marketplace',
+    developer: 'Distilled SCH',
+    developerId: 'Distilled+SCH',
+    icon:
+     '//lh3.googleusercontent.com/PSxrbZucg_HhAG-HBpmM-P_sjkr3DFr3EhxFCtSwbG5kAWjQa_Q0lak6KT6di799Dw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ie.aladdin.app',
+    appId: 'ie.aladdin.app',
+    title: 'Aladdin Schools Connect',
+    summary:
+     'Access student and school information and receive notifications on your device',
+    developer: 'Aladdin Schools',
+    developerId: 'Aladdin+Schools',
+    icon:
+     '//lh3.googleusercontent.com/VHu_YQp04a1EGkSrnaJMEpkhDSe4rifElJD8WqLYl5_qfWBrkCqE_j-gDZ9ftV8KcQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.connectfour',
+    appId: 'com.mobirix.connectfour',
+    title: '4 in a row king',
+    summary: 'easy rule, use brain, all ages enjoy board games!',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/Zr0HM8o9cKRv_nmxOrKG8LGY8SQy5tN4BK7awfSQGny8yHlRWcHwvRCke-xt8tEFVUHQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peppapig.worldofpeppapig_g',
+    appId: 'com.peppapig.worldofpeppapig_g',
+    title: 'World of Peppa Pig',
+    summary:
+     'Peppa Pig educational games, videos & activities, all in one app!',
+    developer: 'Entertainment One',
+    developerId: '5920339924959681787',
+    icon:
+     '//lh3.googleusercontent.com/vi6wuEGwe2_Kat17iQP--Y_pdapLHMAkVPklKwFud1hQJNB9t_tn1ZHGIE0QGebzbe4=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lgi.virgintv',
+    appId: 'com.lgi.virgintv',
+    title: 'Virgin TV Anywhere Ireland',
+    summary:
+     'Enjoy your favourite shows, series and movies whenever you want.',
+    developer: 'Liberty Global',
+    developerId: 'Liberty+Global',
+    icon:
+     '//lh3.googleusercontent.com/IFk7MqtNBDcKivIi4MAHNn6Lfx0st7G085CPnJpABVWQ3px4saXnnI7xUE42Rrm6fg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ie.bytes.tg4.tg4videoapp',
+    appId: 'ie.bytes.tg4.tg4videoapp',
+    title: 'TG4 Player',
+    summary: 'TG4 Player app for playback of video on demand content',
+    developer: 'TG4',
+    developerId: 'TG4',
+    icon:
+     '//lh3.googleusercontent.com/xeQVHeowGCKs0DgeU_xDIGUbEWGNseWraOjbCEKVuSi_WbDy_HXKEGamIhJ0GD4pQg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.quinny898.game.geoguess',
+    appId: 'uk.co.quinny898.game.geoguess',
+    title: 'GeoGuess: Random Location Game',
+    summary:
+     'GeoGuess - Location guessing! You\'re at a random street view point, but where?',
+    developer: 'KieronQuinn',
+    developerId: '5423209508193504088',
+    icon:
+     '//lh3.googleusercontent.com/YaL3hCW_fQl6ZQdG-CW1BDFXG2dIyqzkgqZ5Totb_O57N1vlKWXtOLUNImebakQsQiww=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.VodafoneIreland.MyVodafone',
+    appId: 'com.VodafoneIreland.MyVodafone',
+    title: 'My Vodafone Ireland',
+    summary: 'My Vodafone Ireland',
+    developer: 'Vodafone Ireland',
+    developerId: 'Vodafone+Ireland',
+    icon:
+     '//lh3.googleusercontent.com/N_CHa0A5TzzGiSGhYJTDNtib-r2jXEUwvuq0mgmbwFQfE6z302wKLa9aowjPSo4a8HA=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.rdr2app',
+    appId: 'com.rockstargames.rdr2app',
+    title: 'RDR2: Companion',
+    summary: 'The official companion app for Red Dead Redemption 2',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/GIqgehgXZ57R7Yz3enoaIzIp8IrXA42ymlHTPQ9EoYi_D0mGO26k6F-_7E7HjRlFmLk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.feedhenry.fhLaya',
+    appId: 'com.feedhenry.fhLaya',
+    title: 'Member App by Laya Healthcare',
+    summary:
+     'Laya members can easily submit their day to day medical expense receipts.',
+    developer: 'Laya Healthcare',
+    developerId: 'Laya+Healthcare',
+    icon:
+     '//lh3.googleusercontent.com/xJgb-9HK90pBc1T5UNWpC8QZF5bdXcILfLgJbdSXQs5Ml5tOHwKBX1nTkM6Tti7Dml4=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uhssystems.homesecure',
+    appId: 'com.uhssystems.homesecure',
+    title: 'HomeSecure ZeroWire',
+    summary: 'Access the HomeSecure ZeroWire alarm system remotely',
+    developer: 'UHS Pty Ltd',
+    developerId: 'UHS+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/6nL2Wg5g6A5LPJLpRdXwEC00WFhzxmqNz2rArWxHbmpKbbdXtiM00lR4siCdhPCF7P3Y=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spotify.music',
+    appId: 'com.spotify.music',
+    title: 'Spotify - Music and Podcasts',
+    summary:
+     'Spotify gives you instant access to millions of songs and podcasts.',
+    developer: 'Spotify Ltd.',
+    developerId: 'Spotify+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.magicfluids.demo',
+    appId: 'com.magicfluids.demo',
+    title: 'Magic Fluids Free',
+    summary:
+     'Colorful fluid simulation will calm you down, or get you trippy and creative!',
+    developer: 'Mad Scientist',
+    developerId: '6174288693947257956',
+    icon:
+     '//lh5.ggpht.com/p1X7g6w4BHokwmTHhE-INfwuy8AX_RtSNHmidzyRJ3RJEWF1ljGmVr201Sbf9R7ntP0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.lego',
+    appId: 'com.lego',
+    title: 'The LEGO® Batman Movie Game',
+    summary: 'The LEGO BATMAN MOVIE GAME  PLAY. BUILD. RUN. DRIVE. DJ.',
+    developer: 'Warner Bros. International Enterprises',
+    developerId: 'Warner+Bros.+International+Enterprises',
+    icon:
+     '//lh3.googleusercontent.com/YouS7ui8UPdHIvTlBNy2A8BQz3eED66wHdFV4YHIl4tBu1DphjB1PrQI9-zcm9nSELb1=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.KalromSystems.SandDrawLite',
+    appId: 'air.com.KalromSystems.SandDrawLite',
+    title: 'Sand Draw Sketch Drawing Pad: Creative Doodle Art',
+    summary:
+     'Draw & sketch art on realistic sandy beach:  doodle & drawing pad app for kids!',
+    developer: 'Kalrom Systems LTD',
+    developerId: '5101937198185715525',
+    icon:
+     '//lh3.googleusercontent.com/FEtDcu77tw3XdrDRscfDVe4_-4_xcL-DuKlmQdjiu9Dqtzn8umCyk2sjGGNuxMqWAyc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment',
+    appId: 'homeworkout.homeworkouts.noequipment',
+    title: 'Home Workout - No Equipment',
+    summary:
+     'Home workouts for fast bodybuilding at home - no equipment needed.',
+    developer: 'Leap Fitness Group',
+    developerId: 'Leap+Fitness+Group',
+    icon:
+     '//lh3.googleusercontent.com/Mxu4YhAr45fbX_iBwi4LiRuSDn9G8R-C_i6PF4Oqys6TqQab2Jl7U5w4WGDtoPwhpTk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.antivirus',
+    appId: 'com.antivirus',
+    title: 'AVG AntiVirus 2019 for Android Security FREE',
+    summary:
+     'Malware protection, App Lock, Photo Vault, Junk and Virus Cleaner, Anti-Theft.',
+    developer: 'AVG Mobile',
+    developerId: '9097425538418209452',
+    icon:
+     '//lh3.googleusercontent.com/_68QJ6XCBOKayILszsXs_pXSsEEJSWVDK_DSxQ33XWXNoUwu_KuONyJFu6otV8hP2Qs=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mode.atlasmara',
+    appId: 'com.mode.atlasmara',
+    title: 'Atlas Mara Zambia Mobile Banking',
+    summary: 'Mobile Banking platform for Atlas Mara Zambia',
+    developer: 'Atlas Mara Zambia',
+    developerId: 'Atlas+Mara+Zambia',
+    icon:
+     '//lh3.googleusercontent.com/WjJ5qRL4qy4tNia4YcSB6-CraHJZbigfFKwEIlr2Ul2JDhPM-fYIHsMSbDb6l5P4Vqg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.changanya.klistumunyimbocanary',
+    appId: 'com.changanya.klistumunyimbocanary',
+    title: 'Klistu Mu Nyimbo',
+    summary: 'Christ In Songs (Bemba Edition)',
+    developer: 'MLK',
+    developerId: 'MLK',
+    icon:
+     '//lh3.googleusercontent.com/kajh3YcpQjCITFAHU7WOMM9c9_xo05F4ev2wq5rTlmx00WddrLfIyiMjWXhWxQMsQDw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cootek.smartinputv5',
+    appId: 'com.cootek.smartinputv5',
+    title: 'TouchPal Keyboard-Cute Emoji,theme, sticker, GIFs',
+    summary:
+     'Cool Android keyboard with gesture typing, predictive text and swype typing!',
+    developer: 'TouchPal',
+    developerId: '6083610479751694817',
+    icon:
+     '//lh3.googleusercontent.com/EAs2fX8GHBBALmbhP90nosblWwO-_hcSEnDVtmkIctc_LaGZP0xeabtGOjzhl2VQ5Gw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iwatsolutions.loadup',
+    appId: 'com.iwatsolutions.loadup',
+    title: 'Airtime Loadup - Airtime loader & scanner',
+    summary:
+     'Airtime loading app for all countries & networks using a phone\'s camera',
+    developer: 'IwatSolutions',
+    developerId: 'IwatSolutions',
+    icon:
+     '//lh3.googleusercontent.com/-d83vFT_wCxDkFdln0b6_kRpnP4fYFH50YUA1vgR6xI-PiH3HuEbK0RHvUQvWbUIXDVK=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mode.tenga',
+    appId: 'com.mode.tenga',
+    title: 'Tenga Mobile Money',
+    summary:
+     'Tenga Mobile Money is Zambia’s most powerful Mobile Money solution.',
+    developer: 'Atlas Mara Zambia',
+    developerId: 'Atlas+Mara+Zambia',
+    icon:
+     '//lh3.googleusercontent.com/rtOaQbjNNUIxxpB39uRMaJrHaA74CBHYwghDLqgoRFrquC7uz1jjcS4SHYG3DMM5tUHx=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify',
+    appId: 'com.musixmatch.android.lyrify',
+    title: 'Musixmatch - Lyrics for your music',
+    summary: 'All the music you love with lyrics and translations',
+    developer: 'Musixmatch',
+    developerId: 'Musixmatch',
+    icon:
+     '//lh4.ggpht.com/yrUJPyt4kgNtLTnWK42fHteubCfllwm-Hk0uDut2jQr96mkch4-uNwEoQXwVIEtmUeGd=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.devshackintl.vmobile.zanaco',
+    appId: 'com.devshackintl.vmobile.zanaco',
+    title: 'ZANACO Mobile Banking',
+    summary:
+     'Zanaco free Mobile Banking App allows you to bank as and when you please',
+    developer: 'Zanaco Mobile Banking',
+    developerId: 'Zanaco+Mobile+Banking',
+    icon:
+     '//lh3.googleusercontent.com/vSlE5YubeoqkW1UXdmiSr-UXJLGxfvz4pGVoyFv9gGTCEwddr8ItKC2qTZRlZopWPdE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tubemote.app',
+    appId: 'com.tubemote.app',
+    title: 'TubeMote',
+    summary:
+     'Remote control for YouTube, Twitch, Vimeo, Dailymotion, Soundcloud, and more!',
+    developer: 'TubeMote',
+    developerId: 'TubeMote',
+    icon:
+     'https://lh3.ggpht.com/4gjRTtXxMox7WyylcmTRlQl9YLCG2Kbofs-HvR1HpydYlcHbC45-WzIuTMMknOwt4g=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ludashi.dualspace',
+    appId: 'com.ludashi.dualspace',
+    title: 'Dual Space - Multiple Accounts & App Cloner',
+    summary:
+     'Create a parallel space in phone to run multi account of same app simultaneously',
+    developer: 'SUPERLITE',
+    developerId: '5718998089519219768',
+    icon:
+     '//lh3.googleusercontent.com/-mQnEzED46naAdQYFdSO62YmG67QopX638HXujq2JNvjMxo3i_wP7BT7Au99QGbVlg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eczpastpapers',
+    appId: 'com.eczpastpapers',
+    title: 'ECZ Past Papers',
+    summary: 'Hundreds of past exam papers at your fingertips :)',
+    developer: 'Gochi',
+    developerId: 'Gochi',
+    icon:
+     '//lh3.googleusercontent.com/efVnjSywIKJ0m7TUF74SqEqZ5P8EVdlBNGx8DKKdxPz_MoWhGWbPhFE6uT1iqMUpFjmv=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adpog.diary',
+    appId: 'com.adpog.diary',
+    title: 'Diary with lock',
+    summary: 'Create your own personal DIARY with lock.',
+    developer: 'WriteDiary.com',
+    developerId: 'WriteDiary.com',
+    icon:
+     '//lh3.googleusercontent.com/HTX4QtnaIl6JT4jn6gb9MLCvU3fGkpYeyqqfKH_eRfZkO3gEr1EpxEnvjraT4nGWHW4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

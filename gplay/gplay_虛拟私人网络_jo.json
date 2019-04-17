@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dywx.larkplayer',
+    appId: 'com.dywx.larkplayer',
+    title: 'Lark Player —— YouTube Music & Free MP3 Top Player',
+    summary: 'Free Video, YouTube, and MP3 Music Player',
+    developer: 'Mobiuspace Tech Top Player',
+    developerId: 'Mobiuspace+Tech+Top+Player',
+    icon:
+     '//lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor',
+    appId: 'com.xvideostudio.videoeditor',
+    title: 'VideoShow Video Editor, Video Maker, Photo Editor',
+    summary:
+     'Powerful Video Editor with Music, Free Vlog Maker and Intro Maker, Beauty Camera',
+    developer: 'VideoShow EnjoyMobi Video Editor & Video Maker Inc',
+    developerId: '8114105855888506023',
+    icon:
+     '//lh3.googleusercontent.com/5J0NZoGcla_MXumglVx1T_Mu7AyZsdZiRYbexAGf7W6cJn-_KGpZxeRHRntv1Y2HQQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lbe.parallel.intl',
+    appId: 'com.lbe.parallel.intl',
+    title: 'Parallel Space - Multiple accounts & Two face',
+    summary:
+     'Run multiple accounts of the same app at once, create a unique space by themes.',
+    developer: 'LBE Tech',
+    developerId: '5871470615150672879',
+    icon:
+     '//lh3.googleusercontent.com/Xmq3VtRg9KESalnwQ-XHIfTrarnNnJF2jAgyA1cqnEbMdPojqvEjSqjr7BCvbzOJU9E=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.security',
+    appId: 'com.cleanmaster.security',
+    title: 'Security Master - Antivirus, VPN, AppLock, Booster',
+    summary:
+     'Get 💯protection with Antivirus, Free VPN, AppLock, WiFi Security&Booster here!',
+    developer: 'Cheetah Mobile (AppLock & AntiVirus)',
+    developerId: '8544729060931835350',
+    icon:
+     '//lh3.googleusercontent.com/mRmDkPRRuyNmtm-_z_KToVzDfEj8PLa6xBD2xhzHz4oBHmOsWLk0bBFcT_7EdYYVx_0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smule.singandroid',
+    appId: 'com.smule.singandroid',
+    title: 'Smule - The #1 Singing App',
+    summary:
+     'Enjoy karaoke on your phone. Sing karaoke with top artists & friends!',
+    developer: 'Smule',
+    developerId: 'Smule',
+    icon:
+     '//lh3.googleusercontent.com/wXgP-TP1RMD2g3Eyv725lmwDlv-qo6gd4TadAR-u4COAODUJi4uNTM2EnqwPflLdNg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree',
+    appId: 'com.nexstreaming.app.kinemasterfree',
+    title: 'KineMaster – Pro Video Editor',
+    summary: 'Easy, powerful video editor',
+    developer: 'KineMaster Corporation',
+    developerId: 'KineMaster+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/6TKqdBcu3XvTWGRlfclOn35VWSX1zuwgpDxYfh29W53pIbCuD1gZ6_Uxe_mLk0n6QQg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.gm',
+    appId: 'com.google.android.gm',
+    title: 'Gmail',
+    summary: 'Email from Google',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appstar.callrecorder',
+    appId: 'com.appstar.callrecorder',
+    title: 'Automatic Call Recorder',
+    summary: 'The best way to record your phone calls.',
+    developer: 'Appliqato',
+    developerId: 'Appliqato',
+    icon:
+     '//lh3.googleusercontent.com/5FDNvkkhDmUrJ2WprLpDU8lgsd1AvfDrghk_1QIi7K9P0U0tRDE3Gu02QU1YI_4zINPu=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.duapps.recorder',
+    appId: 'com.duapps.recorder',
+    title: 'DU Recorder – Screen Recorder, Video Editor, Live',
+    summary:
+     'Screen recorder, video editor & live creator to capture HD screen videos!',
+    developer: 'Screen Recorder & Video Editor',
+    developerId: '7476206629215101066',
+    icon:
+     '//lh3.googleusercontent.com/kwbBFuTwWgsZEyNDllFGDiGTux5Xuy0eNrtMgcAbUSTlTHvYwOugfDCJzAOYFLcKTPU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.touchtype.swiftkey',
+    appId: 'com.touchtype.swiftkey',
+    title: 'SwiftKey Keyboard',
+    summary:
+     'The Best Swipe & Emoji Keyboard. Customize your keyboard and swipe to type.',
+    developer: 'SwiftKey',
+    developerId: 'SwiftKey',
+    icon:
+     '//lh3.googleusercontent.com/cwGQJjbFjppZ9R-cyvUxjhHRp9C0feDpH0xZ9dvyHKp_az6RNHpf5AntBoA6FUGP1wk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

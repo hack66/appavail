@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.xiaoming.vpn',
+    appId: 'com.xiaoming.vpn',
+    title: 'Xiaoming VPN - Simple Free Unlimited & Safe',
+    summary:
+     'Simple Free Unlimited & Security. No signing up. Just one button to use',
+    developer: 'Xiaoming Addison',
+    developerId: 'Xiaoming+Addison',
+    icon:
+     '//lh3.googleusercontent.com/pYnWR_8GN03cVSnhR5nlY6fWoCuDp9kK-jcnXwYtEUHRXURT1yz757zObPfi2XobZA=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vm.shadowsocks.sockhome',
+    appId: 'com.vm.shadowsocks.sockhome',
+    title: '飞鱼（永久免费回国VPN）——海外党解锁国内音乐视频资源回国追剧听音乐的加速器',
+    summary:
+     'A network proxy VPN for unlocking domestic music video resources for overseas Chinese to return to China for free',
+    developer: 'happymobile',
+    developerId: 'happymobile',
+    icon:
+     '//lh3.googleusercontent.com/C4AUHVc8mF3goVvtWs7u_e1qe5n5uckzhmbeY6Ss_DVvOWW-_sdL1N7n--CGyPoKCwI=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.kmvpn11',
+    appId: 'com.vpn.kmvpn11',
+    title: 'ACT VPN – Unlimited Free VPN & Fast VPN Proxy',
+    summary: '100% free VPN! High VPN speed',
+    developer: 'VPN 翻墙',
+    developerId: 'VPN+%E7%BF%BB%E5%A2%99',
+    icon:
+     '//lh3.googleusercontent.com/jmXt0IaLOd-8Xy3UFEr_G3kVU2kvnDwjUhxtaybV0ipXD8Lfwtgg7_KJYs7kKlDp4kBe=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=in.teleplus',
+    appId: 'in.teleplus',
+    title: 'TelePlus - 免翻牆電報',
+    summary:
+     'TelePlus - 免翻牆電報" is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'TelePlus',
+    developerId: 'TelePlus',
+    icon:
+     '//lh3.googleusercontent.com/1HW0JHz8YhKWe11P3M0yXcsXIU2CEtjkYq9k2qfriS1KNmLiVYj7wV8G14cUTTr0AoY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.young.ss',
+    appId: 'com.young.ss',
+    title: 'HumBirdVPN-蜂鸟VPN-完全免费的科学上网助手',
+    summary:
+     'Hummingbird VPN is a completely free (no paid entry) science online / over the wall tool APP',
+    developer: 'FreeVPNService',
+    developerId: 'FreeVPNService',
+    icon:
+     '//lh3.googleusercontent.com/R7zk-sGPTU2MtU1ijQYBdt5s1rUgqGVmDHYYGrQ3UDt_WwobTuPv3tIyHIIDotkltcBV=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.multiselect',
+    appId: 'com.multiselect',
+    title: '51VPN Free and Unlimited Hongkong Japan nodes',
+    summary: '51VPN provides free VPN service, surf the global network.',
+    developer: 'Sunshine android developer',
+    developerId: 'Sunshine+android+developer',
+    icon:
+     '//lh3.googleusercontent.com/DPyz4kMfYDvTreUIVXwZZkVedgYolI6cK_jOttgqwIE7gozSDzjG-De9neAVOwX6mQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dmtec.a91jiasu',
+    appId: 'com.dmtec.a91jiasu',
+    title: '91加速VPN-双向翻墙科学上网',
+    summary:
+     'Domestic users go to Yang Fan, overseas Chinese return to China',
+    developer: '91加速',
+    developerId: '91%E5%8A%A0%E9%80%9F',
+    icon:
+     '//lh3.googleusercontent.com/28iSRfh4TfYCzS4RwLmuXzCORhtCe0Ai1leU_SZ3OR78KAlkW_PD_b55Y8OH88Nh2g=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crzants.ad.shadowsocks',
+    appId: 'com.crzants.ad.shadowsocks',
+    title: 'OpenWorld VPN - VPN proxy for unblock China',
+    summary:
+     '海外华人翻墙回中国必备 VPN for Android that can help you unblock any website you want.',
+    developer: 'Crzants',
+    developerId: 'Crzants',
+    icon:
+     '//lh3.googleusercontent.com/GU_nCXKVgYrbDlO0-H5lFYGBmmc8PHXWC9cGCo_sx5PY2SrrMyvMe-KdZ1WeKjQ0M2s=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.muma.pn',
+    appId: 'com.muma.pn',
+    title: 'Wuma VPN-PRO(Fast & Unlimited & Security)',
+    summary: 'Best VPN Proxy, unlimited traffic, privacy.',
+    developer: '无码wuma vpn',
+    developerId: '%E6%97%A0%E7%A0%81wuma+vpn',
+    icon:
+     '//lh3.googleusercontent.com/XOoPk4ShRMXWubCkXldCp0z_VccvCEs9Vc7kfIlljw-6ZgkeRmFLHwuvGzYUbdO-qQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adi.ufunr',
+    appId: 'com.adi.ufunr',
+    title: 'UfunR - 免费回国VPN，帮助海外华人访问国内应用。',
+    summary:
+     'Free permanent return to China VPN to help overseas Chinese access domestic applications.',
+    developer: 'ABCT网络科技有限公司',
+    developerId:
+     'ABCT%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/bNKfu_f1tYGhGY-WeS4FFgbCDwBzJ920OwH1VNZYFyjZfxyBvvpU_i8kx6zDvHPHSe-H=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cc.soonet.bitgp',
+    appId: 'cc.soonet.bitgp',
+    title: '比特VPN（永久免费、无广告）',
+    summary:
+     'VPN bit lines to provide permanent free, no ads, the Internet is the science, over the wall of the essential artifact!',
+    developer: 'LEILEI',
+    developerId: 'LEILEI',
+    icon:
+     '//lh3.googleusercontent.com/mecuvSgoiyv3h9004PHrudCkeRomSc9Ugjxa4j2RzO9t--tbFqeiCeqRyyT5EZamuHg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.garentech.polestar',
+    appId: 'com.garentech.polestar',
+    title: 'PolestarVPN -  Free & Fast , Unlimited & Stable',
+    summary:
+     'PolestarVPN is a free vpn, easy to use, one-touch connection to hide your IP.',
+    developer: 'Holy Six',
+    developerId: 'Holy+Six',
+    icon:
+     '//lh3.googleusercontent.com/IWoXSVNLm-ThFuk7pCwZKrVKy8-OMPL_QAD55kJ8zhwKW0pf5G2Qx_h09k-rNHuSPZs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kb.vpn',
+    appId: 'com.kb.vpn',
+    title: '闪归(永久免费)--华人回国追剧听音乐的VPN',
+    summary:
+     'One-click permanent free wall-to-country VPN gadget, one-click unlocking domestic TV series, music, and massive video resources, permanent ad-free version.',
+    developer: 'BrotherTech',
+    developerId: 'BrotherTech',
+    icon:
+     '//lh3.googleusercontent.com/yiaksrm2O-5jgniFGy4g8-TyN88yzhC4LSA9W5BKJ8IZO1RJeo8xNua0hUHfYbaA2o4=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.antiless.sofavpn',
+    appId: 'com.antiless.sofavpn',
+    title: 'SofaVPN',
+    summary: 'One-click connection, make your data under protect.',
+    developer: 'Antiless',
+    developerId: 'Antiless',
+    icon:
+     '//lh3.googleusercontent.com/6Eg_OR7jmxt4KH1B0FNZch1XwqzzagBciwqZXP2FrHPFiV9Z2uJ8hfIS12QhXyJuAQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.autually.advpn',
+    appId: 'com.autually.advpn',
+    title: 'Easy VPN - Unlimited Free & Fast Security Proxy',
+    summary:
+     'Best unlimited free VPN to unblock sites, security ,protect privacy,Best VPN',
+    developer: '免费vpn，wifi加密，访问全球网站',
+    developerId:
+     '%E5%85%8D%E8%B4%B9vpn%EF%BC%8Cwifi%E5%8A%A0%E5%AF%86%EF%BC%8C%E8%AE%BF%E9%97%AE%E5%85%A8%E7%90%83%E7%BD%91%E7%AB%99',
+    icon:
+     '//lh3.googleusercontent.com/JvDOx-oYKfEvpQ-ho2VDJiEBX5tQCZprTzUQKF6rwRqInUVs3YAb5lB19fxfgVFAiWw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cc.oasis.minor1',
+    appId: 'cc.oasis.minor1',
+    title: '快帆加速器——华人专用听国内音乐看视频玩游戏的VPN工具',
+    summary:
+     'Overseas Chinese listen to music, watch videos, play games, must return to the country VPN, easily listen to cool dog NetEase QQ music ~',
+    developer: 'HongKong BoHan Technology Ltd.',
+    developerId: 'HongKong+BoHan+Technology+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/PGO0jBrgeviGnYY167WLcDCXiM_XdIKCXuuMO1QxJQEYJxdZ8-eL5Hgztna5pcxSWvM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.xhss.tomvpn',
+    appId: 'me.xhss.tomvpn',
+    title: 'TomVPN- free high speed one - click VPN connection',
+    summary:
+     'TomVPN free* simple one-click connection* fast and stable* free use',
+    developer: 'XHSS.ME',
+    developerId: 'XHSS.ME',
+    icon:
+     '//lh3.googleusercontent.com/Zzyt0G4d1r5Vf31TFwTWvH_fEu7eeuCUcLxG3kOWXyGGHXl0BaugFEqq7WIx6gPNgA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qq.network',
+    appId: 'com.qq.network',
+    title: 'VPN proxy shadowsocket LightVPN',
+    summary:
+     'LightVPN is the fast VPN . Simple to use,no limit bandwidth and traffic，FreeVPN',
+    developer: 'dengtahelper',
+    developerId: 'dengtahelper',
+    icon:
+     '//lh3.googleusercontent.com/nHs3KfiqtHWwfSlGvADBcM3AD84N8LyowaONsjoKWXuPllNxUAcGnnaS_PT_Bmlf7og=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

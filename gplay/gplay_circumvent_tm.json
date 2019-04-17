@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshua.legalforms',
+    appId: 'com.joshua.legalforms',
+    title: 'Complete Legal Forms',
+    summary:
+     'This apps contains legal forms and agreements to safeguard your legal rights',
+    developer: 'Joshua Inc',
+    developerId: 'Joshua+Inc',
+    icon:
+     '//lh5.ggpht.com/GFsqsT4D0KYbyY-pNLLYkPhQs6zEp8b1phjktdl8sgNOSk-QljRyEMDz_p7WCblLYKI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.devloperinc.fastfreevpn',
+    appId: 'com.devloperinc.fastfreevpn',
+    title: 'Fast Free VPN Unlimited Proxy Master',
+    summary:
+     'Use unlimeted fast VPN network with Fast Free VPN Unlimited Proxy Master.',
+    developer: 'Devloper inc',
+    developerId: 'Devloper+inc',
+    icon:
+     '//lh3.googleusercontent.com/Hn-FfS4GSLJXrQOPbgTxLdrw0VtRGfESOdmO4ZGNs5ko2JnBVMy7f8jmLv9BjSUklEI=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.hotspotcontrol',
+    appId: 'eu.chainfire.hotspotcontrol',
+    title: 'Hotspot Control',
+    summary:
+     'Tiny app that enables or disables Portable Hotspot functionality of Android',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     '//lh4.ggpht.com/rR7RiC1i2_9GsH-ei4Y6O6Gn9K8vLpgcYkPjFZIlRNgjmZeYSF-k9UcdfBGho77e7w=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.lah9ifree84y',
+    appId: 'com.vpn.lah9ifree84y',
+    title: 'Best Android VPN & Unlimited Freedom Fast & Secure',
+    summary:
+     'Best Android VPN Unlimited Freedom proxy service for Android mobile tablet users',
+    developer: 'Free VPN Studio',
+    developerId: '6101273273449202990',
+    icon:
+     '//lh3.googleusercontent.com/-9t0HCIJabt29CSRjYJG8ouaqMA2DTF84YVm3XiweAGUU_XF5cBg_9g0lOssNocu7bS9=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.geesiamdev.geesiam',
+    appId: 'com.geesiamdev.geesiam',
+    title: 'Geesiam',
+    summary:
+     'Simple, secure and unlimited push messaging, note keeping and management',
+    developer: 'Geesiamdev',
+    developerId: 'Geesiamdev',
+    icon:
+     '//lh3.ggpht.com/Vdi7CVyBcq4uv4gZOjoTQ_j6SQOk1e7_9PQ6ufbrUDoRZjwpBdlzcPSXjQHOxRqwZRPS=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tctelephone.app.android',
+    appId: 'com.tctelephone.app.android',
+    title: 'TC Telephone',
+    summary: 'TC Telephone softphone',
+    developer: 'TC Telephone',
+    developerId: 'TC+Telephone',
+    icon:
+     '//lh3.googleusercontent.com/x3D8i5H6FKpQ_q2vm6FQHJA4Dpbip9AL1tOaE2Gc57es57HDxuaAWwtx_CJi5qhan3o=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.StephenGibson.GSCompanionApp',
+    appId: 'com.StephenGibson.GSCompanionApp',
+    title: 'Grimslingers Guides & Tools',
+    summary:
+     'Learn the game, improve set up times and acquire additional content.',
+    developer: 'Stephen S Gibson',
+    developerId: 'Stephen+S+Gibson',
+    icon:
+     '//lh3.googleusercontent.com/VKWleXZEl_ejLEoD3HSecMZ7dGs16PxXJmq1GaAQrUqCuaTC8Z6cOP5eIV0gRh0eIc8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ashgeek.quietontime',
+    appId: 'com.ashgeek.quietontime',
+    title: 'SmartMute',
+    summary: 'Mute as you wish. Mute your phone for a period of time.',
+    developer: 'ASHGEEK',
+    developerId: 'ASHGEEK',
+    icon:
+     '//lh3.googleusercontent.com/KB05ieLZzMyHyPl5c8VBcJiHCvy44pwZNeCR9j2xzz-qavTm0aFMLcWNuEh3FitoYWk=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maker_bestapp.meme.mememaker',
+    appId: 'com.maker_bestapp.meme.mememaker',
+    title: 'Meme, Quote Maker',
+    summary: 'Make Mems  and Quote Pics',
+    developer: 'Shaaban',
+    developerId: 'Shaaban',
+    icon:
+     '//lh3.googleusercontent.com/HpOrgDym7X5qVzYiyPUi4r3tQTGZhFT9PFvkrBuVuiKgc1P4U2hz3kpfve1Kr7Yw01Y=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.selfdefensebook.android',
+    appId: 'com.selfdefensebook.android',
+    title: 'Self Defense Book',
+    summary:
+     'This application will allow you to know some basics of self-defense.',
+    developer: 'SysWare',
+    developerId: 'SysWare',
+    icon:
+     '//lh3.googleusercontent.com/VRRfJsxtdDB-W3mjA6vI2ob1i-YMGUKxmZqmctXDoC126c401R5X9xbfLfWchm_3AU06=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.warpvpn.apps.warpvpn',
+    appId: 'com.warpvpn.apps.warpvpn',
+    title: 'WarpVPN',
+    summary: 'VPN',
+    developer: 'WarpVPN, LLC',
+    developerId: 'WarpVPN,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/52Au8RubQvXJyxKd3FqXXHzKISuyPk2oay7PlHlLFibvKrzJD0fTLt7W0Mo0gnMd8Js=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.vguillou.etickettile',
+    appId: 'me.vguillou.etickettile',
+    title: 'E-ticket tile',
+    summary: 'A Quick Settings tile for easy e-ticket scanning',
+    developer: 'Vincent Guillou',
+    developerId: 'Vincent+Guillou',
+    icon:
+     '//lh3.googleusercontent.com/vImW0MkgVvIT3bUijO2qkUT6W1sUrJNAEPOo1EKQpDRh0q2BCgA9B2FT6qJY-Dj4t08=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
+    appId: 'free.vpn.proxy.unblock.android.easy.app',
+    title: 'VPN Easy',
+    summary:
+     'Easy to use Free VPN ProxyUnblock Websites & AppsSecure and Anonymous Surf',
+    developer: 'ZPN',
+    developerId: 'ZPN',
+    icon:
+     '//lh3.googleusercontent.com/9-63ouBNNo-BmrmTerLleWU3odKSWmxi8nPJUz3TFGniHAo47OCn9fYJeTcQvkTrpTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.matblunic.runowl',
+    appId: 'com.matblunic.runowl',
+    title: 'RunOwl',
+    summary:
+     'RunOwl Pleasant game atmosphere, create an illusion of the inherent in the game.',
+    developer: 'MatBlunic',
+    developerId: 'MatBlunic',
+    icon:
+     '//lh3.googleusercontent.com/DIN8q4R8nQyb6cE2fdAQ2qOkkzamjIcL5WI3HSnynwb54ODDQO_bwWKfwV0gN5NY9TaQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobincube.android.sc_3EAB14',
+    appId: 'com.mobincube.android.sc_3EAB14',
+    title: 'Free Television Review',
+    summary:
+     'Magazine with information on how to watch free TV on mobile phones',
+    developer: 'Mr Review',
+    developerId: '8124247824259277435',
+    icon:
+     '//lh3.googleusercontent.com/Jvm9dgQz3ny_kKxH00vZN5XJzOynxd0D1PzA2W8Rq-eQSNan4pwzlQb44Q_qXB70zxMb=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vizure.webspeakerfull',
+    appId: 'com.vizure.webspeakerfull',
+    title: 'Web Speaker AdFree',
+    summary: 'A website reader for those that prefer to be read to.',
+    developer: 'Vizure LLC',
+    developerId: 'Vizure+LLC',
+    icon:
+     '//lh3.googleusercontent.com/EtQDPIW8lmWefE9OwN6f5v8Zm9LFF5udBWQ7P-qbUKe3prIUcWtsp1evL1t6rDmRsA=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '$2.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

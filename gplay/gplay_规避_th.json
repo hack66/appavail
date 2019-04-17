@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.phoewa.sports',
+    appId: 'com.phoewa.sports',
+    title: 'Foewa',
+    summary:
+     'Foewa keeps you updated with the latest news, results, squads and more details.',
+    developer: 'Kyaw Kyaw Aung',
+    developerId: 'Kyaw+Kyaw+Aung',
+    icon:
+     '//lh3.googleusercontent.com/7qa1579SngalVMo_U4uxSM4JC4Ywh4J0Bi0aER9KjbYVJ9hTpizfHNjDqBpiPCkxlvCa=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.belkatechnologies.fe',
+    appId: 'com.belkatechnologies.fe',
+    title: 'Funky Bay - Farm & Adventure game',
+    summary:
+     'Build a town on a tropical island. Make a farm. Embark on exciting adventures!',
+    developer: 'BELKA GAMES',
+    developerId: '4845317959578407531',
+    icon:
+     '//lh3.googleusercontent.com/dUsv1s2-I1CN9BLmvDCE7wymHJxjeihY6yXy_LmdAx2NxxzlXeFHHXETYf2ZKHE84w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.boxita.booster.supercleaner',
+    appId: 'com.boxita.booster.supercleaner',
+    title: 'All Cleaner - Speed Booster, Junk Cleaner',
+    summary:
+     'boost the memory of your phone, clean junk and get system info for free',
+    developer: 'codetips',
+    developerId: 'codetips',
+    icon:
+     '//lh3.googleusercontent.com/lF9aFLBEpQf7n4_YsTLQTqy2rpoxTqSENOFjEpj6AVZQyF3neJQwFYvRn-GrUIP6Ln9X=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hesoft.t2s.plugin.encoder.mp3',
+    appId: 'hesoft.t2s.plugin.encoder.mp3',
+    title: 'T2S plugin: mp3 encoder',
+    summary: 'The plugin enables T2S to export audio file in mp3 format',
+    developer: 'HE SOFT',
+    developerId: 'HE+SOFT',
+    icon:
+     '//lh3.googleusercontent.com/l2_JEXxbge7hiCre3IanTpYng9fn-rn7HRa2_bPbE8lP3VBV8TB2vxpoBkxeTfQAviCy=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.longtugame.yulgang',
+    appId: 'com.longtugame.yulgang',
+    title: 'Yulgang Mobile',
+    summary: 'MMORPG copyright genuine official.',
+    developer: 'LTGame',
+    developerId: 'LTGame',
+    icon:
+     '//lh3.googleusercontent.com/QgwBQ1WjQtXLM0EhEm_FnOFTzky7oZokpHcbgngvh8FltRsTTEiivIp8Z7obIs_hR_g=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ladywizard.vampire',
+    appId: 'ladywizard.vampire',
+    title: '100 Years Love with a Vampire',
+    summary:
+     'The one who has appeared from my grandma\'s jewellery box is…a little Vampire !?',
+    developer: 'Lady Wizard',
+    developerId: '6007079758762978222',
+    icon:
+     '//lh3.googleusercontent.com/h1vb0iB7ZAb622B929zUuFB-IIHnx5Q369ZMVZFFaNoiKV4msr5zIvhCULqJTTjzHw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.redfrog.idinosaurkr',
+    appId: 'com.redfrog.idinosaurkr',
+    title: 'iDinosaurAR',
+    summary:
+     'Unleash incredible Augmented Reality dinosaurs with your amazing iDinosaur book.',
+    developer: 'Red Frog Digital Limited',
+    developerId: '4866829440343868629',
+    icon:
+     '//lh3.ggpht.com/gD3OBbIcX3hLETI56jBJxkhQVSquTrdQpP24jbs0REJ0QuJsIxPmC7yvVgmXvGoQCVo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.oneupplus.SpellswordOrigins',
+    appId: 'com.oneupplus.SpellswordOrigins',
+    title: 'Spellsword Cards: Origins',
+    summary:
+     'A rogue-like deck-builder set in the Spellsword Cards universe awaits!',
+    developer: 'One Up Plus',
+    developerId: 'One+Up+Plus',
+    icon:
+     '//lh3.googleusercontent.com/nnQg78LFvgC1N8IJbxXQoP87oHs0XIU5aqO5DNw5Uu6xnJ1B-IMf9_Z5AwXCO2gf8zw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gumptech.crabcrab',
+    appId: 'com.gumptech.crabcrab',
+    title: 'CrabCrab: Online Crane Game',
+    summary:
+     'Try it for FREE! Win the newest Japanese style dolls and toys! Free shipping!',
+    developer: 'DEEP WIRELESS TECH CO., LIMITED',
+    developerId: 'DEEP+WIRELESS+TECH+CO.,+LIMITED',
+    icon:
+     '//lh3.googleusercontent.com/s93a1i1EZ9tl6B_cLzfFoH2NdZF3B5_NYf8naX8CYTuFulAD-JxjNHgR2Mno8Z70BA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.panapp.lotto2015',
+    appId: 'com.panapp.lotto2015',
+    title: 'ตรวจหวย สลากกินแบ่ง',
+    summary:
+     'App review free raffle Sort numbers with lucky number and send to your mobile every period.',
+    developer: 'Best Free Aps',
+    developerId: 'Best+Free+Aps',
+    icon:
+     '//lh3.googleusercontent.com/f2p6rhqzR-wAiS48LgNmKatkW2UyWDIcDnbixHAjR0bLtpi2pjflQBZwguUbv6_n27tY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.koinfox.android.wallet',
+    appId: 'com.koinfox.android.wallet',
+    title: 'KoinFox',
+    summary:
+     'Koinfox is the most Intelligent, Faster & Profitable way to trade in crypto.',
+    developer: 'Decentralised Financial Corporation',
+    developerId: 'Decentralised+Financial+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/J5O5qYAWOfsYJ1-4gT6VB8FG7xvoESJJ6FmW7xd33z93BMhR1u5AVJeKGPtoG7m2uMU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eyebot.wifi',
+    appId: 'com.eyebot.wifi',
+    title: 'EYEBOT WIFI',
+    summary:
+     'The APP is a mobile application that connects to mister robot robot products.',
+    developer: 'M.M. Global Trade Company Limited',
+    developerId: 'M.M.+Global+Trade+Company+Limited',
+    icon:
+     '//lh3.googleusercontent.com/K3Ei2yGgeMpJO8xNdrUgrRvm9eifINoqI9y4MDn6HWuFknZuEJ0LdnlClNWhTOVVdQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.color.apps.thaikeyboard.thai.language',
+    appId: 'com.color.apps.thaikeyboard.thai.language',
+    title: 'Thai Color Keyboard 2019: Thai Language',
+    summary:
+     'Thai Color Keyboard 2019 is best for Thai Language with Emojis and Themes',
+    developer: 'Color Apps HBN',
+    developerId: 'Color+Apps+HBN',
+    icon:
+     '//lh3.googleusercontent.com/8Xw4x2NH4Kq9gYhllM0VucCBLrL40TErquyPIAJv93NDih8HdLnmNaZyrPyla70ACg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

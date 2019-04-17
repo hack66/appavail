@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=it.beem.app',
+    appId: 'it.beem.app',
+    title: 'Beem It - Pay Request Split Money',
+    summary:
+     'Pay, request and split money instantly - no matter who you bank with',
+    developer: 'Beem It',
+    developerId: 'Beem+It',
+    icon:
+     '//lh3.googleusercontent.com/QfaigBs8Y_CQpobhujgvCAgYeolT0LuGKesIPKmp1CmhDdRScQnx8NBIvr85_euexg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.mi9.jumpin.app',
+    appId: 'au.com.mi9.jumpin.app',
+    title: '9Now',
+    summary:
+     '9Now is your new way to access Channel 9 – it’s easy to use and it’s free.',
+    developer: 'NINE NETWORK AUSTRALIA PTY LTD',
+    developerId: 'NINE+NETWORK+AUSTRALIA+PTY+LTD',
+    icon:
+     '//lh3.googleusercontent.com/UbB6BXNPE2rQ6AAz5ej9yyFrOiTp1tN7uj1xnBx2SLhk4Q9NbxVFl6bEKKHKbQ1D6w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.kayosports',
+    appId: 'au.com.kayosports',
+    title: 'Kayo Sports',
+    summary:
+     'The most comprehensive sports streaming service in the world, just for Aussies.',
+    developer: 'Streamotion Pty Ltd',
+    developerId: 'Streamotion+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/l6w08FyI08knOC1C3Np2oamLPhVh417bqMSINad4rH-ZpveXggblxAZpwyk_SADBc7I=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.net.abc.abcme',
+    appId: 'au.net.abc.abcme',
+    title: 'ABC ME',
+    summary:
+     'A video app for Australian primary schoolers, part of the ABC iview family',
+    developer: 'Australian Broadcasting Corporation',
+    developerId: '7000128209404754832',
+    icon:
+     '//lh3.googleusercontent.com/q-zi6zeV2LrnNjJI-e3ax5OPLp7SfsVTbmNDq8mPh-TQRGKyhwzZzq_UuUZGbPQMZmRM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.grofsoft.tripview.lite',
+    appId: 'com.grofsoft.tripview.lite',
+    title: 'TripView Lite',
+    summary:
+     'TripView displays Sydney and Melbourne public transport timetable data.',
+    developer: 'TripView Pty Ltd',
+    developerId: 'TripView+Pty+Ltd',
+    icon:
+     '//lh3.ggpht.com/628C03gK6HH44dIsKZzoInllTPVjg9aO9WEJVOMySWhsdwaomZu-hFFpvwVKhHqM0PA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tmr.checkrego',
+    appId: 'com.tmr.checkrego',
+    title: 'QLD Rego Check',
+    summary:
+     'Free registration status check of cars, trucks, trailers & motorcycles in Qld.',
+    developer: 'Department of Transport and Main Roads Queensland',
+    developerId: 'Department+of+Transport+and+Main+Roads+Queensland',
+    icon:
+     '//lh3.ggpht.com/7DYRbJoY89v1VvH3oHUKSTC1ZR6-uT6_tv6vq03MAKCChowsNy3P1y8kp6w4lydmh6k=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.realestate.app',
+    appId: 'au.com.realestate.app',
+    title: 'realestate.com.au - Buy, Rent & Sell Property',
+    summary: 'The #1 place for property',
+    developer: 'realestate.com.au',
+    developerId: '7629752934671147631',
+    icon:
+     '//lh3.googleusercontent.com/PObnWL9p-2NSHYKcOdiXjXCEqC1YdbtKp6_fAj8AEV8pOIjq2R5eiXohOiEl4OBHew=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.animelab.android.handset',
+    appId: 'com.animelab.android.handset',
+    title: 'AnimeLab - Watch Anime Free',
+    summary:
+     'Watch anime hits & simulcasts direct from Japan like Dragon Ball Super & Naruto!',
+    developer: 'Madman Entertainment',
+    developerId: 'Madman+Entertainment',
+    icon:
+     '//lh5.ggpht.com/K72SCQ93uQo0mdpq_7ZWCk-QkRSzpYwRyz3SkndM8nXQUNDoCqxG4ciW_JGlufg7ve5Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.swm.live',
+    appId: 'com.swm.live',
+    title: '7plus',
+    summary: 'Watch Shows and Live TV',
+    developer: 'Seven West Media',
+    developerId: 'Seven+West+Media',
+    icon:
+     '//lh3.googleusercontent.com/EQ_Zq96KYe8oElMh2om1waoOHjWBST-PDSoy4GVcCcxbsxtKjYTwoWBaPF56_S98qzrR=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.cua.imcua',
+    appId: 'au.com.cua.imcua',
+    title: 'iM CUA - the award-winning banking chat app',
+    summary:
+     'Message your CUA personal banker, from anywhere, when it suits you.',
+    developer: 'Credit Union Australia',
+    developerId: 'Credit+Union+Australia',
+    icon:
+     '//lh3.googleusercontent.com/erIIcNizCufOthi_WKqiXQZHhAsDnD0M2d6J2lCJrkv4dN_G0I-VYGstoRtKNz1zpDo=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.foxtel.Go',
+    appId: 'au.com.foxtel.Go',
+    title: 'Foxtel Go',
+    summary: 'Foxtel. Anytime, Anywhere. Your devices.',
+    developer: 'FOXTEL',
+    developerId: 'FOXTEL',
+    icon:
+     '//lh3.googleusercontent.com/hfK1JlYaE3_RWPKDK62DtWZCWeDYCT-1dQ9W0pBmuKXY6PvBFFGrcmVWf4MD4z06XuM=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.spriggy.app',
+    appId: 'au.com.spriggy.app',
+    title: 'Spriggy Pocket Money',
+    summary:
+     'Pocket Money, Kids Savings and Chores. Independent from all banks e.g Commbank',
+    developer: 'Spriggy',
+    developerId: 'Spriggy',
+    icon:
+     '//lh3.googleusercontent.com/nACqjoGxEm9_0thvv7tRGqKYPI7HsafRS6hO6K_9gEz_v4AR8yq0CNOWm3B3Y0ynUDSg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.gov.dhs.centrelinkexpressplus',
+    appId: 'au.gov.dhs.centrelinkexpressplus',
+    title: 'Express Plus Centrelink',
+    summary:
+     'Use Express Plus Centrelink to access your Centrelink services on the go.',
+    developer: 'Australian Government Department of Human Services',
+    developerId: 'Australian+Government+Department+of+Human+Services',
+    icon:
+     '//lh6.ggpht.com/sAmTB6GMJO3AMkblBaId89FXHmN0kndhsZiZrIACwav5REERKYl-18Mq2NJveZobbCg=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.uniqlo.au.catalogue',
+    appId: 'com.uniqlo.au.catalogue',
+    title: 'UNIQLO AU',
+    summary:
+     'Introducing the UNIQLO app.Your life just got a whole lot easier.',
+    developer: 'UNIQLO CO., LTD.',
+    developerId: 'UNIQLO+CO.,+LTD.',
+    icon:
+     '//lh3.ggpht.com/lcD2d7jD7_s89KG7eUGdYbRwMLHQC59_enIs0eQ1fjy2YDPXtVagr_iQVOTcqFYm2CGS=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fusion.beyondbank',
+    appId: 'com.fusion.beyondbank',
+    title: 'Beyond Bank Australia',
+    summary: 'The official app for Beyond Bank Australia.',
+    developer: 'Beyond Bank Australia',
+    developerId: 'Beyond+Bank+Australia',
+    icon:
+     '//lh3.googleusercontent.com/q5VfmN8VQgqxEXqkHP7hfm577c1xYds5hjb9sWuvNaFreIgOXSnH4iAeQ82bcm2SG_o=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.redcat.chatime',
+    appId: 'au.com.redcat.chatime',
+    title: 'Chatime Australia',
+    summary:
+     'Love tea? Earn TEA-rrifc benefits and more on our ultimate LOYAL-TEA app!',
+    developer: 'Redcat Pty Ltd',
+    developerId: 'Redcat+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/rzh8BuEt1ZeuLk4nHym5xuE8HqP91JJMlMpUPuf0UJ-rxUWblEHtV4U7aiJBhoiZFwY=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.my.local.services',
+    appId: 'com.my.local.services',
+    title: 'My Local Services',
+    summary: 'Provides local information and services from your Council.',
+    developer: 'Local Government Association of SA',
+    developerId: 'Local+Government+Association+of+SA',
+    icon:
+     '//lh3.ggpht.com/Mlnj1_DYHvXGcO7S5UMlYfRoBIy0YG_C3eWSixTG8eBWw9gTKe0d6aMwvUYdjUBW3Wg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=au.com.suncorp.SuncorpBank',
+    appId: 'au.com.suncorp.SuncorpBank',
+    title: 'Suncorp Bank',
+    summary:
+     'Access your money and essential information anytime, anywhere.',
+    developer: 'Suncorp Network',
+    developerId: 'Suncorp+Network',
+    icon:
+     '//lh3.googleusercontent.com/SVxJAusgFv5tfRj_ToSdmtO-F5_Wb87TM3oht45wfwTbuDAuOs3v20GMPQWvbR5jvg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.austereo.b105',
+    appId: 'com.austereo.b105',
+    title: 'Hit',
+    summary:
+     'Hit Network is Australia\'s home of Hits and Old School music!',
+    developer: 'SCA Digital Pty Ltd',
+    developerId: 'SCA+Digital+Pty+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/c5X0Z9F_8Y8kg_xtXCumQ5YQ2puDWXNMKVL92rqobcBQ-92IO17C-fKs-UtHILpmKw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threesixtyentertainment.nesn',
+    appId: 'com.threesixtyentertainment.nesn',
+    title: 'Emergency+',
+    summary:
+     'When calling(000), remember to stay focused, stay relevant, and stay on the line',
+    developer: 'National Triple Zero Awareness Work Group',
+    developerId: 'National+Triple+Zero+Awareness+Work+Group',
+    icon:
+     '//lh4.ggpht.com/U0t47uIp5968oOfM2i2BbJOBhYYyL5y_oshX1_ugSYFF_AsAm0eoyTczP1bJp1SgCQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

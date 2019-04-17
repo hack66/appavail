@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dk.danskebank.mobilepay',
+    appId: 'dk.danskebank.mobilepay',
+    title: 'MobilePay',
+    summary:
+     'Send money to friends, pay in shops as easy as sending an SMS.',
+    developer: 'MobilePay A/S',
+    developerId: 'MobilePay+A/S',
+    icon:
+     '//lh3.googleusercontent.com/a5CpQQFBKcnvyr-Z5y6Cwp7Fk3NXR3ytv5IAM3_QXPYuIqf0Iguc8r41tBQDJ40eKTdg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fo.tv.android.netvarp',
+    appId: 'fo.tv.android.netvarp',
+    title: 'Televarp app til Android',
+    summary: 'Televarp Android app Netvarpið hjá Televarpinum',
+    developer: 'Televarpið',
+    developerId: 'Televarpi%C3%B0',
+    icon:
+     '//lh4.ggpht.com/DxrQXnzcNC0-cItf3yLXsipuOU4KqvT0kjx-jDQpM8zwJfTTqmNUx1vjkfRPJU9958Y=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tvdirect13.directmedia',
+    appId: 'com.tvdirect13.directmedia',
+    title: 'Direct Media Curaçao',
+    summary:
+     'Official app of Direct Media Curaçao - TV Direct 13 - Radio Direct',
+    developer: 'Tarik Farah',
+    developerId: 'Tarik+Farah',
+    icon:
+     '//lh3.googleusercontent.com/9sFw20eHjiKiMNghQJfkQL3EKCnVxOlGR6jSzIK2JZu5MJA5Oyb8G8n3_ISGlDKbAQfJ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playwithgames.CityDriverParking',
+    appId: 'com.playwithgames.CityDriverParking',
+    title: 'City Driver: Roof Parking Challenge',
+    summary: 'Extreme driving and parking! Push the limits of your car',
+    developer: 'Play With Games',
+    developerId: 'Play+With+Games',
+    icon:
+     '//lh3.googleusercontent.com/cP8lJJ1hGX_aMYcvCfL36eb4xvgtVFS32bdCU_zvnNb5_Zce8Fx3C1ZhNEmdapYnsg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onemonkey.vectorparkour',
+    appId: 'com.onemonkey.vectorparkour',
+    title: 'Vector Parkour',
+    summary:
+     'Steal the suit for the Vector Agent in this addictive free runner adventure',
+    developer: 'One Monkey Games',
+    developerId: 'One+Monkey+Games',
+    icon:
+     '//lh3.googleusercontent.com/0WOlaO2tvneYP4WTjCoTUYyCIq0i6xczIBxFPzIpzVZ1-Vo9T0-feJMQxMWGJog1Vw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mycelium.wallet',
+    appId: 'com.mycelium.wallet',
+    title: 'Mycelium Bitcoin Wallet',
+    summary:
+     'Send and receive Bitcoins using the fastest and most secure Bitcoin Wallet',
+    developer: 'Mycelium Establishment',
+    developerId: 'Mycelium+Establishment',
+    icon:
+     '//lh3.googleusercontent.com/ww33n7kgRR2sOz9Kzsj71oaB38EWCiP0jVLfkftXPP1EFiyNXqxOKVpfYC4LjdHTcA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pausedrinkapp',
+    appId: 'com.pausedrinkapp',
+    title: 'Pause...drink! drinking game.',
+    summary:
+     'Pause...drink! is the drinking game to get your party started.',
+    developer: 'Philip Sole',
+    developerId: '7889235613603720774',
+    icon:
+     '//lh3.googleusercontent.com/AGlEGc5JZv9jISsGdLRPucxnaupq9FtTL-yl1pEewQglMk-TAb9wrT7_QkOoin9kYm0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.itslearning.siparents',
+    appId: 'com.itslearning.siparents',
+    title: 'ParentsIntra',
+    summary:
+     'SkoleIntra’s official app for ForældreIntra developed by itslearning.',
+    developer: 'itslearning',
+    developerId: 'itslearning',
+    icon:
+     '//lh3.googleusercontent.com/pIkrYHOc8EJ8B0ap9OOlwfpJE3vGZ0-z6uS2byHobUw1q-dYcQ_gDcVR6FQWTFteA0U=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medawaresolutions.mvivapro',
+    appId: 'com.medawaresolutions.mvivapro',
+    title: 'mViva For Providers',
+    summary:
+     'mViva® For Providers mHealth, teleHealth Platform by MedAware Solutions',
+    developer: 'MedAware Solutions, Inc.',
+    developerId: 'MedAware+Solutions,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Zasj0d5_NSRjtTG5Js2Pu_LuDbOgDYuEIeRwQmfB8zm1hpI-lYKzaZFTz7RrcH-8gg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

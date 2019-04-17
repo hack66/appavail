@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icubadevelopers.siju.nauta',
+    appId: 'com.icubadevelopers.siju.nauta',
+    title: 'SIJÚ Cuba',
+    summary: 'You chat in Cuba without internet, IT\'S NOT A DREAM !!',
+    developer: 'ICubaDevelopers',
+    developerId: 'ICubaDevelopers',
+    icon:
+     '//lh3.googleusercontent.com/TGE1UiLkE6SvvneQ7vY9OPJBENqJM4eMcfR9iBtrzGq2N8eR7bxptV0PDBnbSOFxXG8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=chatyou.aplicggy',
+    appId: 'chatyou.aplicggy',
+    title: 'QueBola',
+    summary:
+     'Start chatting and to connect with the rest of the world in an instant',
+    developer: 'loganbishop',
+    developerId: 'loganbishop',
+    icon:
+     '//lh3.googleusercontent.com/KrAWWroxJZ269OHS91MU45X2BE_DBhj_G_52QB-XcJpif9OuXYCok3wgS_obRkpTG6A=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.timbirichi.app',
+    appId: 'com.timbirichi.app',
+    title: 'Timbirichi - Compra Venta en Cuba',
+    summary:
+     'Application dedicated to buying and selling in Cuba. All your ads in your pocket',
+    developer: 'Bacteria Inc',
+    developerId: 'Bacteria+Inc',
+    icon:
+     '//lh3.googleusercontent.com/LKNGnVy_DgnN1Eoq_TSK12Py2_slH0Z096xsEA9wnEo1OxDZe68jdUGgF4BRiMfxDw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cubamessenger.cubamessengerapp',
+    appId: 'com.cubamessenger.cubamessengerapp',
+    title: 'CubaMessenger',
+    summary:
+     'No Internet chat Cuba: Send and receive text, pictures, voice and video',
+    developer: 'CubaMessenger',
+    developerId: 'CubaMessenger',
+    icon:
+     '//lh3.googleusercontent.com/g9UXn5ffZNK-nmWozWUb2CRfr89PrLS7cJ7-9I_4HlQVWKHMphRNxIUGu5BED3clWA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qva2world.qvacall.qvacall_planes',
+    appId: 'com.qva2world.qvacall.qvacall_planes',
+    title: 'Qvaplanes',
+    summary: 'Application to view and manage ETECSA plans.',
+    developer: 'qva2world',
+    developerId: 'qva2world',
+    icon:
+     '//lh3.googleusercontent.com/cJ2yURmAFss3RRsH9hlVohyKevBUTH_0Z5AV3Yhp_6xCXY5balT_fgq6RU169dfnVak=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apretaste.piropazo',
+    appId: 'com.apretaste.piropazo',
+    title: 'Piropazo - Meet Cubans',
+    summary:
+     'The largest Online Dating network for Cubans, inside and outside the island.',
+    developer: 'Apretaste',
+    developerId: '7253438881335133058',
+    icon:
+     '//lh3.googleusercontent.com/cZhEMzEEfb7EJnyWXXa1FY7yeUpBNhZXPoxD8A8ybzxcCLlDFfPs770j2DUch91J738=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.droidfreesoft.panfilovivirdelcuento',
+    appId: 'com.droidfreesoft.panfilovivirdelcuento',
+    title: 'Panfilo - Vivir del cuento',
+    summary: 'Panfilo - Living from the story',
+    developer: 'DroidFreeSoft',
+    developerId: 'DroidFreeSoft',
+    icon:
+     '//lh3.googleusercontent.com/gBGraFuW0zX482cq12YtIzkFTfSaKNeTqvjHTBW95B53XGtp1lsoLrgPaBoazNWr7RUK=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=keysoft.consumo',
+    appId: 'keysoft.consumo',
+    title: 'Mi Consumo Electrico',
+    summary:
+     'Guarda y calcúla tu consumo eléctrico. Basado en el sistema de consumo en Cuba.',
+    developer: 'SofTeKey',
+    developerId: 'SofTeKey',
+    icon:
+     '//lh3.googleusercontent.com/WCSa4B8lvpT4xNviB4XPYQVW2-DF5G7calmFQcJjDkx3AyhJANBd5U1RLP_75SoYMQk=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.developer.dobleclick.fastetecsa133',
+    appId: 'com.developer.dobleclick.fastetecsa133',
+    title: 'clickEtecsa133',
+    summary:
+     'You can have quick access to the etecsa packages with just one click',
+    developer: 'Dobleclick',
+    developerId: 'Dobleclick',
+    icon:
+     '//lh3.googleusercontent.com/a0N-rRdQVyThX1OrpusfAwJIDalMPdQL7vqGP5Nd5PBSTx970ZfqyeK14tv5vQP_S4k-=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.burningapps.cubavpn',
+    appId: 'com.burningapps.cubavpn',
+    title: 'CUBA VPN FREE',
+    summary:
+     'Open block website and make faster and secure VPN connection.',
+    developer: 'BurningApps',
+    developerId: 'BurningApps',
+    icon:
+     '//lh3.googleusercontent.com/XI1B-SWd3Xl5fdTwN76sCiZw8KmCnUmjEihlgH03nNETdsL74UpJwGatRPSijm28jl0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.gaetanoconsiglio.EscapePrison',
+    appId: 'air.com.gaetanoconsiglio.EscapePrison',
+    title: 'Escape the prison: free adventure game',
+    summary:
+     'Escape prison is a fun free adventure game, solve addictive computer puzzles',
+    developer: 'Rabbit Bay Games',
+    developerId: '6535213428686988443',
+    icon:
+     '//lh3.googleusercontent.com/VFR5ZR8abt7yiWzltxH8cod88Xp0rLzB2DgJ-QQURfdQkqoGwTezvyHKzfYEenTnbm90=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=afcethiopia.lifetruths',
+    appId: 'afcethiopia.lifetruths',
+    title: 'የህይወት እዉነታ -- Ethiopian Life Truths',
+    summary:
+     'የህይወት እዉነታ  Ethiopian Life Truths is an app of 200 amazing life articles',
+    developer: 'Hailemichael Yihun',
+    developerId: '4732824418136294157',
+    icon:
+     '//lh3.googleusercontent.com/tYOEUJpdu2iMvIg7BnZiutOOsJEyTAvyMCvdBRkRzW9J-qUS1Z1sly4aAwpzrIjBdQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.virgen.enrique.whereisit',
+    appId: 'com.virgen.enrique.whereisit',
+    title: 'Base de Datos',
+    summary: 'A Simple database',
+    developer: 'Enrique Virgen Machado',
+    developerId: 'Enrique+Virgen+Machado',
+    icon:
+     '//lh3.googleusercontent.com/d7O9VYvMvZ_oneh1pGkvN8fOP0VR740I7qnkXUQHE2eFWzi-OgA7-vVkfO77F9pYE_Q=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vs.appmarket.cuba',
+    appId: 'com.vs.appmarket.cuba',
+    title: 'Cubam apps and tech news',
+    summary: 'Best Cubam apps and tech news.',
+    developer: 'EC Apps and News',
+    developerId: 'EC+Apps+and+News',
+    icon:
+     '//lh3.googleusercontent.com/vON1yn0yTTNnXbpFZUryeqWbiVDPvhMr6X99-BSWXtADozoTr7gpO4G2syVpnjACF1NM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

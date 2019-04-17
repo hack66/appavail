@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify',
+    appId: 'com.vpn.free.hotspot.secure.vpnify',
+    title: 'Free VPN unlimited secure hotspot proxy by vpnify',
+    summary:
+     'vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on Android.',
+    developer: 'VPNIFY',
+    developerId: 'VPNIFY',
+    icon:
+     '//lh3.googleusercontent.com/ZNi9FAJWt3lue_xDi4jLMrux6mDoG3fjcXcmmrPihTbM6-bJhxnfGghs6r_y8WNVmvk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.toolsforandroid.VPNPrivateProxy',
+    appId: 'com.toolsforandroid.VPNPrivateProxy',
+    title: 'VPN Private : Unblock Websites Free VPN Proxy',
+    summary:
+     'VPN Private - is all you need!  Start protecting your privacy.',
+    developer: 'ToolsForDroid',
+    developerId: '8229370313174418397',
+    icon:
+     '//lh3.googleusercontent.com/-RF1E5ZoJrp5Am9JjYPnj9ymMajRsdTE0E3Id1agyM4NXaH4oB4Xc2mGIrLFshNkPgFm=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gaditek.purevpnics',
+    appId: 'com.gaditek.purevpnics',
+    title: 'PureVPN - Secure & Best Free VPN for Android',
+    summary:
+     'Rated#1 🏆 Fast VPN App & Secure VPN Proxy for WiFi Security by TrustPilot',
+    developer: 'GZ Systems Ltd.',
+    developerId: 'GZ+Systems+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/IZi9fqHSQHdIxcfBVf7zD1qeGwYRLTgXABvPCyEorpazh3DqbVFdl0wgFeVuWXqiIac=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nymgo.nymguard',
+    appId: 'com.nymgo.nymguard',
+    title: 'NymGuard: VPN Free Express Private Internet Access',
+    summary:
+     'Free Unlimited VPN Proxy | x Express Private Internet Acess | Anonymous Hotspot',
+    developer: 'Nymgo S.A.',
+    developerId: 'Nymgo+S.A.',
+    icon:
+     '//lh3.googleusercontent.com/94TDmMxFvedYqQJK7eXVodSmwgKUm_e_cTrT_XJKZ2-my-nwya7RMWLo79l10If6qw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=moonstervpn.devmaxx.com',
+    appId: 'moonstervpn.devmaxx.com',
+    title: 'MoonsterVPN',
+    summary: 'Enjoy fast, safe, secure and private internet access.',
+    developer: 'Tweetgoo',
+    developerId: 'Tweetgoo',
+    icon:
+     '//lh3.googleusercontent.com/CrgsazLWdS8SS2aXN1QDPUAvakSmksVedPf3LDiYTzqzRJAsT_9uxuG17YUqPgZYAtE=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privateinternetaccess.android',
+    appId: 'com.privateinternetaccess.android',
+    title: 'VPN by Private Internet Access',
+    summary:
+     'Private Internet Access® VPN: change your IP address + browse privately.',
+    developer: 'Private Internet Access',
+    developerId: 'Private+Internet+Access',
+    icon:
+     '//lh3.googleusercontent.com/54YUiBVnmtckft3QLhQgjtmXaRDSIX_T5ZiLhUA8oVlnhvi65-KQ_Lr23q9GcUYZsjs=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pulse.vpn.sixmore',
+    appId: 'com.pulse.vpn.sixmore',
+    title: 'Pules VPN:Free and Safe',
+    summary: 'Pules VPN:Free and Safe',
+    developer: 'Sudy Ann',
+    developerId: 'Sudy+Ann',
+    icon:
+     '//lh3.googleusercontent.com/SStXV0_eV5LaFaygSWPdou2zogBgbOn_IjkO1absnj3bqG0Ex3mxjpAyBe1OI92hxA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.snv.infosoft.internetspeed4gfast',
+    appId: 'com.snv.infosoft.internetspeed4gfast',
+    title: 'Internet Speed 4g Fast',
+    summary:
+     'Internet Speed 4g Fast, Network Speed Test, Check Download and Upload Speed',
+    developer: 'S&V Infosoft',
+    developerId: 'S%26V+Infosoft',
+    icon:
+     '//lh3.googleusercontent.com/UoE8qwGsFlO0ASUcWUKGg_fuFTuuA7ic54L_w6uh4kSoe0Iq7aCAo7L5GZQsegesqWg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.super_master.fastvpn.com',
+    appId: 'free.super_master.fastvpn.com',
+    title: 'Super Fast VPN-Unblocking Secure Proxy Master 2019',
+    summary:
+     'VPN: Fast & Easiest Way To Access the Blocked Sites. Real VPN Free Master',
+    developer: 'data traders free apps',
+    developerId: 'data+traders+free+apps',
+    icon:
+     '//lh3.googleusercontent.com/0Mr4oPljPeeaxjoXsLzltrFBy81uie9Wb3P2V2Zk2WhfdK-5B1T9S-Khc17pnYItiw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=spt.w0pw0p.virgovpn.v1',
+    appId: 'spt.w0pw0p.virgovpn.v1',
+    title: 'Virgo VPN',
+    summary: 'Virtual Private Network:  Protection for browsing.',
+    developer: 'VPN Portal PH',
+    developerId: 'VPN+Portal+PH',
+    icon:
+     '//lh3.googleusercontent.com/ei_StRXZLhd5-qBK9OGOpPnYFCJxXMjAXfeaXqoF1Iiad9F6qvJhjpdXm3F2pP2n=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.zenvpn.client',
+    appId: 'net.zenvpn.client',
+    title: 'ZenVPN - High Speed VPN',
+    summary: 'Super Speed VPN, Secure, Reliable, Unlimited',
+    developer: 'RubyVector Ltd.',
+    developerId: 'RubyVector+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/G8en4S5-i2sR2rTCf2_WhSAhZtSEljQY_-YajOGVzMZ3DVbbfcYGjiKVmv2BilNJNYY=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lightvpn.smartvpn.unblockbrowser',
+    appId: 'com.lightvpn.smartvpn.unblockbrowser',
+    title: 'Light VPN - Free VPN & Private Fast Secure Hotspot',
+    summary:
+     'Unlimited Free VPN Client | Private Internet Access & Fast Secure Hotspot',
+    developer: 'Fox Prism Studio',
+    developerId: 'Fox+Prism+Studio',
+    icon:
+     '//lh3.googleusercontent.com/6OPcRp05jEG3al0NaQiAwftxTQe3N6TySyfyuy_n_YKS9gTg0b6xI31NFVYgn8VDgw=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.GoliathVpn',
+    appId: 'com.vpn.GoliathVpn',
+    title: 'Goliath VPN: Fast Free & Unlimited Secure VPN',
+    summary:
+     'VPN Proxy tool to connect to VPN networks and browse internet - free & unlimited',
+    developer: 'The Goliath Group',
+    developerId: 'The+Goliath+Group',
+    icon:
+     '//lh3.googleusercontent.com/x3LGMEm-yy52_TXqHShsFcX_42jJFySj5ff81hA11oV2y7n-KsBAJkzL9Zqp-Ms1PdTL=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.macrovpn.vpnmacros',
+    appId: 'com.macrovpn.vpnmacros',
+    title: 'Macro VPN - Free, Fast, best and Secure Vpn',
+    summary:
+     'Macro VPN provide Free access & best app for Unblock sites & Check Speed Test',
+    developer: 'Best App Developer 2019',
+    developerId: 'Best+App+Developer+2019',
+    icon:
+     '//lh3.googleusercontent.com/3nmhuzYLlJU-lZbIMUY2CHEoQ0HPPJ89VnlJluotx-Pcehf1lcw8Bf8HVrSf1g_txmk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnmaster.vpn.proxyvpn',
+    appId: 'com.vpnmaster.vpn.proxyvpn',
+    title: 'Best VPN Proxy : VPN Unblocker Free',
+    summary:
+     'Best Super VPN tool, totally free for unlimited use for access of world',
+    developer: 'Sharjab Technologies',
+    developerId: 'Sharjab+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/ihbtAYXTgFWuLdI6guybiEDp3Bcyks0XMC11qvS6r_BqrWiUB1xIIdi9uGtT7eOFZaRw=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.hotvpn',
+    appId: 'free.unblock.proxy.unlimited.hotvpn',
+    title: 'HotVPN-Fast·unblock·free VPN proxy',
+    summary:
+     'Best security privacy VPN,unlimited free vpn proxy,fast VPN proxy for android',
+    developer: 'HOTVPN Team',
+    developerId: 'HOTVPN+Team',
+    icon:
+     '//lh3.googleusercontent.com/eqOfdCGfNDd_vPeajybykdMkn53Udxp5I2GO_dieIbJ6tB9m_xXUsY0Gw7iWgsrUxwo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.proxyfree.ultimate.vpn',
+    appId: 'com.proxyfree.ultimate.vpn',
+    title: 'VPN Unlimited, Unblock Websites - IP Changer',
+    summary:
+     'VPN private internet access. VPN master free unblock proxy & IP address changer',
+    developer: 'Machelle Russaw',
+    developerId: 'Machelle+Russaw',
+    icon:
+     '//lh3.googleusercontent.com/HYaI4s1uMhb-YyOcJI1JZN-QJxzVXMqrfxgWq28AjuVXs7HazEQ1k5Wz2_AX3YTaqrE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.speedtestmaster.maxmizespeed',
+    appId: 'com.speedtestmaster.maxmizespeed',
+    title: 'Internet Speed Meter - 4G Speed Test',
+    summary:
+     'Test Internet speed of any network and check data usage with this Speed Test.',
+    developer: 'Happy Lion Group',
+    developerId: 'Happy+Lion+Group',
+    icon:
+     '//lh3.googleusercontent.com/4uuerKRSUX6Br4rbZ25nmIy_WAglHycFthG4t1J_Y9GPE8bGcjLR0N9d2bxgfwFDB-Y=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

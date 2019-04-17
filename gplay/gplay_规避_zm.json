@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.yomobigroup.chat',
+    appId: 'com.yomobigroup.chat',
+    title: 'Vskit - Short Videos More Fun',
+    summary: 'Watch and share the funny short videos around you',
+    developer: 'Transsnet Media',
+    developerId: 'Transsnet+Media',
+    icon:
+     '//lh3.googleusercontent.com/bHHELVtGGCJr_QzgniCvwSqewirGLXLh7t_8I2_FBy6X8qR5z186G5ICHB4-DBJoQ6k=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.boxita.booster.supercleaner',
+    appId: 'com.boxita.booster.supercleaner',
+    title: 'All Cleaner - Speed Booster, Junk Cleaner',
+    summary:
+     'boost the memory of your phone, clean junk and get system info for free',
+    developer: 'codetips',
+    developerId: 'codetips',
+    icon:
+     '//lh3.googleusercontent.com/lF9aFLBEpQf7n4_YsTLQTqy2rpoxTqSENOFjEpj6AVZQyF3neJQwFYvRn-GrUIP6Ln9X=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ketchapp.catchup',
+    appId: 'com.ketchapp.catchup',
+    title: 'Catch Up',
+    summary:
+     'Roll fast, be attentive, avoid various obstacles, drive your ball to victory!',
+    developer: 'Ketchapp',
+    developerId: '6054197513203380012',
+    icon:
+     '//lh3.googleusercontent.com/iekUZ7VzLOwwVhWg6HNhCEY4jh_nh2gPMowxyAV9L6alO5CbS9GrrOAkGefjTdQ9OQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hiv.test.network',
+    appId: 'hiv.test.network',
+    title: 'HIV-TEST',
+    summary: 'HIV-TEST',
+    developer: 'Merezha',
+    developerId: 'Merezha',
+    icon:
+     '//lh3.googleusercontent.com/9W8qnzjai48-JOKLGPC20_e-TjenJkGVJesJP5ILHmUKobe-VoWTvzE0JcjdWzdv39FM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hesoft.t2s.plugin.encoder.mp3',
+    appId: 'hesoft.t2s.plugin.encoder.mp3',
+    title: 'T2S plugin: mp3 encoder',
+    summary: 'The plugin enables T2S to export audio file in mp3 format',
+    developer: 'HE SOFT',
+    developerId: 'HE+SOFT',
+    icon:
+     '//lh3.googleusercontent.com/l2_JEXxbge7hiCre3IanTpYng9fn-rn7HRa2_bPbE8lP3VBV8TB2vxpoBkxeTfQAviCy=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hoxxvpn.main',
+    appId: 'com.hoxxvpn.main',
+    title: 'Hoxx VPN',
+    summary:
+     'Hoxx VPN service to unblock blocked websites and change your location for free!',
+    developer: 'HOXX VPN',
+    developerId: 'HOXX+VPN',
+    icon:
+     '//lh3.googleusercontent.com/bVmiL85TFR07XCK8QN-RtChyAnjYpufjGYH8ClxRYK3-OF_ZGcEB3ukJfTJRpXWGVpJ5=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spider.anyfreelock',
+    appId: 'com.spider.anyfreelock',
+    title: 'Unlock Any Mobile Phone Tricks',
+    summary: 'How to free Unlock Any Mobile Phone',
+    developer: 'Spider Apps Store',
+    developerId: 'Spider+Apps+Store',
+    icon:
+     '//lh3.googleusercontent.com/mY4WsO7zfsSeYt4TFFh5_p0VdVUdxc4lQjcOdOYwgbx6mfakYK6E0N8r6IKWd-I7Rms=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wsuzapps.couplesmarriageguide.TBVTBPC834',
+    appId: 'com.wsuzapps.couplesmarriageguide.TBVTBPC834',
+    title: 'Marriage Guide For Couples',
+    summary:
+     'Get Useful Tips For a Happy and Successful Marriage From This App',
+    developer: 'wsuzapps',
+    developerId: 'wsuzapps',
+    icon:
+     '//lh3.googleusercontent.com/wCvo-4ft0M6kSs2KRTyOjChvD7qs-N3Nk0Kdsgsazzj8UHNljmyayi8G33dd5v6Dvko=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.omgames.nurseryrhymes',
+    appId: 'com.omgames.nurseryrhymes',
+    title: 'Nursery Rhymes',
+    summary: 'Nursery Rhymes',
+    developer: 'OM GAMES',
+    developerId: 'OM+GAMES',
+    icon:
+     '//lh3.googleusercontent.com/-V4IO-XlYWAnz3go0bEyFjJrzDu7R9tKEberY39A-OBp72YKpQ_CCh07ESRaQUCnfvdy=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.internetdesignzone.poems',
+    appId: 'com.internetdesignzone.poems',
+    title: 'Poems For All Occasions - Love, Family & Friends',
+    summary:
+     'Impress your friends and family by sending them amazing English poems & messages',
+    developer: 'Touchzing Media',
+    developerId: 'Touchzing+Media',
+    icon:
+     '//lh3.googleusercontent.com/5JehoFsid2Lw2TzW998xDlfqZTdw1c-PrVsoK7TGNdeRx0l3MLsUnQDK2U062ikQfw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joinkingschat.android',
+    appId: 'com.joinkingschat.android',
+    title: 'KingsChat',
+    summary:
+     'The fast and simple way to connect with anyone around the globe instantly!',
+    developer: 'KingsChat',
+    developerId: '7982928769647789263',
+    icon:
+     '//lh3.googleusercontent.com/PxWrT3XzAYvgNffDL7L_I6nspuhOaaAtmrGvjjnbnGmmxl5nCNKmIJ6IMwuf1XeCcUQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.andromo.dev599199.app898256',
+    appId: 'net.andromo.dev599199.app898256',
+    title: 'Madilu System Songs',
+    summary:
+     'Get unlimited access to songs and lyrics Madilu System on this app.',
+    developer: 'Detrox Limited',
+    developerId: 'Detrox+Limited',
+    icon:
+     '//lh3.googleusercontent.com/nY0mM2DqZeLEGpexsatNOJVzUnJMR4STXKdkW-1x7fvYssPkbslNM0ReqPxqNWzw6FVO=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.englishtranslator.dictionary.speaker',
+    appId: 'com.englishtranslator.dictionary.speaker',
+    title: 'Dictionary with Translator : English Dictionary',
+    summary:
+     'Free best dictionary with unlimited new and old English words',
+    developer: 'Sharjab Technologies',
+    developerId: 'Sharjab+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/bfyCJir1HxNay1RNeIHlwWfz7udCJKog5h4TX3W8d2qF1dFZUJP6pXzSKJ4w06on3iQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hapo.android',
+    appId: 'com.hapo.android',
+    title: 'Hapo - Funny Videos, GIFs & Photos',
+    summary:
+     'More LOL short videos, Pics, jokes and memes you can get with the funny friends',
+    developer: 'hapofun',
+    developerId: 'hapofun',
+    icon:
+     '//lh3.googleusercontent.com/K-cAPypVc3bjz-LIHG7B5rXH6IgpJSaW28slAH_efChi0hS-qLCQyjWBa7IT5wghUA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=es.com.leonweb.videoamp3',
+    appId: 'es.com.leonweb.videoamp3',
+    title: 'Video to mp3, mp2, aac or wav. Batch converter',
+    summary:
+     'Select multiple video files (mp4, flv, 3gp) and convert to mp3, mp2, aac or wav',
+    developer: 'Rober G.',
+    developerId: 'Rober+G.',
+    icon:
+     '//lh3.googleusercontent.com/Tx-Ro0-zaZewujw6eUi6liSIxNT4W58w2gjhPT72qe_Z6ac8xW0LsK22LOQnLt1fGPM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jb.gokeyboard.theme.twdigitalfreekeyboard',
+    appId: 'com.jb.gokeyboard.theme.twdigitalfreekeyboard',
+    title: 'Digital Keyboard',
+    summary:
+     'The new Free New Keyboard Theme 2017 is the keyboard background for you!',
+    developer: 'Launcher 2019 - Themes & Apps',
+    developerId: '6554348131548284525',
+    icon:
+     '//lh3.googleusercontent.com/g6x0SeFIprGbTk5qBjmAYhdrMwVdJJRM764Cz6rhDsCQNOaSsOWzerZ0dHNfPhcC8A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

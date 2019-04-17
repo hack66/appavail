@@ -1,0 +1,276 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DVloper.HouseOfSlendrinaFree',
+    appId: 'com.DVloper.HouseOfSlendrinaFree',
+    title: 'House of Slendrina (Free)',
+    summary: 'Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/8rQo90N_pneUOstddgsWufodEvSuuNHoQC0GZNZZK-Hx_qlDrsZi42dp3iP1Hwil2WU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=the.book.of.adam',
+    appId: 'the.book.of.adam',
+    title: 'THE BOOK OF ADAM',
+    summary:
+     'This Book Of Adam app is translated from the Georgian original.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tUKYys2fvswYtZj4ZK4ZbzMhTq3wj_btCaqc5N_9UxxHKMXJT6QPdSkIDa_doUxnpw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=thefirstbookof.adam.and.eve.app',
+    appId: 'thefirstbookof.adam.and.eve.app',
+    title: 'THE FIRST BOOK OF ADAM AND EVE',
+    summary:
+     'This app provides full, organized content on the First Book of Adam and Eve.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/3ENhOqBC75vYReNqa5zd2YSdMUTHrUEqYZXgDD1crmCxbCLqCTK3eMP6Wf9p9sb-aOE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pms.elite.secret.agent.mission',
+    appId: 'com.pms.elite.secret.agent.mission',
+    title: 'Elite Secret Mission:Secret Agent game 2018',
+    summary:
+     'Be secret agent of US army to spy and help out  target of US army mission 2.',
+    developer: 'PMS Games',
+    developerId: '6673401939984117113',
+    icon:
+     '//lh3.googleusercontent.com/g8cmMvcom6F4lqWdr55SJ7FZfxMEgRjtgv5F-pjsARvb8x1rpmCodX9jfJTAtW4n5uk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lovequotes007.love.justforu.ggmpicturesprop',
+    appId: 'lovequotes007.love.justforu.ggmpicturesprop',
+    title: 'Good Morning Images, Messages and Gif',
+    summary:
+     '10000+ Good Morning Images, Good Morning Messages and Good Morning Gif.',
+    developer: 'Professional Girl Apps',
+    developerId: 'Professional+Girl+Apps',
+    icon:
+     '//lh3.googleusercontent.com/kzHIG8NGbNsG3pSe5aJ9agK6Uysi6G231teEf5DH86QjSKwdDV5PSSMYELE0p9ASxLWs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameimake.mermaidrescuelovestory',
+    appId: 'com.gameimake.mermaidrescuelovestory',
+    title: 'Mermaid Rescue Love Crush Secret Game',
+    summary:
+     '3 More parts added in mermaid rescue love crush Secret Game Download & Enjoy',
+    developer: 'GameiMake',
+    developerId: 'GameiMake',
+    icon:
+     '//lh3.googleusercontent.com/j3nN-7rCLpwxrmM6FpunEV0YMWcIR15AMxrzmas_JdAu9q0LRZhiuM2ao-ZV-zufhw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameicreate.princeharryroyalweddingatruelovestory',
+    appId: 'com.gameicreate.princeharryroyalweddingatruelovestory',
+    title: 'Prince Harry Royal Wedding A True Love Crush Game',
+    summary:
+     'Play & enjoyment filled western wedding rituals in the prince harry wedding game',
+    developer: 'GameiCreate',
+    developerId: 'GameiCreate',
+    icon:
+     '//lh3.googleusercontent.com/hk9-UAwf8DJ0tvIT8Nw-yT6Dv0p6dCSrAQo_MFSl3LDUBpjKIESxzWwlcZ_lHvH1Oqo=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamelead.lion.simulator.wild.hunter.game',
+    appId: 'com.gamelead.lion.simulator.wild.hunter.game',
+    title: 'The Lion',
+    summary:
+     'The Lion Simulator is an incredible wild simulator game to hunt wild animals.',
+    developer: 'GameLead',
+    developerId: 'GameLead',
+    icon:
+     '//lh3.googleusercontent.com/wi1-UJzBZm1tS7dluwPDqL6J9DF8OxKBHVJPEoHByKflEhGwai__uGZkFJhhNU4gHB7e=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

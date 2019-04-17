@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title:
+     'Aloha Browser - private fast browser with free VPN (Unreleased)',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
+    appId: 'com.jrzheng.supervpnfree',
+    title: 'SuperVPN Free VPN Client',
+    summary:
+     'SuperVPN, total free VPN client.Easy to use, one click to connecting VPN.',
+    developer: 'SuperSoftTech',
+    developerId: 'SuperSoftTech',
+    icon:
+     '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder',
+    appId: 'com.coffeebeanventures.easyvoicerecorder',
+    title: 'Easy Voice Recorder',
+    summary:
+     'Easy Voice Recorder is your everyday companion to record important moments.',
+    developer: 'Digipom',
+    developerId: 'Digipom',
+    icon:
+     '//lh3.googleusercontent.com/994mAFsUxdBF4_Pw81-4w0awnn0_70wibfFwuATAVJt1JqRknVD6eAtBCsl1i7Blbns3=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.style_7.analogclocklivewallpaper_7',
+    appId: 'com.style_7.analogclocklivewallpaper_7',
+    title: 'Analog Clock Live Wallpaper-7',
+    summary: 'Select colors and set unique analog clock as wallpaper.',
+    developer: 'Style-7',
+    developerId: 'Style-7',
+    icon:
+     '//lh3.googleusercontent.com/I-BTZifSGBfpgThDF7pez9-4WWxl26J2m_yVvvTrNYh60Fio5w36j0dLuFXwdbhGTA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ge.bog.mobilebank',
+    appId: 'ge.bog.mobilebank',
+    title: 'BOG mBank - Mobile Banking',
+    summary: 'mbank - mobile bank application of Bank of Georgia',
+    developer: 'Bank of Georgia',
+    developerId: 'Bank+of+Georgia',
+    icon:
+     '//lh3.googleusercontent.com/Wuaewhww0MZJxz72uLFzqcZlWu8zJJ2rl9YEpkYB4jtlXdVwSmBTcYYF5qZHlcqFZAU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery',
+    appId: 'com.simplemobiletools.gallery',
+    title: 'Simple Gallery: Photo Manager & Editor',
+    summary:
+     'Offline gallery without ads. Organize, edit, recover and protect photos & videos',
+    developer: 'Simple Mobile Tools',
+    developerId: '9070296388022589266',
+    icon:
+     '//lh3.googleusercontent.com/GSwsSV5GzGFyheupOV4x6deWq7yekyqbpOF_wp5wrfhCNjiDYu1pxYTbYNTip-e6Xi0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamma.scan',
+    appId: 'com.gamma.scan',
+    title: 'QR & Barcode Scanner',
+    summary: 'The fastest QR and Barcode scanner. Try it NOW!',
+    developer: 'Gamma Play',
+    developerId: '7739323866949324662',
+    icon:
+     '//lh6.ggpht.com/-LHkE5TWqK0bWUdreGY2m28wJa9YsMvkkXiL-1u7ZRcBs2gXP8bsTTpo9IWWdY1hhaw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher',
+    appId: 'com.google.android.apps.nexuslauncher',
+    title: 'Pixel Launcher',
+    summary:
+     'The home screen experience for the Pixel and Pixel XL phones by Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/O-7F6uiQOUbCPpfa80BldoKEiNDUekj5NBXYiJvx8fpZxT_Uuw0iAYHIKNa7yUXHbbs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sinet.startup.inDriver',
+    appId: 'sinet.startup.inDriver',
+    title: 'inDriver — ride app where you offer your fare',
+    summary: 'Better than a taxi',
+    developer: '® INDRIVERRU LTD',
+    developerId: '%C2%AE+INDRIVERRU+LTD',
+    icon:
+     '//lh3.googleusercontent.com/TLvd52VmqEYB5_9JEJwGwYjvDjkm8zkAUeE4vXj6QJCi_HqTbJNWZXfVUY5qtHCT8w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pdf.tap.scanner',
+    appId: 'pdf.tap.scanner',
+    title: 'Camera Scanner To Pdf - TapScanner',
+    summary:
+     'Camera Scanner To Pdf - Tap Scanner is a simple document camera scanner to PDF.',
+    developer: 'Smart media',
+    developerId: '7922759924555516929',
+    icon:
+     '//lh3.googleusercontent.com/wxXnmyjJs8hAo_sYefECPH-G16JotVYRVE3Kwmj13hhjg2EohTDNEdqpe_Z0E4G9Bko=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bestvideostudio.movieeditor',
+    appId: 'com.bestvideostudio.movieeditor',
+    title: 'Video Maker with Music, Photos & Video Editor',
+    summary:
+     'Movie Maker & Video Editor with effects and music, Vlog, Cut, No Watermark',
+    developer: 'VideoShow EnjoyMobi Video Editor & Video Maker Inc',
+    developerId: '8114105855888506023',
+    icon:
+     '//lh3.googleusercontent.com/6kjCQvB2E3rTBE54aOvccaWYcGHZQ2-RCSfJPPgE-VIVnwolSy64HsToFQhF05JUGHI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.voodoo.crowdcity',
+    appId: 'io.voodoo.crowdcity',
+    title: 'Crowd City',
+    summary: 'The real crowd experience!',
+    developer: 'VOODOO',
+    developerId: 'VOODOO',
+    icon:
+     '//lh3.googleusercontent.com/JGrlSVV685lM70vE8sYkqwbQqR-DXqu1JAzUTqX436KdL_c3e8HpXWSZf-l_MOAXI4Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lb.smartpay',
+    appId: 'com.lb.smartpay',
+    title: 'Liberty Bank',
+    summary:
+     'Updated Mobile Banking from Liberty Bank with new look and lots of new features!',
+    developer: 'Liberty Bank',
+    developerId: 'Liberty+Bank',
+    icon:
+     '//lh3.googleusercontent.com/zVFtrLnIxUU_6v1JWR7ZzOFcEVM1Kq96eG5TlKmGUUo7QOLD-HxX7rIp-SbrDhAOZQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xvideostudio.videoeditor',
+    appId: 'com.xvideostudio.videoeditor',
+    title: 'VideoShow Video Editor, Video Maker, Photo Editor',
+    summary:
+     'Powerful Video Editor with Music, Free Vlog Maker and Intro Maker, Beauty Camera',
+    developer: 'VideoShow EnjoyMobi Video Editor & Video Maker Inc',
+    developerId: '8114105855888506023',
+    icon:
+     '//lh3.googleusercontent.com/5J0NZoGcla_MXumglVx1T_Mu7AyZsdZiRYbexAGf7W6cJn-_KGpZxeRHRntv1Y2HQQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=info.simpleapi.simpleapi',
+    appId: 'info.simpleapi.simpleapi',
+    title: 'მობილურის ნომრების ბაზა',
+    summary: 'A mobile phone call identifier application',
+    developer: 'SG Coders',
+    developerId: 'SG+Coders',
+    icon:
+     '//lh3.googleusercontent.com/8GD2tc7wPCD1tfy80b4XuIplLUfe_SI1vEB5DT6w_z4ThpeKGiH-4IdxlnnDX_oeGg8i=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dencreak.dlcalculator',
+    appId: 'com.dencreak.dlcalculator',
+    title: 'ClevCalc - Calculator',
+    summary: 'Better Than Built-in Calculator',
+    developer: 'Cleveni Inc.',
+    developerId: 'Cleveni+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0W2WO94lJ5VbHEEqCcqifUXSA4GEtABvbe-NFId3aQ7ng2luSunisZ9mS5pnWxAhLAMu=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.application_4u.qrcode.barcode.scanner.reader.flashlight',
+    appId:
+     'com.application_4u.qrcode.barcode.scanner.reader.flashlight',
+    title: 'Lightning QR Code Scanner',
+    summary:
+     'A QR code reader/QR code scanner granted only with camera permission for privacy',
+    developer: 'Application4u',
+    developerId: 'Application4u',
+    icon:
+     '//lh3.googleusercontent.com/z9KMLkenPW8lMBu-AiSS0L5d13eKV9gxS9ljtnwdzGbXz4PKkWyHj7KWRat8dXjAiw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

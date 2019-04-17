@@ -1,0 +1,278 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.ga.loyalty.android.nectar.activities',
+    appId: 'com.ga.loyalty.android.nectar.activities',
+    title: 'Nectar - Offers and Rewards',
+    summary:
+     'Collect and Spend Nectar points on the go and receive weekly offers and rewards',
+    developer: 'Nectar Loyalty UK Limited',
+    developerId: 'Nectar+Loyalty+UK+Limited',
+    icon:
+     '//lh3.googleusercontent.com/jLRq8vX4m4E6-SbzHoLZDhNR5ZGBrzYZF6QfpguWsLl9tjIATSNhJ9u4YUOGWwQbQkQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplexsolutionsinc.vpn_unlimited',
+    appId: 'com.simplexsolutionsinc.vpn_unlimited',
+    title: 'KeepSolid VPN Unlimited | Free VPN for Android',
+    summary:
+     'Fast VPN for streaming, torrenting and unblock all websites. 7-day free trial.',
+    developer: 'KeepSolid Inc',
+    developerId: '8251855146399047359',
+    icon:
+     '//lh3.googleusercontent.com/BHJCVFI-ralxc5Rct2iTYqGEP4DSFXW95_73DNghjgFW0BSbzJb4zSedjQOinKA2Ee_z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.androidping.netstat',
+    appId: 'com.androidping.netstat',
+    title: 'Netstat for Android',
+    summary:
+     'Netstat is a command-line network utility tool that displays network connections',
+    developer: 'androidping',
+    developerId: 'androidping',
+    icon:
+     '//lh3.googleusercontent.com/1Znc-XXYlSjeVX0W3o3WnofML_HYz1K2By0DvE-yw5rBmomkK-2atq6IWtVhCUzUyHf2=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.hafas.android.arriva',
+    appId: 'de.hafas.android.arriva',
+    title: 'Arriva UK Bus App',
+    summary:
+     'Track your bus in real-time and much more! The must-have Arriva Bus App',
+    developer: 'HaCon Ingenieurges. mbH',
+    developerId: 'HaCon+Ingenieurges.+mbH',
+    icon:
+     '//lh3.googleusercontent.com/IIBuM_3YIOVuOleUTIeTpHbhFAK959jrRs7916lip70HpF9-jCpA638jgrcnGKct9C5o=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.friends.vpn',
+    appId: 'com.friends.vpn',
+    title: 'Private VPN for mobile',
+    summary:
+     'Super fast VPN to browse privately, secure your privacy using this vpn',
+    developer: 'friendsapp137',
+    developerId: 'friendsapp137',
+    icon:
+     '//lh3.googleusercontent.com/n0p-rxNH5e8ZRwTDlMR4hs9LH9TvV6nuxUrUuVUvJ7QI67hyI5tXhNGs18ivG88vHw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.norwoodsystems.worldwifi',
+    appId: 'com.norwoodsystems.worldwifi',
+    title: 'World WiFi',
+    summary:
+     'Find and securely connect to millions of Wi-Fi hotspots around the world.',
+    developer: 'Norwood Systems',
+    developerId: 'Norwood+Systems',
+    icon:
+     '//lh3.googleusercontent.com/92Z-UnWYG-So2_kMyWCirU_o0oRZ8Ks2zWCPTSj7QYdmI19ALMJC8mvctGE3OEgAudo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.virginmedia.simplewifi',
+    appId: 'com.virginmedia.simplewifi',
+    title: 'Virgin Media Connect',
+    summary: 'Take control of your WiFi',
+    developer: 'Virgin Media',
+    developerId: 'Virgin+Media',
+    icon:
+     '//lh3.googleusercontent.com/TgDA-8OUG1Wc_rFFwdSaTbTYLbH4FKPwDK3tcCAQOMe3kBlClAyZGu4vj7cy1R7daA=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myprog.netutils',
+    appId: 'com.myprog.netutils',
+    title: 'Network Utilities',
+    summary: 'Network tools, which must have every system adminisrator',
+    developer: 'First Row',
+    developerId: 'First+Row',
+    icon:
+     '//lh3.googleusercontent.com/8wfTHoRKt_rnNRsGmaTv_C8KjfQD8cIpDXVkzj-bbUoSTD0VHatMVdEjbFAm92vla1c=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.uk.Nationwide.Mobile',
+    appId: 'co.uk.Nationwide.Mobile',
+    title: 'Nationwide Banking App',
+    summary:
+     'Stay in control of your finances with Nationwide\'s Banking app.',
+    developer: 'Nationwide Building Society',
+    developerId: 'Nationwide+Building+Society',
+    icon:
+     '//lh3.googleusercontent.com/OXU7SpqLbvt1AqKljKfGWrBBg4E68dr2XdaXA-SaQhKjgox8rT7ry1m3giSWImDc_w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.ITVMobilePlayer',
+    appId: 'air.ITVMobilePlayer',
+    title: 'ITV Hub',
+    summary:
+     'The ITV Hub, new home of ITV on demand. Stream live telly anytime, anywhere.',
+    developer: 'ITV PLC',
+    developerId: 'ITV+PLC',
+    icon:
+     '//lh3.googleusercontent.com/5Z46KYUMdLMUrroLoCfZDHumLA2Lj-wImbI_h4gWjAT-dEtdrP9reruufm4etMZx-V4=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=vpn.netwalker.free',
+    appId: 'vpn.netwalker.free',
+    title: 'Netwalker VPN: Free Unlimited Proxy, Private WiFi',
+    summary:
+     'Surf freely and anonymously on secure VPN. Totally free and fast VPN proxy.',
+    developer: 'ZQL Apps Studio',
+    developerId: 'ZQL+Apps+Studio',
+    icon:
+     '//lh3.googleusercontent.com/hD8p_qe2Ao353un8qSjkxGRhkgiwWmckqIeFJZuvheO55uniGv_cuebDmqIMRMZlvx4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bskyb.skyservice',
+    appId: 'com.bskyb.skyservice',
+    title: 'My Sky',
+    summary:
+     'Manage your account and fix common problems quicker and easier than ever before.',
+    developer: 'Sky UK Limited',
+    developerId: 'Sky+UK+Limited',
+    icon:
+     '//lh3.googleusercontent.com/rDql6I8h-8pXh-GwH5ZX-AgBLgxvfZQoL9DMuIXNAdC18lfOAvtX44N5py2qjUzv7RJb=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.focusmm.DTSCombo',
+    appId: 'uk.co.focusmm.DTSCombo',
+    title: 'Driving Theory Test 4 in 1 Kit + Hazard Perception',
+    summary:
+     'Practise ALL the 2019 DVSA revision questions + 85 Hazard Perception clips',
+    developer: 'Focus Multimedia Ltd - Driving Test Success',
+    developerId: '6510695609505760290',
+    icon:
+     '//lh3.googleusercontent.com/p32D9lhYGl0XXxkOY1PcgeuMK6C76LZa7_4nknYoQF6QzCZqbO03pWayEMhGV3wooXUP=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '£4.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usenetserver.vpn',
+    appId: 'com.usenetserver.vpn',
+    title: 'UsenetServer VPN',
+    summary:
+     'VPN Encryption for Android | Anonymous IP Address Protection  | Wi-Fi Safety',
+    developer: 'UsenetServer',
+    developerId: 'UsenetServer',
+    icon:
+     '//lh3.googleusercontent.com/tPnk8Z1L8poZMfU4TqqdKVh0ZpGIQda_XPP5Cp72MaoWk9X3fTdGVErZtFDnOfss1ko=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

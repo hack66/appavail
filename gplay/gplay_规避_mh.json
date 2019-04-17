@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mstfbs.yesiluzayli',
+    appId: 'com.mstfbs.yesiluzayli',
+    title: 'The green alien dance',
+    summary: 'Dame Tu Cosita ( green alien dance)',
+    developer: 'green alien',
+    developerId: 'green+alien',
+    icon:
+     '//lh3.googleusercontent.com/mOleDCGMP6EhbDEk8dY3bgkkVfTavdVgWj9ZIhooPkOi7_jJ0WwYhi5LRusY6zml2jc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row',
+    appId: 'com.ea.game.pvzfree_row',
+    title: 'Plants vs. Zombies FREE',
+    summary:
+     'Stem a zombie attack on your yard with the help of powerful plants!',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/fK7Va6zSVFjjxlWPG88yBLTQBKaoBzxV0ptcP8h8RW9vFt3M6Tix0xXk4UZAJl15mA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
+    appId: 'com.facebook.mlite',
+    title: 'Messenger Lite: Free Calls & Messages',
+    summary:
+     'A faster version of Messenger that works in all network conditions',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.instagram.android',
+    appId: 'com.instagram.android',
+    title: 'Instagram',
+    summary: 'Instagram – Like, capture and share the world’s moments',
+    developer: 'Instagram',
+    developerId: 'Instagram',
+    icon:
+     '//lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

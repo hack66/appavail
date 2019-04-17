@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile',
+    appId: 'com.ea.gp.simsmobile',
+    title: 'The Sims™ Mobile',
+    summary: 'Play with life.',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/bPKeWXaJjU7a0wCQCM9ygnh1i8DCuEAXlQ_oVUszu-4clXLq10KxPyY547W_suJovA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mycelium.wallet',
+    appId: 'com.mycelium.wallet',
+    title: 'Mycelium Bitcoin Wallet',
+    summary:
+     'Send and receive Bitcoins using the fastest and most secure Bitcoin Wallet',
+    developer: 'Mycelium Establishment',
+    developerId: 'Mycelium+Establishment',
+    icon:
+     '//lh3.googleusercontent.com/ww33n7kgRR2sOz9Kzsj71oaB38EWCiP0jVLfkftXPP1EFiyNXqxOKVpfYC4LjdHTcA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crossfield.namsterlife',
+    appId: 'com.crossfield.namsterlife',
+    title: 'Hamster Life',
+    summary:
+     '9 million downloads! This is a super healing free app game「Hamster Life」',
+    developer: 'Cross Field Inc.',
+    developerId: '8349232061000500898',
+    icon:
+     '//lh3.googleusercontent.com/92nYyJo0pQ89AHDZ4cLrVzImwbvCb-E1XG9jXsP5ndPd7iNioGFgnBzgVyKKfTUB2Yc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onemonkey.vectorparkour',
+    appId: 'com.onemonkey.vectorparkour',
+    title: 'Vector Parkour',
+    summary:
+     'Steal the suit for the Vector Agent in this addictive free runner adventure',
+    developer: 'One Monkey Games',
+    developerId: 'One+Monkey+Games',
+    icon:
+     '//lh3.googleusercontent.com/0WOlaO2tvneYP4WTjCoTUYyCIq0i6xczIBxFPzIpzVZ1-Vo9T0-feJMQxMWGJog1Vw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld',
+    appId: 'com.tocaboca.tocalifeworld',
+    title: 'Toca Life: World',
+    summary: 'Create your own World',
+    developer: 'Toca Boca',
+    developerId: '8567646723268777320',
+    icon:
+     '//lh3.googleusercontent.com/4MdhMAFQJx9cSwge85MNfVKtcIIxDEpHPmQwVunEZ3rQsEhdh17Gr5c2TjTRJAJWmBg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lockwoodpublishing.avakinlife',
+    appId: 'com.lockwoodpublishing.avakinlife',
+    title: 'Avakin Life - 3D Virtual World',
+    summary:
+     'Meet new people and chat with friends in the largest 3D simulation game.',
+    developer: 'Lockwood Publishing Ltd',
+    developerId: '6367016382542689978',
+    icon:
+     '//lh3.googleusercontent.com/xyAHn6Sop91On6-QUTRA2Bt0SjqNAkcdK7PcBygxYd3zBBcw_q41R2lMSSNs9w5DSbgS=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.monstronauts.potionpunch',
+    appId: 'com.monstronauts.potionpunch',
+    title: 'Potion Punch',
+    summary:
+     'Run and grow your own potion shop in the most colorful time-management game ever',
+    developer: 'Monstronauts Inc.',
+    developerId: '9037849294063453883',
+    icon:
+     '//lh3.googleusercontent.com/LUMK79Ixis791plPN9FoXGLNeRwO5pckOZ0vQO95--xr13raHr1h27GJ49kynHvbi-g=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylinkhelper',
+    appId: 'com.google.android.apps.kids.familylinkhelper',
+    title: 'Google Family Link for children & teens',
+    summary:
+     'Download this app to your child/teen’s device to use Family Link.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pYLy_HV2fhacywOg55k41PGk2dm8fLvvJIbRNEPipWUE-yXvhS99VAQw7wvaKndrOh0=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.explore.web.browser',
+    appId: 'com.explore.web.browser',
+    title: 'Web Browser & Explorer',
+    summary:
+     'A fast, secure, and smart Mobile Browser, the best Web Browser.',
+    developer: 'Mobile_V5',
+    developerId: 'Mobile_V5',
+    icon:
+     '//lh3.googleusercontent.com/KJcrI0IdRB38CDqY4CwAAnk2twWacZlE4wFjnQxr-nLvVO6mXvgdWViwakKE6-xBhcs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloomberg.android.plus',
+    appId: 'com.bloomberg.android.plus',
+    title: 'Bloomberg: Market & Financial News',
+    summary:
+     'Get the latest stock market, financial, business news and more.',
+    developer: 'Bloomberg LP CM',
+    developerId: 'Bloomberg+LP+CM',
+    icon:
+     '//lh3.googleusercontent.com/r-yyb3SfVQm6K73DbtKTwOKOTUwBrjhR1oxv7yH0QcPfxrAbZqCGrZzeWWbHsT2Pf6IA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tumblr',
+    appId: 'com.tumblr',
+    title: 'Tumblr',
+    summary:
+     'Tumblr is where your interests connect you with your people.',
+    developer: 'Tumblr, Inc.',
+    developerId: 'Tumblr,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Y5r-v7yrNUFMB9pabx19tTfVNYUK0TED7i6NRrzdfWFtDHkLZCAnJR-gJ012HtS2r3Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kaweapp.webexplorer',
+    appId: 'com.kaweapp.webexplorer',
+    title: 'Web Explorer',
+    summary:
+     'Explore the internet with this light and feature packed browser.',
+    developer: 'Kawe Apps',
+    developerId: 'Kawe+Apps',
+    icon:
+     '//lh3.googleusercontent.com/YmMGcgeO7Km9-J9vFRByov5sb7OUKetnKs8pTi0JZMDj3GVJ61GMTcTlHB7u9uHDHag=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qwant.liberty',
+    appId: 'com.qwant.liberty',
+    title: 'Qwant',
+    summary: 'Qwant is the leading private search engine made in Europe.',
+    developer: 'Qwant',
+    developerId: 'Qwant',
+    icon:
+     '//lh3.googleusercontent.com/gZM93E0coPblwJysaGbAVgTRXPld0ZDRtrbmclDqWWrPJLKIjyVB9XKqOX8OM9_3GJI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medium.reader',
+    appId: 'com.medium.reader',
+    title: 'Medium',
+    summary:
+     'A place where everyone has a story to share & the best ones are delivered to you',
+    developer: 'A Medium Corporation',
+    developerId: 'A+Medium+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in.hammervpn',
+    appId: 'com.in.hammervpn',
+    title: 'Hammer VPN  AntiDPI VPN',
+    summary: 'Anti-DPI  ( Deep Packet Inspection ) VPN  for Android.',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/_9_qFUuRvZ8M0B8Lb1FkQYMZDL0GbxoUTq7m38UhIRnbCynGIcU7pY_4ZROtMpEFmUQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=secure.explorer.web.browser',
+    appId: 'secure.explorer.web.browser',
+    title: 'Web Browser - Secure Explorer',
+    summary:
+     'An ultra lightweight and secure mobile web browser for Android.',
+    developer: 'iJoysoft',
+    developerId: 'iJoysoft',
+    icon:
+     '//lh3.googleusercontent.com/xTXWJBV09YwbfiM2UnCfCzazfA6ACNEe--uCuCpUSFiAMz7AAEm_jEh0j7nwUc6sS_4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser',
+    appId: 'mobi.mgeek.TunnyBrowser',
+    title: 'Dolphin Browser - Fast, Private & Adblock🐬',
+    summary:
+     'Best web browser with flash player, fast download, ad blocker & incognito mode.',
+    developer: 'Dolphin Browser',
+    developerId: '6599001017670379452',
+    icon:
+     '//lh3.googleusercontent.com/o9t-BM8E2kXbsdCUH_4iT_NBtL7gxOVLOAm-O2c3NYf5Ow3UA3yza-WuuDGhed2tvw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.reddit.frontpage',
+    appId: 'com.reddit.frontpage',
+    title: 'Reddit',
+    summary: 'Find your community',
+    developer: 'reddit Inc.',
+    developerId: 'reddit+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/J41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fast.explorer.web.browser',
+    appId: 'fast.explorer.web.browser',
+    title: 'Web Browser & Fast Explorer',
+    summary:
+     'A fast, safe, lightweight and smart Mobile Browser for Android.',
+    developer: 'iJoysoft',
+    developerId: 'iJoysoft',
+    icon:
+     '//lh3.googleusercontent.com/p4HlQ6kc4WIV0UoyJQQJNDzrOGZUFLg1SVaYTqxJFPY3VC2PjnvarHlUzkyc-3z3jzLo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink',
+    appId: 'com.google.android.apps.kids.familylink',
+    title: 'Google Family Link for parents',
+    summary:
+     'Stay in the loop as your child explores on their compatible devices.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/H_pTz59Knfkh3_Y3EyFJ3twqz3bHyeZGsvAPZ-hYa9CKxteNonFj3BsDGeBj-cvO4ts=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.huawei.mw',
+    appId: 'com.huawei.mw',
+    title: 'Huawei HiLink (Mobile WiFi)',
+    summary:
+     'Huawei HiLink is an app for manage HiLink devices anytime, anywhere.',
+    developer: 'Huawei  Internet  Service',
+    developerId: 'Huawei++Internet++Service',
+    icon:
+     '//lh3.googleusercontent.com/YvKMOGnBIDn4MAo0cHmEHy2dA5AYYxZlZFqsgsMjaaZcFGCcXwTm1VyawBQsLpnoS7iq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed',
+    appId: 'meteor.test.and.grade.internet.connection.speed',
+    title: 'Meteor: Free Internet Speed & App Performance Test',
+    summary:
+     'Internet connection quality test for app performance: Instagram, Netflix & more',
+    developer: 'OpenSignal.com',
+    developerId: '7133415022327536166',
+    icon:
+     '//lh3.googleusercontent.com/urqBcBgb7bWjlgOlAHBlXqpBebiblQX39YVaOmluD7WpdAYPuZjQH1iiFw2SgfivkjqM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

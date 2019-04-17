@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.fivemobile.myaccount',
+    appId: 'com.fivemobile.myaccount',
+    title: 'MyRogers',
+    summary: 'MyRogers provides secure access to your Rogers account.',
+    developer: 'Rogers Communications Inc.',
+    developerId: 'Rogers+Communications+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/RdYjY54oAOGC67EGS6EL-J3cms9MVNMsK8-dkUwtdkpAULO_U1EXbbawUslf5Hvodwg=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tv.telequebec.tq_j35',
+    appId: 'tv.telequebec.tq_j35',
+    title: 'Télé-Québec Coucou',
+    summary:
+     'Emissions, games, stories and complicity for every moment of the day.',
+    developer: 'Télé-Québec',
+    developerId: 'T%C3%A9l%C3%A9-Qu%C3%A9bec',
+    icon:
+     '//lh3.googleusercontent.com/Q-h_VtYCfgr3b1mu-s4HFJlxhgVKkxej53mhFuRBqj-hWTg534owZrZbJ1ta-IYJA479=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chatrmobile.mychatrapp',
+    appId: 'com.chatrmobile.mychatrapp',
+    title: 'My chatr',
+    summary:
+     'My chatr app is the easiest way to quickly manage your account at any time.',
+    developer: 'chatr Mobile',
+    developerId: 'chatr+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/HTXcQCR_HTEy1RbKeMmK76ok-LnC93sP4IMfesqNwdvWjc5SLZOuGET_mKy5opJHxQ=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ca.mybenefits.mobile',
+    appId: 'ca.mybenefits.mobile',
+    title: 'my-benefits',
+    summary:
+     'Access to your group benefits anywhere, anytime with my-benefits®',
+    developer: 'Johnston Group Inc.',
+    developerId: 'Johnston+Group+Inc.',
+    icon:
+     '//lh5.ggpht.com/CizGhYQ7X2WvfjMw85pLQ8ZwtQDBsR84aUJbQsnwKv_7zwwxaQM-SDfbl3-TYBN2h8o=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cineplex.storefront',
+    appId: 'com.cineplex.storefront',
+    title: 'Cineplex Store',
+    summary:
+     'Stream the latest movies and bring the Cineplex experience home or on the go.',
+    developer: 'Cineplex',
+    developerId: 'Cineplex',
+    icon:
+     '//lh3.googleusercontent.com/j38XzriHMaBgBwJTd7JSA50PrKkUjZddHyHgEd112EPTIxDsQgCqyUAqDMskUFjGbPQ=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sunlife.ca.mysunlife',
+    appId: 'com.sunlife.ca.mysunlife',
+    title: 'my Sun Life (Canada)',
+    summary:
+     'Stay connected to your investments and benefits plans with my Sun Life Mobile.',
+    developer: 'Sun Life Financial',
+    developerId: 'Sun+Life+Financial',
+    icon:
+     '//lh3.ggpht.com/Cw_Hu6MVImquL6vOnDbm8UEvyGxlo-VKvQ6suD3mz1RyKhWnsclTP-gN3G80DzSSm7g=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cibc.android.mobi',
+    appId: 'com.cibc.android.mobi',
+    title: 'CIBC Mobile Banking®',
+    summary: 'CIBC Mobile BankingEveryday banking on the go',
+    developer: 'CIBC',
+    developerId: 'CIBC',
+    icon:
+     'https://lh3.ggpht.com/fZ2SopPwR0s919VzW3xWYYpNkLRDiEN4RV9-cQg0ZzS5auuSeYV_Sflmg8ynz_PFKFg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ca.windmobile.selfcare.prod',
+    appId: 'ca.windmobile.selfcare.prod',
+    title: 'Freedom Mobile My Account',
+    summary: 'Manage your Freedom Mobile account on the go',
+    developer: 'Freedom Mobile Inc.',
+    developerId: 'Freedom+Mobile+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/AV3-t3GA3KxeHJ9ol8yfMTttqi7n3U43E0G--jOBJblB1sFYvTSIZ7BEIZbDEDuXtLE=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schoolmessenger.recipient',
+    appId: 'com.schoolmessenger.recipient',
+    title: 'SchoolMessenger',
+    summary:
+     'SchoolMessenger is a powerful way to stay connected to your school.',
+    developer: 'SchoolMessenger',
+    developerId: 'SchoolMessenger',
+    icon:
+     '//lh3.googleusercontent.com/UM7EwdwUaf7TcnEojI7liA3LEjX557f4PIGTm0iqrPvnP5YYb2QKTT3gjRsOb8kkFA=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.inalco.mobile',
+    appId: 'com.inalco.mobile',
+    title: 'iA Mobile',
+    summary:
+     'Your group insurance benefits, savings and mortgage loan at your fingertips',
+    developer: 'Industrielle Alliance',
+    developerId: 'Industrielle+Alliance',
+    icon:
+     '//lh3.googleusercontent.com/JW_xohe07AGEhcG2NDmjA1IZk_iEhNvmjLnIfXbOHO8_dIk8Dz1ByDMlKZejDSmCgQ=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor',
+    appId: 'tv.accedo.ott.flow.tva.quebecor',
+    title: 'TVA - Mobile',
+    summary:
+     'Live TV, catch-up and discovery of emissions, vegetables, VAT exclusive',
+    developer: 'Groupe TVA inc.',
+    developerId: 'Groupe+TVA+inc.',
+    icon:
+     '//lh3.googleusercontent.com/ouzCWTc2QgEcnPuxOAplQ73CwOUQy_VSgBI3DoXGVwdXYbWoLt6tKvXJ9Gnyj_kROGE=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ca.gwl.group.groupnet',
+    appId: 'ca.gwl.group.groupnet',
+    title: 'GroupNet Mobile',
+    summary:
+     'Great-West’s GroupNet Mobile lets you take GroupNet for Plan Members with you.',
+    developer: 'The Great-West Life Assurance Company',
+    developerId: 'The+Great-West+Life+Assurance+Company',
+    icon:
+     '//lh3.googleusercontent.com/0S-0haaW552X0YB37sZ4uzsY_hlo5LzcajI1tvC-NpmEUmzZOMJU2E6Zb2gPvGNb5pg=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.greenshield.mobileclaims',
+    appId: 'com.greenshield.mobileclaims',
+    title: 'GSC on the Go',
+    summary: 'Green Shield Canada’s mobile app for plan members',
+    developer: 'GSC Application Development',
+    developerId: 'GSC+Application+Development',
+    icon:
+     '//lh3.ggpht.com/IOD2CU86Z_5sSVETpMtzJky7kPrraF3c7yfCADXh_HbQ_IpiRL1J6SUg0yZLhPRB-bg=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nethris.android',
+    appId: 'com.nethris.android',
+    title: 'Payroll by Nethris',
+    summary: 'Payroll by Nethris: Your payroll at your fingertips.',
+    developer: 'CGI Payroll Services Centre Inc.',
+    developerId: 'CGI+Payroll+Services+Centre+Inc.',
+    icon:
+     '//lh5.ggpht.com/nVkjO-X4QNV1GJHRPa4BCs4x2FLuZiwKjiexVU7O1yFPkeSmYzeGVmBtuL9mWaR5Fg=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ca.northbay.recycles',
+    appId: 'ca.northbay.recycles',
+    title: 'North Bay Recycles',
+    summary: 'Recycling and Garbage calendar for the City of North Bay',
+    developer: 'City of North Bay',
+    developerId: 'City+of+North+Bay',
+    icon:
+     '//lh3.googleusercontent.com/SG4yB5fsBkCPHJJgEoMB-qQ8Ja4NqyBeK0zkKoKq5RTye9gSq4y-R-1RFdo2Nl2C63s=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ca.manulife.MobileGBRS',
+    appId: 'ca.manulife.MobileGBRS',
+    title: 'Manulife Mobile',
+    summary:
+     'Manage your Group Benefits and Group Retirement plans with Manulife Mobile app.',
+    developer: 'Manulife Financial',
+    developerId: 'Manulife+Financial',
+    icon:
+     '//lh3.googleusercontent.com/WteyWBnEgorsaGJwrLA2HZlGgG3hXS4y0LPPxF1cend-RH3IDbuv-3L9cdewItNDVA=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mtransit.android',
+    appId: 'org.mtransit.android',
+    title: 'MonTransit',
+    summary:
+     'Transit information in your pocketBike, Bus, Subway, Train…Offline & Real-Time',
+    developer: 'MTransit Apps',
+    developerId: '4695172782869639778',
+    icon:
+     '//lh4.ggpht.com/7b0mlEJpwCfqJrKJdQjAqnawamcaDJuHxndcF_2A_86lVdXdOf4R0jinEPyUEymfmg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.questrade.my',
+    appId: 'com.questrade.my',
+    title: 'Questrade',
+    summary:
+     'We give you everything you need to manage investments in the palm of your hand.',
+    developer: 'Questrade',
+    developerId: 'Questrade',
+    icon:
+     '//lh3.googleusercontent.com/bEZCARukiO3c2IebnyhhEy_rGb_t71jtBqDI2NpQPyc86i8p4k0m9WppkNkRwcMaKKiW=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.recollect.stjohns',
+    appId: 'net.recollect.stjohns',
+    title: 'St. John\'s Waste and Recycling',
+    summary:
+     'Garbage and recycling schedules and reminders St. John\'s, Newfoundland.',
+    developer: 'csjdeveloper',
+    developerId: 'csjdeveloper',
+    icon:
+     '//lh3.googleusercontent.com/E7MXTj2F_Zy17yIAeHjKME_uaCa7TfSD0Zd9uw-xnOg9CG1xmhNepCYqPYTy-MBREg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.ritual.app',
+    appId: 'co.ritual.app',
+    title: 'Ritual',
+    summary:
+     'Mobile ordering & effortless pick-ups. The fastlane for urban professionals.',
+    developer: 'Ritual Technologies Inc.',
+    developerId: 'Ritual+Technologies+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/ujY3iJpBnm5hWkhYysYdMWDSJF7Du-ZHk6aHFyZdUZ7oX2yV10a-iH5rgobS7_x0vRms=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

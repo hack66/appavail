@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.onlyy.kimi',
+    appId: 'com.onlyy.kimi',
+    title: 'Morse Messenger',
+    summary: 'Your secure communication manager',
+    developer: 'morseapp',
+    developerId: 'morseapp',
+    icon:
+     '//lh3.googleusercontent.com/9scaVuVilqr1sxmoKxtONGR1MwwL2-Qz_PTmLp3GtcoUZFhHXBCwureuTErHh9tr7uY=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=im.ananse.app',
+    appId: 'im.ananse.app',
+    title: 'ananse im (enterprise)',
+    summary: 'Secure Communications. You Control.',
+    developer: 'ananse',
+    developerId: 'ananse',
+    icon:
+     '//lh3.googleusercontent.com/C4rLkUOOdOO12XwPQxI9VWbTrjSht7WGZXYygapmp1PUu30ZsWmCIFpqDH3UrB1mQB0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.btdstudio.linkcast.android',
+    appId: 'com.btdstudio.linkcast.android',
+    title: 'LINKCAST：Secure Messenger',
+    summary: 'High security messagingand High speed file transferring',
+    developer: 'BTD STUDIO',
+    developerId: 'BTD+STUDIO',
+    icon:
+     '//lh3.googleusercontent.com/c9ir26n9-j1wborOxqeNRPPT65jVkyIwvWfdcQ9I9fQrsY7WYNeECeFDP-FRF0JH_Fg=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=se.mbsp.ibsp',
+    appId: 'se.mbsp.ibsp',
+    title: 'IBSP',
+    summary: 'IBSP Hong Kong Ltd transfer and payment app for clients.',
+    developer: 'IBSPLabs',
+    developerId: 'IBSPLabs',
+    icon:
+     '//lh3.googleusercontent.com/nXhvUhmki8_WRFyT1cTDSUzYpI4a-QO3NgO8ILTsi0Tehf2u_yoUcJz3dzUNiP2ee7k=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.siscomp.Remote',
+    appId: 'com.siscomp.Remote',
+    title: 'Gestão Remota Siscomp',
+    summary:
+     'Keep track of the most important information about your business in real time',
+    developer: 'Siscomp Informática LTDA',
+    developerId: 'Siscomp+Inform%C3%A1tica+LTDA',
+    icon:
+     '//lh3.googleusercontent.com/Naq854Wu-ljVrIwPMiCvyjjP_65I_Lw-WewEibKOk3Dp5jmM217-PCTjn5q1xaeROg=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.android',
+    appId: 'org.torproject.android',
+    title: 'Orbot: Proxy with Tor',
+    summary:
+     'Enhance your privacy, break through firewalls and communicate more safely.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.intrasenze.uan',
+    appId: 'se.intrasenze.uan',
+    title: 'UAN-Safe',
+    summary: 'A new take on safety for family and friends.',
+    developer: 'Intrasenze',
+    developerId: 'Intrasenze',
+    icon:
+     '//lh3.googleusercontent.com/u5_klQvUzWmwZINMP9_xXkMRnRGVWy5gGQAoRP301TgCG_mPrIRowQogDApPxHKj1k8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aos.incircle.activity.remotetalk',
+    appId: 'com.aos.incircle.activity.remotetalk',
+    title: 'リモートトーク',
+    summary:
+     '社内コミュニケーションにスピードとセキュリティを！マニュアル要らずのインターフェイス、コストとセキュリティの両面で働き方改革を支援する純国産ビジネスチャット。',
+    developer: 'fonfun corporation',
+    developerId: 'fonfun+corporation',
+    icon:
+     '//lh3.googleusercontent.com/KlVhACpyODeD06SvaYXi-9GTSKZAnSJaW2koCjsGArqucQ_LmfW0lQgCgH9ukj5Jhi8=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.cogon.cogonPaymentsApp',
+    appId: 'de.cogon.cogonPaymentsApp',
+    title: 'cogon Payments',
+    summary: 'cogon Payments - Mobile App',
+    developer: 'cogon GmbH',
+    developerId: 'cogon+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/xy1N7rbfXx7Sgq1aG7qBxPXRuuDJvMl2RcCczDPk-TcYpmZudeKpZ4RLX8Ou056IHA=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.leap.bitmaskclient',
+    appId: 'se.leap.bitmaskclient',
+    title: 'Bitmask',
+    summary:
+     'Encrypted communication for mere mortals(superheroes welcome, too).',
+    developer: 'LEAP Encryption Access Project',
+    developerId: 'LEAP+Encryption+Access+Project',
+    icon:
+     '//lh4.ggpht.com/3VI7Jv48HjVviH-mxrCLND9bhfnjTZMmBo1WoK5K8tVWD5UY6jW8nu2G8R2509Q0qw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatdir.stickers',
+    appId: 'com.whatdir.stickers',
+    title: 'Stickers for new WAStickerApps',
+    summary:
+     'Stickers for WhatsApp. Download and create the best WAStickerApps stickers.',
+    developer: 'Talimedia',
+    developerId: 'Talimedia',
+    icon:
+     '//lh3.googleusercontent.com/_MRewS2QXyHaR5MzgcCh0cUr7nHp1gFmQ8oVktvmwbqrRhx2KMcdDZUJHWZPw2Ly1gk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=spt.w0pw0p.assassinsvpn.v1',
+    appId: 'spt.w0pw0p.assassinsvpn.v1',
+    title: 'Assassins VPN',
+    summary:
+     'The cheapest yet fastest internet connection experience in the Philippines......',
+    developer: 'VPN Portal PH',
+    developerId: 'VPN+Portal+PH',
+    icon:
+     '//lh3.googleusercontent.com/1DaEANHIjz7A7SNFYLeOXkxfL6emMCrvDovrSU0wh9NjvSoXKRNL7mgIRBYnjLhFyw=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uz.gap.messenger',
+    appId: 'uz.gap.messenger',
+    title: 'Gap Messenger (Beta)',
+    summary: 'An instant messenger for everyone!',
+    developer: 'Impress Projects LLC',
+    developerId: 'Impress+Projects+LLC',
+    icon:
+     '//lh3.googleusercontent.com/bstK7Y8sMMVQNs1AIGFNTUvaTmIvbwMJQQl6E4bBMplMv4XHHGFHPCdVRu-6qARfLw=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.innovmetric.talisman',
+    appId: 'com.innovmetric.talisman',
+    title: 'PolyWorks|Talisman',
+    summary:
+     'The mobile app that boosts measurement productivity on the shop floor.',
+    developer: 'InnovMetric Software Inc.',
+    developerId: 'InnovMetric+Software+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/RnEKtwOhwFs-6vbquBJKniltACabnJ_GS1Crw_oNyWPwoKz0DQuYsfRKqb2jtFWFWw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=at.db.rc.free',
+    appId: 'at.db.rc.free',
+    title: 'Remote Control Free',
+    summary:
+     'Remote Control allows you to use your device as wireless PC-mouse and keyboard.',
+    developer: 'daba',
+    developerId: 'daba',
+    icon:
+     '//lh4.ggpht.com/FhEnX0sy5b-fZYHnwGhs4gh41Viiqw4RpunD8RudlQeTuzXtPvzbOi2rVXceNq8jJA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.itc.cloudmanager',
+    appId: 'com.itc.cloudmanager',
+    title: 'ITC Cloud Manager',
+    summary:
+     'Irrigation assistant. Real time control from your smartphone',
+    developer: 'ITC SL',
+    developerId: 'ITC+SL',
+    icon:
+     '//lh3.googleusercontent.com/MDiLzEYQqp1N1O2UNRFnagoCyU5XhwFLzLRJ-H9HJWkvF85EtqWFY_yn9VvLxq-68XQX=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=dev.teamreiko.xtreme',
+    appId: 'dev.teamreiko.xtreme',
+    title: 'TeamReiko SSL VPN',
+    summary:
+     'The cheapest yet fastest internet connection experience in the Philippines......',
+    developer: 'VPN Portal PH',
+    developerId: 'VPN+Portal+PH',
+    icon:
+     '//lh3.googleusercontent.com/rwOrKe0qEyJZZGVrv2LkaAsMPsZ8CDiRb082XoUmZRSGAi2BqqQNBM1I2ANVnrsvpwdB=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nifty.mobilesec',
+    appId: 'com.nifty.mobilesec',
+    title: '@niftyあんしんWiFi VPN',
+    summary:
+     '@nifty Security WiFi VPN app is an application for use with confidence the public wireless LAN spot (WiFi spot).',
+    developer: 'NIFTY Corporation',
+    developerId: '6595850570375867829',
+    icon:
+     '//lh3.googleusercontent.com/8tMOTp3ptPRuGdPrZaMj7ZT_b1d1kMMSXEojJ6f4OLx5BrSEi_9Nearl1NzeeCtSbw=w340',
+    score: 2.3,
+    scoreText: ' Rated 2.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vasco.vascoblemanagerapp',
+    appId: 'com.vasco.vascoblemanagerapp',
+    title: 'DIGIPASS SecureClick Manager',
+    summary:
+     'DIGIPASS SecureClick manager is used to configure and manage your SecureClicks',
+    developer: 'VASCO Data Security',
+    developerId: 'VASCO+Data+Security',
+    icon:
+     '//lh3.googleusercontent.com/1w0w7UfTEiE_k0lQVPoVG_OioGYmQ8MCOvysbsh9Bwo83GAEZNJPgtcGZZJvha1ipQ=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.raketu.rakem',
+    appId: 'air.com.raketu.rakem',
+    title: 'RakEM',
+    summary:
+     'McAfee trusted Rakem: secure messaging, picture sharing, voice & video calling.',
+    developer: 'Raketu Communications Inc.',
+    developerId: 'Raketu+Communications+Inc.',
+    icon:
+     '//lh4.ggpht.com/_OtmX4wSx50LHXqvsrQHhZ1oeuzM4DW-4-F9KPqB2g6RRUNV_jp-w0EAnyF3G_O93sw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

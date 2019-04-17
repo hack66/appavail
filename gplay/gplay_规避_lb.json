@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.AyMog.Leekha',
+    appId: 'com.AyMog.Leekha',
+    title: 'Leekha ليخة',
+    summary:
+     'Leekha (ليخة) is an "evasion-type" trick-taking card game for four players.',
+    developer: 'Ay Mog',
+    developerId: 'Ay+Mog',
+    icon:
+     '//lh3.googleusercontent.com/wjhgYi0XOHIKibAHqMlIGtaqPzVfbrm98z1ny0PcjNEYs_Ws3nzE-vNEwmYgfN41zPc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apps2you.cyberia',
+    appId: 'com.apps2you.cyberia',
+    title: 'Cyberia',
+    summary:
+     'Mobile tool enabling Cyberia users to manage multiple accounts & renew services',
+    developer: 'apps2you',
+    developerId: '6914110333592208856',
+    icon:
+     '//lh3.googleusercontent.com/6ufSGo7JAxMFK9-3Dmq-aWTvdzKc0xPVC25c4vL2Y5eeL1USwmR_0epumQGnWjP0kO0=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leodesol.games.classic.maze.labyrinth',
+    appId: 'com.leodesol.games.classic.maze.labyrinth',
+    title: 'Mazes & More',
+    summary:
+     'Classic maze/labyrinth game with fun tweaks.  Can you solve all the mazes?',
+    developer: 'Leo De Sol Games',
+    developerId: '8149422968449365069',
+    icon:
+     '//lh3.googleusercontent.com/JchaxYkVuO_jGLOaS2-Ur2HcAFAOOPPYsRm6sraO7E55OqoVK_WlZ5k32iIvF_HyeD8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mstfbs.yesiluzayli',
+    appId: 'com.mstfbs.yesiluzayli',
+    title: 'The green alien dance',
+    summary: 'Dame Tu Cosita ( green alien dance)',
+    developer: 'green alien',
+    developerId: 'green+alien',
+    icon:
+     '//lh3.googleusercontent.com/mOleDCGMP6EhbDEk8dY3bgkkVfTavdVgWj9ZIhooPkOi7_jJ0WwYhi5LRusY6zml2jc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gaiaworkforce.cloud',
+    appId: 'com.gaiaworkforce.cloud',
+    title: 'Workforce Cloud',
+    summary: 'A Great Workforce, great performance.',
+    developer: 'Suzhou GaiaWorks Information Technology Co., Ltd.',
+    developerId: 'Suzhou+GaiaWorks+Information+Technology+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/m0IP1X38HCZvTcgDN_YE8rX42LRQTL9Y4ESjvXJoOrP-Lah5Uo4SMVlgQExGcyJR9Q=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.versos.amarico',
+    appId: 'com.versos.amarico',
+    title: 'ተረትና ምሳሌ',
+    summary: 'Examples and numbers',
+    developer: 'Apps stars',
+    developerId: 'Apps+stars',
+    icon:
+     '//lh3.googleusercontent.com/K81HFDzH_dE8fDqWXDEmDdr5w32eN9BUWk4gz97zmRG97ndWDystBbgl_v0AZATsyQE=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Ninjutsu.Japanese.Martial.Art.Training.Techniques',
+    appId: 'com.Ninjutsu.Japanese.Martial.Art.Training.Techniques',
+    title: 'Ninjutsu',
+    summary: 'Get Ninjutsu Training Tips Anyone Can Use!',
+    developer: 'Sports Learning Tips',
+    developerId: 'Sports+Learning+Tips',
+    icon:
+     '//lh3.googleusercontent.com/RFc8AmGAWJYOHazx3WYAnPadgHeXcaVPOLHNp51qvXr48ipx-i6n2SVKBzqz4X9FQ_93=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chinesebrowser',
+    appId: 'com.chinesebrowser',
+    title: 'Chinesebrowser - AI PinyinBrowser',
+    summary:
+     'Realtime Secure AI PinyinBrowser adds pinyin across the Chinese internet',
+    developer: 'Brainiii (Singapore)',
+    developerId: 'Brainiii+(Singapore)',
+    icon:
+     '//lh3.googleusercontent.com/OfGwKCraqfFrAAsEDnf_80nJr2BhI7DQABYf7KDKzzDEtg1ZJPnvaBTeUYD4IxkU5gM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobibah.sebatu_secrets',
+    appId: 'com.mobibah.sebatu_secrets',
+    title: 'Ethiopian Relationship App Tip 7ቱ ሚስጥራት ለዘላቂ ግንኙነት',
+    summary:
+     'Ethiopian Relationship App Tips 7ቱ ሚስጥራት ለዘላቂ ግንኙነት Ethiopia Love App',
+    developer: 'BIBAH HD',
+    developerId: 'BIBAH+HD',
+    icon:
+     '//lh3.googleusercontent.com/iPca5Fd0Ozlh2M3zzXIZwNHwB4cdcORRNU-swv6xtLhKkSAqivw1aqfa9DauKfTwzYA9=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=franol.geleta.fgsystem.yemezmuretenatdebter',
+    appId: 'franol.geleta.fgsystem.yemezmuretenatdebter',
+    title: 'የመዝሙር ጥናት ደብተር',
+    summary:
+     'This app is used to display old & recent amharic worship songs for singers',
+    developer: 'franol geleta',
+    developerId: 'franol+geleta',
+    icon:
+     '//lh3.googleusercontent.com/grDYEODERh-BcwC9uMHFSFEg1a6RSUlYEbHPLVbOb1d0lirZ9z6kK7p1xhvSvDfDm-4P=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qprod.btt',
+    appId: 'com.qprod.btt',
+    title: 'Break The Targets',
+    summary:
+     'Speedrunning on mobile! Complete hundreds of levels as fast as possible!',
+    developer: 'Q\'Prod',
+    developerId: 'Q\'Prod',
+    icon:
+     '//lh3.googleusercontent.com/ePlJD_eZlBVcBBHXQBsA8UEs6A0UpJlb8jW-S720f89FJp5SWpQA5KlBF6_urVPggoCr=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

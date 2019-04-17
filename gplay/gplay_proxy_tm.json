@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.udicorn.proxybrowser.unblockwebsites',
+    appId: 'com.udicorn.proxybrowser.unblockwebsites',
+    title: 'Proxynel: Unblock Websites Free VPN Proxy Browser',
+    summary:
+     'Unlimited and free web proxy browser to unblock websites and censored content.',
+    developer: 'udicorn',
+    developerId: '6593875558810365595',
+    icon:
+     '//lh3.googleusercontent.com/-5NHY7hKoh3DXTsgVuWuzLXCPOFMB0A5-LYmwomFYtX4nJHVGJCR3Pwu-IFGEux4qQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icecoldapps.proxyserver',
+    appId: 'com.icecoldapps.proxyserver',
+    title: 'Proxy Server',
+    summary:
+     'Run your own free proxy server (HTTP and HTTPS)! Including tunneling!',
+    developer: 'Ice Cold Apps',
+    developerId: '6016125024942124441',
+    icon:
+     'https://lh5.ggpht.com/2LyGEVjGEq_zWt4YG9wF4-NNPM61lj2Gi3rcddhMcRTGNC0iutbbc2RwmqsebP1-0u0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
+    appId: 'com.security.xvpn.z35kb',
+    title: 'X-VPN - Free Unlimited VPN Proxy',
+    summary:
+     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
+    developer: 'Free Connected Limited',
+    developerId: 'Free+Connected+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hotspotshield.android.vpn',
+    appId: 'hotspotshield.android.vpn',
+    title: 'Hotspot Shield Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'The fastest VPN to unblock and access all your favorite apps and sites.',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/0NTih3bsCsrB5EmnRfib0tEvuAx2g-AcMGe8gOxUMaM-dtKfLtwKk9ivZCVNQVt3SN8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.proxydroid',
+    appId: 'org.proxydroid',
+    title: 'ProxyDroid',
+    summary: 'Use Proxy on Your Android',
+    developer: 'Max Lv',
+    developerId: 'Max+Lv',
+    icon:
+     'https://lh4.ggpht.com/hj9y8V4RFDk2h3DCqxHaDulTGWRS_PDUokCSgQIjcvKCtn7T0rdQYw1bbxPuFr3n__8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xh.mastervpn',
+    appId: 'com.xh.mastervpn',
+    title: 'MasterVPN - Unlimited Proxy',
+    summary:
+     'It brings a high vpn speed and encrypted vpn connection to your device.',
+    developer: 'Newbreed Network Pte.Ltd',
+    developerId: 'Newbreed+Network+Pte.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/QCJZr32Q142v6xwaWhYIP0KSmF_BBzpRNCz39BFVsjq0QEBxHwQ4yWU0DBon9PinGg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.android',
+    appId: 'org.torproject.android',
+    title: 'Orbot: Proxy with Tor',
+    summary:
+     'Enhance your privacy, break through firewalls and communicate more safely.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.forever.freetg.freetg',
+    appId: 'com.forever.freetg.freetg',
+    title: 'Proxy for telegram',
+    summary: 'Secure and anonymous proxies for telegrams',
+    developer: 'Netfree',
+    developerId: 'Netfree',
+    icon:
+     '//lh3.googleusercontent.com/TwYq-n7xDGajYMng2qA27_ZT10a4d9TQZM2xxfaNb3yWRq9FqPXKKg18az9qbt7xZg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=proxy.browser.unblock.sites.proxybrowser.unblocksites',
+    appId: 'proxy.browser.unblock.sites.proxybrowser.unblocksites',
+    title: 'Web Proxy Browser. Unblock sites',
+    summary: 'Unblock sites for free with the Web Proxy Browser',
+    developer: 'proxy browser team',
+    developerId: 'proxy+browser+team',
+    icon:
+     '//lh3.googleusercontent.com/S_ASo1kTBIakbaPDqhTf-PTK2kVUaR1xNCAEEm1eds11_zJt3U6fpjRAXERBVEIy4Qc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=im.zpn',
+    appId: 'im.zpn',
+    title: 'Free VPN Proxy - ZPN',
+    summary:
+     'Best Free VPN Proxy 10GB/moUnblock Websites and AppsSecure & Fast',
+    developer: 'ZPN',
+    developerId: 'ZPN',
+    icon:
+     '//lh3.googleusercontent.com/ITMUyYYTkH2DFg451Kngy0kZL-RvL22wKzChGQtK0LeLIZPAwL8vRVDZZI7LzmYzfw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=vpn.proxy.server',
+    appId: 'vpn.proxy.server',
+    title: 'VPN Proxy Server Free. VPN app Unblock Unlimited.',
+    summary:
+     'Free VPN – The Best Private & Secure VPN service for Android.',
+    developer: 'Indragni Soft Solutions',
+    developerId: 'Indragni+Soft+Solutions',
+    icon:
+     '//lh3.googleusercontent.com/0PpnFwRJlX1DmKDBaAcI-DV30nREnH8FyxAvC-c1wYxRFrRJVF4Y0QTQcveSW8UPtngs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.securevpn',
+    appId: 'free.vpn.unblock.proxy.securevpn',
+    title: 'Secure VPN - Free VPN Proxy, Best & Fast Shield',
+    summary:
+     'Hide my ip, Unblock websites master, Wifi hotspot security VPN, Super VPN',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/xjxgmXC_XmD6qvzKHKq2DcHClrwI2XWT77n7-Pr31h0bRjfa2gZNnCH9rP61ZSRR33I=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.furyweb.linkvpn',
+    appId: 'org.furyweb.linkvpn',
+    title: 'LinkVPN Free VPN Proxy',
+    summary:
+     'LinkVPN, a totally FREE, SAFE, FAST VPN Proxy unblocks sites and hide activities',
+    developer: 'FuryWeb Tech',
+    developerId: 'FuryWeb+Tech',
+    icon:
+     '//lh3.googleusercontent.com/LGdSYznbEamZ53oJpXlkTE6iCpghMrjp9xlZ2My5d8WJ1mtw6PjqvcohPL1uJNCHRQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.seed4.app.android',
+    appId: 'me.seed4.app.android',
+    title: 'Free VPN Proxy by Seed4.Me',
+    summary: 'Try the best VPN and proxy 7 days for FREE.',
+    developer: 'Seed4.Me Inc.',
+    developerId: 'Seed4.Me+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/xuvjxyLedm6MsqL3TUxAbLz39-dIIqm0014FHI_ZtC4xPeUupgJpcvvtIEYlIf-P92Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.millcroft.proxy.vpn.private.internet.access.master.free',
+    appId:
+     'com.millcroft.proxy.vpn.private.internet.access.master.free',
+    title: 'VPN for Android with Proxy Master on Turbo Speed',
+    summary:
+     'VPN for Android. Secure your privacy. Complete anonymity online.',
+    developer: 'Millcroft Management',
+    developerId: 'Millcroft+Management',
+    icon:
+     '//lh3.googleusercontent.com/Yplh0RIMVBI1VlF2SwFkYhQ0sFVlK4G5e4sSgAhmg9uEYitNB2lXGNaUbeExzEkYwQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

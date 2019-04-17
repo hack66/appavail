@@ -1,0 +1,272 @@
+[ { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goodbarber.telemicro',
+    appId: 'com.goodbarber.telemicro',
+    title: 'Telemicro',
+    summary: 'Enjoy all the news media group Telemicro.',
+    developer: 'App CR Media',
+    developerId: 'App+CR+Media',
+    icon:
+     '//lh3.googleusercontent.com/hXBrJwjntso_7IE_nxSSUt1dnJoLisQgCDuTcH-El20sSwk8rSUBRnC8oraAwdAk1w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chantbook.chantbook',
+    appId: 'com.chantbook.chantbook',
+    title: 'Chants D\'Esperance',
+    summary: 'chant, desperance, haitian song, Trinity Empire',
+    developer: 'Trinity Empire',
+    developerId: 'Trinity+Empire',
+    icon:
+     '//lh3.googleusercontent.com/x9mkvkpxf_rW9lNhatHOa0ntVt1DOUbAo0Z-z3Cggfe_MD261vtXnrdf8n0_DCPZC20=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.artech.infocorp_bhd.bhd',
+    appId: 'com.artech.infocorp_bhd.bhd',
+    title: 'Móvil Banking Personal BHDLeón',
+    summary:
+     'Quick Reference, transactions to other banks, swap Stars / Points ...',
+    developer: 'Banco BHD León',
+    developerId: 'Banco+BHD+Le%C3%B3n',
+    icon:
+     '//lh3.googleusercontent.com/jzY4_y0aeIOFwXrm9Uj5gtxDNE9RV4Ht16Yl76FrXv2SeyFRKjtugUAybpXoajIugRIa=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eznetsoft.chantsdesperance',
+    appId: 'com.eznetsoft.chantsdesperance',
+    title: 'Chants D\'Esperance with Tunes',
+    summary: 'Chants D\'Esperance with Tunes Get it today.',
+    developer: 'Eznetsoft/SamJocelyn',
+    developerId: 'Eznetsoft/SamJocelyn',
+    icon:
+     '//lh4.ggpht.com/hqsgPCtGs_7Iq_AyttkgQnyQChP4FIAW7uFWmdmKR04C8XtyfyeUUaLzIDfSdFyW90U=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dnmoft.coopnama',
+    appId: 'com.dnmoft.coopnama',
+    title: 'Coop@pp',
+    summary: 'Application Partner Coopnama View and request services',
+    developer: 'COOPNAMA',
+    developerId: 'COOPNAMA',
+    icon:
+     '//lh3.googleusercontent.com/eAbM7-tNZtbuyonyLAgM9ozPUvsxLyH_guxngUunEBqLZJaoJQjHrQP45XrTstEEwA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.banreservas.tubancoappmobile',
+    appId: 'com.banreservas.tubancoappmobile',
+    title: 'Banreservas',
+    summary:
+     'Your access B @ nco from your mobile phone more comfortable and easier.',
+    developer: 'Banreservas',
+    developerId: 'Banreservas',
+    icon:
+     '//lh3.googleusercontent.com/UIippuAWDZKT1ITAOpYeEWj769gctfEIcbBzA2uLV-vyLovvHB-gddfyDDI4whYTAA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leidsa.oficialapp',
+    appId: 'com.leidsa.oficialapp',
+    title: 'LEIDSA Oficial - Tu Unica Loto',
+    summary:
+     'Official Application - International Electronic Lottery Dominicana SA, LEIDSA.',
+    developer: 'LEIDSA',
+    developerId: 'LEIDSA',
+    icon:
+     '//lh3.googleusercontent.com/R8dwIewqOXuV_T5RooBWYYgZFrYf9P6cKe5kBUrFxDaIjTgtC4cOEmRldyhAzxuNXHI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=photography.blackgallery.android',
+    appId: 'photography.blackgallery.android',
+    title: 'Gallery',
+    summary:
+     'Gallery, Photos, My pics, 畫廊, Albums,  photo backup app, photo.s, foto',
+    developer: 'gallery',
+    developerId: 'gallery',
+    icon:
+     '//lh3.googleusercontent.com/WFEZf62p4j4-PqiP4gEIy13fFN7SDc7PTd_fwvw0Ma9wBTtwsfppu19fA27TJrD_YlMI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.android.chrome',
+    appId: 'com.android.chrome',
+    title: 'Google Chrome: Fast & Secure',
+    summary:
+     'Fast, simple, and secure. Google Chrome browser for Android phones and tablets.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clarord.miclaro',
+    appId: 'com.clarord.miclaro',
+    title: 'Mi Claro República Dominicana',
+    summary:
+     'My course allows you to visualize your purchases, make payments and online refills.',
+    developer: 'Claro República Dominicana',
+    developerId: 'Claro+Rep%C3%BAblica+Dominicana',
+    icon:
+     '//lh3.googleusercontent.com/MqujNOzpi8nb4c_DYkxhQ-0Yw7v2P3uAsNcVhaLy8QGzXcx7nemVLLs31COITv-EpRxM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.innovlab.tchalam',
+    appId: 'com.innovlab.tchalam',
+    title: 'TCHALAM: Lottery with Haitian Spiritual Numbers',
+    summary:
+     'Using premonitory dreams and the list of Tchala to win prizes',
+    developer: 'Kasik Software',
+    developerId: 'Kasik+Software',
+    icon:
+     '//lh3.googleusercontent.com/m5abjpsqw_mm3dgT72QT1Gq4qDo8fbFo740jt1eKk-Dugnr77i-xxY0r7Ka3zYQrQR0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

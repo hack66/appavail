@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser',
+    appId: 'mobi.mgeek.TunnyBrowser',
+    title: 'Dolphin Browser - Fast, Private & Adblock🐬',
+    summary:
+     'Best web browser with flash player, fast download, ad blocker & incognito mode.',
+    developer: 'Dolphin Browser',
+    developerId: '6599001017670379452',
+    icon:
+     '//lh3.googleusercontent.com/o9t-BM8E2kXbsdCUH_4iT_NBtL7gxOVLOAm-O2c3NYf5Ow3UA3yza-WuuDGhed2tvw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medium.reader',
+    appId: 'com.medium.reader',
+    title: 'Medium',
+    summary:
+     'A place where everyone has a story to share & the best ones are delivered to you',
+    developer: 'A Medium Corporation',
+    developerId: 'A+Medium+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.upx.proxy.browser',
+    appId: 'net.upx.proxy.browser',
+    title: 'UPX Unblock Websites Proxy Browser - Private, Fast',
+    summary:
+     'Speed, secure proxy browser with chrome adblock. Easy download, unblock websites',
+    developer: 'Unblock Vpn Proxy Browser',
+    developerId: 'Unblock+Vpn+Proxy+Browser',
+    icon:
+     '//lh3.googleusercontent.com/uccVoPMGC8SmVSTyF51vKlv2cYvdJD24g_ursb3TqX6TQrRVjCh_vj0NcyH8AWkdKK8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloomberg.android.plus',
+    appId: 'com.bloomberg.android.plus',
+    title: 'Bloomberg: Market & Financial News',
+    summary:
+     'Get the latest stock market, financial, business news and more.',
+    developer: 'Bloomberg LP CM',
+    developerId: 'Bloomberg+LP+CM',
+    icon:
+     '//lh3.googleusercontent.com/r-yyb3SfVQm6K73DbtKTwOKOTUwBrjhR1oxv7yH0QcPfxrAbZqCGrZzeWWbHsT2Pf6IA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.berminal.bermi',
+    appId: 'com.berminal.bermi',
+    title: 'Bermi: Where Short Videos Live',
+    summary:
+     'Immersive short video community with fans that make millions of videos',
+    developer: 'Berminal',
+    developerId: 'Berminal',
+    icon:
+     '//lh3.googleusercontent.com/-1ybfK5mV8kcHOUt-fwFUKCKcWBD6mJA_CeyumkxCaRjlRGGaSuJZYrcTlXx17O_KbGb=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mozilla.rocket',
+    appId: 'org.mozilla.rocket',
+    title: 'Firefox Lite - Fast and Lightweight Web Browser',
+    summary:
+     'Mozilla’s lightning fast and lightweight web browser designed with you in mind.',
+    developer: 'Mozilla',
+    developerId: '7083182635971239206',
+    icon:
+     '//lh3.googleusercontent.com/Bs_gxC7BeIeiCadknmdnqAHCO561R-LBvTSdK-UAqQr5o8tpweprOhRLjAtdPRSUbf8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.freighter',
+    appId: 'com.google.android.apps.freighter',
+    title: 'Datally: data saving app by Google',
+    summary: 'Save, manage, and share your mobile data.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/6Af4NEHnMju19IqxTpw-W3XdbBUFnN__7pzko-lLvh4JiNSZmDSo7NsmWlrT12WPPg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.explore.web.browser',
+    appId: 'com.explore.web.browser',
+    title: 'Web Browser & Explorer',
+    summary:
+     'A fast, secure, and smart Mobile Browser, the best Web Browser.',
+    developer: 'Mobile_V5',
+    developerId: 'Mobile_V5',
+    icon:
+     '//lh3.googleusercontent.com/KJcrI0IdRB38CDqY4CwAAnk2twWacZlE4wFjnQxr-nLvVO6mXvgdWViwakKE6-xBhcs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nisargjhaveri.netspeed',
+    appId: 'com.nisargjhaveri.netspeed',
+    title: 'NetSpeed Indicator: Internet Speed Meter',
+    summary:
+     'Shows network speed in the status bar to easily monitor your internet connection',
+    developer: 'Nisarg Jhaveri',
+    developerId: 'Nisarg+Jhaveri',
+    icon:
+     '//lh3.googleusercontent.com/9KePOkP9f8yEBjHgkdFp8bjUbOeACj9xDgl3l8GGNs4D_MdVHNJPLyBrAdCuEkOe8fE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.destil.settleup',
+    appId: 'cz.destil.settleup',
+    title: 'Settle Up - Group Expenses',
+    summary: 'Sharing expenses with friends?',
+    developer: 'Step Up Labs',
+    developerId: '7657242945003750925',
+    icon:
+     '//lh3.googleusercontent.com/OMj6kfA3h1rYbXH34ra6Ah80HQXCzafshNVKGQKp0C4JCGpqCbod7IDrtS_kx0MMjzs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.huawei.mw',
+    appId: 'com.huawei.mw',
+    title: 'Huawei HiLink (Mobile WiFi)',
+    summary:
+     'Huawei HiLink is an app for manage HiLink devices anytime, anywhere.',
+    developer: 'Huawei  Internet  Service',
+    developerId: 'Huawei++Internet++Service',
+    icon:
+     '//lh3.googleusercontent.com/YvKMOGnBIDn4MAo0cHmEHy2dA5AYYxZlZFqsgsMjaaZcFGCcXwTm1VyawBQsLpnoS7iq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.wifimap.wifimap',
+    appId: 'io.wifimap.wifimap',
+    title: 'WiFi Map — Free Passwords & Hotspots',
+    summary:
+     'Access fast internet for Free with WiFi networks! Download WiFi Map for FREE!',
+    developer: 'WiFi Map LLC',
+    developerId: '8565181914239008089',
+    icon:
+     '//lh3.googleusercontent.com/SnhTxeJgxWHS7AlwEl_QNa2lpwCNFsL3Dqrzl-jMqvwFzYMIZW5V3IHUWFU3bKe6N8Kg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobidia.android.mdm',
+    appId: 'com.mobidia.android.mdm',
+    title: 'My Data Manager - Data Usage',
+    summary:
+     'Take control of your mobile data - save money & use your plans more effectively.',
+    developer: 'Mobidia Technology',
+    developerId: 'Mobidia+Technology',
+    icon:
+     '//lh3.googleusercontent.com/lCRCMakLJcQ93bFXVp2aTFsPG_DfWuxVaEqg0rQUupCLyOdLBQWiO5na02bK_yece_s=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fast.download.privacy.internet.explorer.im',
+    appId: 'fast.download.privacy.internet.explorer.im',
+    title: 'Internet browser & Explorer, adblocker browser',
+    summary: 'lite browser, fast ,secure, privacy',
+    developer: 'Apps Inventor',
+    developerId: 'Apps+Inventor',
+    icon:
+     '//lh3.googleusercontent.com/aarEyC5g1JFQJe7WyJAMYPqn5XYnUCwuS0Le2i2J_MUjJO5guNOExO1rIxyOnS7TysU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN- Free Proxy Server & Secure VPN Service',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite',
+    appId: 'com.internet.speed.meter.lite',
+    title: 'Internet Speed Meter Lite',
+    summary:
+     'A simple and convenient tool to keep track of your Internet Speed and Data Usage',
+    developer: 'DynamicApps',
+    developerId: 'DynamicApps',
+    icon:
+     '//lh3.ggpht.com/Tlwdc9yeq7ru5AI9YOF_RHIFZO-a0ww6NA04c6FxXxHWFAKS8j_WwAukHJLUi1CIYZE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=photography.blackgallery.android',
+    appId: 'photography.blackgallery.android',
+    title: 'Gallery',
+    summary:
+     'Gallery, Photos, My pics, 畫廊, Albums,  photo backup app, photo.s, foto',
+    developer: 'gallery',
+    developerId: 'gallery',
+    icon:
+     '//lh3.googleusercontent.com/WFEZf62p4j4-PqiP4gEIy13fFN7SDc7PTd_fwvw0Ma9wBTtwsfppu19fA27TJrD_YlMI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftDYHM',
+    appId: 'com.gameloft.android.ANMP.GloftDYHM',
+    title: 'Disney Magic Kingdoms: Build Your Own Magical Park',
+    summary:
+     'Create the Disney Park of your dreams in the most magical place on mobile!',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/Pv-7nCM1wBhqzoZSmMcole7EfXq_fK8mWoVsUQs120xXWyi1XjsaR5jZthz8KQVBMno=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.snapchat.android',
+    appId: 'com.snapchat.android',
+    title: 'Snapchat',
+    summary:
+     'Send photo & video messages to family & friends — it\'s the most fun way to chat!',
+    developer: 'Snap Inc',
+    developerId: 'Snap+Inc',
+    icon:
+     '//lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.shadowfight3',
+    appId: 'com.nekki.shadowfight3',
+    title: 'Shadow Fight 3',
+    summary:
+     'Epic mobile RPG fighting returns! Start ninja adventure and challenge your foes!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.googleusercontent.com/RtSnor9JRmkrSVExF90O0FM7JnHw9Nn7RgyKeYA4Q7jPyyhhkAWTabG7mjNyNrSJSQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatsapp.w4b',
+    appId: 'com.whatsapp.w4b',
+    title: 'WhatsApp Business',
+    summary: 'Simple tool for businesses to talk to their customers.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JgGYz6b1TBsreBWZ9W9mfPQWMguIhCA3BiR7nKgE2miAzL1drW4mLL5_q0exDjtTDRg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM',
+    appId: 'com.gameloft.android.ANMP.GloftM5HM',
+    title: 'Modern Combat 5: eSports FPS',
+    summary:
+     'The best multiplayer FPS series raises the bar for action-shooter games again!',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/UqTEU159-i_nknZMTD_fVxWspWzTPqfZR-5CmYbVApkOoqs561hYK-CA_rqEQbgyNJg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

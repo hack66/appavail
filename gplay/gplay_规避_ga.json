@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.android.chrome',
+    appId: 'com.android.chrome',
+    title: 'Google Chrome: Fast & Secure',
+    summary:
+     'Fast, simple, and secure. Google Chrome browser for Android phones and tablets.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.whatsapp',
+    appId: 'com.whatsapp',
+    title: 'WhatsApp Messenger',
+    summary: 'Simple. Personal. Secure.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh6.ggpht.com/mp86vbELnqLi2FzvhiKdPX31_oiTRLNyeK8x4IIrbF5eD1D5RdnVwjQP0hwMNR_JdA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.canal.android.afrique.canal',
+    appId: 'com.canal.android.afrique.canal',
+    title: 'myCANAL Afrique, par CANAL+',
+    summary: 'Streaming, movies, series, TV shows CANAL + live / replay',
+    developer: 'GROUPE CANAL+',
+    developerId: '8506791875489011833',
+    icon:
+     '//lh5.ggpht.com/5nqxBYNkKSJ7DubuifZ2fmzYWX2n9mOVYHuw8OkXaaBQCkyxpaqCdmkj5OhvJCnEvr8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pl.lukok.draughts',
+    appId: 'pl.lukok.draughts',
+    title: 'Checkers',
+    summary:
+     '50 millions of downloads 🎂🎉 The most popular ⛃ Checkers for Android!',
+    developer: 'Łukasz Oktaba',
+    developerId: '8116283642168527192',
+    icon:
+     '//lh3.googleusercontent.com/KV2QNyKgfg0lw7mCauGkxsziCf4yNBN-5iKrcIT2dvK1pCe1gru2r-ctoAPg6aIyhpC1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
+    appId: 'com.facebook.mlite',
+    title: 'Messenger Lite: Free Calls & Messages',
+    summary:
+     'A faster version of Messenger that works in all network conditions',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android.lite',
+    appId: 'com.twitter.android.lite',
+    title: 'Twitter Lite',
+    summary:
+     'Get world news, entertainment, politics, and sports highlights with less data',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/5zWoJx0NdfgUiz-w9IMbZ1lAdohZ7qr-CiAXqjwGcMCgDsQVdq_VZUAgFpYpdg612p0=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android',
+    appId: 'com.linkedin.android',
+    title: 'LinkedIn: Jobs, professional profile, & networking',
+    summary:
+     'Job search, business networking & industry news. Connect & apply on the go.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

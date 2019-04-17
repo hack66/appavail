@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.overlook.android.fing',
+    appId: 'com.overlook.android.fing',
+    title: 'Fing - Network Tools',
+    summary:
+     'Find out which devices are connected to your Wi-Fi, in just a few seconds.',
+    developer: 'Fing Limited',
+    developerId: '5065527547021967317',
+    icon:
+     '//lh3.googleusercontent.com/s87SVRzRhYFUk2qhSsmo-lOCO9NJXmCTtLjPFiWQMQ_cm5Jx9t2RFj4d7fng47fPZjU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.speedify.speedifyandroid',
+    appId: 'com.speedify.speedifyandroid',
+    title: 'Speedify - Bonding VPN',
+    summary: 'Two Connections are Better than One.',
+    developer: 'Connectify Inc.',
+    developerId: 'Connectify+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JVida87Z2MsE3z14wlZLXvZRdy1YcPr0bSkU0kfiwzslguB6nTT55pKcB-Uwjt0D6p0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fsecure.freedome.vpn.security.privacy.android',
+    appId: 'com.fsecure.freedome.vpn.security.privacy.android',
+    title: 'FREEDOME VPN Unlimited anonymous Wifi Security',
+    summary: 'PRIVATE. UNTRACKED. ANONYMOUS. Try for free.',
+    developer: 'F-Secure Corporation',
+    developerId: '8777304444243699797',
+    icon:
+     '//lh3.googleusercontent.com/fexqKkTch4jZi61CgJMXQFC0DdZpIAUw_635tx3QjoinhaKvwx9kgaJdQkdYZzhPdyvS=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=tech.hexa',
+    appId: 'tech.hexa',
+    title: 'VPN Proxy by Hexatech - Secure VPN & Unlimited VPN',
+    summary:
+     'Fast VPN: secure WiFi access, private browsing, encryption, unblock apps',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/lTiWRKoo9w6oyKUY5pyFRogXCKdR1DorAWDW8MnYD6CElHJ3fj0CuaxOypJVqF6Sp_w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mcu.iVMSHD',
+    appId: 'com.mcu.iVMSHD',
+    title: 'iVMS-4500 HD',
+    summary: 'iVMS-4500 HD is a video surveillance software',
+    developer: 'HIKVISION HQ',
+    developerId: 'HIKVISION+HQ',
+    icon:
+     '//lh3.googleusercontent.com/QC1LPbtB8CXuGljhOwUn639lmbWZBgNeJSJbJk5siA8spFtytgLMIycZiE0v2Z2TGA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ehawk.speedtest.netmaster',
+    appId: 'com.ehawk.speedtest.netmaster',
+    title: 'Net Master - Free VPN & Speed Test , WiFi Boost',
+    summary:
+     'TOP network analyzer tool with Internet VPN Speed Test, WiFi Analyzer,and Boost',
+    developer: 'Hi Security',
+    developerId: '9033708848358036191',
+    icon:
+     '//lh3.googleusercontent.com/uIECHr7GVd4KhdaIvhwIW3yYXNz0b1lEvngz94D_vT-Ys30D9QBBwB4Kew7NVVZOrck=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roamingsoft.manager',
+    appId: 'com.roamingsoft.manager',
+    title: 'WiFi Connection Manager',
+    summary:
+     'Improve connection, show password, fix problems, backup/restore, adv scan, etc.',
+    developer: 'roamingsoft',
+    developerId: 'roamingsoft',
+    icon:
+     'https://lh4.ggpht.com/S6C6XI2Y-i4HIS_cQAGdEWYmIr7bxxxTYR3Vf5wajYo7hojxcQSi4EbhTcq4El-uQM0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.speedspot.speedanalytics',
+    appId: 'org.speedspot.speedanalytics',
+    title: 'SPEEDCHECK - Speed Test',
+    summary:
+     'Internet Speed Test & WiFi Analyzer. Test and meter your net and WiFi speed.',
+    developer: 'Internet Speed, Etrality',
+    developerId: '5641203057156022873',
+    icon:
+     '//lh3.googleusercontent.com/vl75NkpkiMsmSkvNJXydbBUELPxUP4BJINXvKHxN3vpvEs0a9oKSXGcNc3bwASZxuQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.wifiscanner',
+    appId: 'de.android.wifiscanner',
+    title: 'WiFi Overview 360',
+    summary: 'The universal WiFi tool.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh4.ggpht.com/SoCbAu8bDn2LrCNb_ZJlK0mfn74gGMCL66ESDw42tNSMaNiux_dhF13hy9zwEvBlKtE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector',
+    appId: 'com.evozi.injector',
+    title: 'HTTP Injector - (SSH/Proxy/VPN)',
+    summary:
+     'VPN app to browse the Internet privately and securely with custom header. 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/XIsfKV130h_8RRoy6P4fqG5nZXFB0Uhcew1Q_QLLil1rKXo25a25ETq4-yD81nQ_GBM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privateinternetaccess.android',
+    appId: 'com.privateinternetaccess.android',
+    title: 'VPN by Private Internet Access',
+    summary:
+     'Private Internet Access® VPN: change your IP address + browse privately.',
+    developer: 'Private Internet Access',
+    developerId: 'Private+Internet+Access',
+    icon:
+     '//lh3.googleusercontent.com/54YUiBVnmtckft3QLhQgjtmXaRDSIX_T5ZiLhUA8oVlnhvi65-KQ_Lr23q9GcUYZsjs=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.veloxity.app',
+    appId: 'net.veloxity.app',
+    title: 'WiFi  |  Mobile Network Speed',
+    summary:
+     'Wi-Fi Mobile Quality Wi-Fi Speed Internet Wi-Fi App Data Quota W-iFi Signal',
+    developer: 'Veloxity Inc.',
+    developerId: 'Veloxity+Inc.',
+    icon:
+     '//lh4.ggpht.com/QeO-khXDNMOUCQk0bt_pUtnTV93z4uTYWy_42cOevbTLjoO1wMExlTH_ZDqXNBSw-Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nordvpn.android',
+    appId: 'com.nordvpn.android',
+    title: 'NordVPN: Best VPN Fast, Secure & Unlimited',
+    summary: 'Browse securely with the best VPN app – anytime, anywhere.',
+    developer: 'NordVPN',
+    developerId: '7493532843168999598',
+    icon:
+     '//lh3.googleusercontent.com/teLGeQQiV8HCF-TgzNXdz11AVYaxFzgTAZyNOotffAqw6l9O4fLbX0hLBRrEGsgmXztc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myprog.netutils',
+    appId: 'com.myprog.netutils',
+    title: 'Network Utilities',
+    summary: 'Network tools, which must have every system adminisrator',
+    developer: 'First Row',
+    developerId: 'First+Row',
+    icon:
+     '//lh3.googleusercontent.com/8wfTHoRKt_rnNRsGmaTv_C8KjfQD8cIpDXVkzj-bbUoSTD0VHatMVdEjbFAm92vla1c=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed',
+    appId: 'meteor.test.and.grade.internet.connection.speed',
+    title: 'Meteor: Free Internet Speed & App Performance Test',
+    summary:
+     'Internet connection quality test for app performance: Instagram, Netflix & more',
+    developer: 'OpenSignal.com',
+    developerId: '7133415022327536166',
+    icon:
+     '//lh3.googleusercontent.com/urqBcBgb7bWjlgOlAHBlXqpBebiblQX39YVaOmluD7WpdAYPuZjQH1iiFw2SgfivkjqM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nperf.tester',
+    appId: 'com.nperf.tester',
+    title: 'Speed test 3G, 4G LTE, WiFi & network coverage map',
+    summary:
+     'Network speed test & internet coverage – Speed Test for wifi, 2G, 3G, 4G and LTE',
+    developer: 'nPerf.com',
+    developerId: 'nPerf.com',
+    icon:
+     '//lh3.googleusercontent.com/YHu3ttW0HZ7Jo3nFFdmRb1RQkn61Ol0Yj42zYQibZn0S-AqwxW0JHjywFnrEbGdNztc9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

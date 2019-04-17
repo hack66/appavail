@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank',
+    appId: 'com.outfit7.mytalkinghank',
+    title: 'My Talking Hank',
+    summary:
+     'From Talking Tom and Friends - adopt Talking Hank, the cutest puppy out there!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/kO0rs2O46ylyG4dbbJtYK4DQr6UMiWh0AAS5Us2JRZxelpTbRPogLqRtL4_gEACFadk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dmlb.lapubre',
+    appId: 'com.dmlb.lapubre',
+    title: 'LAPUB.RE - 974 La Reunion',
+    summary:
+     'Access the prospectus and specials from your favorite shops in Reunion',
+    developer: 'Pro Digital Marketing Ltd',
+    developerId: 'Pro+Digital+Marketing+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/7p5rjcgMtwo_lvCRtK9Tl8ILS-GoXvl-8EyAOaE8BLK5DhsHDSAVUy2FLpi1FpWZLPBT=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.streaming.tcfm',
+    appId: 'com.streaming.tcfm',
+    title: 'Cariflix',
+    summary:
+     'Cariflix is the first true alternative to traditional cable TV in the Caribbean',
+    developer: 'Streann Media',
+    developerId: '8643885637513317740',
+    icon:
+     '//lh3.googleusercontent.com/3AT5-W943riHC55jxxQmDArVH2nH3m6i9qpS4XnlqNqzqiykYUBmFix4HY0gOhmDHoqG=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.advent.snake.io.wwe.snake.io',
+    appId: 'com.advent.snake.io.wwe.snake.io',
+    title: 'Snake WWWE',
+    summary:
+     'Very classy and entertaining game of snakes! Can you become the longest snake?',
+    developer: 'Ocean Dr Apps',
+    developerId: 'Ocean+Dr+Apps',
+    icon:
+     '//lh3.googleusercontent.com/gd08TMaqsb-VZZ8OM3IfSOqpzUYYHjHo9cJGZv-l39b_97QpYTj99Ejp8pfBzryiiMU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.lego',
+    appId: 'com.lego',
+    title: 'The LEGO® Batman Movie Game',
+    summary: 'The LEGO BATMAN MOVIE GAME  PLAY. BUILD. RUN. DRIVE. DJ.',
+    developer: 'Warner Bros. International Enterprises',
+    developerId: 'Warner+Bros.+International+Enterprises',
+    icon:
+     '//lh3.googleusercontent.com/YouS7ui8UPdHIvTlBNy2A8BQz3eED66wHdFV4YHIl4tBu1DphjB1PrQI9-zcm9nSELb1=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qprod.btt',
+    appId: 'com.qprod.btt',
+    title: 'Break The Targets',
+    summary:
+     'Speedrunning on mobile! Complete hundreds of levels as fast as possible!',
+    developer: 'Q\'Prod',
+    developerId: 'Q\'Prod',
+    icon:
+     '//lh3.googleusercontent.com/ePlJD_eZlBVcBBHXQBsA8UEs6A0UpJlb8jW-S720f89FJp5SWpQA5KlBF6_urVPggoCr=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.herogame.gplay.theoutlived',
+    appId: 'com.herogame.gplay.theoutlived',
+    title: 'The Outlived: Zombie Survival',
+    summary: 'Forward, You will not die this way',
+    developer: 'HERO Game',
+    developerId: '9060101706093336387',
+    icon:
+     '//lh3.googleusercontent.com/nAJbxYakosSP-3xF_szFIsxyAKNl1RE0MkAi3QJ5EHz_4w-9cO2Hmvy8_4URwKipYQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingben',
+    appId: 'com.outfit7.talkingben',
+    title: 'Talking Ben the Dog',
+    summary: 'Meet Talking Tom\'s best "friend" Ben!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/Wyi6eNB8a5wnslNsf7zW4DZOm90zsO2jZJvBfXRTcXkB4R-GQ0OKciaKT6agCijywA6T=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkinggingerfree',
+    appId: 'com.outfit7.talkinggingerfree',
+    title: 'Talking Ginger',
+    summary:
+     'Little Talking Ginger needs your help! Help him get ready for bed.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/evW2boVGTQaBj5ieA0Covmef8EWZUU7ZNRjXMmev5doGAMU1CG88UE1SxMX55altdy8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.indigokids.mimdoctor',
+    appId: 'com.indigokids.mimdoctor',
+    title: 'Masha and the Bear: Free Animal Games for Kids',
+    summary:
+     'Masha and the Bear - animal hospital in free animal games for kids',
+    developer: 'Edutainment Kids Games',
+    developerId: '6672223492195848186',
+    icon:
+     '//lh3.googleusercontent.com/y8csWOC-JfclN7J4SYE5bRFYoBnf7Xza-ejZCaJbXzxk3BSpy34yL1WxJYf6nK2LSuoO=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.tomlovesangelafree',
+    appId: 'com.outfit7.tomlovesangelafree',
+    title: 'Tom Loves Angela',
+    summary: 'Romance is in the air for Tom and Angela!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/QC5IObzELnVKKwIYaCR9fNOdaDpFErKAytwxaKhjoFElipo9zd3z7j77Qi6rD9-xZ0A=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.klikapp.asocijacije',
+    appId: 'com.klikapp.asocijacije',
+    title: 'Asocijacije (Papirići)',
+    summary: 'Board game fun and educational for two or more players.',
+    developer: 'KlikApp',
+    developerId: '5151818854087703689',
+    icon:
+     '//lh4.ggpht.com/YgUmwiXhWeGoJSvRc2Y6rQdPzzlsPeulgQGuM4OkfxajSK_2DfbEJI07NKkoZkOZl-qg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.panrobotics.everybody',
+    appId: 'com.panrobotics.everybody',
+    title: 'Everybody – AI caller ID',
+    summary:
+     'An intelligent Caller identifier that always lets you know who’s calling you',
+    developer: 'Datarino',
+    developerId: 'Datarino',
+    icon:
+     '//lh3.googleusercontent.com/zh_jHbfu8F-4Ahu0Dr_BpQrSZvFih9JS-ZApftjvtSKHfnIlmpCmsc58-oTmadz8XDE=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club',
+    appId: 'com.moonfrog.ludo.club',
+    title: 'Ludo Club - Fun Dice Game',
+    summary:
+     'The best Ludo game of 2018 is here! JOIN THE CLUB and play with friends!!',
+    developer: 'Moonfrog',
+    developerId: '5236132833572659868',
+    icon:
+     '//lh3.googleusercontent.com/CBh5Ts0J5KJJjy7xEYnMMWxMAxMAwxSzI9BT_vNsR3J1DDVnN3DVOIa1MR9nKgrWsg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hr.asseco.android.jimba.intesars.prod',
+    appId: 'hr.asseco.android.jimba.intesars.prod',
+    title: 'Intesa Mobi 2.0',
+    summary:
+     'Intesa Mobi je aplikacija za mobilno bankarstvo Banca Intesa.',
+    developer: 'Banca Intesa ad Beograd',
+    developerId: 'Banca+Intesa+ad+Beograd',
+    icon:
+     '//lh3.ggpht.com/3XP-DfiMhcc2RlqALXQE3y2BBvWv4OIhqj2ywWlyfiQHXrthqfWVRN4i0MdqAdglZKTV=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.newfrontier.iBanking.mobile.SOG.Retail',
+    appId: 'eu.newfrontier.iBanking.mobile.SOG.Retail',
+    title: 'SoGe m-Bank',
+    summary: 'Official m-banking application of Societe Generale Srbija',
+    developer: 'Societe Generale Serbia',
+    developerId: 'Societe+Generale+Serbia',
+    icon:
+     '//lh6.ggpht.com/CyNlYLu8O2zyPH-QQeAobd3rDot3fwVABCO9ioMSGIC1c45Oo3LYLTqUPfHf9Vxc5PDo=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bubadu.duddu',
+    appId: 'com.bubadu.duddu',
+    title: 'Duddu - My Virtual Pet',
+    summary: 'Best way to experience why dog is a man’s best friend!',
+    developer: 'Bubadu',
+    developerId: '7263645302164630442',
+    icon:
+     '//lh3.googleusercontent.com/TyOjE-fCRAYiNLpkPLnpqfFP9Hzc9bfEYzuYW4m4Qi4KmVztvn7RAdR1rGgSdIgCIR8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leodesol.games.classic.maze.labyrinth',
+    appId: 'com.leodesol.games.classic.maze.labyrinth',
+    title: 'Mazes & More',
+    summary:
+     'Classic maze/labyrinth game with fun tweaks.  Can you solve all the mazes?',
+    developer: 'Leo De Sol Games',
+    developerId: '8149422968449365069',
+    icon:
+     '//lh3.googleusercontent.com/JchaxYkVuO_jGLOaS2-Ur2HcAFAOOPPYsRm6sraO7E55OqoVK_WlZ5k32iIvF_HyeD8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.busplus',
+    appId: 'com.busplus',
+    title: 'Bus Plus',
+    summary:
+     'BusPlus aplikacija za informacije o linijama javnog prevoza u Beogradu.',
+    developer: 'Apex BusPlus',
+    developerId: 'Apex+BusPlus',
+    icon:
+     '//lh3.googleusercontent.com/vvH_1F69Ki8FA1vDCbwb3GNMkiwPsBxagVB7mN95FEhd4otSlikbpCRbOY-a7d2UIw=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mtvn.Nickelodeon.GameOn',
+    appId: 'com.mtvn.Nickelodeon.GameOn',
+    title: 'Sky Whale',
+    summary:
+     'Bounce through the sky collecting donuts to keep your narwhal up in the air!',
+    developer: 'Nickelodeon',
+    developerId: 'Nickelodeon',
+    icon:
+     '//lh3.googleusercontent.com/OWMD0eEoZvUhVTkOiDN-f7BOOE6JdpfRkGFX9OSyL__D2FZVN7mvifW9RegWAleh5h0b=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.iprado.spot',
+    appId: 'ru.iprado.spot',
+    title: 'Spot it: Find the Difference',
+    summary:
+     'Spot it: Find the Difference for Kids! Play a new game spot the difference type!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/WS2WxdvrVjUrcutuG3EWeuAYYeajRQY4eWmnCCFUzDC-NGV0YH3hrqGfWq72yreefFY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.shadowfight',
+    appId: 'com.nekki.shadowfight',
+    title: 'Shadow Fight 2',
+    summary: 'Prepare to fight with shadows!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.googleusercontent.com/bsxFGjG3aJeVGyzDJkWN1aEFl35A9LoVOC_gmWFf7FbBwsn1BqpOnB5ZLnDFXF6CHcjw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=rs.ringieraxelspringer.aloAndroid',
+    appId: 'rs.ringieraxelspringer.aloAndroid',
+    title: 'alo',
+    summary: 'Android application site www.alo.rs',
+    developer: 'alo.rs',
+    developerId: 'alo.rs',
+    icon:
+     '//lh3.googleusercontent.com/KgfELQAKIWbC_StCdKgnpbSJpVAUFQCWTUhogdAJAnGzQctgMPJM29KyxRpANVN_jP8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

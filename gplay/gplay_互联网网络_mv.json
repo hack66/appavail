@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.huawei.mw',
+    appId: 'com.huawei.mw',
+    title: 'Huawei HiLink (Mobile WiFi)',
+    summary:
+     'Huawei HiLink is an app for manage HiLink devices anytime, anywhere.',
+    developer: 'Huawei  Internet  Service',
+    developerId: 'Huawei++Internet++Service',
+    icon:
+     '//lh3.googleusercontent.com/YvKMOGnBIDn4MAo0cHmEHy2dA5AYYxZlZFqsgsMjaaZcFGCcXwTm1VyawBQsLpnoS7iq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medium.reader',
+    appId: 'com.medium.reader',
+    title: 'Medium',
+    summary:
+     'A place where everyone has a story to share & the best ones are delivered to you',
+    developer: 'A Medium Corporation',
+    developerId: 'A+Medium+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mv.salaf.salat',
+    appId: 'mv.salaf.salat',
+    title: 'Salat MV',
+    summary: 'Prayer times application for the Maldives.',
+    developer: 'Jamiyyathu Salaf',
+    developerId: 'Jamiyyathu+Salaf',
+    icon:
+     '//lh3.ggpht.com/5gCyZnjNz9FvK_N27J6usACVKGfqLaLB_fD0A_MaKo_xgnmmh2Z2bgEnD6gylGD_C5E=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.supervpn.freevpn',
+    appId: 'com.supervpn.freevpn',
+    title: 'Hotspot VPN - Super Free VPN Unlimited Proxy',
+    summary:
+     'Best VPN proxy,Protect privacy,Wifi Security,Unblock any site,Video call',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/ZMzLcdNkvRymqkjzAZM9A87T6uX0UKWKp6SXqzABXJZQZ9Vrj2wLFcXpmA18rNAn4g=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fast.download.privacy.internet.explorer.im',
+    appId: 'fast.download.privacy.internet.explorer.im',
+    title: 'Internet browser & Explorer, adblocker browser',
+    summary: 'lite browser, fast ,secure, privacy',
+    developer: 'Apps Inventor',
+    developerId: 'Apps+Inventor',
+    icon:
+     '//lh3.googleusercontent.com/aarEyC5g1JFQJe7WyJAMYPqn5XYnUCwuS0Le2i2J_MUjJO5guNOExO1rIxyOnS7TysU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tumblr',
+    appId: 'com.tumblr',
+    title: 'Tumblr',
+    summary:
+     'Tumblr is where your interests connect you with your people.',
+    developer: 'Tumblr, Inc.',
+    developerId: 'Tumblr,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Y5r-v7yrNUFMB9pabx19tTfVNYUK0TED7i6NRrzdfWFtDHkLZCAnJR-gJ012HtS2r3Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.svd',
+    appId: 'free.vpn.proxy.unblock.svd',
+    title: 'Free VPN - Super Unblock Proxy Master Hotspot VPN',
+    summary:
+     'Best super VPN and free unlimited VPN, make secure VPN service and better net',
+    developer: 'Super VPN & Free Proxy',
+    developerId: '7743523398974345834',
+    icon:
+     '//lh3.googleusercontent.com/kOAq9yJ0PcJ62Pk_KkcR_MM5jGpYGIyzAM2KtxlCYYut-gfVG0LCnAN_GS5vZ2PMfUU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN- Free Proxy Server & Secure VPN Service',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nezdroid.internetspeedmaster',
+    appId: 'com.nezdroid.internetspeedmaster',
+    title: 'Internet Speed Master',
+    summary: 'Speed up and boost your connection',
+    developer: 'nez droid',
+    developerId: 'nez+droid',
+    icon:
+     '//lh5.ggpht.com/LDEfgONyYQzx-fQQbhCF_UR6JTjp217He7_Vza899n_AHFv3nf2vwmyTd8xZ3gNidA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=vpn.super_vpn_free_best_proxy_master_unlimited_2018.vpn',
+    appId: 'vpn.super_vpn_free_best_proxy_master_unlimited_2018.vpn',
+    title: 'Super VPN Free Best Proxy Master Unlimited 2018',
+    summary:
+     'Super VPN Free Best Proxy Master Unlimited 2018 super vpn free',
+    developer: 'Innovative games apps studio',
+    developerId: 'Innovative+games+apps+studio',
+    icon:
+     '//lh3.googleusercontent.com/S-M59GjSGxArppLNwUPXZXEdaRKp-ztxurzhJTv90PXxjZ0iNGm05QgDtkSkqjw68Uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.freighter',
+    appId: 'com.google.android.apps.freighter',
+    title: 'Datally: data saving app by Google',
+    summary: 'Save, manage, and share your mobile data.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/6Af4NEHnMju19IqxTpw-W3XdbBUFnN__7pzko-lLvh4JiNSZmDSo7NsmWlrT12WPPg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite',
+    appId: 'com.internet.speed.meter.lite',
+    title: 'Internet Speed Meter Lite',
+    summary:
+     'A simple and convenient tool to keep track of your Internet Speed and Data Usage',
+    developer: 'DynamicApps',
+    developerId: 'DynamicApps',
+    icon:
+     '//lh3.ggpht.com/Tlwdc9yeq7ru5AI9YOF_RHIFZO-a0ww6NA04c6FxXxHWFAKS8j_WwAukHJLUi1CIYZE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

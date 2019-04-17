@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.pdanet',
+    appId: 'com.pdanet',
+    title: 'PdaNet+',
+    summary:
+     'Share smart phone Internet with computers or tablets, no rooting needed.',
+    developer: 'June Fabrics Technology Inc.',
+    developerId: 'June+Fabrics+Technology+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/n6rn3713YcXohcRbX77HxFVrT7RUOsTamLVy6fSf8Y-s3uMLTq-ra37LlTtqdzQ0YX1Y=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloomberg.android.plus',
+    appId: 'com.bloomberg.android.plus',
+    title: 'Bloomberg: Market & Financial News',
+    summary:
+     'Get the latest stock market, financial, business news and more.',
+    developer: 'Bloomberg LP CM',
+    developerId: 'Bloomberg+LP+CM',
+    icon:
+     '//lh3.googleusercontent.com/r-yyb3SfVQm6K73DbtKTwOKOTUwBrjhR1oxv7yH0QcPfxrAbZqCGrZzeWWbHsT2Pf6IA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.berminal.bermi',
+    appId: 'com.berminal.bermi',
+    title: 'Bermi: Where Short Videos Live',
+    summary:
+     'Immersive short video community with fans that make millions of videos',
+    developer: 'Berminal',
+    developerId: 'Berminal',
+    icon:
+     '//lh3.googleusercontent.com/-1ybfK5mV8kcHOUt-fwFUKCKcWBD6mJA_CeyumkxCaRjlRGGaSuJZYrcTlXx17O_KbGb=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tumblr',
+    appId: 'com.tumblr',
+    title: 'Tumblr',
+    summary:
+     'Tumblr is where your interests connect you with your people.',
+    developer: 'Tumblr, Inc.',
+    developerId: 'Tumblr,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Y5r-v7yrNUFMB9pabx19tTfVNYUK0TED7i6NRrzdfWFtDHkLZCAnJR-gJ012HtS2r3Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medium.reader',
+    appId: 'com.medium.reader',
+    title: 'Medium',
+    summary:
+     'A place where everyone has a story to share & the best ones are delivered to you',
+    developer: 'A Medium Corporation',
+    developerId: 'A+Medium+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.squareup',
+    appId: 'com.squareup',
+    title: 'Square Point of Sale - POS',
+    summary:
+     'Accept Credit Card Payments with Square\'s Mobile Point of Sale',
+    developer: 'Square, Inc.',
+    developerId: '4878871734928263649',
+    icon:
+     '//lh3.ggpht.com/8s1ii0TiD8TLLgmLEvAhYoDMfGsd4upbck7L7SF1Ja_b-HyfTcaEL3GrnmEm4TQDNx0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest',
+    appId: 'org.zwanoo.android.speedtest',
+    title: 'Speedtest by Ookla',
+    summary:
+     'From the makers of Speedtest.net. Take free and accurate speed tests anywhere!',
+    developer: 'Ookla',
+    developerId: 'Ookla',
+    icon:
+     '//lh3.googleusercontent.com/19anvk_uIJld32kBp6nNLpKu_IMzK7h2fXA1jFd4EX4RdNwiiepsU73OhEQS4jbsPptQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simpler.dialer',
+    appId: 'com.simpler.dialer',
+    title: 'Dialer, Phone, Call Block & Contacts by Simpler',
+    summary:
+     'Phone Dialer with call block, T9, themes, phone book & contacts manager.',
+    developer: 'Simpler Apps Inc',
+    developerId: '7136444214307797007',
+    icon:
+     '//lh3.googleusercontent.com/hKQHBilGmwSrqokGeJ3ng1k-yVlABG3LG22wpN64b8xRsD6qzOkJgo9but1Ve4JJqN8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.themausoft.wpsapp',
+    appId: 'com.themausoft.wpsapp',
+    title: 'WPSApp',
+    summary: 'Check the security of your WiFi network.WPS protocol.',
+    developer: 'TheMauSoft',
+    developerId: 'TheMauSoft',
+    icon:
+     '//lh3.googleusercontent.com/EPCZElozBX6JUjkDOLmTw5VHZce0RIE8Nk-LSPVOJkcfHHyuhTsFrf1XXPBZT_fnnH4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.banreservas.tubancoappmobile',
+    appId: 'com.banreservas.tubancoappmobile',
+    title: 'Banreservas',
+    summary:
+     'Your access B @ nco from your mobile phone more comfortable and easier.',
+    developer: 'Banreservas',
+    developerId: 'Banreservas',
+    icon:
+     '//lh3.googleusercontent.com/UIippuAWDZKT1ITAOpYeEWj769gctfEIcbBzA2uLV-vyLovvHB-gddfyDDI4whYTAA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kaweapp.webexplorer',
+    appId: 'com.kaweapp.webexplorer',
+    title: 'Web Explorer',
+    summary:
+     'Explore the internet with this light and feature packed browser.',
+    developer: 'Kawe Apps',
+    developerId: 'Kawe+Apps',
+    icon:
+     '//lh3.googleusercontent.com/YmMGcgeO7Km9-J9vFRByov5sb7OUKetnKs8pTi0JZMDj3GVJ61GMTcTlHB7u9uHDHag=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.explore.web.browser',
+    appId: 'com.explore.web.browser',
+    title: 'Web Browser & Explorer',
+    summary:
+     'A fast, secure, and smart Mobile Browser, the best Web Browser.',
+    developer: 'Mobile_V5',
+    developerId: 'Mobile_V5',
+    icon:
+     '//lh3.googleusercontent.com/KJcrI0IdRB38CDqY4CwAAnk2twWacZlE4wFjnQxr-nLvVO6mXvgdWViwakKE6-xBhcs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.reddit.frontpage',
+    appId: 'com.reddit.frontpage',
+    title: 'Reddit',
+    summary: 'Find your community',
+    developer: 'reddit Inc.',
+    developerId: 'reddit+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/J41hsV2swVteoeB8pDhqbQR3H83NrEBFv2q_kYdq1xp9vsI1Gz9A9pzjcwX_JrZpPGsa=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector',
+    appId: 'com.evozi.injector',
+    title: 'HTTP Injector - (SSH/Proxy/VPN)',
+    summary:
+     'VPN app to browse the Internet privately and securely with custom header. 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/XIsfKV130h_8RRoy6P4fqG5nZXFB0Uhcew1Q_QLLil1rKXo25a25ETq4-yD81nQ_GBM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

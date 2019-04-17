@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.birdiemobile.sim',
+    appId: 'com.birdiemobile.sim',
+    title: 'Birdie Mobile',
+    summary: 'Your contract-free 4G mobile service',
+    developer: 'Birdie Mobile Ltd.',
+    developerId: 'Birdie+Mobile+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/aa-icwu7H_zXf-CCAHJnFWIcPnTyZL12G14O232unPVywPZmhl0aflZnWRaxbrR7Gbea=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hkbn.myaccount',
+    appId: 'com.hkbn.myaccount',
+    title: 'My HKBN (My Account)',
+    summary:
+     'My Account App brings all-new enhancements to manage your HKBN account with ease',
+    developer: 'Hong Kong Broadband Network Limited.',
+    developerId: 'Hong+Kong+Broadband+Network+Limited.',
+    icon:
+     '//lh3.googleusercontent.com/1hi-TsdzlhehoGV_7K5mMR81H2lEGVKpUN5SfDnlPnmPv5wWcYNYLpAbpolfNmweIw=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.octopuscards.nfc_reader',
+    appId: 'com.octopuscards.nfc_reader',
+    title: 'Octopus',
+    summary:
+     'One app to manage both your Octopus card and O! ePay account',
+    developer: 'Octopus Cards Limited',
+    developerId: 'Octopus+Cards+Limited',
+    icon:
+     '//lh3.googleusercontent.com/370mLsSzXPiIg86KSsY3NZ10ZzG66BtB8-ui4lztVCsQ1_dg9O9tA_sPNDErWJ5dH7kb=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.etnet.android.iq',
+    appId: 'com.etnet.android.iq',
+    title: 'etnet MQ Pro (Mobile)',
+    summary:
+     '【投資者必備】全新介面設計，資訊更豐富，操作更簡易。提供免費即時港股、A股、期指及夜市報價、即時新聞及評論、互動圖表及可自訂個人投資組合，助您盡快掌握市況。',
+    developer: 'ET Net Limited',
+    developerId: 'ET+Net+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Ve7y8DnIGIVOfRy4vFUqp9pSe4q99H0HFTpUNsBVcOHtLRdIBUhPw1UiBBzyS0Xsvary=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.boyaa.enginexgxianggangqp.main',
+    appId: 'com.boyaa.enginexgxianggangqp.main',
+    title: '開心鬥一番-港式麻雀·跑馬仔·鋤大D等5 IN 1',
+    summary: '用約局功能同friend一齊打牌啦！一個App就有齊港式麻雀、跑馬仔、鋤大D、鬥地主、十三支、德州撲克等多款遊戲！',
+    developer: 'Triton Technology Limited',
+    developerId: 'Triton+Technology+Limited',
+    icon:
+     '//lh3.googleusercontent.com/dhHG3RwC-XQmMIGLRWj_Q96_rmaAEmCQ_lqCqcOQnke3DkdSaVLy2nOk5eUaWacdEGw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hk.com.hsbc.hsbchkmobilebanking',
+    appId: 'hk.com.hsbc.hsbchkmobilebanking',
+    title: 'HSBC HK Mobile Banking',
+    summary:
+     'A brand new app with speed and reliability at the heart of its design',
+    developer: 'The Hongkong and Shanghai Banking Corporation Ltd',
+    developerId: 'The+Hongkong+and+Shanghai+Banking+Corporation+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/NTunSEGl0L8Jrrxdpekn91xJaYZwHPIu3PkaO1b8unrqkTTCAWVG27KGAJJtHx7Nug=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asw.moneyback',
+    appId: 'com.asw.moneyback',
+    title: 'MoneyBack',
+    summary:
+     'Earn MoneyBack points for shopping, then exchange these points for free gifts!',
+    developer: 'A. S. Watson & Company, Limited',
+    developerId: 'A.+S.+Watson+%26+Company,+Limited',
+    icon:
+     '//lh3.googleusercontent.com/L2t8EnZ0MfANNcvWkEew69d25JIufAf7IvnturnDnjCwbYGYLc1yc14DEur7wQgaFYE=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aastocks.dzh',
+    appId: 'com.aastocks.dzh',
+    title: 'Market+ Mobile',
+    summary:
+     'AASTOCKS is the most authoritative financial info provider in Hong Kong.',
+    developer: 'AASTOCKS',
+    developerId: 'AASTOCKS',
+    icon:
+     '//lh4.ggpht.com/V51L9jCpxjH6QsC477TlK27K-q7M88d82Tz_l37lRhL6UG7ty-O8kAIcKBYtptsqTls=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.pps.app',
+    appId: 'com.pps.app',
+    title: 'PPS on Mobile',
+    summary:
+     'Via PPS on Mobile, you can settle bills from over 800 merchants.',
+    developer: 'EPS Company (Hong Kong) Limited',
+    developerId: 'EPS+Company+(Hong+Kong)+Limited',
+    icon:
+     '//lh6.ggpht.com/_OPa6Ccy8LyNN0YgRqy2EtrTjERTyd0HkHy9l7YXYWIS5T9yy3jHsh_hjnL3fkzZJPHB=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=id.hash.grapariHK',
+    appId: 'id.hash.grapariHK',
+    title: 'myGraPARI Hong Kong',
+    summary:
+     'Complimentary As2in1 Card application for Hong Kong\'s subscribers',
+    developer: 'Telin Hong Kong Limited',
+    developerId: 'Telin+Hong+Kong+Limited',
+    icon:
+     '//lh3.googleusercontent.com/uKZSjOlel5VWCsxJgzA9pJ0F8kPY4vgj2HHqud6p7Y-FFB_P0-DhITBeHEKFZBdinWU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.citic.inmotion',
+    appId: 'com.citic.inmotion',
+    title: 'inMotion by CNCBI',
+    summary: 'inMotion by CNCBI - The Bank in your Palm.',
+    developer: 'China CITIC Bank International Limited',
+    developerId: 'China+CITIC+Bank+International+Limited',
+    icon:
+     '//lh3.googleusercontent.com/uQaSDa4bpg7qQOetlCfrm4Z1V-aHYgHSsj55FZfk6Ala7Z8c8krpew_D1DWGARSpJw=w340',
+    score: 2.6,
+    scoreText: ' Rated 2.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ChinaMobile',
+    appId: 'com.ChinaMobile',
+    title: 'MyLink',
+    summary:
+     'MyLinkOffer you a variety of lifestyle information & manage telecom servic',
+    developer: 'China Mobile Hong Kong Co. Ltd.',
+    developerId: 'China+Mobile+Hong+Kong+Co.+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/8n-blLEiWL__NuzNSvKtvIpTe3cfCADNYhOIwql7BM3BP3mLxcQt50T70WlbQ21DMwE=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.webon.kabu',
+    appId: 'com.webon.kabu',
+    title: 'KABU',
+    summary:
+     'Kabu App (株式会社共同品牌手機程式)盡享日本人氣品牌(牛角日本燒肉專門店、牛角Buffet、温野菜、牛涮鍋及柳氏家)之多元化服務及飲食新體驗!',
+    developer: 'Kabushikigaisha Ltd',
+    developerId: 'Kabushikigaisha+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/n30tC1hyRdnucVc914Nd6fHoZWoS9pGL8Vw-95cDH_zG5gn4UZVaO-xDAjXAFIVr_7A=w340',
+    score: 2.1,
+    scoreText: ' Rated 2.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=oms.mmc.app.almanac.copy.gm.nl',
+    appId: 'oms.mmc.app.almanac.copy.gm.nl',
+    title: '農曆通勝',
+    summary:
+     '[Lunar almanac] is that you choose an auspicious date to see Taboo, see fortune preferred calendar program!',
+    developer: '香港靈機命理館',
+    developerId:
+     '%E9%A6%99%E6%B8%AF%E9%9D%88%E6%A9%9F%E5%91%BD%E7%90%86%E9%A4%A8',
+    icon:
+     '//lh3.googleusercontent.com/GvWwr9FJxI5B7hqNkSUypYoNJ0XfJMvXKaQGyAuGdD01C0s3RdcmbOaAALwih32Zhw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hk.com.broadway',
+    appId: 'hk.com.broadway',
+    title: '百老滙 Broadway',
+    summary: '本港頂尖的一站式電子及電器零售連鎖店功能包括: 電子會員卡、會員尊享優惠、推廣優惠、最新活動、分店地址',
+    developer: 'Broadway Photo Supply Limited',
+    developerId: 'Broadway+Photo+Supply+Limited',
+    icon:
+     '//lh3.googleusercontent.com/1QE3OcniFizw6_IuSn_5_2ZHrzJMTFWrP30krE2o2qZRYmMdOfI-WMbVA6P9s1OT5JoT=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.one2free.cs',
+    appId: 'com.one2free.cs',
+    title: 'csl.',
+    summary:
+     'csl service app allows you to stay in control of your personal mobile usage',
+    developer: 'CSL Limited',
+    developerId: 'CSL+Limited',
+    icon:
+     '//lh3.ggpht.com/a025mFfcZZCqkomWBPtRrPK-GCEaXTwm_axKyYmEo1hbv5FzHzH-MetOU3WrKK7Wpt1s=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pccw.myhkt',
+    appId: 'com.pccw.myhkt',
+    title: 'My HKT',
+    summary:
+     'Register a “My HKT” account and manage your NETVIGATOR, now TV, 1O1O, csl, .....',
+    developer: 'Hong Kong Telecommunications (HKT) Ltd',
+    developerId: 'Hong+Kong+Telecommunications+(HKT)+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/PYe0anJlUZyFiRLJWa0FbI6IUnqFiZlP9s8cbpEmtomqf77eGugLYCIKLWgd3dZnDw=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hse28.hse28_2',
+    appId: 'com.hse28.hse28_2',
+    title: '28Hse-Buy and Rent HK Property',
+    summary:
+     '28Hse App - Rent and Buy HK Property more Easily. Can also post your property.',
+    developer: '28Hse.com 香港屋網',
+    developerId: '28Hse.com+%E9%A6%99%E6%B8%AF%E5%B1%8B%E7%B6%B2',
+    icon:
+     '//lh3.ggpht.com/efpgf46c2uWFPQ6LRepglPov4b5NHncfoPKqar3r62Oz1_Ejhm1XWwGAd4KU237l8wg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

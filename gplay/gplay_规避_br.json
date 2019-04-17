@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.quinny898.game.geoguess',
+    appId: 'uk.co.quinny898.game.geoguess',
+    title: 'GeoGuess: Random Location Game',
+    summary:
+     'GeoGuess - Location guessing! You\'re at a random street view point, but where?',
+    developer: 'KieronQuinn',
+    developerId: '5423209508193504088',
+    icon:
+     '//lh3.googleusercontent.com/YaL3hCW_fQl6ZQdG-CW1BDFXG2dIyqzkgqZ5Totb_O57N1vlKWXtOLUNImebakQsQiww=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.ceptro.simet.client.android',
+    appId: 'br.ceptro.simet.client.android',
+    title: 'SIMET Mobile',
+    summary: 'SIMET: Test more than the speed of your Internet!',
+    developer: 'NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR',
+    developerId: 'NUCLEO+DE+INFORMACAO+E+COORDENACAO+DO+PONTO+BR',
+    icon:
+     '//lh3.googleusercontent.com/pk54wc0sCQ0l7fkhjryn_GBYNz2EW6WIokOehQZn-DvHWOp2xxy5sBfYkfGTtL0TIps=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cityguide.probki.net',
+    appId: 'cityguide.probki.net',
+    title: 'GPS Navigator CityGuide',
+    summary:
+     'Gps Navigation System for Russia, Europe, Asia, Africa, South America.',
+    developer: 'GEOPHONE GROUP INTERNATIONAL Oy',
+    developerId: 'GEOPHONE+GROUP+INTERNATIONAL+Oy',
+    icon:
+     '//lh3.googleusercontent.com/3D-HN_Qw52g0fYJrBIMNmlNX37xAh9piEzq26CWeNTFkD_txI4ySDbKBEWUeL6VjrRg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.rdr2app',
+    appId: 'com.rockstargames.rdr2app',
+    title: 'RDR2: Companion',
+    summary: 'The official companion app for Red Dead Redemption 2',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/GIqgehgXZ57R7Yz3enoaIzIp8IrXA42ymlHTPQ9EoYi_D0mGO26k6F-_7E7HjRlFmLk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=canada.free.unlimited.vpn',
+    appId: 'canada.free.unlimited.vpn',
+    title: 'CANADA VPN - Best Free VPN for Android',
+    summary:
+     'Rated as the Best Free VPN for Android for Encrytion & Online Privacy in 2018',
+    developer: 'Secure Vpn',
+    developerId: 'Secure+Vpn',
+    icon:
+     '//lh3.googleusercontent.com/_BtKjKzhUn9_V3HmXcf6HBVwgC5SjOlLUKKeze6wk5s6TUfF11eW--zCGOyNwGriOaOJ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.framework.tangerino',
+    appId: 'com.framework.tangerino',
+    title: 'Tangerino Time Tracker',
+    summary:
+     'Tangerino is  a time tracking app that allows your employees to clock in and out',
+    developer: 'Framework System',
+    developerId: 'Framework+System',
+    icon:
+     '//lh5.ggpht.com/54cbryb1ndGZG4YMvwixMW_4Q9eRwqkBi0nse85WaYptwLb4-R_ZmB9PshiKxtVswWLy=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android.lite',
+    appId: 'com.twitter.android.lite',
+    title: 'Twitter Lite',
+    summary:
+     'Get world news, entertainment, politics, and sports highlights with less data',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/5zWoJx0NdfgUiz-w9IMbZ1lAdohZ7qr-CiAXqjwGcMCgDsQVdq_VZUAgFpYpdg612p0=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

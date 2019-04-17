@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr',
+    appId: 'com.yahoo.mobile.client.android.flickr',
+    title: 'Flickr',
+    summary:
+     'Upload, organize, edit, and share your photos from anywhere in the world.',
+    developer: 'Yahoo',
+    developerId: '5536369398281991413',
+    icon:
+     '//lh5.ggpht.com/JNba5eiZjaaS7SxI3uBoEnW9PQtD5paoHest5KO2KW2GDHIaEqaUPvFsuylTNxkeeA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.trello',
+    appId: 'com.trello',
+    title: 'Trello — Organize anything with anyone, anywhere!',
+    summary: 'Organize anything with anyone — for free!',
+    developer: 'Trello, Inc.',
+    developerId: 'Trello,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/8ZCk4da2sf4rjbHTnELPvgiK_sjshh8OEQuZVOgEvtYm8orwJeNmReKjo4PC0Wr4nmE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.upx.proxy.browser',
+    appId: 'net.upx.proxy.browser',
+    title: 'UPX Unblock Websites Proxy Browser - Private, Fast',
+    summary:
+     'Speed, secure proxy browser with chrome adblock. Easy download, unblock websites',
+    developer: 'Unblock Vpn Proxy Browser',
+    developerId: 'Unblock+Vpn+Proxy+Browser',
+    icon:
+     '//lh3.googleusercontent.com/uccVoPMGC8SmVSTyF51vKlv2cYvdJD24g_ursb3TqX6TQrRVjCh_vj0NcyH8AWkdKK8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.ultrasurf.mobile.ultrasurf',
+    appId: 'us.ultrasurf.mobile.ultrasurf',
+    title: 'Ultrasurf (beta) - Unlimited Free VPN Proxy',
+    summary:
+     'Unlimited free VPN to unblock sites, WiFi hotspot security, with Proxy Support.',
+    developer: 'Ultrareach',
+    developerId: 'Ultrareach',
+    icon:
+     '//lh3.googleusercontent.com/XZBRZ0ax7HnlYuBxYGHWm1QVNi3KdK2VK-jXKjwiKb4WmaydPKh6UhPURq8g8G_xQg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser',
+    appId: 'mobi.mgeek.TunnyBrowser',
+    title: 'Dolphin Browser - Fast, Private & Adblock🐬',
+    summary:
+     'Best web browser with flash player, fast download, ad blocker & incognito mode.',
+    developer: 'Dolphin Browser',
+    developerId: '6599001017670379452',
+    icon:
+     '//lh3.googleusercontent.com/o9t-BM8E2kXbsdCUH_4iT_NBtL7gxOVLOAm-O2c3NYf5Ow3UA3yza-WuuDGhed2tvw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.master.speed.app.free',
+    appId: 'com.freevpn.master.speed.app.free',
+    title: 'Unlimited Free VPN Turbo Speed VPN',
+    summary:
+     'Unlimited Free VPN Turbo Speed is the 2017 free master VPN for unblocking sites',
+    developer: 'Alpiyalian Apps',
+    developerId: 'Alpiyalian+Apps',
+    icon:
+     '//lh3.googleusercontent.com/JLLWHkopW8ZjFsrUAN-J0-BxDqOB0s2dJ34ZBzMj-WO0SrSyDOjlqNcY_mtSCds0Syw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.photos',
+    appId: 'com.google.android.apps.photos',
+    title: 'Google Photos',
+    summary:
+     'A smarter gallery by Google, with free unlimited photo and video storage.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/TI_HoC8FifuhDdZVRsZOSeT95kumLd0CU_yhdBCG8HuIPR3Jnh962Q72NnWsz425lg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ow.worldvpn',
+    appId: 'com.ow.worldvpn',
+    title: 'WORLD VPN -  Free VPN proxy , Fast & Unlimited VPN',
+    summary: 'WORLD VPN - The Fastest VPN on the Google Play Store!',
+    developer: 'Free Vpn',
+    developerId: 'Free+Vpn',
+    icon:
+     '//lh3.googleusercontent.com/3iT7fLLOXWFFDJINUP0U66_qPI7_LhtrcArrYR6O_zh22fQvgf367-8tQhinouwLUUM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fast.download.privacy.internet.explorer.im',
+    appId: 'fast.download.privacy.internet.explorer.im',
+    title: 'Internet browser & Explorer, adblocker browser',
+    summary: 'lite browser, fast ,secure, privacy',
+    developer: 'Apps Inventor',
+    developerId: 'Apps+Inventor',
+    icon:
+     '//lh3.googleusercontent.com/aarEyC5g1JFQJe7WyJAMYPqn5XYnUCwuS0Le2i2J_MUjJO5guNOExO1rIxyOnS7TysU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hero.browser4g.internet',
+    appId: 'hero.browser4g.internet',
+    title: '4G Internet Browser - Fast',
+    summary: 'Fastest Web Browser for Android.Enjoy the speed of 4G🌎',
+    developer: 'ACE Dev Team.',
+    developerId: 'ACE+Dev+Team.',
+    icon:
+     '//lh3.googleusercontent.com/JafZOpy5UVEAOueKX5teqwSQvIrMalWhiy4C5AhYoZjvDYUUjrrZY5PO5sJoQOUH46c=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector',
+    appId: 'com.evozi.injector',
+    title: 'HTTP Injector - (SSH/Proxy/VPN)',
+    summary:
+     'VPN app to browse the Internet privately and securely with custom header. 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/XIsfKV130h_8RRoy6P4fqG5nZXFB0Uhcew1Q_QLLil1rKXo25a25ETq4-yD81nQ_GBM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.speedspot.speedanalytics',
+    appId: 'org.speedspot.speedanalytics',
+    title: 'SPEEDCHECK - Speed Test',
+    summary:
+     'Internet Speed Test & WiFi Analyzer. Test and meter your net and WiFi speed.',
+    developer: 'Internet Speed, Etrality',
+    developerId: '5641203057156022873',
+    icon:
+     '//lh3.googleusercontent.com/vl75NkpkiMsmSkvNJXydbBUELPxUP4BJINXvKHxN3vpvEs0a9oKSXGcNc3bwASZxuQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts',
+    appId: 'com.google.android.apps.podcasts',
+    title: 'Google Podcasts: Discover free & trending podcasts',
+    summary:
+     'The best of Google with the Google Podcasts app — listen to any podcast for free',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/_t0Uu0NlXCwA-uL2zXXyIcPUwxDPTbC3qEsT2qZVyp3CaMWkcAhdW22R89UVrTqXJT8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

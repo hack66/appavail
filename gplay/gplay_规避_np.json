@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hamropatro',
+    appId: 'com.hamropatro',
+    title: 'Hamro Patro : The Best Nepali Patro 🇳🇵',
+    summary:
+     'Connecting All Nepali - Nepali Patro with News, Nepali FM, and 15+ more features',
+    developer: 'Hamro Patro',
+    developerId: '8658555040771226222',
+    icon:
+     '//lh3.ggpht.com/n0nOd91BjlEjD2DBAFucckiRdg7GX-mLoYXM8cbIstih934Pldnu9E5-sEEkLFozX8U=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mventus.ncell.activity',
+    appId: 'com.mventus.ncell.activity',
+    title: 'Ncell App - Free SMS, Buy Data Packs, Recharge',
+    summary:
+     'Send free SMS, view call details, manage account, activate services and more.',
+    developer: 'Ncell',
+    developerId: 'Ncell',
+    icon:
+     '//lh3.googleusercontent.com/bvMluWbLHiGlh22q-cJt1gKMH5dB__RHrAonbuQdZEjDE6ky3-MQutcWJB0N_YWDD4k7=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.f1soft.cit',
+    appId: 'com.f1soft.cit',
+    title: 'CIT Mobile App',
+    summary:
+     'This app assists customer to directly access and view information of their a/c\'s',
+    developer: 'F1soft',
+    developerId: 'F1soft',
+    icon:
+     '//lh3.googleusercontent.com/e2Rb-DFqSvM1S0bgBjmH0AtPomtzprS9M3b_MyBHjW02Jki31Ks40rjQIqJQ7LPbrw=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.f1soft.machmobilebanking.activities.main',
+    appId: 'com.f1soft.machmobilebanking.activities.main',
+    title: 'MBL Mobile Money (M3)',
+    summary:
+     'MBL Mobile Money (M3) is Machhapuchchhre Bank\'s Official Mobile Banking App.',
+    developer: 'F1soft',
+    developerId: 'F1soft',
+    icon:
+     'https://lh3.ggpht.com/GQ0nHMxSObHcw-0wXzCoziphjEVK1VTyXQ-9F-WBX5p3gSA8coJcKFXOex8VoEdkOEY=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=np.com.bhlmilan.naapi',
+    appId: 'np.com.bhlmilan.naapi',
+    title: 'NaaPI',
+    summary:
+     'Land Measurement Tool& Market Place ( Buy / Sell Plots)-Specifically for Nepal',
+    developer: 'M&S Developers',
+    developerId: 'M%26S+Developers',
+    icon:
+     '//lh3.googleusercontent.com/DHz-Cn5TakFnBB7PJLvOUEQCg4ne4hjW9gl0whoMhVBnU8qG8FEjTAfkILJD71Wg784=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.f1soft.globalmobilebanking.sms.activities.main',
+    appId: 'com.f1soft.globalmobilebanking.sms.activities.main',
+    title: 'Global Smart',
+    summary: 'Global IME Smart Mobile Banking App in your pocket.',
+    developer: 'F1soft',
+    developerId: 'F1soft',
+    icon:
+     'https://lh3.ggpht.com/dJviBf3ASyUUiVOrcl-fDE6850s2heoCk2q2kkKuCVkqpfFu6F5gotobXfD4M9wqHg=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.f1soft.nabilmbank',
+    appId: 'com.f1soft.nabilmbank',
+    title: 'Nabil SmartBank',
+    summary: 'NABIL SmartBank- Enjoy the banking experience smartly.',
+    developer: 'F1soft',
+    developerId: 'F1soft',
+    icon:
+     '//lh3.googleusercontent.com/kztK9f2xIo58_DC5ykJqHKP90QLsOKgX9gYT7ZDZCrcFW526392vJHkdij895_ARAONH=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=np.com.rsubedi.ncellntcservices',
+    appId: 'np.com.rsubedi.ncellntcservices',
+    title: 'Recharge Card Scanner for NTC and Ncell Users',
+    summary:
+     'Scan NTC & Ncell Recharge cards. Get data packs, loan, transfer & more.',
+    developer: 'Yarsa Labs',
+    developerId: '8481308371198332762',
+    icon:
+     '//lh3.googleusercontent.com/dDPvGiy5KcDd2YExb_6CO8F25Tvyd_JbWPHVYAIaw9QxJvR2QNCOdoetQO0muxXCtUE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sudip.smartkrishi',
+    appId: 'com.sudip.smartkrishi',
+    title: 'Smart Krishi',
+    summary:
+     'अलमलमा नपरौं, आजै स्मार्ट कृषि एप डाउनलोड गरौँ! २ लाख कृषकको बिश्वास!',
+    developer: 'Smart Krishi',
+    developerId: 'Smart+Krishi',
+    icon:
+     '//lh3.googleusercontent.com/o4ygYd52R04XwgV4PmKQIJNS_4e_h4E5Tap20ysraplxChkbyzVh8iXQ5F7ejAmYZg8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.merospark.merospark',
+    appId: 'com.merospark.merospark',
+    title: 'MeroSpark',
+    summary:
+     'MeroSpark is designed to provide reference notes of different academic level.',
+    developer: 'UNOVA Soft',
+    developerId: 'UNOVA+Soft',
+    icon:
+     '//lh3.googleusercontent.com/25byCCq2yZYJMqmaUCsvChXL29tSFVRTN-NGR5Z5JJAAERc-0n_7f78eLnzbtcDUxHwr=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamma.scan',
+    appId: 'com.gamma.scan',
+    title: 'QR & Barcode Scanner',
+    summary: 'The fastest QR and Barcode scanner. Try it NOW!',
+    developer: 'Gamma Play',
+    developerId: '7739323866949324662',
+    icon:
+     '//lh6.ggpht.com/-LHkE5TWqK0bWUdreGY2m28wJa9YsMvkkXiL-1u7ZRcBs2gXP8bsTTpo9IWWdY1hhaw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.f1soft.nicasiamobilebanking',
+    appId: 'com.f1soft.nicasiamobilebanking',
+    title: 'NIC ASIA MOBANK',
+    summary: 'NIC ASIA MOBANK- Enjoy the banking experience smartly.',
+    developer: 'F1soft',
+    developerId: 'F1soft',
+    icon:
+     '//lh3.googleusercontent.com/djqcSKZCRsdu4DgFjDJnJx-c6WJgJI-AipPb9G6oThSEwk7QilDdHZPRbBsNwd2zNQQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dictionary.ne',
+    appId: 'com.dictionary.ne',
+    title: 'English Nepali Dictionary',
+    summary: 'Both English to Nepali and Nepali to English Dictionary',
+    developer: 'INNOVATIVE-SOFTWARE',
+    developerId: 'INNOVATIVE-SOFTWARE',
+    icon:
+     '//lh3.googleusercontent.com/wCPvN-Ek51eHMsMojc70Zu5YhyQjgWp3GVEdXCZHHxWpLNorxpba_uIin_wYpAlD7g=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

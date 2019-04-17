@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rocket.tools.clean.antivirus.master',
+    appId: 'com.rocket.tools.clean.antivirus.master',
+    title: 'Antivirus Free 2019 - Scan & Remove Virus, Cleaner',
+    summary:
+     'Mobile Security with Antivirus, Virus cleaner, Phone cleaner, AppLock.',
+    developer: 'Hyper Speed',
+    developerId: '7702189469562675193',
+    icon:
+     '//lh3.googleusercontent.com/DtoMiG4PsV_O6uYz9EHPU4fUnB86lWLLYIxDQ7FuuGTE50vHSI9WaHCrJVb_sdNF42U=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note',
+    appId: 'com.socialnmobile.dictapps.notepad.color.note',
+    title: 'ColorNote Notepad Notes',
+    summary:
+     'ColorNote® - Easy to use notepad for notes, shopping list, to-do list, calendar',
+    developer: 'Notes',
+    developerId: 'Notes',
+    icon:
+     '//lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smule.singandroid',
+    appId: 'com.smule.singandroid',
+    title: 'Smule - The #1 Singing App',
+    summary:
+     'Enjoy karaoke on your phone. Sing karaoke with top artists & friends!',
+    developer: 'Smule',
+    developerId: 'Smule',
+    icon:
+     '//lh3.googleusercontent.com/wXgP-TP1RMD2g3Eyv725lmwDlv-qo6gd4TadAR-u4COAODUJi4uNTM2EnqwPflLdNg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.security',
+    appId: 'com.cleanmaster.security',
+    title: 'Security Master - Antivirus, VPN, AppLock, Booster',
+    summary:
+     'Get 💯protection with Antivirus, Free VPN, AppLock, WiFi Security&Booster here!',
+    developer: 'Cheetah Mobile (AppLock & AntiVirus)',
+    developerId: '8544729060931835350',
+    icon:
+     '//lh3.googleusercontent.com/mRmDkPRRuyNmtm-_z_KToVzDfEj8PLa6xBD2xhzHz4oBHmOsWLk0bBFcT_7EdYYVx_0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dywx.larkplayer',
+    appId: 'com.dywx.larkplayer',
+    title: 'Lark Player —— YouTube Music & Free MP3 Top Player',
+    summary: 'Free Video, YouTube, and MP3 Music Player',
+    developer: 'Mobiuspace Tech Top Player',
+    developerId: 'Mobiuspace+Tech+Top+Player',
+    icon:
+     '//lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.duapps.recorder',
+    appId: 'com.duapps.recorder',
+    title: 'DU Recorder – Screen Recorder, Video Editor, Live',
+    summary:
+     'Screen recorder, video editor & live creator to capture HD screen videos!',
+    developer: 'Screen Recorder & Video Editor',
+    developerId: '7476206629215101066',
+    icon:
+     '//lh3.googleusercontent.com/kwbBFuTwWgsZEyNDllFGDiGTux5Xuy0eNrtMgcAbUSTlTHvYwOugfDCJzAOYFLcKTPU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.playtika.slotomania',
+    appId: 'air.com.playtika.slotomania',
+    title: 'Slotomania™ Slots Casino: Vegas Slot Machine Games',
+    summary:
+     '🎰SLOTOMANIA - BEYOND SLOTS🎰20,000 Free Coins, NEW Slotocard Heroes, & More!',
+    developer: 'Playtika',
+    developerId: '8370476508159322879',
+    icon:
+     '//lh3.googleusercontent.com/PyXb-ltmxVmH8oppeASQsIRmnmTaI6ypp4RVDZ_25aKvav6GsXvFFVS-wYU1uggAEic=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango',
+    appId: 'com.google.android.apps.youtube.mango',
+    title: 'YouTube Go',
+    summary:
+     'Download and watch your favourite videos without eating up your data',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pqnpzpWfCCHVu6mqwtr-ueJHrYzTUFVzQNIwqqQ8016APeEI8ZxmBzu-q3thtlhwDrVX=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roidapp.photogrid',
+    appId: 'com.roidapp.photogrid',
+    title: 'PhotoGrid: Video & Pic Collage Maker, Photo Editor',
+    summary:
+     'Top choice Camera App for Collage, drawing, Video maker and Live filter',
+    developer: 'Cheetah Mobile (Photo Editor)',
+    developerId: 'Cheetah+Mobile+(Photo+Editor)',
+    icon:
+     '//lh3.googleusercontent.com/YoZjsJQPrd4PS6JDZ2klScpZnd9BYvLTD26Y0VMmOuBNWFcoWbEfl7QnGEolNr9hDQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs',
+    appId: 'com.google.android.apps.docs.editors.docs',
+    title: 'Google Docs',
+    summary: 'Create and edit documents on the go.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh4.ggpht.com/-wROmWQVYTcjs3G6H0lYkBK2nPGYsY75Ik2IXTmOO2Oo0SMgbDtnF0eqz-BRR1hRQg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.zedge.android',
+    appId: 'net.zedge.android',
+    title: 'ZEDGE™ Ringtones & Wallpapers',
+    summary:
+     'Free Ringtones, Wallpapers & Notification Sounds enjoyed by millions.',
+    developer: 'Zedge',
+    developerId: 'Zedge',
+    icon:
+     '//lh3.googleusercontent.com/4nHL8rRI4HTdy17Nt6NlEdnHX-6M6xCX-5yA4TvHYxcd4lvFT4zIrfIqMy0Qd7qm9Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tumblr',
+    appId: 'com.tumblr',
+    title: 'Tumblr',
+    summary:
+     'Tumblr is where your interests connect you with your people.',
+    developer: 'Tumblr, Inc.',
+    developerId: 'Tumblr,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Y5r-v7yrNUFMB9pabx19tTfVNYUK0TED7i6NRrzdfWFtDHkLZCAnJR-gJ012HtS2r3Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.quvideo.xiaoying',
+    appId: 'com.quvideo.xiaoying',
+    title: 'VivaVideo - Video Editor & Photo Movie',
+    summary:
+     'Professional video editor, the one powerful enough for all.',
+    developer: 'QuVideo Inc. Best Video Editor & Video Maker App',
+    developerId: '8999952960853938956',
+    icon:
+     '//lh3.googleusercontent.com/RxE4n7k1Z2I5qQo8tDj8QotCtTzinaXeLhiX5J6UKTsuGkG2pAmvqVH73Mlki8sH0A=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android',
+    appId: 'com.sirma.mobile.bible.android',
+    title: 'YouVersion Bible App + Audio, Daily Verse, Ad Free',
+    summary:
+     'Free Bible versions, audio bibles, daily verses, and devotionals!',
+    developer: 'Life.Church',
+    developerId: 'Life.Church',
+    icon:
+     '//lh6.ggpht.com/74y0CQPge97891bmx15T17-tWp8oW3V9ij7n2C0fP5Jysrr2deeERBXoQbVqvC0z7kA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.suwalem.ALMaathen',
+    appId: 'com.suwalem.ALMaathen',
+    title: 'المآذن - ليبيا',
+    summary: 'Free application of Prayer Times for most Libyan cities.',
+    developer: 'عبدالعاطي محمد سوالم',
+    developerId:
+     '%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%B3%D9%88%D8%A7%D9%84%D9%85',
+    icon:
+     '//lh3.googleusercontent.com/HQhIeLpL9_L1PVv7m8OsWy_bxe1ACRdKina9PauiJ2DztU2yPhfb2aCZCtBAiJGEuw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mahmoud.android.MoadenLibya',
+    appId: 'com.mahmoud.android.MoadenLibya',
+    title: 'مؤذن ليبيا',
+    summary:
+     'Accurate Prayer times in Libya with Qibla, Azkar and nearby Mosques',
+    developer: 'محمود القائد',
+    developerId:
+     '%D9%85%D8%AD%D9%85%D9%88%D8%AF+%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D8%AF',
+    icon:
+     '//lh3.googleusercontent.com/bG1F6LFUdSIS1w-AMpZD30Hb_a3yjJ1AFU_I9PizUNdgZpOa5FaCBq8tNcqUiuLbN1Y=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ketot.abdullah.ltt116',
+    appId: 'com.ketot.abdullah.ltt116',
+    title: 'Ltt 116',
+    summary:
+     'Application to facilitate the mobilization of the balance on the number 116 Libya for communications and technology',
+    developer: 'abdullah ketot',
+    developerId: 'abdullah+ketot',
+    icon:
+     '//lh3.googleusercontent.com/ruNenduiA8SP9nt9PnTDxg41UxJzknm8lwYg7-K7XQoCe6Jg-tSQP_TNdyRtkIh6ukzs=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.libya.pensionlibya.mypension',
+    appId: 'com.libya.pensionlibya.mypension',
+    title: 'الضمان موبايل',
+    summary:
+     'The application is designed to offer and facilitate a range of e-services for individuals.',
+    developer: 'صندوق الضمان الاجتماعي الليبي',
+    developerId:
+     '%D8%B5%D9%86%D8%AF%D9%88%D9%82+%D8%A7%D9%84%D8%B6%D9%85%D8%A7%D9%86+%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A+%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A',
+    icon:
+     '//lh3.googleusercontent.com/7HTsp3EYh7DUJ6xX7Zr1vg9AVgMG3oV-SJ3bJRN_g656zpPA32x4xoPQXMGZlLKiad1q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.quran.zzeezz.quran14',
+    appId: 'com.quran.zzeezz.quran14',
+    title: 'مصحف الجماهيرية برواية قالون',
+    summary: 'The Koran of the mass of the Imam Imam Qalloun',
+    developer: 'ZzeezZ',
+    developerId: 'ZzeezZ',
+    icon:
+     '//lh3.googleusercontent.com/SwjqR7ICToN-iZ9jmGvTcGKUW9gabQLk_ornVz53gLs1NnAoaySMr5kyz29Tf7ckqw=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shaden.raseed',
+    appId: 'com.shaden.raseed',
+    title: 'Raseedi',
+    summary:
+     'Raseedi App will enable the cardholders to check their financial transaction.',
+    developer: 'Tadawul Technology',
+    developerId: 'Tadawul+Technology',
+    icon:
+     '//lh3.googleusercontent.com/xFhxeAP6c6UqTCr_OsQN548-uiw6Ih_uCxiAPJ0SUx9ZulZ1x2-wO88k8CF8Ei4duQs=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mbh.azkari',
+    appId: 'com.mbh.azkari',
+    title: 'اذكاري - طمئن قلبك بذكر الله',
+    summary:
+     'The best way to remind you with Thikr is the way you don\'t expect it. "Athkari"',
+    developer: 'MBH',
+    developerId: 'MBH',
+    icon:
+     '//lh3.googleusercontent.com/XNE7Seug_VAJXgX46ToiK9ixxDuM9D0qg4jx0fjo6F5v98UWCqKpHXzG7ihYhkJ9TQ8=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=mitt.JamBank',
+    appId: 'mitt.JamBank',
+    title: 'تطبيق مصرفي',
+    summary:
+     ',,, Now you can access your account at the Bank of the Republic at any time by bank application',
+    developer: 'MITT LTD',
+    developerId: 'MITT+LTD',
+    icon:
+     '//lh3.googleusercontent.com/wvmXUyzbdEaErz8hV_XscW_Enopz4akWjaktdqXmMD8DgznvBcMjRkugH7VdHtzuLDI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.elghazal.Azaanlibya',
+    appId: 'net.elghazal.Azaanlibya',
+    title: 'أذان ليبيا',
+    summary:
+     'Application to see the Prayer Times in Libya accurately 100%',
+    developer: 'SadeemTech',
+    developerId: 'SadeemTech',
+    icon:
+     '//lh3.googleusercontent.com/EtLByApsxIc9JgWfuGJINwn7ag_nDmn04oiT7ApmxAvMb8YV6mO2t1y9zq8Kzzy9Xjw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=mitt.WBank',
+    appId: 'mitt.WBank',
+    title: 'تطبيق الوحدة موبايل',
+    summary:
+     'Using the unit becomes a Mobile use the unit Mobile service with ease and safety',
+    developer: 'Masarat Co',
+    developerId: 'Masarat+Co',
+    icon:
+     '//lh3.googleusercontent.com/ipPZg7keE8rHhI2Uim2K2WWYSWlcVputVkcsGIDv5fgn_UySa3pIGlcraaXayW4AjQ8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.fennec',
+    appId: 'com.fennec',
+    title: 'Essale',
+    summary: 'Dollar exchange rates in Libya',
+    developer: 'esSALE.ly',
+    developerId: 'esSALE.ly',
+    icon:
+     '//lh3.googleusercontent.com/N5YuW5KixiQ9_v8TaoLJ58P5-VU3ITv3psJDLZBo0FjmSSFgjVqi2394KLQcJiv6kg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aljadid.almadar.almadarapp',
+    appId: 'com.aljadid.almadar.almadarapp',
+    title: 'المدار الجديد',
+    summary:
+     'Over 30 exclusive service now has become your hands through the application of the new orbit.',
+    developer: 'Almadar Aljadid  Co.',
+    developerId: '4663159516658587258',
+    icon:
+     '//lh3.googleusercontent.com/kyosEaoTwqY9sjN4DyZyX8o6rwwaikaTHR4sRVixLMyrBcSIUwQPgu-7Ai8J5w8QSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.progressoft.almadar',
+    appId: 'com.progressoft.almadar',
+    title: 'Sadad',
+    summary:
+     'This application allows you to make various purchases through stores',
+    developer: 'Almadar Aljadid  Co.',
+    developerId: '4663159516658587258',
+    icon:
+     '//lh3.googleusercontent.com/Bw4z6uIx_p9IKOJ_IY7Udk36rbguCpP3q656S0qec4zEvpyuVXbNbqt1hIO7cyKKdgE=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simppro.quran.jamahiriya.offline',
+    appId: 'com.simppro.quran.jamahiriya.offline',
+    title: 'القرآن الكريم - برواية قالون',
+    summary:
+     'Koran mass novel full KALON with a prayer seal without Internet',
+    developer: 'simppro',
+    developerId: 'simppro',
+    icon:
+     '//lh3.ggpht.com/b7agimsbY1vHUAkgrHC6nNX2deQjvOMOAl1xJP0bRuUc5p4XavGiNTeV4-XVv7Zw-wSl=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

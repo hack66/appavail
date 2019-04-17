@@ -1,0 +1,272 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cyberspace.laffwella',
+    appId: 'com.cyberspace.laffwella',
+    title: 'LaffWella',
+    summary: 'Funny Naija videos',
+    developer: 'Cyberspace',
+    developerId: 'Cyberspace',
+    icon:
+     '//lh3.googleusercontent.com/po_SC5H_uN2otP_Ui_hMdTUGQ8HZ5I9J1dpjosVnRzGPb_-3rOz0kcHnwVASyoJWYdE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.elite.the.danielandendtime',
+    appId: 'com.elite.the.danielandendtime',
+    title: 'Daniel and End Time',
+    summary:
+     'Discover the incredible End Time facts in the prophetic book of Daniel.',
+    developer: 'Fast Elite Developers',
+    developerId: 'Fast+Elite+Developers',
+    icon:
+     '//lh3.googleusercontent.com/N_PPNHMxjYhfYE1-vIaAklSZgYVMETzOn7_Ej2vtq9sH1DxxTAwmIz40MnNEh6IBSfvZ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=franol.geleta.fgsystem.yemezmuretenatdebter',
+    appId: 'franol.geleta.fgsystem.yemezmuretenatdebter',
+    title: 'የመዝሙር ጥናት ደብተር',
+    summary:
+     'This app is used to display old & recent amharic worship songs for singers',
+    developer: 'franol geleta',
+    developerId: 'franol+geleta',
+    icon:
+     '//lh3.googleusercontent.com/grDYEODERh-BcwC9uMHFSFEg1a6RSUlYEbHPLVbOb1d0lirZ9z6kK7p1xhvSvDfDm-4P=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.solar.panel.installation.wiring.diagram',
+    appId: 'com.solar.panel.installation.wiring.diagram',
+    title: 'Solar Panel Installation',
+    summary: 'Download now: solar panel installation diagrams for free.',
+    developer: 'Monik-INC',
+    developerId: 'Monik-INC',
+    icon:
+     '//lh3.googleusercontent.com/lY90IeaTQMGKRrZvn9pksZPVL6S5CYnk5k4RevLmmtxfr74KhLrT_Egkhr_49bx3NQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.spirit.realm.myapp',
+    appId: 'com.spirit.realm.myapp',
+    title: '10 Secrets Of Spirit Realm You Need To Know',
+    summary: 'Learn 10 amazing Secrets Of Spirit Realm You Need To Know',
+    developer: 'Ausar Tech',
+    developerId: 'Ausar+Tech',
+    icon:
+     '//lh3.googleusercontent.com/ISkFGOGlY3fkaYnaAJ2Txw_Hp4OqcEZYVlRgcrE--ZeB36q-OGvnDNA3cXvAfVqw2w=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.changanya.klistumunyimbocanary',
+    appId: 'com.changanya.klistumunyimbocanary',
+    title: 'Klistu Mu Nyimbo',
+    summary: 'Christ In Songs (Bemba Edition)',
+    developer: 'MLK',
+    developerId: 'MLK',
+    icon:
+     '//lh3.googleusercontent.com/kajh3YcpQjCITFAHU7WOMM9c9_xo05F4ev2wq5rTlmx00WddrLfIyiMjWXhWxQMsQDw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.missingyou.greatmind',
+    appId: 'com.missingyou.greatmind',
+    title: 'I Miss You Love Messages',
+    summary:
+     'Love inspires us and moves us. Get the best missing you message plus lots more',
+    developer: 'GreatMindsGub',
+    developerId: 'GreatMindsGub',
+    icon:
+     '//lh3.googleusercontent.com/LqhRX7gj_WB0Z4BQGBA4ITSSOp3bhNXFrV2bdQhwrw8L-Tc85FawYCwDRdnZAJbBgNM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tadapps.how.to.stop.overthinking',
+    appId: 'com.tadapps.how.to.stop.overthinking',
+    title: 'How To Stop Overthinking',
+    summary:
+     'Put an end to overthinking with How To Stop Overthinking app.',
+    developer: 'The Almighty Dollar',
+    developerId: 'The+Almighty+Dollar',
+    icon:
+     '//lh3.googleusercontent.com/uOuCpslISwuYhNK88fU4beZ1qKf_ESAbe1m1wQ-Ud-waYykQFV7p7k-MkJzAF9wzwR6a=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=power.of.prayer.app',
+    appId: 'power.of.prayer.app',
+    title: 'POWER OF PRAYER',
+    summary:
+     'This app features content (including Q&As) on the Power of Prayer',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/GJ9oUKSDJCwnAlIyB1FzDnTk8aoX_NXRA7ODFeEePMBb4-h4V_gxKxsTfos2SSDclpo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=the.book.of.adam',
+    appId: 'the.book.of.adam',
+    title: 'THE BOOK OF ADAM',
+    summary:
+     'This Book Of Adam app is translated from the Georgian original.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tUKYys2fvswYtZj4ZK4ZbzMhTq3wj_btCaqc5N_9UxxHKMXJT6QPdSkIDa_doUxnpw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=forgotten.books.of.eden.app',
+    appId: 'forgotten.books.of.eden.app',
+    title: 'THE FORGOTTEN BOOKS OF EDEN',
+    summary:
+     'Contains 4 of the missing books of the bible a.k.a The Forgotten Books of Eden.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/HP6g7wWneNCoDHIhb0_xxMFvmE1EYg_xrswVoAUiA6CjiPfQpWc28dEIzepmG_Hb-w=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=thefirstbookof.adam.and.eve.app',
+    appId: 'thefirstbookof.adam.and.eve.app',
+    title: 'THE FIRST BOOK OF ADAM AND EVE',
+    summary:
+     'This app provides full, organized content on the First Book of Adam and Eve.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/3ENhOqBC75vYReNqa5zd2YSdMUTHrUEqYZXgDD1crmCxbCLqCTK3eMP6Wf9p9sb-aOE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.applibres.adventist.the.desire.of.ages',
+    appId: 'com.applibres.adventist.the.desire.of.ages',
+    title: 'The Desire of Ages',
+    summary:
+     'The Desire of Ages, discover the teachings, details and ministry of Jesus Christ',
+    developer: 'DupliDesarrollo',
+    developerId: 'DupliDesarrollo',
+    icon:
+     '//lh3.googleusercontent.com/_l-EzX7BkBamUL2N__hfE55qjFpwwyx7ewtNODSoaeVuNQSUsJ6U-quG8SVzeZbkZyA=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

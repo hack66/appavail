@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=air.HardTime',
+    appId: 'air.HardTime',
+    title: 'Hard Time (Prison Sim)',
+    summary:
+     'Attempt to survive in a prison where every sentence is a death sentence!',
+    developer: 'MDickie',
+    developerId: '5289992214197329711',
+    icon:
+     '//lh6.ggpht.com/wSVvAfCMe9vdcDagmOvYHZFluxAePDa9ffb__a1TiblnVYDx17hsuEJcjFgF0KvDOfs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.mlite',
+    appId: 'com.facebook.mlite',
+    title: 'Messenger Lite: Free Calls & Messages',
+    summary:
+     'A faster version of Messenger that works in all network conditions',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/TU0sEekxINa-D4wYgz9lkqQvZgwChcygYgZajNrQOmc5H__5VsnGG8FHCXGaksmuH8M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DVloper.HouseOfSlendrinaFree',
+    appId: 'com.DVloper.HouseOfSlendrinaFree',
+    title: 'House of Slendrina (Free)',
+    summary: 'Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/8rQo90N_pneUOstddgsWufodEvSuuNHoQC0GZNZZK-Hx_qlDrsZi42dp3iP1Hwil2WU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.katana',
+    appId: 'com.facebook.katana',
+    title: 'Facebook',
+    summary:
+     'Find friends, watch live videos, play games & save photos in your social network',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.SnakeGame',
+    appId: 'com.mobirix.SnakeGame',
+    title: 'Snakes & Ladders King',
+    summary:
+     'Dice, ladder (= step climb), snakes (= step down) enjoyed by the three rules.',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/JByYcjpQakA6Mv7aWZjj8vl2DQ8n-ziu027-4yy6yy0dzs41rpAcgP9TRMMkHBChefc=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.joyplustech.android_mermaid1',
+    appId: 'net.joyplustech.android_mermaid1',
+    title: 'Mermaid Secrets1- Mermaid  Princess Rescue Story',
+    summary:
+     'Save Mermaid Princess Mia! Be the real princesa, best little mermaid games.',
+    developer: 'JoyPlus Technology Co., Ltd.',
+    developerId: 'JoyPlus+Technology+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/K_SHLDmdhEQk5dc-lomBuESmPxYJWEDcX75JsxmW_jd9D5alXpeBANwpuRHDZHBWOA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesfree',
+    appId: 'air.com.oranginalplan.weaphonesfree',
+    title: 'Weaphones™ Gun Sim Free Vol 1',
+    summary:
+     'Weaphones is the ultimate firearms simulator for your phone or tablet.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh4.ggpht.com/MGLNbiFliVDHb3CRpdp_JeVCc9bQMR_XSQA_cyJjSDl6Yr1g2XcUY8f4wbvWIpRixn4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.lite',
+    appId: 'com.facebook.lite',
+    title: 'Facebook Lite',
+    summary:
+     'This version of Facebook uses less data and works in all network conditions.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/Alon4Gigwl2DqrT36O6JMn-M40tinuxFHWROtv0TP8ozX8Sr5MiBM1CuHX-veqFhnKvQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rvappstudios.abc_kids_toddler_tracing_phonics',
+    appId: 'com.rvappstudios.abc_kids_toddler_tracing_phonics',
+    title: 'ABC Kids - Tracing & Phonics',
+    summary:
+     'Fun phonics & alphabet tracing game for toddlers, preschool & kindergarten kids!',
+    developer: 'RV AppStudios',
+    developerId: '7430005971129979939',
+    icon:
+     '//lh3.googleusercontent.com/tcbtYwJSxe_J31toJKgWTce5x6SFjTlPr-3x9jTcUp4DXUuGjo4p5wvOzdkTmrrOHg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.greentail.jumpjump',
+    appId: 'com.greentail.jumpjump',
+    title: 'Burger Jump Journey',
+    summary:
+     'Endless running game! Tap or Swipe to jump!Swiping speed affects jumping height',
+    developer: 'GREENTAIL, Inc.',
+    developerId: 'GREENTAIL,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/kmnhd59aB6Yufi6Lu0bTYDReN1MJ57oNi3OK1TGYhOXXcMQRviqjghbdbP4bNg0aRSVM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.gaetanoconsiglio.EscapePrison',
+    appId: 'air.com.gaetanoconsiglio.EscapePrison',
+    title: 'Escape the prison: free adventure game',
+    summary:
+     'Escape prison is a fun free adventure game, solve addictive computer puzzles',
+    developer: 'Rabbit Bay Games',
+    developerId: '6535213428686988443',
+    icon:
+     '//lh3.googleusercontent.com/VFR5ZR8abt7yiWzltxH8cod88Xp0rLzB2DgJ-QQURfdQkqoGwTezvyHKzfYEenTnbm90=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.holofarm.immunoT',
+    appId: 'be.holofarm.immunoT',
+    title: 'Immuno-T',
+    summary: 'a story in motion',
+    developer: 'HOLOFARM',
+    developerId: 'HOLOFARM',
+    icon:
+     '//lh3.googleusercontent.com/yaBt0qnzaq9i75rWnV-OrmPgAjjpHFGk8zHuo8yvBhsJG2TqBZxASB3WuK0w_gKKpDU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.havrutaenglish.step_iii',
+    appId: 'com.havrutaenglish.step_iii',
+    title: '하브루타 잉글리시 3단계 (Havruta English Step 3)',
+    summary:
+     'What is the Harbrough English S & D Series? Children from 6 to 12 years oldIt is a play English to learn by singing fun and cheerfully.',
+    developer: 'wownara',
+    developerId: 'wownara',
+    icon:
+     '//lh3.googleusercontent.com/Xkq-a3uIQQJZlehlP-2VilpuAKG8RIbzuzf_CPtUzdEQaEqsD-ctcBhdGN_dmuv2RQg=w340',
+    score: 1,
+    scoreText: ' Rated 1.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=canada.free.unlimited.vpn',
+    appId: 'canada.free.unlimited.vpn',
+    title: 'CANADA VPN - Best Free VPN for Android',
+    summary:
+     'Rated as the Best Free VPN for Android for Encrytion & Online Privacy in 2018',
+    developer: 'Secure Vpn',
+    developerId: 'Secure+Vpn',
+    icon:
+     '//lh3.googleusercontent.com/_BtKjKzhUn9_V3HmXcf6HBVwgC5SjOlLUKKeze6wk5s6TUfF11eW--zCGOyNwGriOaOJ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playwithgames.CityDriverParking',
+    appId: 'com.playwithgames.CityDriverParking',
+    title: 'City Driver: Roof Parking Challenge',
+    summary: 'Extreme driving and parking! Push the limits of your car',
+    developer: 'Play With Games',
+    developerId: 'Play+With+Games',
+    icon:
+     '//lh3.googleusercontent.com/cP8lJJ1hGX_aMYcvCfL36eb4xvgtVFS32bdCU_zvnNb5_Zce8Fx3C1ZhNEmdapYnsg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

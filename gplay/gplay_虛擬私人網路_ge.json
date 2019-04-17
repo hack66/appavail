@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title:
+     'Aloha Browser - private fast browser with free VPN (Unreleased)',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jrzheng.supervpnfree',
+    appId: 'com.jrzheng.supervpnfree',
+    title: 'SuperVPN Free VPN Client',
+    summary:
+     'SuperVPN, total free VPN client.Easy to use, one click to connecting VPN.',
+    developer: 'SuperSoftTech',
+    developerId: 'SuperSoftTech',
+    icon:
+     '//lh4.ggpht.com/dQMtsDSpDh9JzPQAxoYyWNQACqyagOUMe-l17uOgzXsU6fYkfGKKRSMTK4Rnz6ybavA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appsforlife.vpn',
+    appId: 'com.appsforlife.vpn',
+    title: 'VPN Unlimited',
+    summary:
+     'VPN is a virtual private network for anonymity and security.',
+    developer: 'apps 4 life',
+    developerId: 'apps+4+life',
+    icon:
+     '//lh3.googleusercontent.com/MPgpD8mAKMexdJRZfYAECtQaG-VWmOhvEMc2ndUnr1ZaIu5cZWLiwYz7mxIxwpo3ArY=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=app.saluton.vpn.free',
+    appId: 'app.saluton.vpn.free',
+    title: 'Saluton Free VPN – Unlimited, Fast and Secure VPN',
+    summary: 'Keep You Anonymous and Secure',
+    developer: 'Saluton LLC',
+    developerId: '5860526429505063263',
+    icon:
+     '//lh3.googleusercontent.com/niy43Zd0uqW73UsXxgTngPODQtNnSy10Vbny3GeR7dPgehuWbC3egSkSpmX3AmGSv4rg=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ehawk.proxy.freevpn',
+    appId: 'com.ehawk.proxy.freevpn',
+    title: 'Hi VPN, Free VPN – Fast, Secure and Unlimited VPN',
+    summary:
+     'Free Hi VPN, Fastest VPN on Android. Free, Unlimited, Secure and Super Fast.',
+    developer: 'Hi Security',
+    developerId: '9033708848358036191',
+    icon:
+     '//lh3.googleusercontent.com/gydj1TEOJhATLAfxznerZCsjcdYYI8Zea9yufF3gQPmtRQ5J5qGj-Hp9dozEO5LKiQe9=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.openvpn.openvpn',
+    appId: 'net.openvpn.openvpn',
+    title: 'OpenVPN Connect – Fast & Safe SSL VPN Client',
+    summary:
+     'Official secure client for Access Server, Private Tunnel & any OpenVPN service',
+    developer: 'OpenVPN',
+    developerId: 'OpenVPN',
+    icon:
+     '//lh3.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.security.xvpn.z35kb',
+    appId: 'com.security.xvpn.z35kb',
+    title: 'X-VPN - Free Unlimited VPN Proxy',
+    summary:
+     'Surf privately and securely! Protect on-line privacy! Free and unlimited use!',
+    developer: 'Free Connected Limited',
+    developerId: 'Free+Connected+Limited',
+    icon:
+     '//lh3.googleusercontent.com/Dtv8NQ-BT4IvgEUbtdls-keWKNbWgKT5gUbaY7QyZmXcWBZ_PWHA9H8_zsnDOgkFqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tenta.android',
+    appId: 'com.tenta.android',
+    title: 'Tenta Private VPN Browser + Ad Blocker (Beta)',
+    summary:
+     'Your private, encrypted browser with built-in VPN for faster secure browsing.',
+    developer: 'Tenta (Browser, VPN, Encryption, and Downloader)',
+    developerId: '8351673000520746570',
+    icon:
+     '//lh3.googleusercontent.com/p0v6MtjAiuj-quo8Rs3hYHgbadKkWmIN5p-aqO89FDV7jLMWFqBvmOXy5mWM1yPmmw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tlsvpn.tlstunnel',
+    appId: 'com.tlsvpn.tlstunnel',
+    title: 'TLS Tunnel - Free VPN for Injection',
+    summary:
+     'TLS Tunnel is a simple, fast VPN and enables connection customization',
+    developer: 'TLSVPN Dev',
+    developerId: 'TLSVPN+Dev',
+    icon:
+     '//lh3.googleusercontent.com/AKA5e1jHPIh_73sBo1g3UYr6ypxJgq4cOAqlP_0EGJjgenzmKZUw7bbaUlomHqhUuJME=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=pm.tap.vpn',
+    appId: 'pm.tap.vpn',
+    title: 'TapVPN Free VPN',
+    summary:
+     'Be Free, Truly Anonymous & Secured. Unblock Any Site. Fast Free VPN for android!',
+    developer: 'Mobbo',
+    developerId: 'Mobbo',
+    icon:
+     '//lh3.googleusercontent.com/nTQVIG8HZ16lvA0ctBghP_sktq0v-uZQKNofrX8gjkrsx8ODCndk6_1JBiHgdconIg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.themausoft.wpsapp',
+    appId: 'com.themausoft.wpsapp',
+    title: 'WPSApp',
+    summary: 'Check the security of your WiFi network.WPS protocol.',
+    developer: 'TheMauSoft',
+    developerId: 'TheMauSoft',
+    icon:
+     '//lh3.googleusercontent.com/EPCZElozBX6JUjkDOLmTw5VHZce0RIE8Nk-LSPVOJkcfHHyuhTsFrf1XXPBZT_fnnH4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bitdefender.security',
+    appId: 'com.bitdefender.security',
+    title: 'Bitdefender Mobile Security & Antivirus',
+    summary: '100% protection. Zero impact on battery life. FREE VPN.',
+    developer: 'Bitdefender',
+    developerId: 'Bitdefender',
+    icon:
+     '//lh3.googleusercontent.com/WF5HgLU5UEk0hV05liPcYe4MMEAHIQXUfux_eHxxRgP9W6aBsQE3OLH-m9x6GIgxOfk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ddm.iptools',
+    appId: 'com.ddm.iptools',
+    title: 'IP Tools: WiFi Analyzer',
+    summary: 'IP Tools – Ultimate Network Tools & WiFi Scanner',
+    developer: 'AmazingByte',
+    developerId: 'AmazingByte',
+    icon:
+     '//lh3.googleusercontent.com/W8lKnCBeyhM6zmBNY06AppQ3ihe33xKzqboxBNwKLWc647iPZnAdjsUI8cboAXm39xY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher',
+    appId: 'com.google.android.apps.nexuslauncher',
+    title: 'Pixel Launcher',
+    summary:
+     'The home screen experience for the Pixel and Pixel XL phones by Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/O-7F6uiQOUbCPpfa80BldoKEiNDUekj5NBXYiJvx8fpZxT_Uuw0iAYHIKNa7yUXHbbs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.custom.pickmeup',
+    appId: 'com.custom.pickmeup',
+    title: 'Pick Me Up™',
+    summary: 'Ride Sharing Simulator Game',
+    developer: 'tastypill',
+    developerId: 'tastypill',
+    icon:
+     '//lh3.googleusercontent.com/h5-4Vq9fimpiORP5O9Ca4-XVqWAZrH9hd7M7aUVt1Ow-7HC336N4pO1SVbrqXNsnIjE=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sinet.startup.inDriver',
+    appId: 'sinet.startup.inDriver',
+    title: 'inDriver — ride app where you offer your fare',
+    summary: 'Better than a taxi',
+    developer: '® INDRIVERRU LTD',
+    developerId: '%C2%AE+INDRIVERRU+LTD',
+    icon:
+     '//lh3.googleusercontent.com/TLvd52VmqEYB5_9JEJwGwYjvDjkm8zkAUeE4vXj6QJCi_HqTbJNWZXfVUY5qtHCT8w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.style_7.analogclocklivewallpaper_7',
+    appId: 'com.style_7.analogclocklivewallpaper_7',
+    title: 'Analog Clock Live Wallpaper-7',
+    summary: 'Select colors and set unique analog clock as wallpaper.',
+    developer: 'Style-7',
+    developerId: 'Style-7',
+    icon:
+     '//lh3.googleusercontent.com/I-BTZifSGBfpgThDF7pez9-4WWxl26J2m_yVvvTrNYh60Fio5w36j0dLuFXwdbhGTA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery',
+    appId: 'com.simplemobiletools.gallery',
+    title: 'Simple Gallery: Photo Manager & Editor',
+    summary:
+     'Offline gallery without ads. Organize, edit, recover and protect photos & videos',
+    developer: 'Simple Mobile Tools',
+    developerId: '9070296388022589266',
+    icon:
+     '//lh3.googleusercontent.com/GSwsSV5GzGFyheupOV4x6deWq7yekyqbpOF_wp5wrfhCNjiDYu1pxYTbYNTip-e6Xi0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

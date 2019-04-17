@@ -1,0 +1,278 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hutchison3g.planet3',
+    appId: 'com.hutchison3g.planet3',
+    title: 'Three',
+    summary:
+     'The quickest and easiest way to manage your My3 account on-the-go.',
+    developer: 'Three',
+    developerId: 'Three',
+    icon:
+     '//lh3.googleusercontent.com/ffRStoE5MHw_OZ6tuaqkMLPwXtfDMcP-k5Is0mxuriFdRt77n-s2RR0wYL0IPq-DNBU=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.greennetworkenergy.GNE.phone',
+    appId: 'uk.co.greennetworkenergy.GNE.phone',
+    title: 'Green Network Energy Phone',
+    summary:
+     'Green Network Energy is an independent gas and electricity supplier in UK',
+    developer: 'Green Network Energy Ltd',
+    developerId: 'Green+Network+Energy+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/WGmyFjbyckJg7AMiLL1xKbhoyft-VplVDLcSQe3LaUN5lES6JCkB4PJhnkQn8VRS2RyP=w340',
+    score: 1.9,
+    scoreText: ' Rated 1.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.hsbc.hsbcukmobilebanking',
+    appId: 'uk.co.hsbc.hsbcukmobilebanking',
+    title: 'HSBC UK Mobile Banking',
+    summary:
+     'Pay someone new and manage your money with the new HSBC UK Mobile Banking app',
+    developer: 'HSBC',
+    developerId: 'HSBC',
+    icon:
+     '//lh3.googleusercontent.com/9eXIEDELSzSELBgVTVJevIyEU8sM6RstXFTt6916P5FBZge3Z6HMSFHTY67d8tIhl2Q=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.uk.getmondo',
+    appId: 'co.uk.getmondo',
+    title: 'Monzo Bank',
+    summary: 'Monzo makes money work for everyone.',
+    developer: 'Monzo',
+    developerId: 'Monzo',
+    icon:
+     '//lh3.googleusercontent.com/fszFBaIePmxkz7zo5VK-PZMrIfd4Xlp5BoT37qtvnDu6ilwHpYTE2nfPeUDxzeY6kg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myvodafoneapp',
+    appId: 'com.myvodafoneapp',
+    title: 'My Vodafone',
+    summary:
+     'Stay in control of your Vodafone account on the go with the free My Vodafone app',
+    developer: 'Vodafone UK Limited',
+    developerId: 'Vodafone+UK+Limited',
+    icon:
+     '//lh3.googleusercontent.com/RDb3_vpOlETn4egGHVnXKgrc-eu5JnJBBR-qlx_SX3HW5k7qjj9bD6bIF0SuJy5FMw=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile5.greggs',
+    appId: 'com.mobile5.greggs',
+    title: 'Greggs Rewards',
+    summary:
+     'Greggs Rewards, the app that rewards you for shopping Greggs.',
+    developer: 'Greggs',
+    developerId: 'Greggs',
+    icon:
+     '//lh3.googleusercontent.com/thiTvx8fRdZ89HHucFtjGbeB4hY5RKe0nNrwLdef0F8kr6GYxF9xfP-Q1IT3eevFEA=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.paypoint.smartpay',
+    appId: 'com.paypoint.smartpay',
+    title: 'Utilita Top-up',
+    summary:
+     'Utilita Energy is Britain’s leading supplier of smart pre-pay energy.',
+    developer: 'PayPoint PLC',
+    developerId: 'PayPoint+PLC',
+    icon:
+     '//lh3.googleusercontent.com/IXo3jHxUPMRrAvqT6YHT4dypfYw8tS0ILc9gGysgTEs6STNVRjeGgw_g_eKKtJ5k3Q=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jvelimited.vehiclesmart',
+    appId: 'com.jvelimited.vehiclesmart',
+    title: 'Vehicle Smart  - Car Check',
+    summary:
+     'Full UK vehicle history with MOT and Tax for cars, bikes, vans + more! 🏍 🚙 🚛',
+    developer: 'Vehicle Smart Ltd',
+    developerId: 'Vehicle+Smart+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/1W_7zoxPzSg-6sIyKm4DQw17BS9im5yi8tLYRx8k8fonn21_Rott1ZbcSKhgm8FKn0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.talktalk.mytalktalk',
+    appId: 'com.talktalk.mytalktalk',
+    title: 'My TalkTalk',
+    summary:
+     'Check your TalkTalk accounts on the go with the revitalised My TalkTalk App',
+    developer: 'TalkTalk plc',
+    developerId: 'TalkTalk+plc',
+    icon:
+     '//lh3.googleusercontent.com/tbm0937HNnb0E_ptM1-VpPTriw99BgedwzSqQ9zsL5XTCQ6onRSA9ksdTU7aX0QvgfU=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bskyb.nowtv.beta',
+    appId: 'com.bskyb.nowtv.beta',
+    title: 'NOW TV',
+    summary:
+     'Instant access to the latest movies, TV & kids shows plus sports',
+    developer: 'Sky UK Limited',
+    developerId: 'Sky+UK+Limited',
+    icon:
+     '//lh3.googleusercontent.com/rfR-EgMV_H8pCYvVhKdrlMwfLzEgiQfzTx4ciSxAINxI-I3ekym9V099xdk3T7yF3g=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sainsburys.gol',
+    appId: 'com.sainsburys.gol',
+    title: 'Sainsbury\'s Groceries',
+    summary:
+     'Do your Sainsbury\'s shop on your phone and we’ll deliver to your doorstep.',
+    developer: 'Sainsbury\'s Supermarkets Ltd',
+    developerId: 'Sainsbury\'s+Supermarkets+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/c4JaQ5EGr71gs4N0m1r3ALs60jJkx3uGDOQoPWx2rwFnv0uUvP1AYnUMK4cCVMylwudJ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.bbc.cbeebiesgetcreative',
+    appId: 'uk.co.bbc.cbeebiesgetcreative',
+    title: 'Get Creative from CBeebies',
+    summary:
+     'Paint, make music, play! Kids can make things they can’t make anywhere else!',
+    developer: 'Media Applications Technologies for the BBC',
+    developerId: 'Media+Applications+Technologies+for+the+BBC',
+    icon:
+     '//lh3.googleusercontent.com/XByyg1N9OFllbrri1YtWpGHCbVYHPAaq3zEM1GrN04-5rogOUFhV8Tnspkh-pLBgMJo=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.homeretailgroup.argos.android',
+    appId: 'com.homeretailgroup.argos.android',
+    title: 'Argos',
+    summary:
+     'Get Set for the Argos app to start shopping our range of over 40,000 products',
+    developer: 'Argos Limited',
+    developerId: 'Argos+Limited',
+    icon:
+     '//lh3.googleusercontent.com/46vHBg0Rwke7eIttSDm8_r848xUYrmpM_cuvib4CLe3_-GaCUnAFlnrux94lClixLA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orderlysoftware',
+    appId: 'com.orderlysoftware',
+    title: 'WeQ4U 08 087 084 03 02 01 0845 0800 0844 0870 0871',
+    summary:
+     'Save money calling UK call centre numbers for Free with UK’s top calling app.',
+    developer: 'Save money and avoid queues at UK call centres',
+    developerId: 'Save+money+and+avoid+queues+at+UK+call+centres',
+    icon:
+     '//lh3.googleusercontent.com/gujm-YDL0VzxPEyL-hdCRClBrfMAN9NqO3_QAy_QnhyhAHsjGhv-CSzKOTaH9Ps4uzA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.teachers2parents.teachers2parents',
+    appId: 'com.teachers2parents.teachers2parents',
+    title: 'Teachers2Parents',
+    summary:
+     'Keeping parents & guardians updated with important updates from schools.',
+    developer: 'Teachers2Parents',
+    developerId: 'Teachers2Parents',
+    icon:
+     '//lh3.googleusercontent.com/6Jlgdsq1NHyEcTsdfB3m30MVqXdydoaXotobAv6Bb0-goPrCyjEoCIg72cryRNKv4A=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rbs.mobile.android.natwest',
+    appId: 'com.rbs.mobile.android.natwest',
+    title: 'NatWest Mobile Banking',
+    summary:
+     'Best Banking App 2017 & 2018, get the NatWest app and see what the buzz is about',
+    developer: 'The Royal Bank of Scotland PLC',
+    developerId: 'The+Royal+Bank+of+Scotland+PLC',
+    icon:
+     '//lh3.googleusercontent.com/qSEKoBR98OwFvr5Dos-yGo7GObcV-WWLRvhje_dV0rfabAKz-h_WnFSb2pjMWCd4IA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.poqstudio.app.platform.boohoo',
+    appId: 'com.poqstudio.app.platform.boohoo',
+    title: 'boohoo.com',
+    summary: 'Online fashion shopping app',
+    developer: 'boohoo.com',
+    developerId: 'boohoo.com',
+    icon:
+     '//lh3.googleusercontent.com/pxsrdkz7JcPVR-EplDu88-JTZn1d2jEzQy_b2GLr60GyzL1DJMsgywKbzn3Kj6XCsMg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.uk.co.bbc.cbeebiesstorytime',
+    appId: 'air.uk.co.bbc.cbeebiesstorytime',
+    title: 'BBC CBeebies Storytime',
+    summary:
+     'Enjoy free CBeebies story books at your fingertips, with the Storytime App!',
+    developer: 'Media Applications Technologies for the BBC',
+    developerId: 'Media+Applications+Technologies+for+the+BBC',
+    icon:
+     '//lh3.googleusercontent.com/DHtK1Twh1QPn91fNCXakrfLPTrsIxKwQssZF36issqD20Tmfe-lnOkTWJgYagHBYy7_B=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.innovise.timegate.employee',
+    appId: 'com.innovise.timegate.employee',
+    title: 'Timegate Employee',
+    summary:
+     'Book on/off Timegate, make ‘check’ calls and access self service areas.',
+    developer: 'Innovise',
+    developerId: 'Innovise',
+    icon:
+     '//lh3.googleusercontent.com/OJOp_5DHFMjjpScn07r59ahLTGgdPlhhUXRyIjdkY4mZRnwZMwd5Mwv0teH0M6hjnnHk=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

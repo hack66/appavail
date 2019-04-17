@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify',
+    appId: 'com.vpn.free.hotspot.secure.vpnify',
+    title: 'Free VPN unlimited secure hotspot proxy by vpnify',
+    summary:
+     'vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on Android.',
+    developer: 'VPNIFY',
+    developerId: 'VPNIFY',
+    icon:
+     '//lh3.googleusercontent.com/ZNi9FAJWt3lue_xDi4jLMrux6mDoG3fjcXcmmrPihTbM6-bJhxnfGghs6r_y8WNVmvk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rocket.tools.clean.antivirus.master',
+    appId: 'com.rocket.tools.clean.antivirus.master',
+    title: 'Antivirus Free 2019 - Scan & Remove Virus, Cleaner',
+    summary:
+     'Mobile Security with Antivirus, Virus cleaner, Phone cleaner, AppLock.',
+    developer: 'Hyper Speed',
+    developerId: '7702189469562675193',
+    icon:
+     '//lh3.googleusercontent.com/DtoMiG4PsV_O6uYz9EHPU4fUnB86lWLLYIxDQ7FuuGTE50vHSI9WaHCrJVb_sdNF42U=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.arcsys.tictactoe',
+    appId: 'com.arcsys.tictactoe',
+    title: 'Tic Tac Toe Glow',
+    summary: 'Play Tic Tac Toe Free!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/7k1wSfnstoNib_lmlfIfFTcHOE4oypb-mmuzvhPLpfFRz55CnNJFagyd6u6G4fFrlDI=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.vector',
+    appId: 'com.nekki.vector',
+    title: 'Vector',
+    summary:
+     'The best parkour-inspired action game! Vector lets you break free and run!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.ggpht.com/xmS71FxyVML5KIdYCZXd8R5eSbEQFiLsUEq-qe9CLPm7Sy-CdCOYcXkPgdVPT3_ZQWI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smule.singandroid',
+    appId: 'com.smule.singandroid',
+    title: 'Smule - The #1 Singing App',
+    summary:
+     'Enjoy karaoke on your phone. Sing karaoke with top artists & friends!',
+    developer: 'Smule',
+    developerId: 'Smule',
+    icon:
+     '//lh3.googleusercontent.com/wXgP-TP1RMD2g3Eyv725lmwDlv-qo6gd4TadAR-u4COAODUJi4uNTM2EnqwPflLdNg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gta.real.gangster.crime',
+    appId: 'com.gta.real.gangster.crime',
+    title: 'Real Gangster Crime',
+    summary: 'Experience the sweet thug life!',
+    developer: 'Naxeex Studio',
+    developerId: '7153203368724111677',
+    icon:
+     '//lh3.googleusercontent.com/FdCmTi2Yb9ynpn7SJeZSeZIeE6cbm70-drnUgaY0uuiHtAnUSxXSFyq_e_nsIHTAXk5X=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in.troiddns',
+    appId: 'com.in.troiddns',
+    title: 'VPN Over DNS  Tunnel : SlowDNS',
+    summary: 'VPN over DNS.Tunnel for Android',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/06UZ8OZI5NxtBrdWrEeqpEYKeQyH9Qa1Gmv6vIeyVHZ3jJUGBlMGgHQH3wTVlviGTiRb=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.videolan.vlc',
+    appId: 'org.videolan.vlc',
+    title: 'VLC for Android',
+    summary:
+     'VLC for Android is the best open source video and music player, fast and easy!',
+    developer: 'Videolabs',
+    developerId: '6364851808230428105',
+    icon:
+     '//lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vladlee.easyblacklist',
+    appId: 'com.vladlee.easyblacklist',
+    title: 'Calls Blacklist - Call Blocker',
+    summary:
+     'Call Blocker with Blacklist, SMS Blocker, Whitelist & Schedule',
+    developer: 'Vlad Lee',
+    developerId: 'Vlad+Lee',
+    icon:
+     '//lh3.googleusercontent.com/XQFnzv8UEIBVAoeKPMiOHHTOmF5UCFoTFDNPvmxkA2KaycNh6r_Gzw4go7hGxGqZmLQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appstar.callrecorder',
+    appId: 'com.appstar.callrecorder',
+    title: 'Automatic Call Recorder',
+    summary: 'The best way to record your phone calls.',
+    developer: 'Appliqato',
+    developerId: 'Appliqato',
+    icon:
+     '//lh3.googleusercontent.com/5FDNvkkhDmUrJ2WprLpDU8lgsd1AvfDrghk_1QIi7K9P0U0tRDE3Gu02QU1YI_4zINPu=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.loudtalks',
+    appId: 'com.loudtalks',
+    title: 'Zello PTT Walkie Talkie',
+    summary:
+     'Fast and simple walkie talkie app with Android Wear support',
+    developer: 'Zello Inc',
+    developerId: 'Zello+Inc',
+    icon:
+     '//lh3.googleusercontent.com/YZ3l5aj-SY-dTBsMScZ4nNBuSCY1SG_oMYZkZ87emzHH-J_ptd7yHWzGVBmkOBnPD-M=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=explore.web.browser',
+    appId: 'explore.web.browser',
+    title: 'Web Browser for Android',
+    summary: 'Fast and easy to use Web Browser.',
+    developer: 'mttcross',
+    developerId: 'mttcross',
+    icon:
+     '//lh3.ggpht.com/9Ya0z5Xmi688EkhjW9D8XUoqKWDoY-zIxwe6R7Zw70pvHiS_vvWWQ5dHmPuu_iVGP6cW=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.tts',
+    appId: 'com.google.android.tts',
+    title: 'Google Text-to-Speech',
+    summary: 'Let your device do the talking',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.ggpht.com/yrkQ_bDsgS0eFnJRsqxzPDdRNNHE9-dK1eZYNoN3ryDl9V9foQwZgZaTZwiYUfv2jnGI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    appId:
+     'com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    title: 'Oxford Dictionary of English : Free',
+    summary:
+     'The most complete and accurate dictionary of English with 350,000 words now FREE',
+    developer: 'MobiSystems',
+    developerId: '4895393381068725503',
+    icon:
+     '//lh3.googleusercontent.com/Cu0--f70XV3OPaz1s7B8IIQ4jFN4ukydKrJtrhxMuFFF1RKLDizzehjyKmCv_o2GojM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DVloper.HouseOfSlendrinaFree',
+    appId: 'com.DVloper.HouseOfSlendrinaFree',
+    title: 'House of Slendrina (Free)',
+    summary: 'Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/8rQo90N_pneUOstddgsWufodEvSuuNHoQC0GZNZZK-Hx_qlDrsZi42dp3iP1Hwil2WU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sirma.mobile.bible.android',
+    appId: 'com.sirma.mobile.bible.android',
+    title: 'YouVersion Bible App + Audio, Daily Verse, Ad Free',
+    summary:
+     'Free Bible versions, audio bibles, daily verses, and devotionals!',
+    developer: 'Life.Church',
+    developerId: 'Life.Church',
+    icon:
+     '//lh6.ggpht.com/74y0CQPge97891bmx15T17-tWp8oW3V9ij7n2C0fP5Jysrr2deeERBXoQbVqvC0z7kA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bsp.mbapp',
+    appId: 'com.bsp.mbapp',
+    title: 'BSP Mobile Banking',
+    summary: 'BSP Mobile Banking',
+    developer: 'Bank of South Pacific Limited',
+    developerId: 'Bank+of+South+Pacific+Limited',
+    icon:
+     '//lh3.googleusercontent.com/m6G9Fm4cc-7VAyQlqnQrt7y0GzNK8E96YLmCn7OKqk72o8zRDCNZ4gnIDMQjg-wcABEE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medawaresolutions.mvivapro',
+    appId: 'com.medawaresolutions.mvivapro',
+    title: 'mViva For Providers',
+    summary:
+     'mViva® For Providers mHealth, teleHealth Platform by MedAware Solutions',
+    developer: 'MedAware Solutions, Inc.',
+    developerId: 'MedAware+Solutions,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Zasj0d5_NSRjtTG5Js2Pu_LuDbOgDYuEIeRwQmfB8zm1hpI-lYKzaZFTz7RrcH-8gg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.canal.android.afrique.canal',
+    appId: 'com.canal.android.afrique.canal',
+    title: 'myCANAL Afrique, par CANAL+',
+    summary: 'Streaming, movies, series, TV shows CANAL + live / replay',
+    developer: 'GROUPE CANAL+',
+    developerId: '8506791875489011833',
+    icon:
+     '//lh5.ggpht.com/5nqxBYNkKSJ7DubuifZ2fmzYWX2n9mOVYHuw8OkXaaBQCkyxpaqCdmkj5OhvJCnEvr8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.teambestappstore.absworkoutfitness30days',
+    appId: 'com.teambestappstore.absworkoutfitness30days',
+    title: '30 Days Abs Workout Fitness',
+    summary: 'Effective abdominal workout, lower ab exercises',
+    developer: 'teambestappstore',
+    developerId: 'teambestappstore',
+    icon:
+     '//lh3.googleusercontent.com/LgB1xbspQufWR1SYN7oOFYHHj6q_vmIMh01lQf61aOdmU5K41_HxYvAB-GkTj7zYB6V1=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.rdr2app',
+    appId: 'com.rockstargames.rdr2app',
+    title: 'RDR2: Companion',
+    summary: 'The official companion app for Red Dead Redemption 2',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/GIqgehgXZ57R7Yz3enoaIzIp8IrXA42ymlHTPQ9EoYi_D0mGO26k6F-_7E7HjRlFmLk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.modernenglishstudio.HowToSpeak',
+    appId: 'com.modernenglishstudio.HowToSpeak',
+    title: 'How to Speak Real English',
+    summary:
+     'You will not find any better English Application than this anywhere.',
+    developer: 'DS&T_Modern English Studio',
+    developerId: 'DS%26T_Modern+English+Studio',
+    icon:
+     '//lh5.ggpht.com/cQvFpBRWzMI1qHvhVYJKFbgKTUaqrey4Z783JaAPoAWiyfEe_jwDVIPqrO97FmbEnsZ1=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=book.of.enoch.biblical.apocrypha',
+    appId: 'book.of.enoch.biblical.apocrypha',
+    title: 'Book of Enoch',
+    summary:
+     'Book of Enoch is one of the most important non-canonical apocryphal works',
+    developer: 'Daily Bible Apps',
+    developerId: 'Daily+Bible+Apps',
+    icon:
+     '//lh3.googleusercontent.com/GxRw1eFe1eQ9X5UfWjeUzQlcr6o78dLxRtcg_OURPbmy88mmypZKKspOEUqb7WTmDTM=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

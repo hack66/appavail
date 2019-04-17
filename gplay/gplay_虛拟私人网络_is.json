@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sonymobile.sketch',
+    appId: 'com.sonymobile.sketch',
+    title: 'Sketch - Draw & Paint',
+    summary:
+     'Draw, paint, edit photos and have fun with stickers in our creative app.',
+    developer: 'Sony Mobile Communications',
+    developerId: '4851747018805076305',
+    icon:
+     '//lh3.googleusercontent.com/sFUmSLtyuwKYT2-XVhzs9C4deTpLI0nee1us6x3s0vsZ0EKwxM8Tsclc4vOEWUjFM5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hideme.android.vpn',
+    appId: 'hideme.android.vpn',
+    title: 'hide.me VPN',
+    summary:
+     'World’s fastest VPN used by more than 10 million users, Use It For Free',
+    developer: 'eVenture',
+    developerId: 'eVenture',
+    icon:
+     '//lh3.googleusercontent.com/nAWV1Dzlo3vfp9bp5Q5PMFO3mTpjyAUpoEtiBrkxsFcMinpyjgRjuSKxqFqkniyGRw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eagleheart.ferrari',
+    appId: 'com.eagleheart.ferrari',
+    title: 'VPN Ferrari(Free unblock proxy)',
+    summary: 'FerrariVPN is a completely free VPN',
+    developer: 'Dream Man',
+    developerId: 'Dream+Man',
+    icon:
+     '//lh3.googleusercontent.com/NkrPLOhfQkAfxNSQV7jwLvaWxd7hkH6iJGzzSk-8TW7BDeifN8MJ8WdA_3U0ciPRpFaN=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.getkeepsafe.vpn',
+    appId: 'com.getkeepsafe.vpn',
+    title: 'Keepsafe VPN – Stay Safe on WiFi, Hotspot Networks',
+    summary:
+     'Fast, Reliable and Safe VPN: Protect Online Privacy on WiFi Hotspot Connections',
+    developer: 'Keepsafe',
+    developerId: '7409182767575593474',
+    icon:
+     '//lh3.googleusercontent.com/GLMzzaaTSS-DRZswC8BcwYR50jWs5-JVXh3kMSjUJ9eWtaPl-KuCWIy6qFipcohUK28=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shazam.android',
+    appId: 'com.shazam.android',
+    title: 'Shazam',
+    summary: 'GIVE AN ANSWER TO: “WHAT’S THAT SONG?"',
+    developer: 'Apple, Inc.',
+    developerId: 'Apple,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.adm',
+    appId: 'com.google.android.apps.adm',
+    title: 'Google Find My Device',
+    summary: 'Find, ring, lock, and erase any lost Android device',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/fVmZ9K4XZ5TnpRWVgLKHMUWlFHzfQ5puOo6ZHKk382yjBp94rHs88cNyt7e7KnqWJEaf=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=launcher.walpapers.cool',
+    appId: 'launcher.walpapers.cool',
+    title: 'Melon VPN - Unlimited Free & Fast Security Proxy',
+    summary: 'The best VPN secure Pro.',
+    developer: 'Vego APP 3d',
+    developerId: 'Vego+APP+3d',
+    icon:
+     '//lh3.googleusercontent.com/uPt92KrWgbaDgMBbSpoYFsHullsljsByceepI4GoLC0jDP0VrchE5IvehB8zZHcj=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium',
+    appId: 'com.melodis.midomiMusicIdentifier.freemium',
+    title: 'SoundHound - Music Discovery & Hands-Free Player',
+    summary:
+     'Music discovery, identification, & voice-controlled player with 300M+ downloads!',
+    developer: 'SoundHound Inc.',
+    developerId: 'SoundHound+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/iJlHsgeSuIVV8IdgnH5bPKnDouWjLc00Sh6UD8eSz5jD7kV011OHx-k1M3W9FnKfaoM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note',
+    appId: 'com.socialnmobile.dictapps.notepad.color.note',
+    title: 'ColorNote Notepad Notes',
+    summary:
+     'ColorNote® - Easy to use notepad for notes, shopping list, to-do list, calendar',
+    developer: 'Notes',
+    developerId: 'Notes',
+    icon:
+     '//lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.calculator',
+    appId: 'com.asus.calculator',
+    title: 'Calculator - unit converter',
+    summary:
+     'Your most simple, handy, and stylish calculator with unit converter!',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/IpyRT5IkZEGzexL0DkKFSrzyKaL6HUoBm_IbnUXqEeki3xAjO3F3UaYURVFiFkH4bsfu=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.trello',
+    appId: 'com.trello',
+    title: 'Trello — Organize anything with anyone, anywhere!',
+    summary: 'Organize anything with anyone — for free!',
+    developer: 'Trello, Inc.',
+    developerId: 'Trello,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/8ZCk4da2sf4rjbHTnELPvgiK_sjshh8OEQuZVOgEvtYm8orwJeNmReKjo4PC0Wr4nmE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.metanetworks.agent',
+    appId: 'com.metanetworks.agent',
+    title: 'Meta Networks Agent',
+    summary:
+     'Meta Networks agent provide connectivity to the Meta Networks-as-a-Service.',
+    developer: 'Meta Networks',
+    developerId: 'Meta+Networks',
+    icon:
+     '//lh3.googleusercontent.com/5i7KEaYsck7TSewStBDUgIqeEQhe_1bHtsQBz1T0r8l-unBJoBsSFXH3ejgWC4gIfb0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.android.easyMover',
+    appId: 'com.sec.android.easyMover',
+    title: 'Samsung Smart Switch Mobile',
+    summary:
+     'Galaxy S7/S8/Note8/S9/Note9 : Smart Switch(Content transfer Tool) is preloaded.',
+    developer: 'Samsung Electronics Co.,  Ltd.',
+    developerId: '5200379633052405703',
+    icon:
+     '//lh3.googleusercontent.com/KlHY0O3groJhp-QsW4CBfxZuabFkfGOhjIjrlQw-b28Z6KXmYn3QSFbrtgZsJz4HYw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest',
+    appId: 'org.zwanoo.android.speedtest',
+    title: 'Speedtest by Ookla',
+    summary:
+     'From the makers of Speedtest.net. Take free and accurate speed tests anywhere!',
+    developer: 'Ookla',
+    developerId: 'Ookla',
+    icon:
+     '//lh3.googleusercontent.com/19anvk_uIJld32kBp6nNLpKu_IMzK7h2fXA1jFd4EX4RdNwiiepsU73OhEQS4jbsPptQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.filemanager',
+    appId: 'com.asus.filemanager',
+    title: 'File Manager',
+    summary:
+     'Your managing tool for files in the local, microSD, LAN, or Cloud storage',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/lRUKBMe6NXaKbXifj6lL3IFml1gqgY8etG2ylMC5OoVVHllgAh-_NXVca182gvoXN4U=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

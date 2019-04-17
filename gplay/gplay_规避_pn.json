@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mstfbs.yesiluzayli',
+    appId: 'com.mstfbs.yesiluzayli',
+    title: 'The green alien dance',
+    summary: 'Dame Tu Cosita ( green alien dance)',
+    developer: 'green alien',
+    developerId: 'green+alien',
+    icon:
+     '//lh3.googleusercontent.com/mOleDCGMP6EhbDEk8dY3bgkkVfTavdVgWj9ZIhooPkOi7_jJ0WwYhi5LRusY6zml2jc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinatheschool',
+    appId: 'com.dvloper.slendrinatheschool',
+    title: 'Slendrina: The School',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/rW8zEbLgDR5UTlUXiSvYNGjRDcvTlKIXZvYf4XoP2jLboFNw7kImRxMLLmgGaBbGqhhW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DVloper.HouseOfSlendrinaFree',
+    appId: 'com.DVloper.HouseOfSlendrinaFree',
+    title: 'House of Slendrina (Free)',
+    summary: 'Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/8rQo90N_pneUOstddgsWufodEvSuuNHoQC0GZNZZK-Hx_qlDrsZi42dp3iP1Hwil2WU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank',
+    appId: 'com.outfit7.mytalkinghank',
+    title: 'My Talking Hank',
+    summary:
+     'From Talking Tom and Friends - adopt Talking Hank, the cutest puppy out there!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/kO0rs2O46ylyG4dbbJtYK4DQr6UMiWh0AAS5Us2JRZxelpTbRPogLqRtL4_gEACFadk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.thechildofslendrina',
+    appId: 'com.dvloper.thechildofslendrina',
+    title: 'The Child Of Slendrina',
+    summary: 'Another scary game in the Slendrina series.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/2PNVNArQmTKRIR3YN3ulU4PQEgfJvn-dqWEDVTSP6aHwn9u0kucQkjAxa3aiV5fRxHM=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.piano3d.piano.pianokeyboard',
+    appId: 'com.piano3d.piano.pianokeyboard',
+    title: '3D Piano Keyboard',
+    summary:
+     '3D Piano Keyboard HD is the app Play  the real thing on the 3D graphics platform',
+    developer: 'Instrument Studio',
+    developerId: '4917719952318286290',
+    icon:
+     '//lh3.googleusercontent.com/JMWBwlhXbfIvBUqX8WLXUgGsfmC-xDZhITFbfWLGS_RVYsl_ldE0i41cSJ6DtGXYZhtx=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tpvapps.simpledrumsrock',
+    appId: 'com.tpvapps.simpledrumsrock',
+    title: 'Simple Drums Rock - Realistic Drum Set',
+    summary:
+     'Realistic, fun, and easy to use Drum app for Android drummers!',
+    developer: 'TPVapps',
+    developerId: '6439584985733600562',
+    icon:
+     '//lh3.googleusercontent.com/LzptDAkQ5kn6L_XnXI1pUbp2LTR1JD_XDfX9WBqjERZxXBZ5MbfIyXa063ts8bJsf5g=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=google.free.supermodel.peachygamesllc',
+    appId: 'google.free.supermodel.peachygamesllc',
+    title: 'Top Model - Dress Up and Makeup',
+    summary:
+     'Give a makeover to supermodels and dress them for the fashion show!',
+    developer: 'Peachy Games',
+    developerId: 'Peachy+Games',
+    icon:
+     '//lh3.googleusercontent.com/JrUprHHb7wyGwJ2GxMk6INBXR5RPm2B7JgbKX8wA_uvEDugGdA_eGAoK-VUEqcJhQI0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingpierrefree',
+    appId: 'com.outfit7.talkingpierrefree',
+    title: 'Talking Pierre the Parrot',
+    summary:
+     'Talking Pierre is in the house! Are you ready for some amazing guitar shredding?',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/C6rwNuaWrGNRG-hAVeT9dZwQ5RcihpW-p1rABrO-3ocSjVyP_AAhsF6jCV50PwUxvg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wb.goog.sdmc',
+    appId: 'com.wb.goog.sdmc',
+    title: 'Scooby-Doo Mystery Cases',
+    summary:
+     'Help Scooby and the gang solve mysteries, then watch videos and read comics!',
+    developer: 'Warner Bros. International Enterprises',
+    developerId: 'Warner+Bros.+International+Enterprises',
+    icon:
+     '//lh3.googleusercontent.com/jQaPwuneOCr7fhDggCCvCLPbEhsyob-HLNR7nOY8ldRV3TFrxu6ac53mNBzHPPql3wch=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kidgamestudio.keepyourhouseclean',
+    appId: 'com.kidgamestudio.keepyourhouseclean',
+    title: 'Keep Your House Clean - Girls Home Cleanup Game',
+    summary: 'Never mess with your dream home & take well care about it.',
+    developer: 'Kid Game Studio',
+    developerId: 'Kid+Game+Studio',
+    icon:
+     '//lh3.googleusercontent.com/YzK70Ta8VAu0dXZi2qXnTz9JJhh0AH0TEP5iWU4nEoAIrjai4_huPbQuh1oOOmHTZJ8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.net.chicworld.babysitteradaywithtriplets',
+    appId: 'air.net.chicworld.babysitteradaywithtriplets',
+    title: 'Babysitter a Day with Triplets',
+    summary:
+     'Verify if you are made to babysit tree babies at one time in this caring game.',
+    developer: 'Chic World',
+    developerId: 'Chic+World',
+    icon:
+     '//lh3.googleusercontent.com/Wskl6eO1wHH7nxmXfAmrpbJTd2gtm6CS6yvZoVBNRul3hjV4lkrCTpfH43MKY5g33Us=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kauf.talking.baum.TalkingJohnDogandSoundboard',
+    appId: 'com.kauf.talking.baum.TalkingJohnDogandSoundboard',
+    title: 'Talking John Dog: Funny Dog',
+    summary:
+     'Meet John the amazing Talking Dog! Play with him and his cool dog games.',
+    developer: 'Kaufcom Games Apps Widgets',
+    developerId: 'Kaufcom+Games+Apps+Widgets',
+    icon:
+     '//lh3.googleusercontent.com/1qX81XVMQRXtoZUHhYFOSXCCCJzBAU0m7h8x_ZH3GN7R8UDKhq2BdKT1s462o1xwbzo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lk.cashwagon.mobile.android',
+    appId: 'lk.cashwagon.mobile.android',
+    title: 'Cashwagon – Fast Cash Loans Online',
+    summary:
+     'Instant Online CASH Loan, FREE for NEW clients, FAST – receive YOUR cash today!',
+    developer: 'Cashwagon (Private) Limited',
+    developerId: '6415623971657120891',
+    icon:
+     '//lh3.googleusercontent.com/GeyEgaa1xDVgE0QXpb3kcueXy4XNan7_cG9mB-6qORT8XwFGHegelHMOJlewIO8LxiiL=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nisargjhaveri.netspeed',
+    appId: 'com.nisargjhaveri.netspeed',
+    title: 'NetSpeed Indicator: Internet Speed Meter',
+    summary:
+     'Shows network speed in the status bar to easily monitor your internet connection',
+    developer: 'Nisarg Jhaveri',
+    developerId: 'Nisarg+Jhaveri',
+    icon:
+     '//lh3.googleusercontent.com/9KePOkP9f8yEBjHgkdFp8bjUbOeACj9xDgl3l8GGNs4D_MdVHNJPLyBrAdCuEkOe8fE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lk.etisalat.cloud.fwd.smpl',
+    appId: 'lk.etisalat.cloud.fwd.smpl',
+    title: 'cliQ',
+    summary:
+     'Use CLIQ and Enjoy Unlimited Internet on your 3G or 4G Smartphone',
+    developer: 'Etisalat Lanka',
+    developerId: 'Etisalat+Lanka',
+    icon:
+     '//lh3.googleusercontent.com/2iLMAZU-Oe37gSrhAD_Pii-7E7HkURX8E2Tk55nSlpG-zXeJJnReS0bYtKIYX6gjffDX=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite',
+    appId: 'com.internet.speed.meter.lite',
+    title: 'Internet Speed Meter Lite',
+    summary:
+     'A simple and convenient tool to keep track of your Internet Speed and Data Usage',
+    developer: 'DynamicApps',
+    developerId: 'DynamicApps',
+    icon:
+     '//lh3.ggpht.com/Tlwdc9yeq7ru5AI9YOF_RHIFZO-a0ww6NA04c6FxXxHWFAKS8j_WwAukHJLUi1CIYZE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity',
+    appId: 'com.avast.android.mobilesecurity',
+    title: 'Avast Antivirus – Mobile Security & Virus Cleaner',
+    summary:
+     'Avast is a leading cybersecurity company with over 400 million users worldwide',
+    developer: 'Avast Software',
+    developerId: '5078220335056375043',
+    icon:
+     '//lh3.googleusercontent.com/jE6cgK6Riq00ZGnDdT8sy_s6TSWm8MV_FqjWJsYOOghaIfPO9ou8LOkPvAwvcl9ZC48=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mcu.iVMSHD',
+    appId: 'com.mcu.iVMSHD',
+    title: 'iVMS-4500 HD',
+    summary: 'iVMS-4500 HD is a video surveillance software',
+    developer: 'HIKVISION HQ',
+    developerId: 'HIKVISION+HQ',
+    icon:
+     '//lh3.googleusercontent.com/QC1LPbtB8CXuGljhOwUn639lmbWZBgNeJSJbJk5siA8spFtytgLMIycZiE0v2Z2TGA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ehawk.speedtest.netmaster',
+    appId: 'com.ehawk.speedtest.netmaster',
+    title: 'Net Master - Free VPN & Speed Test , WiFi Boost',
+    summary:
+     'TOP network analyzer tool with Internet VPN Speed Test, WiFi Analyzer,and Boost',
+    developer: 'Hi Security',
+    developerId: '9033708848358036191',
+    icon:
+     '//lh3.googleusercontent.com/uIECHr7GVd4KhdaIvhwIW3yYXNz0b1lEvngz94D_vT-Ys30D9QBBwB4Kew7NVVZOrck=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.j4velin.wifiAutoOff',
+    appId: 'de.j4velin.wifiAutoOff',
+    title: 'WiFi Automatic',
+    summary: 'Automatically turn WiFi on and off to save battery',
+    developer: 'j4velin',
+    developerId: '6602470455848506235',
+    icon:
+     '//lh6.ggpht.com/DPdO0Zc2ixNIRrO6abSoc1TE7mu7NUjNdsSWCgecrN2iJs4ylYZ4cFO52T5RBzOLg30=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.speedspot.speedanalytics',
+    appId: 'org.speedspot.speedanalytics',
+    title: 'SPEEDCHECK - Speed Test',
+    summary:
+     'Internet Speed Test & WiFi Analyzer. Test and meter your net and WiFi speed.',
+    developer: 'Internet Speed, Etrality',
+    developerId: '5641203057156022873',
+    icon:
+     '//lh3.googleusercontent.com/vl75NkpkiMsmSkvNJXydbBUELPxUP4BJINXvKHxN3vpvEs0a9oKSXGcNc3bwASZxuQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chandima.lklottery',
+    appId: 'com.chandima.lklottery',
+    title: 'ලොතරැයි ප්‍රතිඵල‧லாட்டரி முடிவுகள்‧Lottery Results',
+    summary:
+     'සියලු ලොතරැයි ප්‍රතිඵල ‧ அனைத்து லாட்டரி முடிவுகள் ‧ Lottery Results Sri Lanka',
+    developer: 'LK Lottery',
+    developerId: 'LK+Lottery',
+    icon:
+     'https://lh3.ggpht.com/zjdpi5mNLgRn9SxM319OX9Kk5_dvr9f5SSVisyaBlaJRyZWKRLf91UYInxoqlfuxags=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobidia.android.mdm',
+    appId: 'com.mobidia.android.mdm',
+    title: 'My Data Manager - Data Usage',
+    summary:
+     'Take control of your mobile data - save money & use your plans more effectively.',
+    developer: 'Mobidia Technology',
+    developerId: 'Mobidia+Technology',
+    icon:
+     '//lh3.googleusercontent.com/lCRCMakLJcQ93bFXVp2aTFsPG_DfWuxVaEqg0rQUupCLyOdLBQWiO5na02bK_yece_s=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.freighter',
+    appId: 'com.google.android.apps.freighter',
+    title: 'Datally: data saving app by Google',
+    summary: 'Save, manage, and share your mobile data.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/6Af4NEHnMju19IqxTpw-W3XdbBUFnN__7pzko-lLvh4JiNSZmDSo7NsmWlrT12WPPg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.techdev.internetdatausage',
+    appId: 'com.techdev.internetdatausage',
+    title: 'Internet Data Usage',
+    summary:
+     'Displays data usage for apps, sim1, sim2, WiFi, background and foreground usage.',
+    developer: 'TecDroid Developer',
+    developerId: 'TecDroid+Developer',
+    icon:
+     '//lh3.googleusercontent.com/qN_pneCNH48VzEkllZjZOPadZQ3dKa2W7BDV5AcktZ9BrqkBrtMPsA8eYD6YotyWp3I=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpnbottle.melon.free.unblock.fast.vpn',
+    appId: 'com.vpnbottle.melon.free.unblock.fast.vpn',
+    title: 'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN',
+    summary:
+     'Melon VPN - Unlimited Unblock Free Wifi Proxy VPN. Provide more than 100 servers',
+    developer: 'Giga Studio',
+    developerId: 'Giga+Studio',
+    icon:
+     '//lh3.googleusercontent.com/uRl-RZBB_UIV4BV_8OE7tki_CF7tPtsSKcTi7xFes2cRdzf-aIF-1PkbGmala2GThA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creative.infotech.internetspeedmeter',
+    appId: 'com.creative.infotech.internetspeedmeter',
+    title: 'Internet Speed Meter Live',
+    summary:
+     'Live Internet Speed  Dow. And Up. Speed In Screen Lock And Notification Bar',
+    developer: 'Creative Infotech',
+    developerId: '8528911163188240129',
+    icon:
+     '//lh3.googleusercontent.com/BuII53J4BnCvjs40_XumxlTesb4YfQYPCFo7juk3oDML0IVAT54k_fiO7ifWn2EaSd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=internet.speed.test',
+    appId: 'internet.speed.test',
+    title: 'Internet Speed Test Original - wifi & 4g meter',
+    summary:
+     'Test internet speed of any network and check data usage with this Speed Test app',
+    developer: 'MushTrip',
+    developerId: 'MushTrip',
+    icon:
+     '//lh3.googleusercontent.com/TwdmrLDQmppeBUO7rHwIY9yonQ_e1hJNTOMW-8dwlBBzSIknTXpglVfPX2vahGtbZQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=meteor.test.and.grade.internet.connection.speed',
+    appId: 'meteor.test.and.grade.internet.connection.speed',
+    title: 'Meteor: Free Internet Speed & App Performance Test',
+    summary:
+     'Internet connection quality test for app performance: Instagram, Netflix & more',
+    developer: 'OpenSignal.com',
+    developerId: '7133415022327536166',
+    icon:
+     '//lh3.googleusercontent.com/urqBcBgb7bWjlgOlAHBlXqpBebiblQX39YVaOmluD7WpdAYPuZjQH1iiFw2SgfivkjqM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

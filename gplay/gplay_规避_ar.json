@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.quinny898.game.geoguess',
+    appId: 'uk.co.quinny898.game.geoguess',
+    title: 'GeoGuess: Random Location Game',
+    summary:
+     'GeoGuess - Location guessing! You\'re at a random street view point, but where?',
+    developer: 'KieronQuinn',
+    developerId: '5423209508193504088',
+    icon:
+     '//lh3.googleusercontent.com/YaL3hCW_fQl6ZQdG-CW1BDFXG2dIyqzkgqZ5Totb_O57N1vlKWXtOLUNImebakQsQiww=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingben',
+    appId: 'com.outfit7.talkingben',
+    title: 'Talking Ben the Dog',
+    summary: 'Meet Talking Tom\'s best "friend" Ben!',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/Wyi6eNB8a5wnslNsf7zW4DZOm90zsO2jZJvBfXRTcXkB4R-GQ0OKciaKT6agCijywA6T=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy',
+    appId: 'com.playgendary.kickthebuddy',
+    title: 'Kick the Buddy',
+    summary:
+     'Relief stress with Kick the Buddy! Limitless arsenal to beat at your disposal!',
+    developer: 'Playgendary',
+    developerId: '7486814720100409246',
+    icon:
+     '//lh3.googleusercontent.com/H_Te1sCRc5fwgpKDvcI-crLI3GoT48zOc_iDN4H9wEsI5vLuzJN33BegsU9rJHbLVOM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.police.mafia.crime.vice',
+    appId: 'com.police.mafia.crime.vice',
+    title: 'Miami Police Crime Vice Simulator',
+    summary: 'Miami Police Crime Vice Simulator, Fight for your life!',
+    developer: 'Wallace Lieakote',
+    developerId: 'Wallace+Lieakote',
+    icon:
+     '//lh3.googleusercontent.com/oEALTpigWQ-ae64ngzfRZyHklzJIJ2H83hNBZgq2VD6vq9QmUOGz88X3IR5JIW3PHNN5=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.axlebolt.standoff2',
+    appId: 'com.axlebolt.standoff2',
+    title: 'Standoff 2',
+    summary:
+     'The legendary "Standoff" is back in the form of a dynamic first-person shooter!',
+    developer: 'Axlebolt',
+    developerId: 'Axlebolt',
+    icon:
+     '//lh3.googleusercontent.com/R5gBM1X4ZfhRl0iKsymvMnusmdnBW7K8SZ0fI2Hu_Hs_D3f0aTlFkXtHrYoAjL0U2WQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids',
+    appId: 'com.google.android.apps.youtube.kids',
+    title: 'YouTube Kids',
+    summary: 'Best video app for all kids',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/k_HSvNKlleJNrzuL3OqDuXFm3Es8d77UQtiZvPqLg8lera9Xj99GRkDwWaJGMz8nkb1B=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.glaznev.innocent',
+    appId: 'com.glaznev.innocent',
+    title: 'I Am Innocent',
+    summary:
+     'An original detective game about serial killings with puzzle elements.',
+    developer: 'Guts United',
+    developerId: 'Guts+United',
+    icon:
+     '//lh3.googleusercontent.com/0B4KFSDfqNdgy29r6gV3CxY6EoWEzAsJiE-vdiIlKE2kCY5AZpRuNmpbTBve0iOQKo4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.CaringForPuppySalon',
+    appId: 'air.com.CaringForPuppySalon',
+    title: 'Caring for puppy salon',
+    summary:
+     'Take care of your puppy at the salon with this caring game.',
+    developer: 'LPRA STUDIO',
+    developerId: 'LPRA+STUDIO',
+    icon:
+     '//lh3.googleusercontent.com/6sdPmKRa2Yv06ecWFCuY5W-GxeOfcutsRDSaDeLWYAYxYyZQX5HYzLoCt1ADzDU2PA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

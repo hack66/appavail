@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.squareup',
+    appId: 'com.squareup',
+    title: 'Square Point of Sale - POS',
+    summary:
+     'Accept Credit Card Payments with Square\'s Mobile Point of Sale',
+    developer: 'Square, Inc.',
+    developerId: '4878871734928263649',
+    icon:
+     '//lh3.ggpht.com/8s1ii0TiD8TLLgmLEvAhYoDMfGsd4upbck7L7SF1Ja_b-HyfTcaEL3GrnmEm4TQDNx0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa',
+    appId: 'com.usaa.mobile.android.usaa',
+    title: 'USAA Mobile',
+    summary:
+     'Convenient, secure access to USAA insurance, banking, and investment accounts.',
+    developer: 'USAA',
+    developerId: '8585147789153326395',
+    icon:
+     '//lh3.googleusercontent.com/1ngrZVeW3jhjDkbB3-aummQ7C-y8KfiMnqnvMHDqLlfshJ8jsatdZHG_4XCip9i5bL0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr',
+    appId: 'com.yahoo.mobile.client.android.flickr',
+    title: 'Flickr',
+    summary:
+     'Upload, organize, edit, and share your photos from anywhere in the world.',
+    developer: 'Yahoo',
+    developerId: '5536369398281991413',
+    icon:
+     '//lh5.ggpht.com/JNba5eiZjaaS7SxI3uBoEnW9PQtD5paoHest5KO2KW2GDHIaEqaUPvFsuylTNxkeeA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hulu.plus',
+    appId: 'com.hulu.plus',
+    title: 'Hulu: Stream TV, Movies & more',
+    summary:
+     'Hulu: Get exclusive seasons, movies, Originals, and more - now offering Live TV',
+    developer: 'Hulu',
+    developerId: 'Hulu',
+    icon:
+     '//lh3.googleusercontent.com/cu_cP9JE9-SCJzsk8hDOLQuEK9CSq-qTCUYP3g4wH4ojXkIjzd2DjxAjju6PdDwwSFk=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asurion.solutohome.verizon',
+    appId: 'com.asurion.solutohome.verizon',
+    title: 'Tech Coach',
+    summary:
+     'Use Tech Coach to connect to a live technical expert with a single tap.',
+    developer: 'Asurion Mobile Applications, LLC.',
+    developerId: 'Asurion+Mobile+Applications,+LLC.',
+    icon:
+     '//lh3.googleusercontent.com/bapfhXSWmQgbw4c-NYjEZHwdBy_tiwPTTT6rBM0xU5cpcnJfkIw_qFEWwoHjQg9FHw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinger.textfree',
+    appId: 'com.pinger.textfree',
+    title: 'Text Free: Free Text Plus Call',
+    summary:
+     'Text now with a free phone number for free texting, calling and real SMS.',
+    developer: 'Pinger, Inc',
+    developerId: 'Pinger,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/O2mmziwH_9GXHoNIBC3r91e-le1D6HyhKWCA_jH3FMOmCvuaVgxnMkz-ylq7dmcVzA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zillow.android.zillowmap',
+    appId: 'com.zillow.android.zillowmap',
+    title: 'Zillow: Find Houses for Sale & Apartments for Rent',
+    summary:
+     'Buy Homes, Rent Apartments & Sell Real Estate: Open House & Foreclosure Listings',
+    developer: 'Zillow',
+    developerId: '9009299467586107971',
+    icon:
+     '//lh3.googleusercontent.com/OB8xIkDrDEHWGwEow-daLIhyVHaAC4Pt3ZgsroGreUW8jqQb2QK2uvuogO1haZKAlu0=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobilemotion.dubsmash',
+    appId: 'com.mobilemotion.dubsmash',
+    title: 'Dubsmash - Dance Videos & Lip Sync App',
+    summary:
+     'The #1 Dance Video Maker! Create Dubs, Dance Challenge & Lip Sync Videos',
+    developer: 'Dubsmash Inc',
+    developerId: 'Dubsmash+Inc',
+    icon:
+     '//lh3.googleusercontent.com/e6F9nKd8A-y6MUSRtmJoydtKRIWZmQcsqpcq0or9X1u6i3MW6BsME7MAq6G3cbNDRg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.unplugged',
+    appId: 'com.google.android.apps.youtube.unplugged',
+    title: 'YouTube TV - Watch & Record Live TV',
+    summary:
+     'Try it FREE! Watch and DVR live TV from 70+ channels, including sports networks.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/Q8I-ES8iTv1WbITG42AEIZkW872_PyoDxUZg-r77QIXaIEFkr3c87UT4XRqsF9zZFvI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mercariapp.mercari',
+    appId: 'com.mercariapp.mercari',
+    title: 'Mercari: The Selling App',
+    summary: 'The fast and easy way to sell or buy almost anything.',
+    developer: 'Mercari, Inc.',
+    developerId: 'Mercari,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jo4jDXdSM-2JI7z9_q-blbXpe3Z7jBo_KmpzaskiWLuGsjO1cPsBFq5q577b_zp71g=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest',
+    appId: 'org.zwanoo.android.speedtest',
+    title: 'Speedtest by Ookla',
+    summary:
+     'From the makers of Speedtest.net. Take free and accurate speed tests anywhere!',
+    developer: 'Ookla',
+    developerId: 'Ookla',
+    icon:
+     '//lh3.googleusercontent.com/19anvk_uIJld32kBp6nNLpKu_IMzK7h2fXA1jFd4EX4RdNwiiepsU73OhEQS4jbsPptQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.enflick.android.TextNow',
+    appId: 'com.enflick.android.TextNow',
+    title: 'TextNow: Free Texting & Calling App',
+    summary:
+     'Unlimited calling & texting with a free local phone number!',
+    developer: 'TextNow, Inc.',
+    developerId: '8273134989898180729',
+    icon:
+     '//lh3.googleusercontent.com/c-Q-fU23We52lydTGnYwnMJmUqbQQkVwSdmr5TX0UqJHJ1SLhOyNgY63Mqw5ulIiAFrg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs',
+    appId: 'com.google.android.apps.docs.editors.docs',
+    title: 'Google Docs',
+    summary: 'Create and edit documents on the go.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh4.ggpht.com/-wROmWQVYTcjs3G6H0lYkBK2nPGYsY75Ik2IXTmOO2Oo0SMgbDtnF0eqz-BRR1hRQg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pandora.android',
+    appId: 'com.pandora.android',
+    title: 'Pandora - Streaming Music & Podcasts',
+    summary:
+     'Play new music & podcasts for free and personalize your streaming experience!',
+    developer: 'Pandora',
+    developerId: 'Pandora',
+    icon:
+     '//lh3.googleusercontent.com/MoJxQ-5RA73b3Wffj91crqXUb-C5LKRYCADm11KbfykIkmNbicXGDa3g9X62C_buEg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.macys.android',
+    appId: 'com.macys.android',
+    title: 'Macy\'s',
+    summary: 'Shopping with style & rewards!',
+    developer: 'Macy\'s Inc',
+    developerId: 'Macy\'s+Inc',
+    icon:
+     '//lh4.ggpht.com/1Ci897R4dXK4JofIt4kNJ2elvG9dztWPXSWq3AJDeMCTCPZa6iFLpoBnRtJASVD_wE4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.move.realtor',
+    appId: 'com.move.realtor',
+    title: 'Realtor.com Real Estate: Homes for Sale and Rent',
+    summary:
+     'Real Estate & Homes for Sale! Search Real Time MLS Listings & Calculate Mortgage',
+    developer: 'realtor.com®',
+    developerId: '5789636307889897088',
+    icon:
+     '//lh3.googleusercontent.com/jrb0x4JNkkd5Of7sG_qVbbv27rbBIGYay1MU1fLA-40SrowGqdFsYVYYWezQw1nCesw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

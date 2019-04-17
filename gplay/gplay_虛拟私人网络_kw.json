@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.shazam.android',
+    appId: 'com.shazam.android',
+    title: 'Shazam',
+    summary: 'GIVE AN ANSWER TO: “WHAT’S THAT SONG?"',
+    developer: 'Apple, Inc.',
+    developerId: 'Apple,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zainkw.zain',
+    appId: 'com.zainkw.zain',
+    title: 'Zain KW',
+    summary: 'The all new Zain app has been redesigned from scratch',
+    developer: 'Zain Kuwait',
+    developerId: '8097732961321726713',
+    icon:
+     '//lh3.googleusercontent.com/gaF7EjAmh41he9N8uoUBGUoUV7nvCjPPlka-udIVdyUXk4ruCRvyA6FCeXgGY0YjBVZK=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tubemote.app',
+    appId: 'com.tubemote.app',
+    title: 'TubeMote',
+    summary:
+     'Remote control for YouTube, Twitch, Vimeo, Dailymotion, Soundcloud, and more!',
+    developer: 'TubeMote',
+    developerId: 'TubeMote',
+    icon:
+     'https://lh3.ggpht.com/4gjRTtXxMox7WyylcmTRlQl9YLCG2Kbofs-HvR1HpydYlcHbC45-WzIuTMMknOwt4g=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dywx.larkplayer',
+    appId: 'com.dywx.larkplayer',
+    title: 'Lark Player —— YouTube Music & Free MP3 Top Player',
+    summary: 'Free Video, YouTube, and MP3 Music Player',
+    developer: 'Mobiuspace Tech Top Player',
+    developerId: 'Mobiuspace+Tech+Top+Player',
+    icon:
+     '//lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.forsale.forsale',
+    appId: 'com.forsale.forsale',
+    title: '4Sale',
+    summary:
+     '4SaleExternal Download Link : https://www.q84sale.com/4sale.apk',
+    developer: 'Falcon Holding',
+    developerId: 'Falcon+Holding',
+    icon:
+     '//lh3.googleusercontent.com/0PALsOz4ue0O9ZzTWKD3dtumTWlNMXD08G_w3YspuMmSvS24N0iAIdkNwJXrP6xgq5Q=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kw.gov.paci.kuwaitfinderandroid',
+    appId: 'kw.gov.paci.kuwaitfinderandroid',
+    title: 'Kuwait Finder',
+    summary:
+     'Search engine and turn-by-turn traffic aware navigation that covers all Kuwait',
+    developer: 'The Public Authority For Civil Information',
+    developerId: 'The+Public+Authority+For+Civil+Information',
+    icon:
+     '//lh3.googleusercontent.com/8A7zd7t9GYLJE0EngXBipRpAvW4MjcyXO0S5yEvHm0wTOJFWQXeUtoMENiR6dsqAwcwC=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.wataniya',
+    appId: 'com.wataniya',
+    title: 'My Ooredoo Kuwait',
+    summary:
+     'Welcome to My Ooredoo…an app built to make your life more convenient.',
+    developer: 'Ooredoo, Kuwait',
+    developerId: 'Ooredoo,+Kuwait',
+    icon:
+     '//lh3.googleusercontent.com/VFASNSyI4a3VOCmOGqNowyr0ns4RnKg-Vi0aKf7LyXUqKKaXYS3JasJi-Pc9leEvRw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.enflick.android.TextNow',
+    appId: 'com.enflick.android.TextNow',
+    title: 'TextNow: Free Texting & Calling App',
+    summary:
+     'Unlimited calling & texting with a free local phone number!',
+    developer: 'TextNow, Inc.',
+    developerId: '8273134989898180729',
+    icon:
+     '//lh3.googleusercontent.com/c-Q-fU23We52lydTGnYwnMJmUqbQQkVwSdmr5TX0UqJHJ1SLhOyNgY63Mqw5ulIiAFrg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.gm',
+    appId: 'com.google.android.gm',
+    title: 'Gmail',
+    summary: 'Email from Google',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn',
+    appId: 'free.vpn.unblock.proxy.turbovpn',
+    title: 'Turbo VPN- Free Proxy Server & Secure VPN Service',
+    summary:
+     'Best unlimited free VPN to unblock sites, WiFi hotspot security, protect privacy',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/ZKB44hsjrtLFHGnbKhzs14GwObDx1iCgRrTA8miMs8a3vuRRR8HmGrK_jZ52ofnKIYo9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

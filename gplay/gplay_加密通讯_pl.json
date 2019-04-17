@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.onelab.securecomm',
+    appId: 'com.onelab.securecomm',
+    title: 'Letstalk IM',
+    summary: 'Secured Private Communication',
+    developer: 'Letstalk Technology Limited',
+    developerId: 'Letstalk+Technology+Limited',
+    icon:
+     '//lh3.googleusercontent.com/lWDecY_vFcvXNs2HDhAD6oi6c-qLvqb7MbN87mL7epwYo2GfcKSJnPvWLLvRmQOIBTL_=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gulugulu.app',
+    appId: 'com.gulugulu.app',
+    title: 'GULUGULU',
+    summary:
+     'GULUGULU-Unrivalled Vector Encryption Communication Application',
+    developer: 'NEW BLOCK TECHNOLOGY SDN. BHD.',
+    developerId: 'NEW+BLOCK+TECHNOLOGY+SDN.+BHD.',
+    icon:
+     '//lh3.googleusercontent.com/QpEfBl5CjdLpS5-7MHADyjLgANiuzNJBc18UJkNdNYYoitVy62sfTeU0LcskP1HRjpw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.twinlife.device.android.twinme',
+    appId: 'org.twinlife.device.android.twinme',
+    title: 'twinme - private messenger',
+    summary:
+     'Peer-to-peer end-to-end encrypted chat, voice/video calls with no sign-up.',
+    developer: 'twinlife',
+    developerId: 'twinlife',
+    icon:
+     '//lh3.googleusercontent.com/7lbJn7vlQDxvqiTA28Yue_GueRivJsvcvsc3NLQ0V36WxjtlG3H09J4s-ZjOVj1SO2s=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onlyy.kimi',
+    appId: 'com.onlyy.kimi',
+    title: 'Morse Messenger',
+    summary: 'Your secure communication manager',
+    developer: 'morseapp',
+    developerId: 'morseapp',
+    icon:
+     '//lh3.googleusercontent.com/9scaVuVilqr1sxmoKxtONGR1MwwL2-Qz_PTmLp3GtcoUZFhHXBCwureuTErHh9tr7uY=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.thunderdog.challegram',
+    appId: 'org.thunderdog.challegram',
+    title: 'Telegram X',
+    summary:
+     'Instant messaging — simple, fast, secure, and synced across all your devices.',
+    developer: 'Telegram LLC',
+    developerId: 'Telegram+LLC',
+    icon:
+     '//lh3.googleusercontent.com/Zmol9WVk6mjWE38P6wc3Aaz9mQn-VFhviKllLP4kiplfW4xIEjgYmKUalZcFsOOnDQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.messenger',
+    appId: 'org.telegram.messenger',
+    title: 'Telegram',
+    summary:
+     'Telegram is a messaging app with a focus on speed and security.',
+    developer: 'Telegram FZ-LLC',
+    developerId: 'Telegram+FZ-LLC',
+    icon:
+     '//lh3.googleusercontent.com/jVXglyWWL5J2y1vRN-7Jy3_ozvvZc4w5486IAkbAIrWcNN_vn7YuIvhc1JDtGq43BqGl=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.cool.telegra.messenger',
+    appId: 'org.cool.telegra.messenger',
+    title: 'Plus Messenger 2019 - Advance Telegram\'s Features',
+    summary: 'Plus Messenger 2019 - Advance Telegram\'s Features',
+    developer: '',
+    developerId: undefined,
+    icon:
+     '//lh3.googleusercontent.com/rWLK_fTitCRK_ny2whzID57wJBEYK5U70Naq2mmE9b6veOACFuC-YwsVD435GsjD_Ds=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nodeads.messenger',
+    appId: 'com.nodeads.messenger',
+    title: 'Hola Messenger',
+    summary:
+     'Unofficial Telegram client with the possibility of live broadcasts',
+    developer: 'Node ADS',
+    developerId: 'Node+ADS',
+    icon:
+     '//lh3.googleusercontent.com/rclluN88MLSF3Z1Mtxj8uOgKB7i67FmFApDuzoEV7nIEpie7_ZigGikAPCr30yIkLMg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.SMAPP',
+    appId: 'com.SMAPP',
+    title: 'Signal Plus Messenger (Unofficial)',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'SMAPP. Inc',
+    developerId: '8056939003961992454',
+    icon:
+     '//lh3.googleusercontent.com/Az8O5nCD6p7cIlby6F3WOIZOBp76Y-s7ft3QzIzxRqWmhgN1xvAwsugM_b9XQK43XRQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=im.vector.alpha',
+    appId: 'im.vector.alpha',
+    title: 'Riot.im - Communicate, your way',
+    summary: 'A universal secure chat app entirely under your control.',
+    developer: 'Vector Creations Limited',
+    developerId: 'Vector+Creations+Limited',
+    icon:
+     '//lh3.googleusercontent.com/xPKPrWjS0HRFZHdk_rQGpcRTl9ZFDORrIyRsKAwG-n2GsW0d-h0t-pktq4PNnb2VVA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.craitapp.crait',
+    appId: 'com.craitapp.crait',
+    title: 'Crait - Mobile Office',
+    summary:
+     'webex meeting,webex,ineed,slack,meeting,zoom,workday mobile,conferencecall,cloud',
+    developer: 'Crait Technology Inc.',
+    developerId: 'Crait+Technology+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/-mkMXb-J7KUXRWfXlOJZ0OPRKv8lDeSe5T7yI7_4LW_ODbhiZuwUXhH-tWp-4LTn9nw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.wire',
+    appId: 'com.wire',
+    title: 'Wire • Secure Messenger',
+    summary:
+     'The most secure collaboration platform. For work and personal use.',
+    developer: 'Wire Swiss GmbH',
+    developerId: 'Wire+Swiss+GmbH',
+    icon:
+     '//lh3.googleusercontent.com/gcw6-BzPp0HX3lSFwlsBOZ5ZKKkBXAzPRtco7aAYqe0gLK3jrWy_kCZ9uvN2zQLSoV8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatdir.stickers',
+    appId: 'com.whatdir.stickers',
+    title: 'Stickers for new WAStickerApps',
+    summary:
+     'Stickers for WhatsApp. Download and create the best WAStickerApps stickers.',
+    developer: 'Talimedia',
+    developerId: 'Talimedia',
+    icon:
+     '//lh3.googleusercontent.com/_MRewS2QXyHaR5MzgcCh0cUr7nHp1gFmQ8oVktvmwbqrRhx2KMcdDZUJHWZPw2Ly1gk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegramnova.messenger',
+    appId: 'org.telegramnova.messenger',
+    title: 'TeleNova ✪',
+    summary: 'More than 200 million active users in four years.',
+    developer: 'ЧП "New Ideas"',
+    developerId: '%D0%A7%D0%9F+%22New+Ideas%22',
+    icon:
+     '//lh3.googleusercontent.com/YDasCAc31StYgJS8_ebrVhRpiH569I7NeeLtSMMBZLEVh5xyfmSzKXeVIDlRF-cF0cc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.BifToGram',
+    appId: 'org.telegram.BifToGram',
+    title: 'BGram',
+    summary:
+     'BGram is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'Biftor',
+    developerId: 'Biftor',
+    icon:
+     '//lh3.googleusercontent.com/D2RuGE4XY2QcUiibe2lHd2wTcRcyOEaTgdI7Rtl_NwdzmtD6P_qz4OPLd6znnJOw2Fk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.indianapplidevs.wastickerappsforwhatsapp',
+    appId: 'com.indianapplidevs.wastickerappsforwhatsapp',
+    title: 'WAStickerApps for Whatsapp',
+    summary:
+     'WAStickerApps for Whatsapp the Newest way to express your feeling for whatsapp.',
+    developer: 'IndianAppliDevs',
+    developerId: 'IndianAppliDevs',
+    icon:
+     '//lh3.googleusercontent.com/XdjJ47tAy0RpAb050rLuLi7Lf78nvy8x2URytm8Z_TewYuRUn2yENPWgLMIrkF_rifgN=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylinkhelper',
+    appId: 'com.google.android.apps.kids.familylinkhelper',
+    title: 'Google Family Link for children & teens',
+    summary:
+     'Download this app to your child/teen’s device to use Family Link.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pYLy_HV2fhacywOg55k41PGk2dm8fLvvJIbRNEPipWUE-yXvhS99VAQw7wvaKndrOh0=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sreerag.stickers',
+    appId: 'com.sreerag.stickers',
+    title: 'Stickers - Telegram stickers for Whatsapp',
+    summary: 'Stickers for WhatsApp - WAStickerApps',
+    developer: '3volve',
+    developerId: '5813657439231843679',
+    icon:
+     '//lh3.googleusercontent.com/GAdYFB9lua4KlUsqeuay2DgbNJ435ikTLDEHSEhXFiHjifQrIwYcJ8_g-7Ur9B9wLA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms',
+    appId: 'org.thoughtcrime.securesms',
+    title: 'Signal Private Messenger',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'Signal Foundation',
+    developerId: 'Signal+Foundation',
+    icon:
+     '//lh3.googleusercontent.com/l2UcWONe0L_UWIIuD3zTgwNRaW9n6cmJdofaEV2LD6U4Ngg8YiUs2wUD9EU8xo2ne9w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ve.jmtsolutiontechnologyca.veqr',
+    appId: 've.jmtsolutiontechnologyca.veqr',
+    title: 'veQR - Somos Venezuela',
+    summary:
+     'Connect the Carnet de la Patria with the People\'s Power and the Social Missions',
+    developer: 'JMT ST C.A',
+    developerId: 'JMT+ST+C.A',
+    icon:
+     '//lh3.googleusercontent.com/Pvdaa_CeMHMlhMR3bQm8RuL53mFKfXIbTFRtyAh9VCkSTjr5fdEgMzR6gqxNb8e4ntE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.synergygb.mercantil.Tpago',
+    appId: 'com.synergygb.mercantil.Tpago',
+    title: 'Tpago',
+    summary: 'Tpago Join the network!',
+    developer: 'Mercantil, C.A., Banco Universal',
+    developerId: 'Mercantil,+C.A.,+Banco+Universal',
+    icon:
+     '//lh3.googleusercontent.com/UZ59ZRM5ZdZwbIoNg0D6KMThDot3Mb9aK77Y5ZyaE8Y5LEaPKu9ug3LD1ZbtpxB5vxo=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pagomovil.bdv.sms',
+    appId: 'pagomovil.bdv.sms',
+    title: 'Pago Móvil Venezuela - SMS',
+    summary:
+     'Pay without cash. Simply with an SMS you can transfer to any bank.',
+    developer: 'Coding Corporation CL',
+    developerId: 'Coding+Corporation+CL',
+    icon:
+     '//lh3.googleusercontent.com/YCcUlmaBChjdlBZmD42TGGeuiaFanEAsWE6A2jKSqBIAwmnL0SPnzCJFlh9e8jKH6M8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.banesco.banescomovil.tcmbve.android',
+    appId: 'com.banesco.banescomovil.tcmbve.android',
+    title: 'Banesco VE',
+    summary: 'Now BanescoMóvil is a powerful tool!',
+    developer: 'Banesco',
+    developerId: 'Banesco',
+    icon:
+     '//lh3.googleusercontent.com/lO9SMtnRXbbde0VPFsczUrnJQxAaLj29qTLP3ULxqPcKxoFmvJWlsZ_h3QWucQP0u6U=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bancoexterior',
+    appId: 'com.bancoexterior',
+    title: 'Exterior NEXO pago móvil',
+    summary:
+     'Exterior NEXUS mobile payment is a fast, convenient and secure system',
+    developer: 'Banco Exterior, C.A. Banco Universal',
+    developerId: 'Banco+Exterior,+C.A.+Banco+Universal',
+    icon:
+     '//lh3.googleusercontent.com/Cx9Zxdm7wIGl3SSMtHJdiGuVM42o8k3-Yl7-0vr1SBH2gh7qOQ6C_z5e6eMH8gijIaQV=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.banesco.samfmobileonline.pagomovil',
+    appId: 'com.banesco.samfmobileonline.pagomovil',
+    title: 'Banesco Pago Móvil',
+    summary: 'Banesco Mobile Payment',
+    developer: 'Banesco',
+    developerId: 'Banesco',
+    icon:
+     '//lh3.googleusercontent.com/soI2nTfPp2dxO_tftzO325LSEFQvlUxhAk-YNS9SrqnPA0k3D6R8VI4Cw-F2pQQTnP13=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jmtsolutiontechnologyca.ve.vepatria',
+    appId: 'jmtsolutiontechnologyca.ve.vepatria',
+    title: 'vePatria',
+    summary:
+     'Application facilitates access to www.patria.org.ve from mobile phones.',
+    developer: 'JMT ST C.A',
+    developerId: 'JMT+ST+C.A',
+    icon:
+     '//lh3.googleusercontent.com/bOXUfvTN1-rtV_5Q-xkmME8ej11nKNzLm2XSuUqIktR8kWASrQPJcTYuzpG3-LTfJmT5=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.bt201711',
+    appId: 'com.ionicframework.bt201711',
+    title: 'TESORO PAGOMÓVIL',
+    summary:
+     'Service for individuals that allows you to make payments online',
+    developer: 'Banco del Tesoro, C.A.',
+    developerId: 'Banco+del+Tesoro,+C.A.',
+    icon:
+     '//lh3.googleusercontent.com/KYVqNi-4wvuXmQZEIVYyEPEmTIOydiRF7DpmRlhE78eGdtFQySVhZZR0LFx-CXVCag=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.phoenix3k.catpay.banplus',
+    appId: 'com.phoenix3k.catpay.banplus',
+    title: 'Pago Plus',
+    summary:
+     'Mobilize your money with immediacy and safety from your mobile device',
+    developer: 'Banplus Banco Universal CA',
+    developerId: 'Banplus+Banco+Universal+CA',
+    icon:
+     '//lh3.googleusercontent.com/G44O6E4Uhek4KOdyrJvMuVjoAiWEMzizerz00lDKLai-8uf-pqlvfeWsTv3fdYNCoA=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftM5HM',
+    appId: 'com.gameloft.android.ANMP.GloftM5HM',
+    title: 'Modern Combat 5: eSports FPS',
+    summary:
+     'The best multiplayer FPS series raises the bar for action-shooter games again!',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/UqTEU159-i_nknZMTD_fVxWspWzTPqfZR-5CmYbVApkOoqs561hYK-CA_rqEQbgyNJg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mycelium.wallet',
+    appId: 'com.mycelium.wallet',
+    title: 'Mycelium Bitcoin Wallet',
+    summary:
+     'Send and receive Bitcoins using the fastest and most secure Bitcoin Wallet',
+    developer: 'Mycelium Establishment',
+    developerId: 'Mycelium+Establishment',
+    icon:
+     '//lh3.googleusercontent.com/ww33n7kgRR2sOz9Kzsj71oaB38EWCiP0jVLfkftXPP1EFiyNXqxOKVpfYC4LjdHTcA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.shadowfight3',
+    appId: 'com.nekki.shadowfight3',
+    title: 'Shadow Fight 3',
+    summary:
+     'Epic mobile RPG fighting returns! Start ninja adventure and challenge your foes!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.googleusercontent.com/RtSnor9JRmkrSVExF90O0FM7JnHw9Nn7RgyKeYA4Q7jPyyhhkAWTabG7mjNyNrSJSQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.DolarToday',
+    appId: 'com.DolarToday',
+    title: 'DolarToday',
+    summary:
+     'Want to know the economic reality of Venezuela without any censorship?',
+    developer: 'DolarToday.com',
+    developerId: 'DolarToday.com',
+    icon:
+     '//lh4.ggpht.com/DgqcGmlkOKXw4n3mpaOOxAIQqSVTeTh8NEIV3znOaDMypRw7kbt7m_gFLG0BY7SWsM0=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybob2.android.gplay',
+    appId: 'com.chillingo.robberybob2.android.gplay',
+    title: 'Robbery Bob 2: Double Trouble',
+    summary:
+     'The true king of thieves is back in business! Robbery Bob 2: Double Trouble.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/bUD4D9q6DwL0rmEf-TqsNjbndGsOGAZmHeB575x6JQiXU_a4gJMvM1Eze8lnagCwgFww=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jmtsolutiontechnologyca.ve.vemonedero',
+    appId: 'jmtsolutiontechnologyca.ve.vemonedero',
+    title: 'veMonedero',
+    summary: 'An application to connect the purse Platform Patria.',
+    developer: 'JMT ST C.A',
+    developerId: 'JMT+ST+C.A',
+    icon:
+     '//lh3.googleusercontent.com/wBesEQDqDGCQkPxAennuIa5T7qg6tfXKQGjdMgcXUKSfR6Z6dfRA-GYZgzK4DbQD55k=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pausedrinkapp',
+    appId: 'com.pausedrinkapp',
+    title: 'Pause...drink! drinking game.',
+    summary:
+     'Pause...drink! is the drinking game to get your party started.',
+    developer: 'Philip Sole',
+    developerId: '7889235613603720774',
+    icon:
+     '//lh3.googleusercontent.com/AGlEGc5JZv9jISsGdLRPucxnaupq9FtTL-yl1pEewQglMk-TAb9wrT7_QkOoin9kYm0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qprod.btt',
+    appId: 'com.qprod.btt',
+    title: 'Break The Targets',
+    summary:
+     'Speedrunning on mobile! Complete hundreds of levels as fast as possible!',
+    developer: 'Q\'Prod',
+    developerId: 'Q\'Prod',
+    icon:
+     '//lh3.googleusercontent.com/ePlJD_eZlBVcBBHXQBsA8UEs6A0UpJlb8jW-S720f89FJp5SWpQA5KlBF6_urVPggoCr=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chk.permanentclock',
+    appId: 'com.chk.permanentclock',
+    title: 'YACO - Important System Infos always visible',
+    summary:
+     'Important data (date/time, battery, GPS, data connection...) always in view!',
+    developer: 'Christian Kaiser',
+    developerId: 'Christian+Kaiser',
+    icon:
+     '//lh3.googleusercontent.com/ss32V3YJK1DsgNcEdAhtLtNTxWNfAHU-SopTwqYtzWuht75qKndyJz_64Xaj--Hdzk0=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.daneben.timevalut',
+    appId: 'de.daneben.timevalut',
+    title: 'time lock for images',
+    summary:
+     'Hides images for a preset time. Once hidden, there is no way to see them early',
+    developer: 'Moritz Both',
+    developerId: 'Moritz+Both',
+    icon:
+     '//lh3.googleusercontent.com/SYz7imnVyBvlBtHt7TsS9JdixsyJw085BxtPNs8x1V-yARdU8NDFsJixKU_Xn_5k63rz=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playwithgames.CityDriverParking',
+    appId: 'com.playwithgames.CityDriverParking',
+    title: 'City Driver: Roof Parking Challenge',
+    summary: 'Extreme driving and parking! Push the limits of your car',
+    developer: 'Play With Games',
+    developerId: 'Play+With+Games',
+    icon:
+     '//lh3.googleusercontent.com/cP8lJJ1hGX_aMYcvCfL36eb4xvgtVFS32bdCU_zvnNb5_Zce8Fx3C1ZhNEmdapYnsg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.accountable2you.ap1',
+    appId: 'com.accountable2you.ap1',
+    title: 'Accountable2You',
+    summary:
+     'Accountability app that keeps you accountable for all the actions on your device',
+    developer: 'Accountable2You, LLC',
+    developerId: 'Accountable2You,+LLC',
+    icon:
+     '//lh6.ggpht.com/R3UbrG5T5fwtZudRb_c_Ub09ptzfG2yNGwwrdwBa2PBOrnXWIVtKbklKbbEq33bamw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.purifeye.appatropas',
+    appId: 'net.purifeye.appatropas',
+    title: 'PurifEYE AppaTropas AppLock',
+    summary:
+     'AppaTropas gives parents complete peace of mind that their kids are secure!',
+    developer: 'PurifEYE',
+    developerId: '7047188371405449049',
+    icon:
+     '//lh3.googleusercontent.com/Js7jgZpZOH2rChYrwnj1WA452P_QRktxlwU3G7bcBtEjW2JBM5KoDTszzE-b895Rmznf=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.mimic',
+    appId: 'com.mimic',
+    title: 'Mimic - Trade like the best traders',
+    summary:
+     'The latest evolution in cryptocurrency trading to join the brightest traders.',
+    developer: 'Mimic sagl',
+    developerId: 'Mimic+sagl',
+    icon:
+     '//lh3.googleusercontent.com/Wt68i20UAoHNI2SSQk-DltsvhU5HzXOemllt9TR25fcjpydjR36scMxQxCsemaS6t8Ad=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mycelium.wallet',
+    appId: 'com.mycelium.wallet',
+    title: 'Mycelium Bitcoin Wallet',
+    summary:
+     'Send and receive Bitcoins using the fastest and most secure Bitcoin Wallet',
+    developer: 'Mycelium Establishment',
+    developerId: 'Mycelium+Establishment',
+    icon:
+     '//lh3.googleusercontent.com/ww33n7kgRR2sOz9Kzsj71oaB38EWCiP0jVLfkftXPP1EFiyNXqxOKVpfYC4LjdHTcA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

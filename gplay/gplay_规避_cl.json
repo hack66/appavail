@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile',
+    appId: 'com.ea.gp.simsmobile',
+    title: 'The Sims™ Mobile',
+    summary: 'Play with life.',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/bPKeWXaJjU7a0wCQCM9ygnh1i8DCuEAXlQ_oVUszu-4clXLq10KxPyY547W_suJovA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter',
+    appId: 'com.ChillyRoom.DungeonShooter',
+    title: 'Soul Knight',
+    summary:
+     'Explore the dungeon, collect crazy weapons, dodge bullets and shoot‘em all up!',
+    developer: 'ChillyRoom',
+    developerId: 'ChillyRoom',
+    icon:
+     '//lh3.googleusercontent.com/H5MVJJfkEXycy-kW7ZIU7PwOezky7IJdi3VLTqUbB5nq-OsCPyEZDFb7Fszoo6LXBkYS=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=br.com.tapps.vloggergoviral',
+    appId: 'br.com.tapps.vloggergoviral',
+    title: 'Vlogger Go Viral - Tuber Game',
+    summary:
+     '📱Are you the next Internet celebrity? Make videos and become a billionaire!🐱',
+    developer: 'Tapps Games',
+    developerId: '6615809648420562690',
+    icon:
+     '//lh3.googleusercontent.com/sYmqU0vQXc-ILWcFWZgGmwoV_q-vwsBIyMEI5_bm95TK7no5qbDox3rg0bHgiztdSbw=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hyperbeard.kleptodogs',
+    appId: 'com.hyperbeard.kleptodogs',
+    title: 'KleptoDogs',
+    summary:
+     'Woof woof! KleptoCats are back! But this time it\'s... DOGS?!?',
+    developer: 'HyperBeard',
+    developerId: 'HyperBeard',
+    icon:
+     '//lh3.googleusercontent.com/Sg9s7g4vQlNeWEmouHNdY9DJtXmyOwqxZLs38tdfMN7qeC9CWqDiy7azWg7yqNT6nQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.smartstudy.babyshark_android_googlemarket',
+    appId: 'kr.co.smartstudy.babyshark_android_googlemarket',
+    title: 'Pinkfong Baby Shark',
+    summary:
+     '\'Baby Shark\' with over 3 billion views on Youtube is now out with fun activities',
+    developer: 'SMARTSTUDY PINKFONG',
+    developerId: '5316747288696116828',
+    icon:
+     '//lh3.googleusercontent.com/qwy_2TNvBPygfnA7QSD2xQ38GD3-Jda4vJze7UHTQqwupkb5dOVG_BkFjCJK-jUZgFIe=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.blindflugstudios.firststrike.free',
+    appId: 'com.blindflugstudios.firststrike.free',
+    title: 'First Strike',
+    summary: 'The nuclear war RTS game',
+    developer: 'Blindflug Studios AG',
+    developerId: 'Blindflug+Studios+AG',
+    icon:
+     '//lh3.googleusercontent.com/tEBCO_vYfeA3me5N3lbJkKkukGtZGwm7w-4SARYLwdMRhcu-KkdGjGlTi1LaLO1nHQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.autumn.skullgirls',
+    appId: 'com.autumn.skullgirls',
+    title: 'Skullgirls',
+    summary:
+     'The #1 Mobile Fighting Game! Collect, upgrade, customize, and FIGHT!',
+    developer: 'Autumn Games, LLC',
+    developerId: '6723255498672026396',
+    icon:
+     '//lh3.googleusercontent.com/exDKlnkBX_jtunQ_dn4OROwPQRtJRrwHAQzcZf7Sn_LVyCHpZrQMDW1V2ZbRPWiIa5w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revolverolver.fliptrickster',
+    appId: 'com.revolverolver.fliptrickster',
+    title: 'Flip Trickster - Parkour Simulator',
+    summary:
+     'Physics-based simulation game inspired by parkour and freerunning',
+    developer: 'Lion Studios',
+    developerId: '6990178528646658622',
+    icon:
+     '//lh3.googleusercontent.com/jPSkl0k9NnexN3IyKbGOT3wwNuVLrIopOLuebKC_94hE-a4dOgvqz6eIpPVJJLcVbzVs=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tinyco.potter',
+    appId: 'com.tinyco.potter',
+    title: 'Harry Potter: Hogwarts Mystery',
+    summary:
+     'Your Magical Journey Starts Now! Explore, Learn Spells & More in a New RPG Story',
+    developer: 'Jam City, Inc.',
+    developerId: '5509190841173705883',
+    icon:
+     '//lh3.googleusercontent.com/bAaeq0rsZC6okqOwSPZd_ddLGbvQo26t1gNdUXRhUyPjpfAQGRTXjhOv5BpfnhZ66ZDT=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mtvn.Nickelodeon.GameOn',
+    appId: 'com.mtvn.Nickelodeon.GameOn',
+    title: 'Sky Whale',
+    summary:
+     'Bounce through the sky collecting donuts to keep your narwhal up in the air!',
+    developer: 'Nickelodeon',
+    developerId: 'Nickelodeon',
+    icon:
+     '//lh3.googleusercontent.com/OWMD0eEoZvUhVTkOiDN-f7BOOE6JdpfRkGFX9OSyL__D2FZVN7mvifW9RegWAleh5h0b=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zzoo.dokdo',
+    appId: 'com.zzoo.dokdo',
+    title: 'DOKDO',
+    summary: 'Go fishing, upgrade your ship.',
+    developer: 'Zzoo',
+    developerId: '6886919362373660592',
+    icon:
+     '//lh3.googleusercontent.com/RzehQaJAL4Rj0IhQwNggjvpmgKAQSOcxJgbxW9BxeGJK8o0prGbMhrT3AWkOy4Tnng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.popreach.dumbways',
+    appId: 'com.popreach.dumbways',
+    title: 'Dumb Ways to Die Original',
+    summary: 'You’ve seen the video. Now their lives are in your hands.',
+    developer: 'Metro Trains',
+    developerId: '6830735644801210985',
+    icon:
+     '//lh3.googleusercontent.com/lvoOHYoBc50a5lEh9vqZzt2RnWoKhKNrc2IRmWuq5BKS8gDur1tMt06v7UVDfEYyQe4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cocoplay.gymnastic.star',
+    appId: 'com.cocoplay.gymnastic.star',
+    title: 'Gymnastics Superstar - Spin your way to gold!',
+    summary:
+     'Dress up & be an Olympic gymnastics fashion star girl! Choreograph your moves',
+    developer: 'Coco Play By TabTale',
+    developerId: 'Coco+Play+By+TabTale',
+    icon:
+     '//lh3.googleusercontent.com/OjSW8Hmd83sa1goR4wn_g1Z-tzpKLor7FBcemUP2OmUsiXgrUmTodaEW0ML52PDpTCs=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kongregate.mobile.thetrail.google',
+    appId: 'com.kongregate.mobile.thetrail.google',
+    title: 'The Trail',
+    summary: 'The Trail will lead you to adventure and fortune!',
+    developer: 'Kongregate',
+    developerId: '7580247376460930437',
+    icon:
+     '//lh3.googleusercontent.com/a1wH1AJWf2sk_YIR6xuQGuMbMYuRihxM6aNGN9SJ4MmMGbFoJ1xVm4SBrLePsu7CP-om=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

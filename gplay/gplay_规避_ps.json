@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ac.Jawwal.info',
+    appId: 'ac.Jawwal.info',
+    title: 'جوال حسابي',
+    summary:
+     'You can now activate your services yourself using your Jawwal handset',
+    developer: 'Jawwal',
+    developerId: 'Jawwal',
+    icon:
+     '//lh3.googleusercontent.com/HOXvgZULBpr4qqUn0wse75NNxagYIxgqZNcNON_fhdG71xqon-SlT-pjSXfQ5RJ2ig=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club',
+    appId: 'com.moonfrog.ludo.club',
+    title: 'Ludo Club - Fun Dice Game',
+    summary:
+     'The best Ludo game of 2018 is here! JOIN THE CLUB and play with friends!!',
+    developer: 'Moonfrog',
+    developerId: '5236132833572659868',
+    icon:
+     '//lh3.googleusercontent.com/CBh5Ts0J5KJJjy7xEYnMMWxMAxMAwxSzI9BT_vNsR3J1DDVnN3DVOIa1MR9nKgrWsg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.SnakeGame',
+    appId: 'com.mobirix.SnakeGame',
+    title: 'Snakes & Ladders King',
+    summary:
+     'Dice, ladder (= step climb), snakes (= step down) enjoyed by the three rules.',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/JByYcjpQakA6Mv7aWZjj8vl2DQ8n-ziu027-4yy6yy0dzs41rpAcgP9TRMMkHBChefc=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leodesol.games.classic.maze.labyrinth',
+    appId: 'com.leodesol.games.classic.maze.labyrinth',
+    title: 'Mazes & More',
+    summary:
+     'Classic maze/labyrinth game with fun tweaks.  Can you solve all the mazes?',
+    developer: 'Leo De Sol Games',
+    developerId: '8149422968449365069',
+    icon:
+     '//lh3.googleusercontent.com/JchaxYkVuO_jGLOaS2-Ur2HcAFAOOPPYsRm6sraO7E55OqoVK_WlZ5k32iIvF_HyeD8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.pcnc.bop',
+    appId: 'com.pcnc.bop',
+    title: 'Bank of Palestine',
+    summary:
+     'Your account is between your hands all the time with our Mobile Banking services',
+    developer: 'Bank Of Palestine',
+    developerId: 'Bank+Of+Palestine',
+    icon:
+     '//lh3.googleusercontent.com/m4MDeuVUfB_5F6vCXcxG1RERjanfIopIg1mztvhAeIVFVv5FhbE9DpzU2X-EqcPYwU0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gladgames.snakevscircle',
+    appId: 'com.gladgames.snakevscircle',
+    title: 'Snake V/s Circle',
+    summary:
+     'Crush all the circles and score the highest! Be the longest!',
+    developer: 'Glad Games',
+    developerId: 'Glad+Games',
+    icon:
+     '//lh3.googleusercontent.com/h9_6Ly8MZJxsmEAG_RxU6gGwmL_MD1L05p7kSa_XbKNjBiuhx0ulLu2sp1RhhmsGuA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.faiory',
+    appId: 'air.com.faiory',
+    title: 'قصص قبل النوم عالمية بدون نت بالفيديو',
+    summary:
+     'The greatest stories of the development of the mind and encourage the work of good and love, honesty and smile',
+    developer: 'mr.dragon1995',
+    developerId: 'mr.dragon1995',
+    icon:
+     '//lh3.googleusercontent.com/n0CNshTYZxDLoU5bFEb6XNFFD940rAun7QQoQbpjYJ9o4cc9ml-ECtS9qAU8cB1AjQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatsapp.w4b',
+    appId: 'com.whatsapp.w4b',
+    title: 'WhatsApp Business',
+    summary: 'Simple tool for businesses to talk to their customers.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JgGYz6b1TBsreBWZ9W9mfPQWMguIhCA3BiR7nKgE2miAzL1drW4mLL5_q0exDjtTDRg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jetstartgames.chess',
+    appId: 'com.jetstartgames.chess',
+    title: 'Chess',
+    summary:
+     'Chess is a board logic game with beautiful graphics and progressive levels',
+    developer: 'Chess Prince',
+    developerId: 'Chess+Prince',
+    icon:
+     '//lh3.googleusercontent.com/Ec3ROPU7Xd__hAVe6QkUMR2t4uVUGPoVOmQ52dSeJnpy5Dx4VpGsuMRAVLi6wbDRFNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

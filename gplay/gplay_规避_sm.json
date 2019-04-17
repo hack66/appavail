@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.pixelstudio8.venom.angry.crash.rush.io.online',
+    appId: 'air.com.pixelstudio8.venom.angry.crash.rush.io.online',
+    title: 'Venom Angry Crashy Rush Online',
+    summary:
+     'Venom.io is amazing online game, you must eat other snake or will be eaten',
+    developer: 'Pixel Studio 8',
+    developerId: 'Pixel+Studio+8',
+    icon:
+     '//lh3.googleusercontent.com/4DTg3Pr3Oj9v0RX-CqvOx4OO493ObAh8k_vlOmYdm3_BR4fi1UJDP_S4s31KJAvBqV0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.advent.snake.io.wwe.snake.io',
+    appId: 'com.advent.snake.io.wwe.snake.io',
+    title: 'Snake WWWE',
+    summary:
+     'Very classy and entertaining game of snakes! Can you become the longest snake?',
+    developer: 'Ocean Dr Apps',
+    developerId: 'Ocean+Dr+Apps',
+    icon:
+     '//lh3.googleusercontent.com/gd08TMaqsb-VZZ8OM3IfSOqpzUYYHjHo9cJGZv-l39b_97QpYTj99Ejp8pfBzryiiMU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=afcethiopia.lifetruths',
+    appId: 'afcethiopia.lifetruths',
+    title: 'የህይወት እዉነታ -- Ethiopian Life Truths',
+    summary:
+     'የህይወት እዉነታ  Ethiopian Life Truths is an app of 200 amazing life articles',
+    developer: 'Hailemichael Yihun',
+    developerId: '4732824418136294157',
+    icon:
+     '//lh3.googleusercontent.com/tYOEUJpdu2iMvIg7BnZiutOOsJEyTAvyMCvdBRkRzW9J-qUS1Z1sly4aAwpzrIjBdQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.police.mafia.crime.vice',
+    appId: 'com.police.mafia.crime.vice',
+    title: 'Miami Police Crime Vice Simulator',
+    summary: 'Miami Police Crime Vice Simulator, Fight for your life!',
+    developer: 'Wallace Lieakote',
+    developerId: 'Wallace+Lieakote',
+    icon:
+     '//lh3.googleusercontent.com/oEALTpigWQ-ae64ngzfRZyHklzJIJ2H83hNBZgq2VD6vq9QmUOGz88X3IR5JIW3PHNN5=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.henoktadesse.albert',
+    appId: 'com.henoktadesse.albert',
+    title: 'የአልበርት አባባሎች - Albert Einstein Quotes in Amharic',
+    summary:
+     'በሰው ልጅ ታሪክ ውስጥ በልሂቅነቱና በምጡቅ አስተሳሰቡ ዝናን ያተረፈውን የአልበርት አይንስታይንን አባባሎች በአማርኛ ።',
+    developer: 'HT-Apps',
+    developerId: 'HT-Apps',
+    icon:
+     '//lh3.googleusercontent.com/rP-HucIEISLamCgMASKVPk4oTAZcTE8TSRG9IX_YshTYP1V6wZe9IjYzustGKSJ2mQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playwithgames.CityDriverParking',
+    appId: 'com.playwithgames.CityDriverParking',
+    title: 'City Driver: Roof Parking Challenge',
+    summary: 'Extreme driving and parking! Push the limits of your car',
+    developer: 'Play With Games',
+    developerId: 'Play+With+Games',
+    icon:
+     '//lh3.googleusercontent.com/cP8lJJ1hGX_aMYcvCfL36eb4xvgtVFS32bdCU_zvnNb5_Zce8Fx3C1ZhNEmdapYnsg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gamelead.lion.simulator.wild.hunter.game',
+    appId: 'com.gamelead.lion.simulator.wild.hunter.game',
+    title: 'The Lion',
+    summary:
+     'The Lion Simulator is an incredible wild simulator game to hunt wild animals.',
+    developer: 'GameLead',
+    developerId: 'GameLead',
+    icon:
+     '//lh3.googleusercontent.com/wi1-UJzBZm1tS7dluwPDqL6J9DF8OxKBHVJPEoHByKflEhGwai__uGZkFJhhNU4gHB7e=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.taplane.dino',
+    appId: 'com.taplane.dino',
+    title: 'Dinomite.io',
+    summary:
+     'Blast other Dinosaurs to Extinction and Become the King of the Arena!',
+    developer: 'Taplane Inc',
+    developerId: 'Taplane+Inc',
+    icon:
+     '//lh3.googleusercontent.com/k9r9XsmOpC3bQ_ZGb7edz_9lZHRYoHw2D0wVeyo9w2OxNfqy8yVi4_hoOfPBIJ4r5Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sphero.lightningmcqueen',
+    appId: 'com.sphero.lightningmcqueen',
+    title: 'Ultimate Lightning McQueen™',
+    summary: 'Ultimate Lightning McQueen™ by Sphero',
+    developer: 'Sphero Inc.',
+    developerId: 'Sphero+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/oz8KtWbUpsqOv_QJpJh7nJSOEKgyPZdl-JZjx1PYZTgLCzi4AMdOCL18SDH2Ct340w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

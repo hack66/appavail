@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify',
+    appId: 'com.vpn.free.hotspot.secure.vpnify',
+    title: 'Free VPN unlimited secure hotspot proxy by vpnify',
+    summary:
+     'vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on Android.',
+    developer: 'VPNIFY',
+    developerId: 'VPNIFY',
+    icon:
+     '//lh3.googleusercontent.com/ZNi9FAJWt3lue_xDi4jLMrux6mDoG3fjcXcmmrPihTbM6-bJhxnfGghs6r_y8WNVmvk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylinkhelper',
+    appId: 'com.google.android.apps.kids.familylinkhelper',
+    title: 'Google Family Link for children & teens',
+    summary:
+     'Download this app to your child/teen’s device to use Family Link.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pYLy_HV2fhacywOg55k41PGk2dm8fLvvJIbRNEPipWUE-yXvhS99VAQw7wvaKndrOh0=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rocket.tools.clean.antivirus.master',
+    appId: 'com.rocket.tools.clean.antivirus.master',
+    title: 'Antivirus Free 2019 - Scan & Remove Virus, Cleaner',
+    summary:
+     'Mobile Security with Antivirus, Virus cleaner, Phone cleaner, AppLock.',
+    developer: 'Hyper Speed',
+    developerId: '7702189469562675193',
+    icon:
+     '//lh3.googleusercontent.com/DtoMiG4PsV_O6uYz9EHPU4fUnB86lWLLYIxDQ7FuuGTE50vHSI9WaHCrJVb_sdNF42U=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nu.tommie.inbrowser',
+    appId: 'nu.tommie.inbrowser',
+    title: 'InBrowser - Incognito Browsing',
+    summary:
+     'InBrowser is an incognito/private browser for Android with TOR and video support',
+    developer: 'InBrowser by PIA',
+    developerId: 'InBrowser+by+PIA',
+    icon:
+     '//lh3.googleusercontent.com/FzgMx_y3wgNmJKgSyGj4qmf6tmNgRNENn9RFMsAswBUGQn1qrlab-zCLytMENBPBDBg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=si.mobil.info',
+    appId: 'si.mobil.info',
+    title: 'Moj A1',
+    summary:
+     'My A1 is intended for all users A1 to manage subscriptions.',
+    developer: 'A1 Slovenija, d. d.',
+    developerId: 'A1+Slovenija,+d.+d.',
+    icon:
+     '//lh3.googleusercontent.com/J9yYFdZeourqAzZnQA_35MMacOEWq3bqVWlfI3wkbG7mr10i7sV2jXE7t3OJvfqFyJjK=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.videolan.vlc',
+    appId: 'org.videolan.vlc',
+    title: 'VLC for Android',
+    summary:
+     'VLC for Android is the best open source video and music player, fast and easy!',
+    developer: 'Videolabs',
+    developerId: '6364851808230428105',
+    icon:
+     '//lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hrc.eb.mobile.android.hibismobiledh',
+    appId: 'com.hrc.eb.mobile.android.hibismobiledh',
+    title: 'Dh-Mobilni',
+    summary:
+     'Safe, quick, easy to perform banking services through mobile bank Dh-Mobile.',
+    developer: 'HRC d.o.o.',
+    developerId: 'HRC+d.o.o.',
+    icon:
+     '//lh5.ggpht.com/uOYKdOf54Waj3Nb4EHDgy48NY2IOA_Ttt0fsXkYp0Dftq3NgY8jgPZUA9RfTYOftBMB_=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=explore.web.browser',
+    appId: 'explore.web.browser',
+    title: 'Web Browser for Android',
+    summary: 'Fast and easy to use Web Browser.',
+    developer: 'mttcross',
+    developerId: 'mttcross',
+    icon:
+     '//lh3.ggpht.com/9Ya0z5Xmi688EkhjW9D8XUoqKWDoY-zIxwe6R7Zw70pvHiS_vvWWQ5dHmPuu_iVGP6cW=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zebi24.kviz_slo',
+    appId: 'zebi24.kviz_slo',
+    title: 'Drži - Ne Drži? Kviz Slovenija',
+    summary:
+     'The statement is true or false? Have fun alone or with friends!',
+    developer: 'Zebi24 Games',
+    developerId: 'Zebi24+Games',
+    icon:
+     '//lh3.googleusercontent.com/RkH7imHFLP6Go4k4u0wWHKBVOJ39gy_WzRFsWQ1ztgPpVgug5Xhfi0R-zL8yh3aXIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cobit.mnkic',
+    appId: 'com.cobit.mnkic',
+    title: 'Prehranski navigator',
+    summary: 'Smart eating without sacrifices and quick diets.',
+    developer: 'Cobit d.o.o.',
+    developerId: 'Cobit+d.o.o.',
+    icon:
+     '//lh3.googleusercontent.com/8-dhNLlwj2VjP7lTk6LY0pWa9CK0JzxTc6piSTHZXeT7LfRH2UwK1jymcJmrrwjDraU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=si.nkbm.bnk.android',
+    appId: 'si.nkbm.bnk.android',
+    title: 'mBank@Net',
+    summary:
+     'Mobile bank mBank @ Net is a modern banking application Nova KBM',
+    developer: 'NOVA KREDITNA BANKA MARIBOR d.d.',
+    developerId: 'NOVA+KREDITNA+BANKA+MARIBOR+d.d.',
+    icon:
+     '//lh3.googleusercontent.com/LyCgdEI3ldQZ90alglm6Q_1CqdP0fOMjPGCP06QTqQ5MBLWwTrpBIyvy7V8xjWCPwOo=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crystalmissions.siradio',
+    appId: 'com.crystalmissions.siradio',
+    title: 'SI Radio - Slovenian Online Radios',
+    summary:
+     'Fastest application for online streaming of Slovenian radio stations.',
+    developer: 'Crystal Missions',
+    developerId: '6686699984411389939',
+    icon:
+     '//lh3.googleusercontent.com/QOEal63ZI7Hq7U6A3Angrj-HC_afaoS3flNjR7aiJEb6dlkEkMYOd99Bq3Y730imRg=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gta.real.gangster.crime',
+    appId: 'com.gta.real.gangster.crime',
+    title: 'Real Gangster Crime',
+    summary: 'Experience the sweet thug life!',
+    developer: 'Naxeex Studio',
+    developerId: '7153203368724111677',
+    icon:
+     '//lh3.googleusercontent.com/FdCmTi2Yb9ynpn7SJeZSeZIeE6cbm70-drnUgaY0uuiHtAnUSxXSFyq_e_nsIHTAXk5X=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.sweatco.app',
+    appId: 'in.sweatco.app',
+    title: 'Sweatcoin Pays You To Get Fit',
+    summary:
+     'Turn your steps to \'sweat coins\' - digital currency to make you fit and active!',
+    developer: 'Sweatco Ltd',
+    developerId: 'Sweatco+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/2G0BofokJNL-92f9t7Z_5_uh593ywcuZ2uHPKOq7WpGyLy4ufv67km1m9a70-2fJJw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.tts',
+    appId: 'com.google.android.tts',
+    title: 'Google Text-to-Speech',
+    summary: 'Let your device do the talking',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.ggpht.com/yrkQ_bDsgS0eFnJRsqxzPDdRNNHE9-dK1eZYNoN3ryDl9V9foQwZgZaTZwiYUfv2jnGI=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=si.dars.darstraffic',
+    appId: 'si.dars.darstraffic',
+    title: 'DarsTraffic+',
+    summary:
+     'DarsTraffic+ allows you to be up to date with the current situation on roads',
+    developer: 'DARS d.d.',
+    developerId: 'DARS+d.d.',
+    icon:
+     '//lh3.googleusercontent.com/nBnb6R96eMTYkzitWgNcItAAgaGAT-6Rp_iB3lqNlloiSlt2AxfdJ8K-_o4nIEMp2iw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.giphy.messenger',
+    appId: 'com.giphy.messenger',
+    title: 'GIPHY - Animated GIFs Search Engine',
+    summary:
+     'GIPHY is the world’s largest library of animated GIFs, now on your phone!',
+    developer: 'Giphy, Inc.',
+    developerId: 'Giphy,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/IsdYGrYewNGmzw_IdpBjBOw1YudZTyAYMs8k3t0IphMId3SubbiT0RAdG9rJw2Q9sB8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.visvanoid.secretbrowse',
+    appId: 'com.visvanoid.secretbrowse',
+    title: 'My Internet - Private, Secret and Fast',
+    summary:
+     'A simple password private protected Incognito Browsingand fully hidden.',
+    developer: 'Visvanoid',
+    developerId: 'Visvanoid',
+    icon:
+     'https://lh5.ggpht.com/Z5YYTqok_b-xUnCcWMUu0294FnBO3UWTRgEY12LRHfZehtQnWIg40JIYJdgpDNIDOA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nutsaboutnets.wifiexplorer',
+    appId: 'com.nutsaboutnets.wifiexplorer',
+    title: 'Wifi Scanner & Net Discovery',
+    summary:
+     'Explore your Wi-Fi environment with WifiExplorer\'s graphical charts.',
+    developer: 'Nuts About Nets',
+    developerId: 'Nuts+About+Nets',
+    icon:
+     '//lh3.googleusercontent.com/93sjf-U5Os56S2xZvwdiW0TEiD2ob1Fq3pWmn9AWBP6L3mBIo52AqzGNmIFikXAK5Yan=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mentisco.freewificonnect',
+    appId: 'com.mentisco.freewificonnect',
+    title: 'Free WiFi Connect',
+    summary: 'Complete Wifi solution for all wifi related problems.',
+    developer: 'Mentisco',
+    developerId: 'Mentisco',
+    icon:
+     '//lh3.googleusercontent.com/9AaIgJlnQTkJe996fSmBibFoRVlkLvo1loAyOaVbSe1dRNrYQ_Xr5DrbS5UQYeufG70=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bestfreewifi.wifihotspot1',
+    appId: 'com.bestfreewifi.wifihotspot1',
+    title: 'Free WiFi Connect Internet Connection Find Hotspot',
+    summary:
+     '🏆Connect Free WiFi hotspot, free wifi network manager,analyzer, finder wifi map',
+    developer: 'MobileToolingStation',
+    developerId: 'MobileToolingStation',
+    icon:
+     '//lh3.googleusercontent.com/oS6bN_5v0zSWjRnWm7Y3JUjV1exw1X5FAvLDvsaaV5uz3kD24joK7pY4xjOx7EziQ9g=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.overlook.android.fing',
+    appId: 'com.overlook.android.fing',
+    title: 'Fing - Network Tools',
+    summary:
+     'Find out which devices are connected to your Wi-Fi, in just a few seconds.',
+    developer: 'Fing Limited',
+    developerId: '5065527547021967317',
+    icon:
+     '//lh3.googleusercontent.com/s87SVRzRhYFUk2qhSsmo-lOCO9NJXmCTtLjPFiWQMQ_cm5Jx9t2RFj4d7fng47fPZjU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lksystems.wifiintruder',
+    appId: 'lksystems.wifiintruder',
+    title: 'Wifi Inspector',
+    summary:
+     'Do you want to know if someone is connected to your wifi without permission?',
+    developer: 'LK Interactive Services',
+    developerId: 'LK+Interactive+Services',
+    icon:
+     '//lh3.ggpht.com/ah33XYxI__2lvYXk28Odxe12N7w6Z3ss0Y0Ww4R_yvuzJZoMPstjZEayS6pKIenNwg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rinacode.android.netstatplus',
+    appId: 'com.rinacode.android.netstatplus',
+    title: 'Netstat Plus',
+    summary:
+     'Netstat Plus is the netstat utility for connection monitoring.',
+    developer: 'Rinacode',
+    developerId: 'Rinacode',
+    icon:
+     '//lh6.ggpht.com/ARjiiot6zK_dhJ2P6In4z6iFcPNTHWYrIX2Ewty1CrNViqx9N0hz5wwSYH6t-UFpZfc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.veloxity.app',
+    appId: 'net.veloxity.app',
+    title: 'WiFi  |  Mobile Network Speed',
+    summary:
+     'Wi-Fi Mobile Quality Wi-Fi Speed Internet Wi-Fi App Data Quota W-iFi Signal',
+    developer: 'Veloxity Inc.',
+    developerId: 'Veloxity+Inc.',
+    icon:
+     '//lh4.ggpht.com/QeO-khXDNMOUCQk0bt_pUtnTV93z4uTYWy_42cOevbTLjoO1wMExlTH_ZDqXNBSw-Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roamingsoft.manager',
+    appId: 'com.roamingsoft.manager',
+    title: 'WiFi Connection Manager',
+    summary:
+     'Improve connection, show password, fix problems, backup/restore, adv scan, etc.',
+    developer: 'roamingsoft',
+    developerId: 'roamingsoft',
+    icon:
+     'https://lh4.ggpht.com/S6C6XI2Y-i4HIS_cQAGdEWYmIr7bxxxTYR3Vf5wajYo7hojxcQSi4EbhTcq4El-uQM0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Innovidio.spywifi',
+    appId: 'com.Innovidio.spywifi',
+    title: 'Who is on my WiFi? WiFi Spy Tool & Network Scanner',
+    summary:
+     'WiFi thief detector discovers who use my Wifi, protect WiFi security Block Thief',
+    developer: 'Innovidio Apps',
+    developerId: '7876233969967658979',
+    icon:
+     '//lh3.googleusercontent.com/lsbDaI--5iixnUy7BvbrxmoXYnnkTZ5rXhgF7ehGKfnQmi1kfrHUHP6oeMVkx-T9ow=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wifibooster.wifianalyzer',
+    appId: 'com.wifibooster.wifianalyzer',
+    title: 'Wifi Booster - Wifi enhancer',
+    summary:
+     'Wifi booster is the best solution for wifi network connector every where.',
+    developer: 'Tristana Team',
+    developerId: 'Tristana+Team',
+    icon:
+     '//lh3.googleusercontent.com/fmakCgwhO8ZYKn9VNUutaXcSWErWfDEP_O_yHopK0mdG2OIycV1saanhH4QQNetJEw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.wifiscanner',
+    appId: 'de.android.wifiscanner',
+    title: 'WiFi Overview 360',
+    summary: 'The universal WiFi tool.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh4.ggpht.com/SoCbAu8bDn2LrCNb_ZJlK0mfn74gGMCL66ESDw42tNSMaNiux_dhF13hy9zwEvBlKtE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.free.wireless.hack.network.connection.hotspot.password.wifi',
+    appId:
+     'com.free.wireless.hack.network.connection.hotspot.password.wifi',
+    title: 'Free Wifi Connection Anywhere & Portable Hotspot',
+    summary:
+     'WIFI Connect for Find, connect, manage wireless networks Portable Wifi Hotspot',
+    developer: 'PBreak Studio',
+    developerId: 'PBreak+Studio',
+    icon:
+     '//lh3.googleusercontent.com/1ny8o6-HVFUdXXio1hfKcxQRnhjnjE6_NQcUmSnsvglcn7FCxFXdD8nOltrvLrMzed--=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netgear.WiFiAnalytics',
+    appId: 'com.netgear.WiFiAnalytics',
+    title: 'NETGEAR WiFi Analytics',
+    summary: '',
+    developer: 'NETGEAR Genie',
+    developerId: 'NETGEAR+Genie',
+    icon:
+     '//lh4.ggpht.com/PrUi2_DmSR8iY_eAJMdAzIZoL0_IqFmynEwPoDU49Vfy8zuj-JN95nD14S_YzRjcAtk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.za.flash.wifiprioritizer',
+    appId: 'org.za.flash.wifiprioritizer',
+    title: 'WiFi Prioritizer',
+    summary:
+     'WiFi Prioritizer will switch your device\'s wifi to a more preferred network',
+    developer: 'Robert Botha',
+    developerId: 'Robert+Botha',
+    icon:
+     '//lh3.googleusercontent.com/lQX49o6BtMXmuOQvwOJD7cbThmdC0mf0B70PtuoENcIlxdVdGHgCFSRE6vgCnf1B_f4k=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pierwiastek.wifidata',
+    appId: 'com.pierwiastek.wifidata',
+    title: 'WiFi Data - Signal Analyzer',
+    summary: 'Best WiFi net signal strength analyzer',
+    developer: 'Propane Apps',
+    developerId: 'Propane+Apps',
+    icon:
+     '//lh3.googleusercontent.com/mBT1snWDiKVkEgNm8BA_-pKtzLt77I035A4Hskqtx4c-0vKiOXdb7eoRbF9_RPeUyQM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.speedspot.speedanalytics',
+    appId: 'org.speedspot.speedanalytics',
+    title: 'SPEEDCHECK - Speed Test',
+    summary:
+     'Internet Speed Test & WiFi Analyzer. Test and meter your net and WiFi speed.',
+    developer: 'Internet Speed, Etrality',
+    developerId: '5641203057156022873',
+    icon:
+     '//lh3.googleusercontent.com/vl75NkpkiMsmSkvNJXydbBUELPxUP4BJINXvKHxN3vpvEs0a9oKSXGcNc3bwASZxuQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile',
+    appId: 'com.ea.gp.simsmobile',
+    title: 'The Sims™ Mobile',
+    summary: 'Play with life.',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/bPKeWXaJjU7a0wCQCM9ygnh1i8DCuEAXlQ_oVUszu-4clXLq10KxPyY547W_suJovA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.basecompany.base.mybase',
+    appId: 'be.basecompany.base.mybase',
+    title: 'My BASE',
+    summary:
+     'Monitor, manage and control your BASE call plan with My BASE.',
+    developer: 'Telenet Group',
+    developerId: 'Telenet+Group',
+    icon:
+     '//lh3.googleusercontent.com/VYzH8r1DomwZNYJtvbamp5XGmEIsqxexDYoA7iHbsUG3cXrGKWM6uPNOxJP2h0jbsCo=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.vrt.ketnet.ketnet',
+    appId: 'be.vrt.ketnet.ketnet',
+    title: 'Ketnet',
+    summary: 'Endlessly enjoy your favorite Ketnet programs',
+    developer: 'VRT',
+    developerId: 'VRT',
+    icon:
+     '//lh3.googleusercontent.com/sVm-NbnT5QOHgbYXlbmYZLGhlf2emKn7SibQUq8Ha_EnhV65kbZWR91PS51yO_ThITzc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.diekeure.kweetet',
+    appId: 'be.diekeure.kweetet',
+    title: 'Kweetet SPEELet',
+    summary:
+     'The best game linked to the online training platform for primary school',
+    developer: 'die Keure',
+    developerId: 'die+Keure',
+    icon:
+     '//lh3.googleusercontent.com/7dnEOnxcNBRJ6SRcvju4fbt77MkchhKJNpuCBbpDUcQVHjn_PGVrdBh2A86cgAyCWQ8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.chupmb.myhap',
+    appId: 'be.chupmb.myhap',
+    title: 'MyHAP',
+    summary: 'Mobile application of the hospital Ambroise Paré de Mons.',
+    developer: 'CHU Ambroise Paré',
+    developerId: 'CHU+Ambroise+Par%C3%A9',
+    icon:
+     '//lh3.googleusercontent.com/gVGjFs-Lfxvd3xjGSoknKQREdaKVi9K9WN1XKhZLVh4n6E_a5RmbQ1wbcR2eUI8Zw9Li=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crossfield.namsterlife',
+    appId: 'com.crossfield.namsterlife',
+    title: 'Hamster Life',
+    summary:
+     '9 million downloads! This is a super healing free app game「Hamster Life」',
+    developer: 'Cross Field Inc.',
+    developerId: '8349232061000500898',
+    icon:
+     '//lh3.googleusercontent.com/92nYyJo0pQ89AHDZ4cLrVzImwbvCb-E1XG9jXsP5ndPd7iNioGFgnBzgVyKKfTUB2Yc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.vdab.uitsprekend',
+    appId: 'be.vdab.uitsprekend',
+    title: 'Uitsprekend',
+    summary:
+     'An app for foreigners who want to improve their pronunciation.',
+    developer: 'VDAB (Vlaamse Dienst)',
+    developerId: 'VDAB+(Vlaamse+Dienst)',
+    icon:
+     '//lh3.googleusercontent.com/jYFvhDPTEb3gdaVx1xPKMI6kwtYqcaGS7bPf25wkNsk6OkmRSzFisrzBi6fs8R1vqOY1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.ileren.grammatica',
+    appId: 'be.ileren.grammatica',
+    title: 'NT2 Grammatica',
+    summary: 'NT2 Grammar',
+    developer: 'ileren.be',
+    developerId: 'ileren.be',
+    icon:
+     '//lh3.googleusercontent.com/eZTuFhZ1rGskxUHfIJriZYtIlD2-mKcMGXzVkMTnN8X_7Bp48oVW3cosPeU2Wa-3pg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.corilus.reid',
+    appId: 'be.corilus.reid',
+    title: 'ReID',
+    summary:
+     'Reid is a mobile application intended for home care providers.',
+    developer: 'SOFT33 - A Corilus Company',
+    developerId: 'SOFT33+-+A+Corilus+Company',
+    icon:
+     '//lh3.googleusercontent.com/UN1txhNQUFv2fgTjFh1nZvTINW3agCSG94ABJfz6_FfUWdFgxTwW81LP__hsIUfwZg=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.isabel.multibankingapp',
+    appId: 'be.isabel.multibankingapp',
+    title: 'Isabel Multibanking',
+    summary:
+     'Isabel Multibanking app provides one single access to all of your banks!',
+    developer: 'Isabel NV',
+    developerId: 'Isabel+NV',
+    icon:
+     '//lh3.googleusercontent.com/4bosy5OGDaWzP856S3coIaetNlvzLiH9jG6g0pxt7CsTD507D1fC-N7D72jnze45AQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

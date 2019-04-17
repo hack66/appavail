@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.zamzam_1507193986562_22065',
+    appId: 'com.revesoft.mobiledialer.zamzam_1507193986562_22065',
+    title: 'ZamZam Tel',
+    summary: 'ZamZam Tel is a SIP-based soft phone.',
+    developer: 'Z-Host Communications',
+    developerId: 'Z-Host+Communications',
+    icon:
+     '//lh3.googleusercontent.com/okavJq-Cc6nnzguH9k1clS2L1B27PACRseIrVh5yjT9Am4FGYKf2wtKqKuiQUSdPSfB7=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sa.jawwy.app2',
+    appId: 'sa.jawwy.app2',
+    title: 'Jawwy',
+    summary:
+     'Your personal mobile service that allows you to build, manage & share your plan',
+    developer: 'Jawwy from STC',
+    developerId: 'Jawwy+from+STC',
+    icon:
+     '//lh3.googleusercontent.com/Zs0FosPwKiBnM31y9atgDHX3qxxZQORykTgGR4l8A1eCY4skYJSZxHNFuw5FZ7G_SA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.itelmobiledialer.dialer',
+    appId: 'com.revesoft.itelmobiledialer.dialer',
+    title: 'iTel Mobile Dialer Express',
+    summary:
+     'iTel Mobile Dialer Express, enabling VoIP Calls, SMS, Mobile Top Up and more.',
+    developer: 'REVE SYSTEMS LTD.',
+    developerId: 'REVE+SYSTEMS+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/FxVO4tmAGRfxfbFqM2bumz5Y8FPwsymS1MJLAZ8UtM0DUKGywcBj7-LFZg6YNLRvGgtX=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=sa.gov.moi',
+    appId: 'sa.gov.moi',
+    title: 'Absher',
+    summary:
+     'Absher is the official individuals eServices Mobile Application in Saudi Arabia.',
+    developer: 'National Information Center',
+    developerId: 'National+Information+Center',
+    icon:
+     '//lh3.googleusercontent.com/CwhLG9RvUZ7y2n9t17SfYJ4Tb9p7iCLGZir4IgYvmsqcMGPWr-_2LHZAKmV3O4KLlhLG=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.stc',
+    appId: 'com.stc',
+    title: 'MySTC',
+    summary: 'Control you accounts and services directly through MySTC',
+    developer: 'STC',
+    developerId: 'STC',
+    icon:
+     '//lh3.googleusercontent.com/qo4XEBNnTwfolWfLG_5SCpiA6RV7JPhrVj2HcEJB9LAkjBYIFiQrCCSOUpnd23QZZeoj=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.dialglobe_communication.mabrook_plazma',
+    appId:
+     'com.revesoft.mobiledialer.dialglobe_communication.mabrook_plazma',
+    title: 'Mabrook Plazma',
+    summary: 'Mabrook Plazma is a SIP-based soft phone.',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh4.ggpht.com/fUlFqaJfaCeM0mFvFiUg64lgJe2veMlE2PtnWy-Kc5YyLxqX8v1fSlHrbdDtC76eAw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.maxx_1540090068113_47425',
+    appId: 'com.revesoft.mobiledialer.maxx_1540090068113_47425',
+    title: 'MaxxVoip - No1',
+    summary:
+     'MaxxVoip - No1 is a mobile app for Android and other smartphones',
+    developer: 'iweb telecom',
+    developerId: 'iweb+telecom',
+    icon:
+     '//lh3.googleusercontent.com/ADUctSTFbodO-4i5Tm57iQXGnvIIGry4z1_sPLc1f5f9DLxEvunr-CIOwDLzcMtOS_c=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.ajwatalk_1482321778523_12216',
+    appId: 'com.revesoft.mobiledialer.ajwatalk_1482321778523_12216',
+    title: 'Ajwatalk',
+    summary:
+     'Ajwatalk is a popular mobile voip dialer. whatsapp support 24/7 - +918086646938',
+    developer: 'Voizarabia',
+    developerId: 'Voizarabia',
+    icon:
+     '//lh3.googleusercontent.com/_nc_W2pt9UlUowIoH2fz6ndOcHxCrBa6Vpa4kR14-_ZsFKzs_cVpkBkTqAo7U616hizu=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.bigarabia_1493706069761_23938',
+    appId: 'com.revesoft.mobiledialer.bigarabia_1493706069761_23938',
+    title: 'Big Arabia',
+    summary:
+     'Big Arabia is a SIP-based Soft Phone for Android Mobile to make VoIP Calls',
+    developer: 'BigArabia',
+    developerId: 'BigArabia',
+    icon:
+     '//lh3.googleusercontent.com/Bk3b8HnKYcTi9QlLmIUm06jFveOSrno05TfY2Z2A43g0_5nCI5MHqFLz7H_yU-LLFNc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.hellopak_46013',
+    appId: 'com.revesoft.mobiledialer.hellopak_46013',
+    title: 'HELLOPAK',
+    summary:
+     'HELLOPAK is a popular voip dialer, 24/7 whatsapp support contact +918086646938',
+    developer: 'penguinmedia',
+    developerId: 'penguinmedia',
+    icon:
+     '//lh3.googleusercontent.com/hVW45Nt3XrxE-U9s56hTxYK5a-Ty3oXs5fWPX_6i2j2lWB9yQc5CWZ3Eb9a8sWaB4w=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.dialglobe_communication.ramadafone',
+    appId:
+     'com.revesoft.mobiledialer.dialglobe_communication.ramadafone',
+    title: 'Ramadafone Itel',
+    summary: 'RamadafoneItel',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh3.googleusercontent.com/cPZ-bNdckw0zZKXXd7oqK27ozgxhr9E0_CaVDTHRsRMI-byKT7kz9-7QzZlz-qPXvXw=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.xlvoiz.audifone',
+    appId: 'com.revesoft.mobiledialer.xlvoiz.audifone',
+    title: 'Audifone iTel',
+    summary: 'Audifone1 is a mobile app for Android',
+    developer: 'VoIP Stall',
+    developerId: 'VoIP+Stall',
+    icon:
+     '//lh6.ggpht.com/IZO6Fv9ORlczca4pAV4CF7TdXA0gxDjuKo2baPRIpJnr1enqWkNBCRyJi0Cfah3j6QM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alahli.mobile.android',
+    appId: 'com.alahli.mobile.android',
+    title: 'AlAhliMobile',
+    summary:
+     'AlAhliMobile Application allow NCB customers to perform their transactions.',
+    developer: 'The National Commercial Bank (NCB)',
+    developerId: 'The+National+Commercial+Bank+(NCB)',
+    icon:
+     '//lh3.googleusercontent.com/FZIGW9XyJosgY2uuvqxgXz7ZUzrBuVDLGRcTfZjCjEq6R-xqCJ6TY99X3n5CGIkrDSqf=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.bestarabia_1490003612719_91027',
+    appId: 'com.revesoft.mobiledialer.bestarabia_1490003612719_91027',
+    title: 'Bestarabia Prime',
+    summary:
+     'Bestarabia Prime is a SIP-based Soft Phone for Android Mobile to make VoIP Calls',
+    developer: 'DataVoice',
+    developerId: 'DataVoice',
+    icon:
+     '//lh3.googleusercontent.com/bokuPCFyOfHiNK6kgY5eRGw8ivKWc_Sh4nJOYJn2M-UzV-4OQoAzOpLVSnNxex0zckQ6=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.p_dialer_19718',
+    appId: 'com.revesoft.mobiledialer.p_dialer_19718',
+    title: 'P Dial Dialer',
+    summary: 'P Dial Dialer',
+    developer: 'Voiz Communication',
+    developerId: 'Voiz+Communication',
+    icon:
+     '//lh3.googleusercontent.com/f9yUZLv2lnsGhP1_3t-Nj3ogqun-ZeacQ_8_kVfxQj1Gx6RN0YQRj_wuK3OLAqnGIB8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.dialglobe_communication.y2call',
+    appId: 'com.revesoft.mobiledialer.dialglobe_communication.y2call',
+    title: 'Y2 call iTel',
+    summary:
+     'Y2call is a SIP-based Soft Phone for Android Mobile to make VoIP Calls',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh3.googleusercontent.com/d0q5XFNLwJtqSQAqPRt6Lq3_S70BG9mzl52a--eDKOsgHC5IHMRAti09PsHvkpbphlJW=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tuchguru.saudiiqamastatus',
+    appId: 'com.tuchguru.saudiiqamastatus',
+    title: 'Saudi Iqama Status',
+    summary: 'CHECK IQAMA EXPIRY DATE OR VALIDITY',
+    developer: 'Naaz Soft',
+    developerId: 'Naaz+Soft',
+    icon:
+     '//lh3.googleusercontent.com/dGBmQNQCbsnhNhLAZ6bT7ivZeMEIGGxGRLHx_pWz6NqsBl2favkwBxXy2KVz0uWKIh0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netvariant.lebara',
+    appId: 'com.netvariant.lebara',
+    title: 'Lebara KSA',
+    summary: 'Download Lebara KSA App & manage your Lebara line',
+    developer: 'Lebara Development KSA',
+    developerId: 'Lebara+Development+KSA',
+    icon:
+     '//lh3.googleusercontent.com/CZqy7YElGT2MuBMsYNvIc98luSRLx04HqvMugd9iXatMqJbucYD_In4G-XTanzIrnkE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

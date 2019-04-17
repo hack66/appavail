@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.skype.raider',
+    appId: 'com.skype.raider',
+    title: 'Skype - free IM & video calls',
+    summary:
+     'Talk to friends and family using voice, video, SMS or instant messages.',
+    developer: 'Skype',
+    developerId: 'Skype',
+    icon:
+     '//lh3.googleusercontent.com/d6TTnyRybU8B2naK8a0y1_u8ufjtK5V-mizS6o1tCx0U1aYPX9nJzcq9rSm5W2VVzBw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    appId:
+     'com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    title: 'Oxford Dictionary of English : Free',
+    summary:
+     'The most complete and accurate dictionary of English with 350,000 words now FREE',
+    developer: 'MobiSystems',
+    developerId: '4895393381068725503',
+    icon:
+     '//lh3.googleusercontent.com/Cu0--f70XV3OPaz1s7B8IIQ4jFN4ukydKrJtrhxMuFFF1RKLDizzehjyKmCv_o2GojM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jmobile.emmanuella',
+    appId: 'com.jmobile.emmanuella',
+    title: 'Emmanuella & Success Comedy Videos',
+    summary:
+     'ENJOY 2019 with FREE COMEDY from Emmanuella, Success & Other AFRICA FUNNY VIDEOS',
+    developer: 'JMTech NG',
+    developerId: 'JMTech+NG',
+    icon:
+     '//lh3.googleusercontent.com/PNP8-p7SDaZh-giw83wQoEdr359GmYQhyYNVUEmI0JAnzVmquwEX2trDUHSICb-XqT8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ibrahimsoft.riddles',
+    appId: 'com.ibrahimsoft.riddles',
+    title: 'Tricky Riddles',
+    summary:
+     'Top Riddles and top brain teasing questions with answers in English',
+    developer: 'Ibrahimsoft',
+    developerId: '5819512032892611928',
+    icon:
+     '//lh3.googleusercontent.com/L6qkcz_kv152IeHZwnXfUxoRAyn6O151vISgPqiDXSFq0TLZIAOrHwU2ScKWnLln7w8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nonstop.gospelvideosongs',
+    appId: 'com.nonstop.gospelvideosongs',
+    title: 'GOSPEL MUSIC & SONGS 2018 : Praise & Worship Songs',
+    summary:
+     'GOSPEL MUSIC & SONGS 2018 : Listen New, Best, Top, Old, Latest Gospel Songs',
+    developer: 'Nonstop Songs & Country Music Videos',
+    developerId: 'Nonstop+Songs+%26+Country+Music+Videos',
+    icon:
+     '//lh3.googleusercontent.com/Lrsn9MeeQHh1-nXEu65vZaFTZGcf0SITGd6bhW71hgD93-t6TDzlRFpViGfJpalqmQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.andromo.dev614087.app732769',
+    appId: 'com.andromo.dev614087.app732769',
+    title: 'Namibia Newspapers',
+    summary:
+     'Follow up all the latest news as they happen in this Namibia newspapers app.',
+    developer: 'GlamourousWeb',
+    developerId: 'GlamourousWeb',
+    icon:
+     '//lh3.googleusercontent.com/Gy2D0C9mTFMJfTYflXyiApHmOUmq3OHG9_GQUi7uRvYqE5I0dkxSPqtanWDvei4D7w=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jmt.emma_goodluck',
+    appId: 'com.jmt.emma_goodluck',
+    title: 'Emmanuella Funny Videos 2019',
+    summary:
+     'Watch & Enjoy the Top Rated Emmanuella Comedy & All Nigeria Comedy App',
+    developer: 'AfroCity',
+    developerId: '9060663578856029147',
+    icon:
+     '//lh3.googleusercontent.com/d_UfgWwETFPZQggb6cdmNnQ64vK62zCR-0lX3o6bIi95X5UFwcTB_JPCaRZurapcHak=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.androidhero.cakewithname',
+    appId: 'in.androidhero.cakewithname',
+    title: 'Cake with Name wishes - Write Name On Cake',
+    summary:
+     'Write name on Happy Anniversary And birthday Cake picture in beautiful style',
+    developer: 'AndroidHero',
+    developerId: 'AndroidHero',
+    icon:
+     '//lh3.googleusercontent.com/aU8AHbIEPHmxi1RjISP8PVU8TipJ0yy1Cz4SkP7kfJEhWovIGEdtSQ3qrJ0bvoJTLcc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=frm.art.sweet.selfie.camera',
+    appId: 'frm.art.sweet.selfie.camera',
+    title: 'Sweet Face Camera',
+    summary:
+     'Get more likes and followers on Snapchat and social network',
+    developer: 'FRM ART',
+    developerId: 'FRM+ART',
+    icon:
+     '//lh3.googleusercontent.com/wmugRPPVxBS8Z6qAJvHIiKQ925EvxUmVgiYGTUhaMBXt-gb7ojn0WJwWmPF8gVEmqw=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ad123.oshikwanyamadictionary',
+    appId: 'com.ad123.oshikwanyamadictionary',
+    title: 'Oshikwanyama Dictionary - learn Owambo languages',
+    summary:
+     'English - Oshikwanyama translations, also usable in Oshindonga, Oshiwambo, etc.',
+    developer: 'Adrian Breiding',
+    developerId: 'Adrian+Breiding',
+    icon:
+     '//lh3.googleusercontent.com/Zek3oeSXNXhQAJ4WAEzVp2Fpxy54C0V5WvdXQw9NfI7bHI-bjmQ-CGGM6TWW36JEBCQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iwatsolutions.loadup',
+    appId: 'com.iwatsolutions.loadup',
+    title: 'Airtime Loadup - Airtime loader & scanner',
+    summary:
+     'Airtime loading app for all countries & networks using a phone\'s camera',
+    developer: 'IwatSolutions',
+    developerId: 'IwatSolutions',
+    icon:
+     '//lh3.googleusercontent.com/-d83vFT_wCxDkFdln0b6_kRpnP4fYFH50YUA1vgR6xI-PiH3HuEbK0RHvUQvWbUIXDVK=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.stormbreakxr.york.city.taxi.crazy.driver.driving.games.free',
+    appId:
+     'com.stormbreakxr.york.city.taxi.crazy.driver.driving.games.free',
+    title: 'New York City Taxi Driver - Driving Games Free',
+    summary: 'Let’s Play New York City Taxi Driver.',
+    developer: 'Storm Breakxr',
+    developerId: 'Storm+Breakxr',
+    icon:
+     '//lh3.googleusercontent.com/Yxrd8XtuMvTFZRKqA4g0y_1WZBmprOKBgBQcGjC0S1kVgVkokxJAh0P0rn47g3zNbxM=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ergonlabs.SabbathSchool',
+    appId: 'com.ergonlabs.SabbathSchool',
+    title: 'SDA Sabbath School Quarterly',
+    summary:
+     'Sabbath School Quarterly app allows you to take your studies wherever you go.',
+    developer: 'Stefan Rusek',
+    developerId: 'Stefan+Rusek',
+    icon:
+     '//lh4.ggpht.com/PKqix0PLkLUwzS1Ttw7cz_pbqGlKW4xgAADiHso6FMaKzuMp4VV90OCJJ5khu_BTHg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

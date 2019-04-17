@@ -1,0 +1,278 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ua.ers.simpleVpn',
+    appId: 'ua.ers.simpleVpn',
+    title: 'Simple VPN - bypass of blocking sites',
+    summary:
+     'A simple VPN client to bypass the sites blocks and secure Internet traffic',
+    developer: 'Electronic Rescue Service',
+    developerId: '8294402608006584816',
+    icon:
+     '//lh3.googleusercontent.com/l2OTT07qnv4ie7zRNfri-fElVj0b2ocSiZHfr0N3Na1mcHUYjcBl_ohfW-gEb5IWEw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
+    appId: 'free.vpn.proxy.unblock.android.easy.app',
+    title: 'VPN Easy',
+    summary:
+     'Easy to use Free VPN ProxyUnblock Websites & AppsSecure and Anonymous Surf',
+    developer: 'ZPN',
+    developerId: 'ZPN',
+    icon:
+     '//lh3.googleusercontent.com/9-63ouBNNo-BmrmTerLleWU3odKSWmxi8nPJUz3TFGniHAo47OCn9fYJeTcQvkTrpTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshua.legalforms',
+    appId: 'com.joshua.legalforms',
+    title: 'Complete Legal Forms',
+    summary:
+     'This apps contains legal forms and agreements to safeguard your legal rights',
+    developer: 'Joshua Inc',
+    developerId: 'Joshua+Inc',
+    icon:
+     '//lh5.ggpht.com/GFsqsT4D0KYbyY-pNLLYkPhQs6zEp8b1phjktdl8sgNOSk-QljRyEMDz_p7WCblLYKI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=droom.sleepIfUCan',
+    appId: 'droom.sleepIfUCan',
+    title: 'Alarmy - Mission Alarm Clock with Loud Ringtones',
+    summary:
+     '🏆#1 Alarm Clock in 97 Countries✔️Math, Photo & Shake Missions✔️Loud Ringtones',
+    developer: '⏰Alarmy',
+    developerId: '8894199970691315215',
+    icon:
+     '//lh3.googleusercontent.com/X8ldD85IhcCHO7a_h5I4hWU9j6UTWJUzYXKUXoEXkCs1Pn9i9-4I3SE4z3mSavgdHbs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maker_bestapp.meme.mememaker',
+    appId: 'com.maker_bestapp.meme.mememaker',
+    title: 'Meme, Quote Maker',
+    summary: 'Make Mems  and Quote Pics',
+    developer: 'Shaaban',
+    developerId: 'Shaaban',
+    icon:
+     '//lh3.googleusercontent.com/HpOrgDym7X5qVzYiyPUi4r3tQTGZhFT9PFvkrBuVuiKgc1P4U2hz3kpfve1Kr7Yw01Y=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=gov.state.apps.smarttraveler',
+    appId: 'gov.state.apps.smarttraveler',
+    title: 'SmartTraveler',
+    summary:
+     'Smart Traveler, the official State Department app for U.S. travelers.',
+    developer: 'US Dept of State',
+    developerId: 'US+Dept+of+State',
+    icon:
+     '//lh5.ggpht.com/bqhTJKj0M7-F_SxQPRXvNeyQt2KS12eBtdGHUMrwwI3Noq6qrkOy12jJGHqStZ6VVg=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tapinator.police.carsmash',
+    appId: 'com.tapinator.police.carsmash',
+    title: 'Police Car Smash 2017',
+    summary:
+     'Join the Police - Chase & Smash Thieves in this Amazing Cop Car Smashing Game!',
+    developer: 'Tap2Play, LLC (Ticker: TAPM)',
+    developerId: 'Tap2Play,+LLC+(Ticker:+TAPM)',
+    icon:
+     '//lh3.googleusercontent.com/ks4B7aVQT4y_5W6EURllqWmScAaLKLzulzj4-Zk_5l7IUJ898iZtK1yAdTU-SQjNkFs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rocketjump.majormayhem2',
+    appId: 'com.rocketjump.majormayhem2',
+    title: 'Major Mayhem 2 - Gun Shooting Action',
+    summary:
+     'Ultimate Run and Gun, shooting game! FREE Download. Save the world!',
+    developer: 'Rocket Jump Games',
+    developerId: '8174785684809071842',
+    icon:
+     '//lh3.googleusercontent.com/64dl7kZxxBBOvxpZD6igWXvf98Rq3iHBmtPEP5e0O3hNIzV5wZclr0IkIRVnahxIcziv=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.stayfocused',
+    appId: 'com.stayfocused',
+    title: 'Stay Focused - App Block',
+    summary:
+     'Stay Focused - App Block helps you focus by restricting the usage of blocked app',
+    developer: 'Innoxapps',
+    developerId: 'Innoxapps',
+    icon:
+     '//lh3.googleusercontent.com/fX2AH9xjt6MWmVjAPaj8FVauceYDJIPjSBsQp1ok19z_kWwKV-UzWOjZ6Otk0E0k_Yo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice.unlock',
+    appId: 'com.joaomgcd.autovoice.unlock',
+    title: 'AutoVoice Pro Unlock',
+    summary:
+     'Unlocks the full version of AutoVoice: allows commands with more than 4 chars',
+    developer: 'joaomgcd',
+    developerId: '8102570190170276456',
+    icon:
+     '//lh3.googleusercontent.com/D-eTeD9--JPXeMIQxps7Cnwe-FXZQHHy0pSM5NZ9bAb-AF2d_dFvKp1inuNG0u0ybIIv=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '$2.81',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.disney.wheresmywater2_goo',
+    appId: 'com.disney.wheresmywater2_goo',
+    title: 'Where\'s My Water? 2',
+    summary:
+     'The sequel to the most addicting physics-based puzzler from Disney is here!',
+    developer: 'Disney',
+    developerId: 'Disney',
+    icon:
+     '//lh3.googleusercontent.com/xAsBzQpt4GTBx3Clu-Fwrwu5CeZuKjLBpe69s1BnuwKKs6_TEkyj0AjtD4TmULio2Ww=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pl.lukok.draughts',
+    appId: 'pl.lukok.draughts',
+    title: 'Checkers',
+    summary:
+     '50 millions of downloads 🎂🎉 The most popular ⛃ Checkers for Android!',
+    developer: 'Łukasz Oktaba',
+    developerId: '8116283642168527192',
+    icon:
+     '//lh3.googleusercontent.com/KV2QNyKgfg0lw7mCauGkxsziCf4yNBN-5iKrcIT2dvK1pCe1gru2r-ctoAPg6aIyhpC1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kabam.bigrobot',
+    appId: 'com.kabam.bigrobot',
+    title: 'TRANSFORMERS: Forged to Fight',
+    summary:
+     'Join your favorite Bots in battle where Transformers universes collide!',
+    developer: 'Kabam Games, Inc.',
+    developerId: '5584164941825017957',
+    icon:
+     '//lh3.googleusercontent.com/UhsYWdWFKQh_-XNJtjEdBfbgu51A0S3U_VDKxpa-M5SDp8qVb2aeETv9PmnWhOAoad-8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink',
+    appId: 'com.google.android.apps.kids.familylink',
+    title: 'Google Family Link for parents',
+    summary:
+     'Stay in the loop as your child explores on their compatible devices.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/H_pTz59Knfkh3_Y3EyFJ3twqz3bHyeZGsvAPZ-hYa9CKxteNonFj3BsDGeBj-cvO4ts=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

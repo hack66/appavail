@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.roamingsoft.manager',
+    appId: 'com.roamingsoft.manager',
+    title: 'WiFi Connection Manager',
+    summary:
+     'Improve connection, show password, fix problems, backup/restore, adv scan, etc.',
+    developer: 'roamingsoft',
+    developerId: 'roamingsoft',
+    icon:
+     'https://lh4.ggpht.com/S6C6XI2Y-i4HIS_cQAGdEWYmIr7bxxxTYR3Vf5wajYo7hojxcQSi4EbhTcq4El-uQM0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nutsaboutnets.wifiexplorer',
+    appId: 'com.nutsaboutnets.wifiexplorer',
+    title: 'Wifi Scanner & Net Discovery',
+    summary:
+     'Explore your Wi-Fi environment with WifiExplorer\'s graphical charts.',
+    developer: 'Nuts About Nets',
+    developerId: 'Nuts+About+Nets',
+    icon:
+     '//lh3.googleusercontent.com/93sjf-U5Os56S2xZvwdiW0TEiD2ob1Fq3pWmn9AWBP6L3mBIo52AqzGNmIFikXAK5Yan=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.openvpn.privatetunnel',
+    appId: 'net.openvpn.privatetunnel',
+    title: 'Private Tunnel VPN – Fast & Secure Cloud VPN',
+    summary:
+     'Protect privacy & security of your network connection for safe Internet access',
+    developer: 'OpenVPN',
+    developerId: 'OpenVPN',
+    icon:
+     '//lh3.googleusercontent.com/3lqQuKHzGtgEk3i3QgHSKEetcIVJ2rugvMrLktLjvFLERsNY5Ty9uwaFLB0NWs10LJQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.NetworkGlobal.testSpeed',
+    appId: 'com.NetworkGlobal.testSpeed',
+    title: 'Internet Speed Test  - Wifi & 4G, 3G Speed check',
+    summary:
+     'Speedtest is new App helps to measure and verify the download speed andupload',
+    developer: 'GLOBAL NETWORK',
+    developerId: 'GLOBAL+NETWORK',
+    icon:
+     '//lh3.googleusercontent.com/yKikDwkL7qEKmVUCi2lzsw0mn-hodOsyQjXT3ijAMi4onziKadrsVj6J5iVbTF00ppCJ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cholaware.one',
+    appId: 'com.cholaware.one',
+    title: 'One DNS - Faster, Private Internet & Unblock Sites',
+    summary:
+     'Faster internet with better privacy and unblock sites using CloudFlare\'s DNS',
+    developer: 'Cholaware',
+    developerId: '7679934854761174571',
+    icon:
+     '//lh3.googleusercontent.com/DxK36CEBB5bAlElnaQg8t63VEWWbMdP8PPiQq-xFANhBF1WFqRMVV6ReRxbtiQeQOA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.veloxity.app',
+    appId: 'net.veloxity.app',
+    title: 'WiFi  |  Mobile Network Speed',
+    summary:
+     'Wi-Fi Mobile Quality Wi-Fi Speed Internet Wi-Fi App Data Quota W-iFi Signal',
+    developer: 'Veloxity Inc.',
+    developerId: 'Veloxity+Inc.',
+    icon:
+     '//lh4.ggpht.com/QeO-khXDNMOUCQk0bt_pUtnTV93z4uTYWy_42cOevbTLjoO1wMExlTH_ZDqXNBSw-Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.android.wifiscanner',
+    appId: 'de.android.wifiscanner',
+    title: 'WiFi Overview 360',
+    summary: 'The universal WiFi tool.',
+    developer: 'KAIBITS Software GmbH',
+    developerId: 'KAIBITS+Software+GmbH',
+    icon:
+     '//lh4.ggpht.com/SoCbAu8bDn2LrCNb_ZJlK0mfn74gGMCL66ESDw42tNSMaNiux_dhF13hy9zwEvBlKtE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.webprovider.wifianalyzer',
+    appId: 'cz.webprovider.wifianalyzer',
+    title: 'Wifi Analyzer',
+    summary:
+     'Wifi Analyzer provides information about wifi around you. Channel width support.',
+    developer: 'Webprovider',
+    developerId: 'Webprovider',
+    icon:
+     '//lh6.ggpht.com/m9Z9lRY1XRgwF9g-8N7qIJ-kxQj01GAhPiLbuHlXkBN4w8rufMMERBPH02jGiZDJYozl=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.friends.vpn',
+    appId: 'com.friends.vpn',
+    title: 'Private VPN for mobile',
+    summary:
+     'Super fast VPN to browse privately, secure your privacy using this vpn',
+    developer: 'friendsapp137',
+    developerId: 'friendsapp137',
+    icon:
+     '//lh3.googleusercontent.com/n0p-rxNH5e8ZRwTDlMR4hs9LH9TvV6nuxUrUuVUvJ7QI67hyI5tXhNGs18ivG88vHw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.speedify.speedifyandroid',
+    appId: 'com.speedify.speedifyandroid',
+    title: 'Speedify - Bonding VPN',
+    summary: 'Two Connections are Better than One.',
+    developer: 'Connectify Inc.',
+    developerId: 'Connectify+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JVida87Z2MsE3z14wlZLXvZRdy1YcPr0bSkU0kfiwzslguB6nTT55pKcB-Uwjt0D6p0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ibvpn.client',
+    appId: 'com.ibvpn.client',
+    title: 'ibVPN - VPN for Wifi Security and IP Protection',
+    summary:
+     'Simple and easy to use VPN app & IP changer! Full-featured free trial available.',
+    developer: 'Amplusnet SRL',
+    developerId: 'Amplusnet+SRL',
+    icon:
+     '//lh3.googleusercontent.com/k-MtzyyvY5Zkf2NdxPILExqsx730XToab4cQqZ5189v3hCkt8J1_2Na6C7ysxjcHDmee=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.za.flash.wifiprioritizer',
+    appId: 'org.za.flash.wifiprioritizer',
+    title: 'WiFi Prioritizer',
+    summary:
+     'WiFi Prioritizer will switch your device\'s wifi to a more preferred network',
+    developer: 'Robert Botha',
+    developerId: 'Robert+Botha',
+    icon:
+     '//lh3.googleusercontent.com/lQX49o6BtMXmuOQvwOJD7cbThmdC0mf0B70PtuoENcIlxdVdGHgCFSRE6vgCnf1B_f4k=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netgear.WiFiAnalytics',
+    appId: 'com.netgear.WiFiAnalytics',
+    title: 'NETGEAR WiFi Analytics',
+    summary: '',
+    developer: 'NETGEAR Genie',
+    developerId: 'NETGEAR+Genie',
+    icon:
+     '//lh4.ggpht.com/PrUi2_DmSR8iY_eAJMdAzIZoL0_IqFmynEwPoDU49Vfy8zuj-JN95nD14S_YzRjcAtk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.etwok.netspotapp',
+    appId: 'com.etwok.netspotapp',
+    title: 'NetSpot - WiFi Analyzer',
+    summary:
+     'NetSpot WiFi Analyzer is essential for building a perfect wireless network.',
+    developer: 'Etwok Tech',
+    developerId: 'Etwok+Tech',
+    icon:
+     '//lh3.googleusercontent.com/tmEN0svTW149AQnkfKiKZnAduFjaX2Yv4i60Cd_AMoCrth-QCYwibezgWQyJlL77W4M=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplexsolutionsinc.vpn_unlimited',
+    appId: 'com.simplexsolutionsinc.vpn_unlimited',
+    title: 'KeepSolid VPN Unlimited | Free VPN for Android',
+    summary:
+     'Fast VPN for streaming, torrenting and unblock all websites. 7-day free trial.',
+    developer: 'KeepSolid Inc',
+    developerId: '8251855146399047359',
+    icon:
+     '//lh3.googleusercontent.com/BHJCVFI-ralxc5Rct2iTYqGEP4DSFXW95_73DNghjgFW0BSbzJb4zSedjQOinKA2Ee_z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usenetserver.vpn',
+    appId: 'com.usenetserver.vpn',
+    title: 'UsenetServer VPN',
+    summary:
+     'VPN Encryption for Android | Anonymous IP Address Protection  | Wi-Fi Safety',
+    developer: 'UsenetServer',
+    developerId: 'UsenetServer',
+    icon:
+     '//lh3.googleusercontent.com/tPnk8Z1L8poZMfU4TqqdKVh0ZpGIQda_XPP5Cp72MaoWk9X3fTdGVErZtFDnOfss1ko=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.speedspot.speedanalytics',
+    appId: 'org.speedspot.speedanalytics',
+    title: 'SPEEDCHECK - Speed Test',
+    summary:
+     'Internet Speed Test & WiFi Analyzer. Test and meter your net and WiFi speed.',
+    developer: 'Internet Speed, Etrality',
+    developerId: '5641203057156022873',
+    icon:
+     '//lh3.googleusercontent.com/vl75NkpkiMsmSkvNJXydbBUELPxUP4BJINXvKHxN3vpvEs0a9oKSXGcNc3bwASZxuQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

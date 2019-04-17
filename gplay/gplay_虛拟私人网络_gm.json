@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=free.video.downloader.freevideodownloader',
+    appId: 'free.video.downloader.freevideodownloader',
+    title: 'Free Video Downloader',
+    summary:
+     'Fast download all videos from the Internet with free video downloader.',
+    developer: 'Simple Design Ltd.',
+    developerId: 'Simple+Design+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/EA8VkxCuaslTdYcFfNmtfFTLGb3Wkbg-ivKGXAN11Txl1prekpFEXIQ0wMcTRXAWlgw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment',
+    appId: 'homeworkout.homeworkouts.noequipment',
+    title: 'Home Workout - No Equipment',
+    summary:
+     'Home workouts for fast bodybuilding at home - no equipment needed.',
+    developer: 'Leap Fitness Group',
+    developerId: 'Leap+Fitness+Group',
+    icon:
+     '//lh3.googleusercontent.com/Mxu4YhAr45fbX_iBwi4LiRuSDn9G8R-C_i6PF4Oqys6TqQab2Jl7U5w4WGDtoPwhpTk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.uc.vmate',
+    appId: 'com.uc.vmate',
+    title: 'VMate 2019- Video Downloader &Best Video Tube Mate',
+    summary:
+     'Record the world and download videos from best video tube mate &Video Downloader',
+    developer: 'VMate App Team',
+    developerId: 'VMate+App+Team',
+    icon:
+     '//lh3.googleusercontent.com/7Bq3CwFEz7XsywKgtvdEHlkvMu6y49WAjXFaPNfjmP3oVDAAuc9MM5Dwp5WxEGXHGEpG=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro',
+    appId: 'com.bitsmedia.android.muslimpro',
+    title: 'Muslim Pro - Prayer Times, Azan, Quran & Qibla',
+    summary:
+     'The most accurate prayer times app including the Quran (with 40+ translations)',
+    developer: 'Muslim Pro Limited',
+    developerId: '6337229670035066771',
+    icon:
+     '//lh3.googleusercontent.com/pDxO35VbSjDGRBUNcsQk0lL4uCS_60hHzNzLFz6waN4Rgpg8Q-uCD_hvM8JKLWr-4G3X=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luckydeveloper.apkshare',
+    appId: 'com.luckydeveloper.apkshare',
+    title: 'Apk Share Bluetooth - Send/Backup/Uninstall/Manage',
+    summary:
+     '💡 Share - by Bluetooth , Whatsapp , Email etc.💡 Uninstall💡 Backup💡 Manage',
+    developer: 'Lucky Developer',
+    developerId: 'Lucky+Developer',
+    icon:
+     '//lh3.googleusercontent.com/dfXSIvtETdLKM3U_h1tV8Nis0O8MYYU-FH0tH4RiHwUwQNv0kpr4luhC2Z5uNrpbRQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.springwalk.mediaconverter',
+    appId: 'com.springwalk.mediaconverter',
+    title: 'MP3 Video Converter',
+    summary:
+     'You can convert video files to audio files (MP3, AAC) with various options',
+    developer: 'Springwalk',
+    developerId: 'Springwalk',
+    icon:
+     '//lh3.ggpht.com/SirsGwfTlV_CgfC1B9UtJKVIVVl729kyH2Su1_K9E1_9qDvzHbq47ESB1cqgOYrFYmo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.estrongs.android.pop',
+    appId: 'com.estrongs.android.pop',
+    title: 'ES File Explorer File Manager',
+    summary:
+     'ES File Explorer to easily manage,share all your local Android and Cloud files.',
+    developer: 'ES Global',
+    developerId: 'ES+Global',
+    icon:
+     '//lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=livio.pack.lang.en_US',
+    appId: 'livio.pack.lang.en_US',
+    title: 'English Dictionary - Offline',
+    summary:
+     'Free offline english dictionary easy to use with bookmarks and useful features',
+    developer: 'Livio',
+    developerId: '7909003501452794484',
+    icon:
+     '//lh3.ggpht.com/SgsthPQc0OTS99gIBe3V3Pyli0kigGbhwIZIIFDWS1I87AORHzsSCsLR8a9NefehPQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roidapp.photogrid',
+    appId: 'com.roidapp.photogrid',
+    title: 'PhotoGrid: Video & Pic Collage Maker, Photo Editor',
+    summary:
+     'Top choice Camera App for Collage, drawing, Video maker and Live filter',
+    developer: 'Cheetah Mobile (Photo Editor)',
+    developerId: 'Cheetah+Mobile+(Photo+Editor)',
+    icon:
+     '//lh3.googleusercontent.com/YoZjsJQPrd4PS6JDZ2klScpZnd9BYvLTD26Y0VMmOuBNWFcoWbEfl7QnGEolNr9hDQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sixpack.sixpackabs.absworkout',
+    appId: 'sixpack.sixpackabs.absworkout',
+    title: 'Six Pack in 30 Days - Abs Workout',
+    summary:
+     'Effective abs workouts with different levels, LOSE FAT & GET 6 PACK ABS at home.',
+    developer: 'Leap Fitness Group',
+    developerId: 'Leap+Fitness+Group',
+    icon:
+     '//lh3.googleusercontent.com/F3g--X2roFmKT3CbyWGzq3I3KlI_KyISlVD_gzU8OZVJw0g5WjOQ3LMAX_udGCmBnng=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dywx.larkplayer',
+    appId: 'com.dywx.larkplayer',
+    title: 'Lark Player —— YouTube Music & Free MP3 Top Player',
+    summary: 'Free Video, YouTube, and MP3 Music Player',
+    developer: 'Mobiuspace Tech Top Player',
+    developerId: 'Mobiuspace+Tech+Top+Player',
+    icon:
+     '//lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobisystems.office',
+    appId: 'com.mobisystems.office',
+    title: 'OfficeSuite - Free Office, PDF, Word,Sheets,Slides',
+    summary:
+     'ANDROID\'S TOP MOBILE OFFICE - Word, Excel, PowerPoint and PDF at your fingertips',
+    developer: 'MobiSystems',
+    developerId: '4895393381068725503',
+    icon:
+     '//lh3.googleusercontent.com/Wb85lujqAwU6wKQcyAdFU6r4o9m1ag4ZDYfa-3CLg5hTql4S05sHbdHYjtRzqJk9jng=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tubemote.app',
+    appId: 'com.tubemote.app',
+    title: 'TubeMote',
+    summary:
+     'Remote control for YouTube, Twitch, Vimeo, Dailymotion, Soundcloud, and more!',
+    developer: 'TubeMote',
+    developerId: 'TubeMote',
+    icon:
+     'https://lh3.ggpht.com/4gjRTtXxMox7WyylcmTRlQl9YLCG2Kbofs-HvR1HpydYlcHbC45-WzIuTMMknOwt4g=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adpog.diary',
+    appId: 'com.adpog.diary',
+    title: 'Diary with lock',
+    summary: 'Create your own personal DIARY with lock.',
+    developer: 'WriteDiary.com',
+    developerId: 'WriteDiary.com',
+    icon:
+     '//lh3.googleusercontent.com/HTX4QtnaIl6JT4jn6gb9MLCvU3fGkpYeyqqfKH_eRfZkO3gEr1EpxEnvjraT4nGWHW4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thinkyeah.galleryvault',
+    appId: 'com.thinkyeah.galleryvault',
+    title: 'Gallery Vault - Hide Pictures And Videos',
+    summary:
+     '- Hide pictures, videos, audios and any documents- Support SD card- Hide Icon',
+    developer: 'GalleryVault Developer Team',
+    developerId: 'GalleryVault+Developer+Team',
+    icon:
+     '//lh3.googleusercontent.com/t4TfOTEc6121s9OIutsYuNSfm_Z0GzAy_zwjy6FN548TT913rEps2HYORsAcBrgPCrU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.devuni.flashlight',
+    appId: 'com.devuni.flashlight',
+    title: 'Tiny Flashlight + LED',
+    summary:
+     'Free flashlight app. Uses the camera LED / flash / screen as a torch.',
+    developer: 'Nikolay Ananiev',
+    developerId: 'Nikolay+Ananiev',
+    icon:
+     '//lh3.ggpht.com/aFo5TwJieEcGiqFOAAEznv1V22YPPOLSyeGc2w4_YpUKztu_wBNB1ghw0wCcZQWMlIPJ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

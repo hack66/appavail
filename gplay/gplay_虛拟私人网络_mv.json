@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.estrongs.android.pop',
+    appId: 'com.estrongs.android.pop',
+    title: 'ES File Explorer File Manager',
+    summary:
+     'ES File Explorer to easily manage,share all your local Android and Cloud files.',
+    developer: 'ES Global',
+    developerId: 'ES+Global',
+    icon:
+     '//lh3.googleusercontent.com/GXJtgfcxiEaLabZDmJasdFYB74hSSz1M5fdpKA0wPAmobuI1uc6mcSH_tTdu5XpQaNES=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.djit.apps.stream',
+    appId: 'com.djit.apps.stream',
+    title: 'Free music for YouTube: Stream',
+    summary:
+     'Floating pop-up YouTube music video Player: free & nonstop music listening!',
+    developer: 'MWM - Best free music and audio apps for Android',
+    developerId: '6775629480928024144',
+    icon:
+     '//lh3.googleusercontent.com/ahbK4_mK3ON0zGQL4uk7MZwfpii5b4epjBQgwlBrOOPOHyAJzwggPTXaDWiiLG6zIYLm=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dywx.larkplayer',
+    appId: 'com.dywx.larkplayer',
+    title: 'Lark Player —— YouTube Music & Free MP3 Top Player',
+    summary: 'Free Video, YouTube, and MP3 Music Player',
+    developer: 'Mobiuspace Tech Top Player',
+    developerId: 'Mobiuspace+Tech+Top+Player',
+    icon:
+     '//lh3.googleusercontent.com/917fyHBKHOg-ctjjuau-syg-fAbuiphHiJNfPZXC8yOyzPjhal-tZn_zp7S3kWh-sg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mv.salaf.salat',
+    appId: 'mv.salaf.salat',
+    title: 'Salat MV',
+    summary: 'Prayer times application for the Maldives.',
+    developer: 'Jamiyyathu Salaf',
+    developerId: 'Jamiyyathu+Salaf',
+    icon:
+     '//lh3.ggpht.com/5gCyZnjNz9FvK_N27J6usACVKGfqLaLB_fD0A_MaKo_xgnmmh2Z2bgEnD6gylGD_C5E=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tubemote.app',
+    appId: 'com.tubemote.app',
+    title: 'TubeMote',
+    summary:
+     'Remote control for YouTube, Twitch, Vimeo, Dailymotion, Soundcloud, and more!',
+    developer: 'TubeMote',
+    developerId: 'TubeMote',
+    icon:
+     'https://lh3.ggpht.com/4gjRTtXxMox7WyylcmTRlQl9YLCG2Kbofs-HvR1HpydYlcHbC45-WzIuTMMknOwt4g=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dewmobile.kuaiya.play',
+    appId: 'com.dewmobile.kuaiya.play',
+    title: 'Zapya - File Transfer, Sharing Music Playlist',
+    summary:
+     'Zapya: The fastest cross-platform file transfer tool. Sharing File! Sharing Fun!',
+    developer: 'Dewmobile, Inc.',
+    developerId: 'Dewmobile,+Inc.',
+    icon:
+     '//lh5.ggpht.com/QJUhAltUn9oswVFd36-kJi7c0GGN_wLM89EubY1o6w7vh_l_G0EOQQScRa_Te9_8KX9v=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mv.com.bml.mib',
+    appId: 'mv.com.bml.mib',
+    title: 'Mobile Banking',
+    summary:
+     'Mobile Banking comes to Maldives. It\'s BML at your fingertips',
+    developer: 'Bank of Maldives PLC',
+    developerId: 'Bank+of+Maldives+PLC',
+    icon:
+     '//lh3.googleusercontent.com/IQ117sjMpX0rYhZieoROiix7_Rqh-q8BQSNN6Jl574HlYe1TPALwRBW5nymUj8nTlmM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ruvaa.dhiquran',
+    appId: 'ruvaa.dhiquran',
+    title: 'Quran Dhivehi Tharujamaa',
+    summary: 'Quran Dhivehi Tharujamaa',
+    developer: 'Hussain Shafiu',
+    developerId: 'Hussain+Shafiu',
+    icon:
+     'https://lh3.ggpht.com/UsXBTjvXPOxXeG_lKkcYBwHQnaVwE88tVQDiTUSMiMKn_I30NAFHM1e8cnIyQ_QO1gE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mv.com.dhiraagu.youth',
+    appId: 'mv.com.dhiraagu.youth',
+    title: 'Mamen',
+    summary:
+     'Mamen lets you take control of data, SMS and call minutes you use easier!',
+    developer: 'Dhiraagu',
+    developerId: 'Dhiraagu',
+    icon:
+     '//lh3.googleusercontent.com/H-D64j6___KAAAS6uJ5BddDDnCRTQkMYmsvpwQSjAwSFq2aKxJIge8PwT2pX6ioIYmQs=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kudanai.hisnulmuslim',
+    appId: 'com.kudanai.hisnulmuslim',
+    title: 'Hisnul Muslim - Dhivehi',
+    summary:
+     'Dua\'s from "Hisnul-Muslim" including Dhivehi translations of the duas.',
+    developer: 'kudanai',
+    developerId: 'kudanai',
+    icon:
+     '//lh3.googleusercontent.com/ZX5xWCS2fJFK3VLUS8VwDabQ451lrIIbxw3_B1MXGU43-wpJZWuiSUGizZrIaIvB4wA=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.soundcloud.android',
+    appId: 'com.soundcloud.android',
+    title: 'SoundCloud - Music & Audio',
+    summary:
+     'The world’s largest audio and music streaming platform, with over 150M tracks',
+    developer: 'SoundCloud',
+    developerId: 'SoundCloud',
+    icon:
+     '//lh3.googleusercontent.com/ZwkhZQkwDp8zN6s3HqIYjRMBio3hQhSZczBga6XGnp_DseFgBF6R4XCco49MpdFTdUVz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.touchtype.swiftkey',
+    appId: 'com.touchtype.swiftkey',
+    title: 'SwiftKey Keyboard',
+    summary:
+     'The Best Swipe & Emoji Keyboard. Customize your keyboard and swipe to type.',
+    developer: 'SwiftKey',
+    developerId: 'SwiftKey',
+    icon:
+     '//lh3.googleusercontent.com/cwGQJjbFjppZ9R-cyvUxjhHRp9C0feDpH0xZ9dvyHKp_az6RNHpf5AntBoA6FUGP1wk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.baiskoafu.main',
+    appId: 'com.baiskoafu.main',
+    title: 'Baiskoafu',
+    summary:
+     'Baiskoafu is a first-of-its-kind Streaming App offering unprecedented content.',
+    developer: 'Baiskoafu',
+    developerId: 'Baiskoafu',
+    icon:
+     '//lh3.googleusercontent.com/DXDt8mtHhOaDjry5tNyanHME0DvaX6MTOLVG3FfNOKB3c5rGlQVj89Lu1NPC9CuE4_tq=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

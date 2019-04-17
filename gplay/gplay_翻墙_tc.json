@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.xiaoming.vpn',
+    appId: 'com.xiaoming.vpn',
+    title: 'Xiaoming VPN - Simple Free Unlimited & Safe',
+    summary:
+     'Simple Free Unlimited & Security. No signing up. Just one button to use',
+    developer: 'Xiaoming Addison',
+    developerId: 'Xiaoming+Addison',
+    icon:
+     '//lh3.googleusercontent.com/pYnWR_8GN03cVSnhR5nlY6fWoCuDp9kK-jcnXwYtEUHRXURT1yz757zObPfi2XobZA=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=in.teleplus',
+    appId: 'in.teleplus',
+    title: 'TelePlus - 免翻牆電報',
+    summary:
+     'TelePlus - 免翻牆電報" is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'TelePlus',
+    developerId: 'TelePlus',
+    icon:
+     '//lh3.googleusercontent.com/1HW0JHz8YhKWe11P3M0yXcsXIU2CEtjkYq9k2qfriS1KNmLiVYj7wV8G14cUTTr0AoY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.kmvpn11',
+    appId: 'com.vpn.kmvpn11',
+    title: 'ACT VPN – Unlimited Free VPN & Fast VPN Proxy',
+    summary: '100% free VPN! High VPN speed',
+    developer: 'VPN 翻墙',
+    developerId: 'VPN+%E7%BF%BB%E5%A2%99',
+    icon:
+     '//lh3.googleusercontent.com/jmXt0IaLOd-8Xy3UFEr_G3kVU2kvnDwjUhxtaybV0ipXD8Lfwtgg7_KJYs7kKlDp4kBe=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.infinitysoft.vpn360',
+    appId: 'co.infinitysoft.vpn360',
+    title: 'VPN 360 - Unlimited Free VPN Proxy',
+    summary:
+     'VPN 360 is a free VPN to hide your IP and secure your Wi-Fi connection.',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/xnxLJlCKaFwTTUsRjFB5kJQWgpkI11ShRs4RICep6nLdNlrqhe4IE2b5N8vmwbEQqRY=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.young.ss',
+    appId: 'com.young.ss',
+    title: 'HumBirdVPN-蜂鸟VPN-完全免费的科学上网助手',
+    summary:
+     'Hummingbird VPN is a completely free (no paid entry) science online / over the wall tool APP',
+    developer: 'FreeVPNService',
+    developerId: 'FreeVPNService',
+    icon:
+     '//lh3.googleusercontent.com/R7zk-sGPTU2MtU1ijQYBdt5s1rUgqGVmDHYYGrQ3UDt_WwobTuPv3tIyHIIDotkltcBV=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.security',
+    appId: 'com.cleanmaster.security',
+    title: 'Security Master - Antivirus, VPN, AppLock, Booster',
+    summary:
+     'Get 💯protection with Antivirus, Free VPN, AppLock, WiFi Security&Booster here!',
+    developer: 'Cheetah Mobile (AppLock & AntiVirus)',
+    developerId: '8544729060931835350',
+    icon:
+     '//lh3.googleusercontent.com/mRmDkPRRuyNmtm-_z_KToVzDfEj8PLa6xBD2xhzHz4oBHmOsWLk0bBFcT_7EdYYVx_0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.waterstudio.unlimited.vpn',
+    appId: 'com.waterstudio.unlimited.vpn',
+    title: 'VpnTube - Unlimited Free VPN Proxy for Android',
+    summary:
+     'One-click implementation of a stable, faster, free and secure Vpn proxy 💪',
+    developer: 'Hottest Software Dev',
+    developerId: 'Hottest+Software+Dev',
+    icon:
+     '//lh3.googleusercontent.com/7ctWsKwfIEfecdOp8BZf5Fhc1dZZTyL0pOVMUMWSM9uZmPL9y8ZU5EE5vQpFa5A2lmU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bitblank.eachvpn',
+    appId: 'com.bitblank.eachvpn',
+    title: 'EachVPN - Permanently Available Free VPN Service',
+    summary:
+     'EachVPN is a freely available, massively distributed VPN that uses blockchain.',
+    developer: 'BitBlank Ltd.',
+    developerId: 'BitBlank+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/PeatVTzUh4uAtoEnfMtPpFuUaIzu8gRbjUFKOaZEp99p9I3w51J15MKDioT7k_OhoWNw=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ehawk.proxy.freevpn',
+    appId: 'com.ehawk.proxy.freevpn',
+    title: 'Hi VPN, Free VPN – Fast, Secure and Unlimited VPN',
+    summary:
+     'Free Hi VPN, Fastest VPN on Android. Free, Unlimited, Secure and Super Fast.',
+    developer: 'Hi Security',
+    developerId: '9033708848358036191',
+    icon:
+     '//lh3.googleusercontent.com/gydj1TEOJhATLAfxznerZCsjcdYYI8Zea9yufF3gQPmtRQ5J5qGj-Hp9dozEO5LKiQe9=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adi.ufunr',
+    appId: 'com.adi.ufunr',
+    title: 'UfunR - 免费回国VPN，帮助海外华人访问国内应用。',
+    summary:
+     'Free permanent return to China VPN to help overseas Chinese access domestic applications.',
+    developer: 'ABCT网络科技有限公司',
+    developerId:
+     'ABCT%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/bNKfu_f1tYGhGY-WeS4FFgbCDwBzJ920OwH1VNZYFyjZfxyBvvpU_i8kx6zDvHPHSe-H=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.muma.pn',
+    appId: 'com.muma.pn',
+    title: 'Wuma VPN-PRO(Fast & Unlimited & Security)',
+    summary: 'Best VPN Proxy, unlimited traffic, privacy.',
+    developer: '无码wuma vpn',
+    developerId: '%E6%97%A0%E7%A0%81wuma+vpn',
+    icon:
+     '//lh3.googleusercontent.com/XOoPk4ShRMXWubCkXldCp0z_VccvCEs9Vc7kfIlljw-6ZgkeRmFLHwuvGzYUbdO-qQ=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in.hammervpn',
+    appId: 'com.in.hammervpn',
+    title: 'Hammer VPN  AntiDPI VPN',
+    summary: 'Anti-DPI  ( Deep Packet Inspection ) VPN  for Android.',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/_9_qFUuRvZ8M0B8Lb1FkQYMZDL0GbxoUTq7m38UhIRnbCynGIcU7pY_4ZROtMpEFmUQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tunsafe.app',
+    appId: 'com.tunsafe.app',
+    title: 'TunSafe VPN',
+    summary: 'VPN client using the WireGuard protocol',
+    developer: 'TunSafe AB',
+    developerId: 'TunSafe+AB',
+    icon:
+     '//lh3.googleusercontent.com/KJwl5mkwsE0wKp3Vr1JdDyh3TOt5fyTBI-zHt0c7aHLJ1RKdv1WdYRUh3KVIQeSRvhRW=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.openvpn.openvpn',
+    appId: 'net.openvpn.openvpn',
+    title: 'OpenVPN Connect – Fast & Safe SSL VPN Client',
+    summary:
+     'Official secure client for Access Server, Private Tunnel & any OpenVPN service',
+    developer: 'OpenVPN',
+    developerId: 'OpenVPN',
+    icon:
+     '//lh3.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.infinitevpn.free.proxy',
+    appId: 'co.infinitevpn.free.proxy',
+    title: 'VPN Inf - Unlimited Free VPN & Fast Security VPN',
+    summary:
+     'VPN Inf -  High-Speed & Secure & Anonymous & Unlimited Free VPN',
+    developer: 'Inf Security Studio',
+    developerId: 'Inf+Security+Studio',
+    icon:
+     '//lh3.googleusercontent.com/jDjbhGfUk6ibBqnc-rKDeL4uZU81Zh5Ki8R_QD-BWh92jwF2irKiKJdScStCA-pXiqqn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.securevpn.connectip.kiwivpn',
+    appId: 'com.securevpn.connectip.kiwivpn',
+    title: 'Kiwi VPN Connection For IP Changer, Unblock Sites',
+    summary:
+     'Unlimited VPN proxy browser unblock sites, hide and change IP. VPN security app',
+    developer: 'Fruit VPN - Better Connect',
+    developerId: 'Fruit+VPN+-+Better+Connect',
+    icon:
+     '//lh3.googleusercontent.com/5OoCshdiOx63lZtvrUCOXQ7dyra--1Hi_UdtxQ04DQNi7uDM5jU-JTlH1CAsh8yP6A=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.in.troidvpn',
+    appId: 'com.in.troidvpn',
+    title: 'Troid VPN  Free VPN Proxy',
+    summary:
+     'Protect your Privacy, Browse securely with Free Fast Reliable Troid VPN Proxy',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/En_4swk0iE1UPBCrO73VSVRZxAFN0kK7K40MuFAn0Ga-M65jOxanv34cvGc2IVrLWLw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nordvpn.android',
+    appId: 'com.nordvpn.android',
+    title: 'NordVPN: Best VPN Fast, Secure & Unlimited',
+    summary: 'Browse securely with the best VPN app – anytime, anywhere.',
+    developer: 'NordVPN',
+    developerId: '7493532843168999598',
+    icon:
+     '//lh3.googleusercontent.com/teLGeQQiV8HCF-TgzNXdz11AVYaxFzgTAZyNOotffAqw6l9O4fLbX0hLBRrEGsgmXztc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cc.soonet.bitgp',
+    appId: 'cc.soonet.bitgp',
+    title: '比特VPN（永久免费、无广告）',
+    summary:
+     'VPN bit lines to provide permanent free, no ads, the Internet is the science, over the wall of the essential artifact!',
+    developer: 'LEILEI',
+    developerId: 'LEILEI',
+    icon:
+     '//lh3.googleusercontent.com/mecuvSgoiyv3h9004PHrudCkeRomSc9Ugjxa4j2RzO9t--tbFqeiCeqRyyT5EZamuHg=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.ifoneplatinum_15895',
+    appId: 'com.revesoft.mobiledialer.ifoneplatinum_15895',
+    title: 'ifoneplatinum iTel',
+    summary:
+     'iFonePlatinum is a Mobile VoIP dialer application that allows to make VoIP calls',
+    developer: 'Android Dialers',
+    developerId: 'Android+Dialers',
+    icon:
+     '//lh3.googleusercontent.com/phjiSY_GNXWKJ77p5dEZcUyP4n9oqsvMbuF6Mw8q6uYMwm-MLUwOIzI2jKWO-gibEUhI=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.itelmobiledialer.dialer',
+    appId: 'com.revesoft.itelmobiledialer.dialer',
+    title: 'iTel Mobile Dialer Express',
+    summary:
+     'iTel Mobile Dialer Express, enabling VoIP Calls, SMS, Mobile Top Up and more.',
+    developer: 'REVE SYSTEMS LTD.',
+    developerId: 'REVE+SYSTEMS+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/FxVO4tmAGRfxfbFqM2bumz5Y8FPwsymS1MJLAZ8UtM0DUKGywcBj7-LFZg6YNLRvGgtX=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apps2you.vivabahrain',
+    appId: 'com.apps2you.vivabahrain',
+    title: 'VIVA BH',
+    summary:
+     'Manage your VIVA account and monitor your usage with the VIVA BH Mobile App.',
+    developer: 'VIVA Bahrain B.S.C. Closed',
+    developerId: 'VIVA+Bahrain+B.S.C.+Closed',
+    icon:
+     '//lh5.ggpht.com/GJrKZ52-WT7j7tDDImx7eKnrHs1JEZC7b25Es9OzlXEjtmFd-lXdjc0XEy0CM5LqoQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.suntalk.tolkmore',
+    appId: 'com.suntalk.tolkmore',
+    title: 'Tolkmore',
+    summary:
+     'Tolkmore is a mobile app for Android and other smartphones.',
+    developer: 'Dial The World Technologies',
+    developerId: 'Dial+The+World+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/fnBvpbcTcuixD-w8sU8n4Y5GncHR1M2-0vDJO1qbhD5q2XLmJ8dQQJZbIcGhi9HJjSc=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.viacloud.bolo_dialer',
+    appId: 'com.viacloud.bolo_dialer',
+    title: 'Bolo Dialer',
+    summary:
+     'Introducing Bolo Dialer, a VoIP version of Bolo - favorite way to make calls !',
+    developer: 'Viacloud',
+    developerId: 'Viacloud',
+    icon:
+     '//lh3.googleusercontent.com/q6hhHhCg3orOUuEEZsYn5dhNATVwD3q8hwSfyU_GpyQsQD6Q_NFv9ux9xpqgdEeJGkg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maf.carrefourbahrain',
+    appId: 'com.maf.carrefourbahrain',
+    title: 'Carrefour Bahrain',
+    summary:
+     'Welcome to Carrefour Bahrain, the new shopping app to make your shopping easier!',
+    developer: 'Carrefour Development Team',
+    developerId: 'Carrefour+Development+Team',
+    icon:
+     '//lh3.googleusercontent.com/Wg3y51qvirrI9Al7W2dEubhZg1Xfya2EEPLjcF3ccxb4nM9_WiXpX6bXHbnup9g9jZrk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vivacash.sadad',
+    appId: 'com.vivacash.sadad',
+    title: 'VIVA Cash',
+    summary: 'VIVA Cash makes payments smarter.',
+    developer: 'VIVA Bahrain B.S.C. Closed',
+    developerId: 'VIVA+Bahrain+B.S.C.+Closed',
+    icon:
+     '//lh3.googleusercontent.com/Uuqimoz-nGnbJC725K8Tfa1Nf-SBZiRG48R6uHQz-9rI4k_aFxp8b6wf2FxIkldnAaA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.dialglobe_communication.mabrook_plazma',
+    appId:
+     'com.revesoft.mobiledialer.dialglobe_communication.mabrook_plazma',
+    title: 'Mabrook Plazma',
+    summary: 'Mabrook Plazma is a SIP-based soft phone.',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh4.ggpht.com/fUlFqaJfaCeM0mFvFiUg64lgJe2veMlE2PtnWy-Kc5YyLxqX8v1fSlHrbdDtC76eAw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sadadcompany.sadad',
+    appId: 'com.sadadcompany.sadad',
+    title: 'SADAD Payment App',
+    summary:
+     'The speed and ease of SADAD\'s payment kiosks, now in the palm of your hand.',
+    developer: 'SADAD',
+    developerId: 'SADAD',
+    icon:
+     '//lh3.googleusercontent.com/eM26uzb1wExn4SVORVTVj_-geC8uPRyZG_WhkLN26HR6CI52ZaojBrOrAtRBgt34fAw=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.mobinor_1513577545251_54091',
+    appId: 'com.revesoft.mobiledialer.mobinor_1513577545251_54091',
+    title: 'Mobinor Dialer',
+    summary:
+     'Mobinor Dialer is a voip apps for making audio call with best quality',
+    developer: 'FSTL',
+    developerId: 'FSTL',
+    icon:
+     '//lh3.googleusercontent.com/4a-hpZ_ff1M4ozKcnE4avhQx00DzsCak_ATknDB53p5MwP3QYls4gm574fWrvjWFXY4=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.agerigna.keyboard',
+    appId: 'com.agerigna.keyboard',
+    title: 'Agerigna Amharic Keyboard - የመጀመሪያው ነጻ የአማርኛ ኪቦርድ',
+    summary:
+     'Agerigna አገርኛ Keyboard - a No 1. easy and fast አማርኛ, ትግርኛ, Oromiffa Keyboard',
+    developer: 'Agerigna Co., Ltd',
+    developerId: '9181995351721820592',
+    icon:
+     '//lh3.googleusercontent.com/gIdaB2YLfmOpkCk4mhSa3Lo9pM16bUhRB3GgFQiAmC5ame_HPLsQJmiDZtl3x-BuXmw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vox.mosippro',
+    appId: 'com.vox.mosippro',
+    title: 'MoSIP Mobile Dialer',
+    summary: 'A feature rich mobile VoIP dialer.',
+    developer: 'VOXVALLEY TECHNOLOGIES PTE LTD',
+    developerId: 'VOXVALLEY+TECHNOLOGIES+PTE+LTD',
+    icon:
+     '//lh3.googleusercontent.com/M3zUVQsTzHAL0yqLZeAdJhemkQXDvoJmUyLkH2pCbB9Cwh1OabVluTEbLchk5YZF57kC=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.olafone_1483962129968_27271',
+    appId: 'com.revesoft.mobiledialer.olafone_1483962129968_27271',
+    title: 'Olafone Itel',
+    summary:
+     'Olafone is a SIP-based Soft Phone for Android Mobile to make VoIP Calls',
+    developer: 'Digitelecom',
+    developerId: 'Digitelecom',
+    icon:
+     '//lh3.googleusercontent.com/ZRWmXfEiuHyr6NdvFZJ6m9eyXJctN3GwC5S6TshXsK-cvcmBTUTLDif3PMkJu2gw0kFD=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

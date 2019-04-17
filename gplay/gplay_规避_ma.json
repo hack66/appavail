@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hespress.android',
+    appId: 'com.hespress.android',
+    title: 'Hespress - هسبريس',
+    summary: 'The official app Hespress',
+    developer: 'HESPRESS',
+    developerId: 'HESPRESS',
+    icon:
+     '//lh5.ggpht.com/sz5u1ZHe7F9W1WkMmz2mGib2utWQOMGQtHrJqn0c2aisANrwsy3sP7Cm5aHT21pAfts=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.scmv.morocco',
+    appId: 'se.scmv.morocco',
+    title: 'Avito',
+    summary:
+     'Avito, ads in Morocco, sell and buy when you want, where you want.',
+    developer: 'avito.ma',
+    developerId: 'avito.ma',
+    icon:
+     '//lh3.googleusercontent.com/UAG_9JucCNgtD50hkq31ttvdNGClQE40aBaKc9NCwnOx5R9Tpp9pKhVaidUYeCjt7g=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cnops.app',
+    appId: 'com.cnops.app',
+    title: 'SMART CNOPS - Assuré',
+    summary: 'Mobile Application "Smart CNOPS" for policyholders.',
+    developer: 'CNOPS',
+    developerId: 'CNOPS',
+    icon:
+     '//lh3.googleusercontent.com/RFHzQkEbyqrEn-xdGATM1QXF-iXtc2bTOhbyFVKPdhGpZPxiL8b1TzJvpNed--v6KRVG=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.carta.hezjoj',
+    appId: 'com.carta.hezjoj',
+    title: 'Carta ronda hez2 joj a Kebour',
+    summary:
+     'Hez2 is a popular card game in Maroc.Vous find in tutorial.',
+    developer: 'BirdVision',
+    developerId: 'BirdVision',
+    icon:
+     '//lh3.googleusercontent.com/yi60X97f4Sli1tpIbi8kYH4Q6L27LXCzT4NZxLXGcP3z6hvTIl9tEHxAwSVnsgw1wg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=ma.snrt.live',
+    appId: 'ma.snrt.live',
+    title: 'SNRT Live',
+    summary:
+     'The live 7 television channels and 15 national and regional radio stations',
+    developer: 'SNRT',
+    developerId: 'SNRT',
+    icon:
+     '//lh3.googleusercontent.com/HFX7g7RRnAKKGgZffgxYv32xPU02y0uDAxttIIBIrDETQwWuce2s6bTkdg1GS3JiaA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.attijariwafabank.main',
+    appId: 'com.attijariwafabank.main',
+    title: 'Attijari Mobile',
+    summary:
+     'Attijari Mobile: my bank at your fingertips Attijariwafa bank',
+    developer: 'Attijariwafa bank',
+    developerId: 'Attijariwafa+bank',
+    icon:
+     '//lh3.googleusercontent.com/zgOpMMUPBhc10hGOVPQ6LjFVY4ZwaVyh5D2LA7xSg8Y1rx6NyOXD0rILBi2CZEOYz-k=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hesport.app',
+    appId: 'com.hesport.app',
+    title: 'Hesport - هسبورت',
+    summary:
+     'Follow the latest developments in the world of football and other sports',
+    developer: 'HESPRESS',
+    developerId: 'HESPRESS',
+    icon:
+     '//lh3.googleusercontent.com/wWaxjmgD7Umy2XNiwqxFvneR3VHeo9QoTtcWSuwsjnxFzvOXo5zJol6BqKVbOXJ280sf=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orange.meditel.mediteletmoi',
+    appId: 'com.orange.meditel.mediteletmoi',
+    title: 'Orange et moi Maroc',
+    summary:
+     'With the Orange application and me easily manage all your Orange lines.',
+    developer: 'Orange Maroc',
+    developerId: 'Orange+Maroc',
+    icon:
+     '//lh3.googleusercontent.com/JrIgOhlXUiz5MjPfIG6oPMKbF1gVkoid1YRapriqBHsTPciOTeuCVcVS8D9tKWgLAw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lalla.moulati.gujinguapp',
+    appId: 'com.lalla.moulati.gujinguapp',
+    title: 'لالة مولاتي  |  Lala Moulatie',
+    summary:
+     'Lalla Majesty site par excellence of Moroccan women cared for the health of the machine of Arab women,',
+    developer: 'GUJINGU',
+    developerId: 'GUJINGU',
+    icon:
+     '//lh3.googleusercontent.com/qkwaVpqqA010WfcTkdRb2ZocVFy28KwsdGDDzQVFg8FYCvhMqLEG41p8uRaoLaud9A=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saphir.baridbankmobile',
+    appId: 'com.saphir.baridbankmobile',
+    title: 'BARID BANK MOBILE',
+    summary: 'Barid BANK MOBILE',
+    developer: 'Al Barid Bank',
+    developerId: 'Al+Barid+Bank',
+    icon:
+     '//lh6.ggpht.com/AhmEWZPSYJSz_6UKUqBFlKln8swOmOn8ukRGCNCL6hvpjTT2ObMrbzIhdW9htQd2Ce0Q=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ma.maznet.eladan',
+    appId: 'ma.maznet.eladan',
+    title: 'Adan Maroc',
+    summary: 'اوقات الصلاة في المغرب, اتجاه القبلة, اذكارprayer times',
+    developer: 'Mazoul dev',
+    developerId: 'Mazoul+dev',
+    icon:
+     '//lh3.googleusercontent.com/kKb7NiN-_n8FdT-1PClEx8tzl_Zbip9WeblCMA4nRgL-J_5SjP_yQeMvW6P6euyVsY8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bendev.ronda.game.activity',
+    appId: 'com.bendev.ronda.game.activity',
+    title: 'Ronda',
+    summary: 'Ronda Carta is a card game which is popular in Morocco',
+    developer: 'Bendev soft.',
+    developerId: 'Bendev+soft.',
+    icon:
+     '//lh3.googleusercontent.com/GHTY712D_dD-ii43Vb9d3eK6VEKiGf8fn8NH3I1cHdbpsInsgp4PmtFNAdSFlLmaTuQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rousseau.code.darijamaroc',
+    appId: 'com.rousseau.code.darijamaroc',
+    title: 'تعليم السياقة بالمغرب جديد',
+    summary: 'Driving a new Morocco',
+    developer: 'ApkStyle',
+    developerId: 'ApkStyle',
+    icon:
+     '//lh3.googleusercontent.com/9Dldgn-bxq2ngCnowho1VVyCoPlOWacUaDMJejItJYUtMpy_2_tnsd6_pEoNheeqTSw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.test3212884',
+    appId: 'com.ionicframework.test3212884',
+    title: 'Infractions routières',
+    summary:
+     'Consult your infringements of the highway code and your points balance.',
+    developer: 'Ministère de l\'Equipement et du Transport',
+    developerId: 'Minist%C3%A8re+de+l\'Equipement+et+du+Transport',
+    icon:
+     '//lh3.googleusercontent.com/S0KWMn6HEViuJlNaCy6f-c8N3zXnD9AzjDkhzuV2qiyaysB0Tn5VHiTqItgnwi1ceA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango',
+    appId: 'com.google.android.apps.youtube.mango',
+    title: 'YouTube Go',
+    summary:
+     'Download and watch your favourite videos without eating up your data',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pqnpzpWfCCHVu6mqwtr-ueJHrYzTUFVzQNIwqqQ8016APeEI8ZxmBzu-q3thtlhwDrVX=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

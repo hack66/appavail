@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cybosol.cma_etransaction',
+    appId: 'com.cybosol.cma_etransaction',
+    title: 'Sahlh GO',
+    summary: 'Its time to GO MOBILE',
+    developer: 'E-Transactions',
+    developerId: 'E-Transactions',
+    icon:
+     '//lh3.googleusercontent.com/orB9OPjkJqI1bx9Yq5nUVNo-J9FRYfXQy6AkmVN_3NNMoWRQU_nOFAIbtXpDDFjVOr8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.tirhal',
+    appId: 'com.multibrains.taxi.passenger.tirhal',
+    title: 'Tirhal',
+    summary: 'With Tirhal book a car easily by phone anytime anywhere.',
+    developer: 'Tirhal App',
+    developerId: 'Tirhal+App',
+    icon:
+     '//lh3.googleusercontent.com/sq_KDiTP1FNdOP5fCqvSV5zorFdAMPzHZl6d13XFPTdR2FqYc0sQpAk3FXcfF1CKsf8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fynsystems.fyngeez',
+    appId: 'com.fynsystems.fyngeez',
+    title: 'Amharic keyboard FynGeez - Ethiopia - fyn ግዕዝ 2',
+    summary:
+     'FynGeez Amharic keyboard + Emoji keyboard,  አማርኛ, Geez typing made easy',
+    developer: 'fyn systems',
+    developerId: '8686777883246727435',
+    icon:
+     '//lh3.googleusercontent.com/K3ucSJe6HomSLZSuyYL8F0a3c_T5iIAsAehrJMLJ1CL9aeZSnQbbvs80pE-jEN-HeraW=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sybertechnology.syberapp.live.release',
+    appId: 'com.sybertechnology.syberapp.live.release',
+    title: 'SyberPayPlus',
+    summary: 'For all your services\' payments needs',
+    developer: 'Syber Technology',
+    developerId: 'Syber+Technology',
+    icon:
+     '//lh3.googleusercontent.com/Xkqc4ABpdWnBLbT0ZbUG6vaOoYvg8fwHHGxiUS_vb1wtCuxaX-Pz7S35zUBe8NjETqo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.KhalidHex.Hareeg',
+    appId: 'com.KhalidHex.Hareeg',
+    title: '7areeg',
+    summary: '7areeg rummy based card game',
+    developer: 'Khalid Elwalid Siddig',
+    developerId: 'Khalid+Elwalid+Siddig',
+    icon:
+     '//lh3.googleusercontent.com/XwJVSm0UiFrWJvz_xoQ-irAZWKfpZenFePlysoxtKnfGxOM02rozKDixAd1UwzJjDhp1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rahtnaasd.rahtnaaclient',
+    appId: 'com.rahtnaasd.rahtnaaclient',
+    title: 'Rahtnaa',
+    summary:
+     'The first application for the convenience of the Sudanese Eve.',
+    developer: 'Rahtnaa',
+    developerId: 'Rahtnaa',
+    icon:
+     '//lh3.googleusercontent.com/qL6kBWkkMXpD_OvrSaGz2sMCDYRhgXE-f38op6jgOC2AQjKhH9k1Ul4dZJDhT82ltYXP=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.mohadaratdiniya.dourous.mohamedsayedhajj',
+    appId: 'net.mohadaratdiniya.dourous.mohamedsayedhajj',
+    title: 'محمد سيد حاج محاضرات',
+    summary:
+     'Lectures, Mohamed Sayed Haj, Islamic Lectures, Preparations Without Net, Mohamed Sayed Hajj',
+    developer: 'محاضرات - قصص - فتاوى - دروس - mohadarat',
+    developerId:
+     '%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A7%D8%AA+-+%D9%82%D8%B5%D8%B5+-+%D9%81%D8%AA%D8%A7%D9%88%D9%89+-+%D8%AF%D8%B1%D9%88%D8%B3+-+mohadarat',
+    icon:
+     '//lh3.googleusercontent.com/vdkrLmqV59gDecE9fS96zaWrQylofN9C9jSgHPpcK_ZbTklDWOtLXyMEKt2cIshUFg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=myportal.sudani',
+    appId: 'myportal.sudani',
+    title: 'SelfCare - خدماتي',
+    summary: 'Thanks for using Sudani SelfCare.',
+    developer: 'Sudani Telecom',
+    developerId: 'Sudani+Telecom',
+    icon:
+     '//lh3.googleusercontent.com/Rn5wcWvrchSLV7-tPHloj3ina9BWMMieRrIefhxPHWaUfxlE47qymsM1keRO3vnOBg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.safeboda.passenger',
+    appId: 'com.safeboda.passenger',
+    title: 'SafeBoda',
+    summary:
+     'Beat the jam with a boda you can trust. Enjoy your SafeBoda!',
+    developer: 'SafeBoda',
+    developerId: 'SafeBoda',
+    icon:
+     '//lh3.googleusercontent.com/-dv7fwnoZHgxviMP3TLBgPEf-3UxlR2QQ1hx5069TbTvZhBLw1QEeTdLVZv8N7kBKzg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.mohadaratdiniya.sirahnabawiyah.mohamedsayedhaj',
+    appId: 'net.mohadaratdiniya.sirahnabawiyah.mohamedsayedhaj',
+    title: 'محمد سيد حاج السيرة النبوية - سيرة الرسول',
+    summary:
+     'محمد سيد حاج, Biography of the Prophet, Biography of the Prophet, Prophet Muhammad, Mohamed Sayed Hajj',
+    developer: 'محاضرات - قصص - فتاوى - دروس - mohadarat',
+    developerId:
+     '%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A7%D8%AA+-+%D9%82%D8%B5%D8%B5+-+%D9%81%D8%AA%D8%A7%D9%88%D9%89+-+%D8%AF%D8%B1%D9%88%D8%B3+-+mohadarat',
+    icon:
+     '//lh3.googleusercontent.com/d_b2QzDIMS1NCT1Z1rHy-ceFetL_g1gxb_E4Vot87RZXteokpPknTS_x81h-NOfkDw=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.andromo.dev540689.app526001',
+    appId: 'com.andromo.dev540689.app526001',
+    title: 'القرآن الزين محمد أحمد بدون نت',
+    summary: 'Kamel Mohammed Ahmed Zein Quran without Net',
+    developer: 'free quran mp3',
+    developerId: 'free+quran+mp3',
+    icon:
+     '//lh3.googleusercontent.com/qYmW7a07-6bukOjYeURJ7HJ1fpIy-V2JfOUAKrynyRQ6JJvJpmoeqnOzFugHaphijA=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.thundervpn',
+    appId: 'free.unblock.proxy.unlimited.thundervpn',
+    title: 'Thunder VPN proxy--ultra secure VPN·Free VPN Proxy',
+    summary:
+     'Unlimited FREE VPN Proxy,Free unblock&Secure and Fast free VPN Download',
+    developer: 'Appmob5',
+    developerId: 'Appmob5',
+    icon:
+     '//lh3.googleusercontent.com/kk7VubMoKr3ejFoEaz4lz8EQsxT8K8o9U2FviIT6PqvDFfmmFQKbCtL7izdgXgiBTpk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.thunder.vpn',
+    appId: 'com.fast.free.unblock.thunder.vpn',
+    title: 'Thunder VPN - A Fast , Unlimited, Free VPN Proxy',
+    summary:
+     'Thunder VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/W1ZqBDj_bS-qJBCMUCfI2tv2Whao2dJ41oHfuZDmWvABH5MteQfIwCZuiGxDM4lhv0M=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=interactive.ksi.com.alsoug',
+    appId: 'interactive.ksi.com.alsoug',
+    title: 'Soug al Sudan, alsoug.com',
+    summary:
+     'alsoug.com is Sudan\'s largest online marketplace, advertise for free in Sudan!',
+    developer: 'Nina Saeed',
+    developerId: '9003043732867540565',
+    icon:
+     '//lh3.googleusercontent.com/lIYTgymRYqTu4oS24vGnhvt7yLfg2b2eJY1h6Ucu700KW9xaiewSY_yBsaOrClqLYApG=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

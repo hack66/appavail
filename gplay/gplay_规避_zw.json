@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=zw.co.telone.customerexperience',
+    appId: 'zw.co.telone.customerexperience',
+    title: 'My Telone',
+    summary: 'Manage your TelOne products and services',
+    developer: 'TelOne Developer',
+    developerId: 'TelOne+Developer',
+    icon:
+     '//lh3.googleusercontent.com/4FfrmbztwbxUq-DdtdGoFH5jL_5aOpXsVbxl8aoi0lcVLOK_HNDSFRTqv_tdjKj5e3c=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vayaafrica.passenger',
+    appId: 'com.vayaafrica.passenger',
+    title: 'Vaya Africa',
+    summary: 'Need a ride or a package delivered? Try Vaya!',
+    developer: 'Cumii International',
+    developerId: 'Cumii+International',
+    icon:
+     '//lh3.googleusercontent.com/hGt23lqokoOXMPy9JQumfCf4-4hXrGGGxpGe-ZEukduFMp5VNX5Uob0zhCMVHICPXkH7=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.econet.myeconet',
+    appId: 'com.econet.myeconet',
+    title: 'My Econet',
+    summary:
+     'My Econet is a selfcare app for Econet’s prepaid subscribers',
+    developer: 'Econet Zimbabwe',
+    developerId: 'Econet+Zimbabwe',
+    icon:
+     '//lh3.googleusercontent.com/WYjaQJTeds6i1Fn-5J-a1MnCD0zmJavT5j2KmXH1BBX-Z3GXuPx9DnGwIKq7h9sPNkE=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    appId:
+     'com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish',
+    title: 'Oxford Dictionary of English : Free',
+    summary:
+     'The most complete and accurate dictionary of English with 350,000 words now FREE',
+    developer: 'MobiSystems',
+    developerId: '4895393381068725503',
+    icon:
+     '//lh3.googleusercontent.com/Cu0--f70XV3OPaz1s7B8IIQ4jFN4ukydKrJtrhxMuFFF1RKLDizzehjyKmCv_o2GojM=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.apliman.econet_yomix',
+    appId: 'com.apliman.econet_yomix',
+    title: 'Econet YoMix',
+    summary:
+     'Econet Wireless app for customers to create personalised bundles',
+    developer: 'Econet Zimbabwe',
+    developerId: 'Econet+Zimbabwe',
+    icon:
+     '//lh3.googleusercontent.com/i-oev4A58AZTpfegb0Mv_Humfe77Zkt7QLh176nY6JuKxYtlr4txtwzr0QQHFTtX7w=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.econet.ecocash',
+    appId: 'com.econet.ecocash',
+    title: 'EcoCash',
+    summary:
+     'EcoCash is a revolutionary mobile payment solution from Econet Wireless',
+    developer: 'Econet Zimbabwe',
+    developerId: 'Econet+Zimbabwe',
+    icon:
+     '//lh3.googleusercontent.com/hbkQGVFjTH2qabdN2gVwHS74W7lfsVLnv8NI0URGDrfZ7YN-e7SxR57Q7W5rVqi-ZwY=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=africabet.zimbabwe.mbc',
+    appId: 'africabet.zimbabwe.mbc',
+    title: 'AfricaBet Zimbabwe',
+    summary: 'Your AfricaBet Zimbabwe mobile betting companion app',
+    developer: 'AfricaBet',
+    developerId: 'AfricaBet',
+    icon:
+     '//lh3.googleusercontent.com/3Lypm3t5uI3NWso0Y9Onvb2dj5bJoF1VvwRf2kHX2OKbqUhQnHhlZS6tf64PBPjWYZA=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.biblereading.ShonaBible',
+    appId: 'com.biblereading.ShonaBible',
+    title: 'Shona Bible',
+    summary:
+     'Complete Shona Bible New Testament and Old Testament with audio version.',
+    developer: 'BibleReading',
+    developerId: 'BibleReading',
+    icon:
+     '//lh3.googleusercontent.com/rIBU704RSG8L7GEOBa_jS9vYD0S17hSGHKxoGfwEHid0l4eXR2-STDC-O1nYJ-BMl3o=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.iwatsolutions.loadup',
+    appId: 'com.iwatsolutions.loadup',
+    title: 'Airtime Loadup - Airtime loader & scanner',
+    summary:
+     'Airtime loading app for all countries & networks using a phone\'s camera',
+    developer: 'IwatSolutions',
+    developerId: 'IwatSolutions',
+    icon:
+     '//lh3.googleusercontent.com/-d83vFT_wCxDkFdln0b6_kRpnP4fYFH50YUA1vgR6xI-PiH3HuEbK0RHvUQvWbUIXDVK=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mode.cbz.ui',
+    appId: 'com.mode.cbz.ui',
+    title: 'CBZ Touch',
+    summary:
+     'CBZ Touch - Zimbabwe\'s first fully integrated financial services mobile app.',
+    developer: 'CBZ Holdings',
+    developerId: 'CBZ+Holdings',
+    icon:
+     '//lh3.googleusercontent.com/XbdLr2AYag42mpctxMbU7XSaUiTJW_JdX_6uaUp9o66h6aYOJ23O8w8xppR6hs-qzog=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.zbclive.app',
+    appId: 'io.zbclive.app',
+    title: 'ZBC Live',
+    summary:
+     'Application allowing you to watch locally created news and content',
+    developer: 'ZBC',
+    developerId: 'ZBC',
+    icon:
+     '//lh3.googleusercontent.com/lJOpulP5gtQQ-FsEiGcRAmmf7yAlFlWn3GaJVmFdicLp5HW-JQraVyxb8A_EuhXuw7k=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orlicron.zim.manager',
+    appId: 'com.orlicron.zim.manager',
+    title: 'VID Provisional Learners Guide',
+    summary:
+     'Practice Zimbabwe\'s VID Provisional Learner\'s Tests with so many questions.',
+    developer: 'ORLICRON PTY LTD',
+    developerId: 'ORLICRON+PTY+LTD',
+    icon:
+     '//lh3.googleusercontent.com/k9Oh4CPm7rj4ZhADoO_eZM_IWt1uFie8TituQcxuSa-LcwZSZO0jLeL73TAPaR9Q9b8=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zw.co.stewardbank.square',
+    appId: 'zw.co.stewardbank.square',
+    title: 'Steward Bank',
+    summary: 'Everyday banking for everyday people.',
+    developer: 'Steward Bank',
+    developerId: 'Steward+Bank',
+    icon:
+     '//lh3.googleusercontent.com/dtffRvWilg9LpwuUmxrSMq0nyRf-Ey9S7g1ejuE8kD_BGp-6xOB7KwOWWQVQ1EwKj5c=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=binumobile.binuapp',
+    appId: 'binumobile.binuapp',
+    title: 'biNu ZW',
+    summary: 'All-in-one super app for Zimbabweans',
+    developer: 'bi.Nu',
+    developerId: 'bi.Nu',
+    icon:
+     '//lh3.googleusercontent.com/v1iu6ew0Uoca9ZCYogDkY9Y8g-6yf9agsCaPQS1rBclh9xElrmT2Wblwl356SJCxo-a_=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zw.co.zb.mobileapp',
+    appId: 'zw.co.zb.mobileapp',
+    title: 'ZB Mobile Banking',
+    summary:
+     'View your accounts, do transfers, pay bills, send money, anytime anywhere.',
+    developer: 'Zim App',
+    developerId: 'Zim+App',
+    icon:
+     '//lh3.googleusercontent.com/hsCP0CNrXR7LPE6TgF-B3cNiN1Yacc0kLe4sMAGiDgJ3743xQOZNaKDIYXpVdCqZ_w=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=zw.co.mobility.drive',
+    appId: 'zw.co.mobility.drive',
+    title: 'Provisional Tests, the VID Licence Test Companion',
+    summary:
+     'The quick and easy way to get your Zimbabwean provisional learner\'s licence.',
+    developer: 'Mobility Zimbabwe',
+    developerId: 'Mobility+Zimbabwe',
+    icon:
+     '//lh3.googleusercontent.com/gLPJIzrP0G89Osqh1ewonOI-rzw212olmFGib3ylGY4GOTEOIgK-cItJhZXNFVLTtw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ibrahimsoft.riddles',
+    appId: 'com.ibrahimsoft.riddles',
+    title: 'Tricky Riddles',
+    summary:
+     'Top Riddles and top brain teasing questions with answers in English',
+    developer: 'Ibrahimsoft',
+    developerId: '5819512032892611928',
+    icon:
+     '//lh3.googleusercontent.com/L6qkcz_kv152IeHZwnXfUxoRAyn6O151vISgPqiDXSFq0TLZIAOrHwU2ScKWnLln7w8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=za.co.orelplay.orelplay',
+    appId: 'za.co.orelplay.orelplay',
+    title: 'Orel Play',
+    summary: 'Orel Play',
+    developer: 'Dencroft Business Solutions',
+    developerId: 'Dencroft+Business+Solutions',
+    icon:
+     '//lh3.googleusercontent.com/8yaw_3gBHW1wbIvc5mLH8Yfb8WxBJlN35qE22taFyMcUf8tCI5jJXCFKSebqR4wjrwVe=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

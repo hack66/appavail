@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ridmik.keyboard.classic',
+    appId: 'ridmik.keyboard.classic',
+    title: 'Ridmik Classic Keyboard',
+    summary: 'The old keyboard with new features...',
+    developer: 'Ridmik Labs',
+    developerId: 'Ridmik+Labs',
+    icon:
+     '//lh3.googleusercontent.com/KyAaC3UZO_ftuytSagbi6yWUW6hTaKZogu31cMyeft8E3mQwGpx3AKydev-v2RcS4Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twgbd.dims',
+    appId: 'com.twgbd.dims',
+    title: 'DIMS',
+    summary: 'DIMS is the Best offline mobile drug index of Bangladesh.',
+    developer: 'ITmedicus',
+    developerId: '5663691893572348964',
+    icon:
+     '//lh3.googleusercontent.com/TkNO80NKqki7KhOQSu4V5X-ZSDmZOZNsq-QQn_Y0dAThR8emqUhMhTDuLpn_IsnliA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sm.banglaalphabet',
+    appId: 'com.sm.banglaalphabet',
+    title: 'হাতে খড়ি (Bangla Alphabet)',
+    summary:
+     'Best kids App for Learning Bangla Alphabet Bengali bornomala with sound and game',
+    developer: 'shurjoMukhi Limited',
+    developerId: '7688024036484143448',
+    icon:
+     '//lh3.googleusercontent.com/MNTxO9CL7jRQNXYvJjuJ8GkKeO9_4tmbfc-936ICrwyqGouieFWG0mb6DB3PJZtjFBxj=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.konasl.nagad',
+    appId: 'com.konasl.nagad',
+    title: 'Nagad',
+    summary:
+     'Explore and Enjoy Cash In, Cash Out, Send Money(P2P), Mobile Recharge etc.',
+    developer: 'Third Wave Technologies Ltd',
+    developerId: 'Third+Wave+Technologies+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/wp0KbgresiC1a8s_CmVgi_53Tt-tjIHof9Ygenrnf435bAiuF8U7tpwAsQDOznEX_1w=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.bikroy',
+    appId: 'com.bikroy',
+    title: 'Bikroy - Sell, Buy & Find Jobs',
+    summary:
+     'Bikroy.com – The Largest Marketplace in Bangladesh. Online Selling & Buying.',
+    developer: 'Bikroy',
+    developerId: 'Bikroy',
+    icon:
+     '//lh3.googleusercontent.com/T610D51EgoQaDwJu8U8_7c4iVfwMB6LG-Rx-jnZl4xMUE1sVBii_ei-0oGtWs_90oww=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jituhasan.mahanabir_bani',
+    appId: 'com.jituhasan.mahanabir_bani',
+    title: 'মহানবী (সাঃ) এর ৩২৪ টি মহা মূল্যবান বাণী',
+    summary:
+     'মহানবী (সাঃ) এর ৩২৪ টি মহা মূল্যবান বাণী গুলো পড়তে এখনি অ্যাপটি ডাউনলোড করুন।',
+    developer: 'Awesome BD APP',
+    developerId: 'Awesome+BD+APP',
+    icon:
+     '//lh3.googleusercontent.com/LNp5LunXIURFW6NoX8hkskRngmIeL5M5VD17Q2K2I7BHvmI6fjyJHwq-YWe9_tXhrjrP=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.senani.dowa',
+    appId: 'com.senani.dowa',
+    title: 'অজিফা - দোআ, দুরুদ, যিকর এবং অন্যান্য',
+    summary:
+     '#Daily #Wazifa - পাঞ্জেগানা অজিফাঃ নিত্যদিনের দো\'আ, দুরুদ, যিকর এবং অন্যান্য।',
+    developer: 'Senani International',
+    developerId: '8122357673925576541',
+    icon:
+     '//lh3.googleusercontent.com/KEaF9tFx7lIiy0ztnyMDfATNo9_loqjd8H5y67ZvblIyzjGkqMoAq7vT3j--y54wG9Zn=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dbbl.nexus.pay',
+    appId: 'com.dbbl.nexus.pay',
+    title: 'NexusPay',
+    summary:
+     'DBBL Payment solution for Nexus, Rocket, Agent Banking, VISA and Master card',
+    developer: 'Dutch-Bangla Bank',
+    developerId: 'Dutch-Bangla+Bank',
+    icon:
+     '//lh3.googleusercontent.com/xodZSlJ7hqm7i8Txsgyy8fQtTtSNtb9kywyVB2S8CqSUGUvRyB9brq0ExXsSbEWKFkw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brilliant.connect.com.bd',
+    appId: 'com.brilliant.connect.com.bd',
+    title: 'Brilliant Connect',
+    summary:
+     'Brilliant Connect is a FREE easy secure messaging and calling app',
+    developer: 'Intercloud Limited',
+    developerId: 'Intercloud+Limited',
+    icon:
+     '//lh3.googleusercontent.com/BmZbGSjnyUpwqch3wIjIjv7YAEtDyef0iAVtPF8P1kKwokpgIuhITF-r0YEhUU9D8XI=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.islamicstory.Jannatiromoniislamicstory',
+    appId: 'com.islamicstory.Jannatiromoniislamicstory',
+    title: 'জান্নাতি রমণী ইসলামিক গল্প',
+    summary: 'জান্নাতি রমণী ইসলামিক গল্প পাবেন এই অ্যাপ এ ।',
+    developer: 'Risan Apps',
+    developerId: 'Risan+Apps',
+    icon:
+     '//lh3.googleusercontent.com/IV9JbWu04aq0mWMy40he7FC-2RGo5a7XsmSmmE5JMXL_cH8_wigsZ4eg1qnu4jhT9NA=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ridmik.keyboard',
+    appId: 'ridmik.keyboard',
+    title: 'Ridmik Keyboard',
+    summary: 'Write in Bangla & English seamlessly with Ridmik Keyboard',
+    developer: 'Ridmik Labs',
+    developerId: 'Ridmik+Labs',
+    icon:
+     '//lh6.ggpht.com/wiTbqxaNh7LX35xOM1VI8WeZOvck0sEAn3tJUjBZ6ly9uuBRWMRRpJ1QrtpUy5M3Il6Z=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.landcalculation',
+    appId: 'com.landcalculation',
+    title: 'উত্তরাধিকার (Uttoradhikar)',
+    summary:
+     'Inheritance calculator: Distribution of deceased person\'s assets with one click.',
+    developer: 'Access to Information Programme',
+    developerId: 'Access+to+Information+Programme',
+    icon:
+     '//lh3.googleusercontent.com/Wd0svO5oElpERQvt0InJ4g1699wAmo6Nr57S4pf55WhKP2DhHQEMdxcwBGP8KVRBVA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.saadi.qawmiweb',
+    appId: 'com.saadi.qawmiweb',
+    title: 'শেখ সাদীর গল্প ও উপদেশ',
+    summary: 'Sheikh Saadi story and helpful advice in Bangla',
+    developer: 'Qawmi App Developer',
+    developerId: 'Qawmi+App+Developer',
+    icon:
+     '//lh3.googleusercontent.com/YwH8H7rwj4dv13SM69cvoX2CnmLC1wImOarrKPlzzyHy_75wDDVhYedOlLwA_cTNBww=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bn.speackingclock',
+    appId: 'com.bn.speackingclock',
+    title: 'সময় বলা ঘড়ি Bangla Talking Clock (Ad free)',
+    summary:
+     'Talking Clock tells time in Bangla (বাংলা) (Ad free, Android 8 supported)',
+    developer: 'Code Monkey',
+    developerId: 'Code+Monkey',
+    icon:
+     '//lh4.ggpht.com/hHpJHC0W8Ot1OIwlXABqDE-wh_CZYvrtusQtnhGXqUlmixDgsuDeCzXGB5NGpSxFxA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

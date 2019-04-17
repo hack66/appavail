@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club',
+    appId: 'com.moonfrog.ludo.club',
+    title: 'Ludo Club - Fun Dice Game',
+    summary:
+     'The best Ludo game of 2018 is here! JOIN THE CLUB and play with friends!!',
+    developer: 'Moonfrog',
+    developerId: '5236132833572659868',
+    icon:
+     '//lh3.googleusercontent.com/CBh5Ts0J5KJJjy7xEYnMMWxMAxMAwxSzI9BT_vNsR3J1DDVnN3DVOIa1MR9nKgrWsg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.disney.WMWLite',
+    appId: 'com.disney.WMWLite',
+    title: 'Where\'s My Water? Free',
+    summary: 'MEET SWAMPY IN WHERE’S MY WATER? — THE HIT DISNEY APP!',
+    developer: 'Disney',
+    developerId: 'Disney',
+    icon:
+     '//lh5.ggpht.com/N92bKCUIVFImxntr3Xyaxd39NDPBP5CPgYn6We5SgWxF4k9CnPZeYmsUKJRyeOm-ew6S=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.claro.pe.miclaro',
+    appId: 'com.claro.pe.miclaro',
+    title: 'Mi Claro Perú',
+    summary:
+     'Download Mi Claro and buy, pay or consult without stress, from wherever you are!',
+    developer: 'Claro Perú',
+    developerId: 'Claro+Per%C3%BA',
+    icon:
+     '//lh3.googleusercontent.com/0S5HdD8zKIeqVd15g9g1hUPO-UGRRkBjQaSF5hlzn4xMp_IUKGs-o5nX9T7PVlu8o4I=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rasterstudiosinc.rasterSell',
+    appId: 'com.rasterstudiosinc.rasterSell',
+    title: 'my Store: Point of Sale',
+    summary:
+     'The best point of sale for your business, sell, manage and win!',
+    developer: 'Raster Studios Inc.',
+    developerId: '6817047748086732193',
+    icon:
+     '//lh3.googleusercontent.com/Sm-INWNKoxaSakidj1FbECJXfqGVVev4R6G6PkhN9zd_bPHxM4Z8gQj7-qZdUkHaI2s=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: 'PEN 51.99',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=pe.com.interbank.mobilebanking',
+    appId: 'pe.com.interbank.mobilebanking',
+    title: 'Interbank APP',
+    summary:
+     'Very easy! Make your main operations in moments from the new APP.',
+    developer: 'Banco Internacional del Perú',
+    developerId: 'Banco+Internacional+del+Per%C3%BA',
+    icon:
+     '//lh6.ggpht.com/l11-YYBCNJXAT_cFEJ3XuIff3G9U3OXqQP7c5cYFSrMBbXqWKciy2tgI8tIhDw1-BXY=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orbemnetworks.americatv',
+    appId: 'com.orbemnetworks.americatv',
+    title: 'América tvGO',
+    summary: 'See live feed of america TV, full programs and much more.',
+    developer: 'América TV',
+    developerId: 'Am%C3%A9rica+TV',
+    icon:
+     '//lh3.googleusercontent.com/ssD_OZ4Vc1Y5wAcjvSFrD1Rvdo-PQGvZPANdXMjWUWM1-FAe9uMzIr60DXx4Q2au8tGk=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sentinelperu.sentinel',
+    appId: 'com.sentinelperu.sentinel',
+    title: 'Sentinel',
+    summary:
+     'Free Consultation your Debt Report and knows your customers and suppliers.',
+    developer: 'Sentinel Perú',
+    developerId: 'Sentinel+Per%C3%BA',
+    icon:
+     '//lh3.ggpht.com/7KiFO3gYYUXq2COIlbddVMB_dGNJagV8xLTX-odVvnZbCXfwIwXmovoDRO_D9nYGhWw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pe.gob.susalud.servicio',
+    appId: 'pe.gob.susalud.servicio',
+    title: 'SUSALUD CONTIGO',
+    summary:
+     'SUSALUD CONTIGO is a mobile application of the National Health',
+    developer: 'Superintendencia Nacional de Salud',
+    developerId: 'Superintendencia+Nacional+de+Salud',
+    icon:
+     '//lh3.googleusercontent.com/qiTJPs562udaw6dND-0O7WO7dVUOMPK16Yn0g-a9JWGaoKR8od_xu1NMqHfqMe_K-N6R=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=tdp.app.col',
+    appId: 'tdp.app.col',
+    title: 'Mi Movistar - Gestión de tu línea móvil',
+    summary:
+     'Download it to check balances, view your receipts and take control of your line',
+    developer: 'Movistar Perú',
+    developerId: 'Movistar+Per%C3%BA',
+    icon:
+     '//lh3.googleusercontent.com/inG7Js_LM_ufct-vVhdSNqdsjio79b3cHcAv042EN0WH5bF-spDALBTtZAxznhQNgoif=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

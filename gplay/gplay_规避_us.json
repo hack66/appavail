@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appriss.mobilepatrol',
+    appId: 'com.appriss.mobilepatrol',
+    title: 'MobilePatrol Public Safety App',
+    summary: 'Stay safe and informed where you live, work, and play.',
+    developer: 'Appriss, Inc.',
+    developerId: 'Appriss,+Inc.',
+    icon:
+     '//lh5.ggpht.com/P7kUOhL6mHRuYS8uegx5ZH0KH_tmfE8wMTTQkoVNQ3muouIsKmaYBr59oWHhLSMg1g=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.telmate.TelmateGettingout',
+    appId: 'com.telmate.TelmateGettingout',
+    title: 'GettingOut',
+    summary:
+     'Simple and reliable communication between inmates, friends and family',
+    developer: 'Telmate',
+    developerId: 'Telmate',
+    icon:
+     '//lh5.ggpht.com/Qpf7IhS_49vb2lGt-AUG9aPMvL32I73fFbJgvmQChttAIc6PAINwUZw0CS4g4QuEZRN6=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.prodigygame.prodigy',
+    appId: 'com.prodigygame.prodigy',
+    title: 'Prodigy Math Game',
+    summary:
+     'Join millions already playing Prodigy Math Game to learn math for free!',
+    developer: 'SMARTeacher Inc.',
+    developerId: 'SMARTeacher+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/X01L4m0KsRbsbkgLObVH2EI6jCHeJRoZmUAI6CxxEAdy_boPzdafjRTgoJal1P_4mjc=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.lexialearning.core5',
+    appId: 'air.com.lexialearning.core5',
+    title: 'Lexia Reading Core5',
+    summary: 'Lexia Reading Core5',
+    developer: 'Lexia Learning',
+    developerId: 'Lexia+Learning',
+    icon:
+     '//lh3.googleusercontent.com/mYV_bzyxvd0PRWhL05BunkErgCP31EKqOccukvLki_Z-ASfDabPqWyFKx32hOfR0MA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=app.medicalid.free',
+    appId: 'app.medicalid.free',
+    title: 'Medical ID (Free): In Case of Emergency',
+    summary:
+     'Enables quick access to medical information and contacts in case of emergency.',
+    developer: 'Laurent Pellegrino',
+    developerId: 'Laurent+Pellegrino',
+    icon:
+     '//lh5.ggpht.com/Wqvunv-_j4CvTG3Lq6PScVPDi0ulvgCLOp-434it30aQeykoV4YyhpH6QkgKzVJRyS4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.accountable2you.ap1',
+    appId: 'com.accountable2you.ap1',
+    title: 'Accountable2You',
+    summary:
+     'Accountability app that keeps you accountable for all the actions on your device',
+    developer: 'Accountable2You, LLC',
+    developerId: 'Accountable2You,+LLC',
+    icon:
+     '//lh6.ggpht.com/R3UbrG5T5fwtZudRb_c_Ub09ptzfG2yNGwwrdwBa2PBOrnXWIVtKbklKbbEq33bamw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schedule.telmate.telmatescheduleandroid',
+    appId: 'com.schedule.telmate.telmatescheduleandroid',
+    title: 'GettingOut Visits',
+    summary:
+     'At select facilities, you now have an easy way to video visit your loved ones!',
+    developer: 'Telmate',
+    developerId: 'Telmate',
+    icon:
+     '//lh3.googleusercontent.com/u6UjAJ5KHBwxTMXLuvjPqch1KU4lMnDp-50S7C_EKzKdy61n-maY-OzVWUTWdkTKBGM=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icsolutions.icsmobile',
+    appId: 'com.icsolutions.icsmobile',
+    title: 'ICS Mobile',
+    summary: 'Visit from AnywhereOn your Android device',
+    developer: 'ICSolutions',
+    developerId: 'ICSolutions',
+    icon:
+     '//lh3.googleusercontent.com/mQ9CWn6K58O3JnOeyoPt_HqUSE96XYFm9bH6TGdVF9LN9Ab3mF1TgehZWe5x3gYFx38=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.gtl.mobile_app',
+    appId: 'net.gtl.mobile_app',
+    title: 'ConnectNetwork',
+    summary:
+     'ConnectNetwork™ helps you stay connected with incarcerated loved ones.',
+    developer: 'GTL ES',
+    developerId: 'GTL+ES',
+    icon:
+     '//lh3.googleusercontent.com/LmaQIlgjtjGDpDuqLjApe8PSrHDt_I_Kd09nZVCO2N5XWHMaRdOFIGYjIZjOBxGdaZFL=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.squarecap.mobile',
+    appId: 'com.squarecap.mobile',
+    title: 'Squarecap Mobile',
+    summary: 'Squarecap supports student success.',
+    developer: 'Squarecap, Inc',
+    developerId: 'Squarecap,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/Y8BRZA6Boo3zq6V5SrdhonUrrwrkxs2opUOszIxo7Nz3LtOBWu_KBPomFIBhncpXaw=w340',
+    score: 1.9,
+    scoreText: ' Rated 1.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.getepic.Epic',
+    appId: 'com.getepic.Epic',
+    title: 'Epic!: Kids’ Books, Audiobooks, & Learning Videos',
+    summary:
+     'Reading and education for children of all grades plus ebooks & read to me books',
+    developer: 'Epic! Creations Inc',
+    developerId: '8120985476826283671',
+    icon:
+     '//lh3.googleusercontent.com/5SMjf9P-exPdZYc5YaZfXlsLkzRaj1sxnRg3THJnLxVTh_RwbzWbhkX4S39dvY8ly74=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=air.HomeWAV',
+    appId: 'air.HomeWAV',
+    title: 'HomeWAV',
+    summary:
+     'HomeWAV is a tool to allow those incarcerated to visit with families and friends',
+    developer: 'HomeWAV, LLC',
+    developerId: 'HomeWAV,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/WhwFftppur1aV8E2HuNRHrQzFeOwD47qU_JR-Q-dbZO24SlRmspfzCG3gspLHfzwZg0=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ionicframework.iccmobile141356',
+    appId: 'com.ionicframework.iccmobile141356',
+    title: 'Inmate Canteen',
+    summary: 'InmateCanteen.com companion app',
+    developer: 'Turnkey  Corrections',
+    developerId: 'Turnkey++Corrections',
+    icon:
+     '//lh3.googleusercontent.com/zZ8Y8RSsCbzMpLcYTs1jICH_0IY8FZrt87FVgOJC8sA64nzPT0USPJPWXdMpkg9X7rU=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truthfinder.app',
+    appId: 'com.truthfinder.app',
+    title: 'Background Check & People Search | TruthFinder',
+    summary:
+     'Enter any name, phone #, or email and get background checks names etc.',
+    developer: 'TruthFinder',
+    developerId: 'TruthFinder',
+    icon:
+     '//lh3.googleusercontent.com/YoRqETpzdFzYX0YsmUzq2imx8B2LQE4XqIgiW3hSktYdypsWz_vOHnVKv3JAroWSmPsd=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=ee.ifpc.mobile',
+    appId: 'ee.ifpc.mobile',
+    title: 'If Mobile Latvija',
+    summary:
+     'If Mobile is the most convenient way to use If health insurance',
+    developer: 'If P&C Insurance AS Latvijas filiāle',
+    developerId: 'If+P%26C+Insurance+AS+Latvijas+fili%C4%81le',
+    icon:
+     '//lh3.googleusercontent.com/5nwG4fKCNS4c6nNc4BP3ZgKhf5M-8STFbzldnQeuxvnx0E3yA67Bmbw3HN5u7L1thmI=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.connectfour',
+    appId: 'com.mobirix.connectfour',
+    title: '4 in a row king',
+    summary: 'easy rule, use brain, all ages enjoy board games!',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/Zr0HM8o9cKRv_nmxOrKG8LGY8SQy5tN4BK7awfSQGny8yHlRWcHwvRCke-xt8tEFVUHQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qticketapp.android',
+    appId: 'com.qticketapp.android',
+    title: 'Qticket - Remote Queuing',
+    summary: 'Free mobile app for remote queuing.',
+    developer: 'IQ Solutions, SIA',
+    developerId: 'IQ+Solutions,+SIA',
+    icon:
+     '//lh3.googleusercontent.com/Q5vcw5nE5f55UOM8oV-bOmX6-JwX6oKZsGwyYZIZpdBCbr4O5g_blXSuWGuJaQlawYWH=w340',
+    score: 1.6,
+    scoreText: ' Rated 1.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dramaton.slime',
+    appId: 'com.dramaton.slime',
+    title: 'Super Slime Simulator - Satisfying Slime App',
+    summary:
+     'Enjoy the magic of slime on your mobile device: stretch, squish and pop!',
+    developer: 'Dramaton',
+    developerId: 'Dramaton',
+    icon:
+     '//lh3.googleusercontent.com/YfZBtR6aG3A9YbwMxuuhrPZCRM65z-HfFoAoFrszhT649J3tICDJM2aEdk1mxRbpLbM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kongregate.mobile.thetrail.google',
+    appId: 'com.kongregate.mobile.thetrail.google',
+    title: 'The Trail',
+    summary: 'The Trail will lead you to adventure and fortune!',
+    developer: 'Kongregate',
+    developerId: '7580247376460930437',
+    icon:
+     '//lh3.googleusercontent.com/a1wH1AJWf2sk_YIR6xuQGuMbMYuRihxM6aNGN9SJ4MmMGbFoJ1xVm4SBrLePsu7CP-om=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zzoo.dokdo',
+    appId: 'com.zzoo.dokdo',
+    title: 'DOKDO',
+    summary: 'Go fishing, upgrade your ship.',
+    developer: 'Zzoo',
+    developerId: '6886919362373660592',
+    icon:
+     '//lh3.googleusercontent.com/RzehQaJAL4Rj0IhQwNggjvpmgKAQSOcxJgbxW9BxeGJK8o0prGbMhrT3AWkOy4Tnng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raccoons.zole',
+    appId: 'com.raccoons.zole',
+    title: 'Zole',
+    summary: 'Zoli play with real people',
+    developer: 'Smart Raccoons',
+    developerId: 'Smart+Raccoons',
+    icon:
+     '//lh3.googleusercontent.com/mWjWpX_r-TObqCDcUTXxEI81BEb1A1pf4gf9Mq1Cd_JsVghTQprj-raQXKKfhm0dHA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.sanitex.promocashcarry',
+    appId: 'com.mobile.sanitex.promocashcarry',
+    title: 'Promo Cash&Carry',
+    summary:
+     'Promo Cash&Carry mobile application – all the latest news & offers 24/7.',
+    developer: 'SANITEX Mobile',
+    developerId: 'SANITEX+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/TU6vxvKQCYsYLCaFmgPsiPPsE8ZWjTAp60EtB3zT7jCSjVSRi0QRgevrsna439H1gk2T=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.iprado.spot',
+    appId: 'ru.iprado.spot',
+    title: 'Spot it: Find the Difference',
+    summary:
+     'Spot it: Find the Difference for Kids! Play a new game spot the difference type!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/WS2WxdvrVjUrcutuG3EWeuAYYeajRQY4eWmnCCFUzDC-NGV0YH3hrqGfWq72yreefFY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy',
+    appId: 'com.playgendary.kickthebuddy',
+    title: 'Kick the Buddy',
+    summary:
+     'Relief stress with Kick the Buddy! Limitless arsenal to beat at your disposal!',
+    developer: 'Playgendary',
+    developerId: '7486814720100409246',
+    icon:
+     '//lh3.googleusercontent.com/H_Te1sCRc5fwgpKDvcI-crLI3GoT48zOc_iDN4H9wEsI5vLuzJN33BegsU9rJHbLVOM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.ergo.app',
+    appId: 'com.ergo.app',
+    title: 'ERGO Latvija',
+    summary:
+     'The easiest and fastest way to apply for health insurance claims.',
+    developer: 'ERGO Life Insurance SE',
+    developerId: 'ERGO+Life+Insurance+SE',
+    icon:
+     '//lh3.googleusercontent.com/zFUEb8llxMdluaVFTY3y-ZRIXfpujdpyVHcB4ZdY_InlnDplOVSSUo25REdEWcdbvYE=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.mtg.freetv.tv3_lv',
+    appId: 'se.mtg.freetv.tv3_lv',
+    title: 'TVPlay Latvija',
+    summary:
+     'TVPlay app you can watch the transmission of more than 11 TV channels!',
+    developer: 'TV Play',
+    developerId: 'TV+Play',
+    icon:
+     '//lh3.googleusercontent.com/2MVOJh3wgjGqfZaRDSawxsaZASVpbTRaDovzboiQXnWkq4365M6dKfVWYwZlE5Kg4J0h=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mousecity.faraway3',
+    appId: 'com.mousecity.faraway3',
+    title: 'Faraway 3: Arctic Escape',
+    summary:
+     'Faraway 3 is a relaxing adventure escape game full of new puzzles to solve.',
+    developer: 'Snapbreak',
+    developerId: '8610760313453635485',
+    icon:
+     '//lh3.googleusercontent.com/P6xDXCnhMtkbwxtlCbMBpBJr5qkGG0U4UX0GmW-aOV0vfqBe1DsCZHTp9hgKM0wlSRE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crossfield.namsterlife',
+    appId: 'com.crossfield.namsterlife',
+    title: 'Hamster Life',
+    summary:
+     '9 million downloads! This is a super healing free app game「Hamster Life」',
+    developer: 'Cross Field Inc.',
+    developerId: '8349232061000500898',
+    icon:
+     '//lh3.googleusercontent.com/92nYyJo0pQ89AHDZ4cLrVzImwbvCb-E1XG9jXsP5ndPd7iNioGFgnBzgVyKKfTUB2Yc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,278 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.gap.camplus.cpn',
+    appId: 'jp.co.gap.camplus.cpn',
+    title: 'GAP Japan 公式アプリ',
+    summary:
+     'Gapの最新ニュースやおトク情報をタイムリーにお届けし、さらにGAPメンバーシップ連携が加わってより便利になった、GAP Japan 公式アプリです。',
+    developer: 'ギャップジャパン株式会社',
+    developerId:
+     '%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE',
+    icon:
+     '//lh4.ggpht.com/R8zgfYv5qDyX7ftvovHwS8uu4U4Ws-PBerZYarsfAAvM5csWrFOCXQxFz64TCbhRH1kH=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.hckohnan.app.chirashi.android',
+    appId: 'jp.co.hckohnan.app.chirashi.android',
+    title: 'コーナン',
+    summary:
+     'The “Conan App” allows you to make payments with Conan Pay, and you can easily view the best flyers and store information anytime, anywhere.',
+    developer: 'KOHNAN SHOJI CO., LTD.',
+    developerId: 'KOHNAN+SHOJI+CO.,+LTD.',
+    icon:
+     '//lh3.ggpht.com/o4mAv7dMkvR20yZufsvAq3HotEO7t4VlO8xT43OfZIDMunBq-l2lMv_2SyD36g9Rji0=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.donki.majica',
+    appId: 'com.donki.majica',
+    title: 'majica～電子マネー公式アプリ～',
+    summary:
+     '国内ドン・キホーテ店舗およびmajica加盟店でのお買い物を便利にお得にサポートする電子マネーカード「majica」の公式アプリです。',
+    developer: '（株）ドン・キホーテ',
+    developerId:
+     '%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86',
+    icon:
+     '//lh3.googleusercontent.com/xjIvMXnfJ-J5O2iuJcNYtT5ZHz-0rOhWYn7rGJLfMQQ6i4XMnqrCVqFOhnYrCG7toxg=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.sugi.sugitomo',
+    appId: 'jp.sugi.sugitomo',
+    title: 'スギ薬局アプリ',
+    summary:
+     '「スギ薬局アプリ」はあなたのスマホにクーポン、お得なお知らせ、チラシ情報等をいち早くお届けするスギ薬局グループ公式スマホアプリです！※ジャパン店舗は対象外です',
+    developer: 'スギ薬局',
+    developerId: '%E3%82%B9%E3%82%AE%E8%96%AC%E5%B1%80',
+    icon:
+     '//lh3.googleusercontent.com/UaPSaLUrcQnHmLCN8Za2sFbh8FA1N-dypfGV-rRlCMWKZKn11e0mJjY-KxTSW3xNiTYs=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=jp.co.nitori',
+    appId: 'jp.co.nitori',
+    title: 'ニトリアプリ',
+    summary:
+     'ニトリでのお買い物が、より便利に、より買いやすくなる「ニトリ公式アプリ」。全国のニトリで使えるメンバーズ会員証が表示でき、貯まったポイントもすぐに確認できます',
+    developer: 'LocationValue Inc.',
+    developerId: '8856722748060887415',
+    icon:
+     '//lh5.ggpht.com/jNPOmxHDJ8DdObwWo3rKgubrXCiN2Xv7IFXdzgX7jiUUR6nQtO0dxMAxbAc5j3kJwOA=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.demaecan.androidapp',
+    appId: 'com.demaecan.androidapp',
+    title: '出前館',
+    summary:
+     'The app of the largest domestic delivery site [demaekan] has become much easier to use with a major renewal!',
+    developer: 'YUME NO MACHI SOUZOU IINKAI CO.,LTD',
+    developerId: 'YUME+NO+MACHI+SOUZOU+IINKAI+CO.,LTD',
+    icon:
+     '//lh3.googleusercontent.com/oWtovmWD6cGF2xR2rwWfr6d0WubFdpHcB0vavQ0KVPixvVuJKFl1Mabi3rruU7LoIU1A=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.ponta.myponta',
+    appId: 'jp.ponta.myponta',
+    title: 'Pontaカード(公式)',
+    summary:
+     'Ponta official application that you can use Ponta card with your smartphone. Even without holding the card, present the smartphone and the points accumulate.',
+    developer: 'Loyalty Marketing, Inc.',
+    developerId: 'Loyalty+Marketing,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/A2TUf_vLS9thDZHGKfgSW7Sgis1_P2DwCRjYBORrUKn0096rs9ptmgkq6tITpxmAPnQ=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.chateraise.android.members',
+    appId: 'jp.co.chateraise.android.members',
+    title: 'シャトレーゼ公式アプリ',
+    summary:
+     'シャトレーゼ公式アプリがリニューアル！会員証機能やWebチラシなど新機能追加でさらに便利＆お得に。シャトレーゼアプリでおいしく楽しいスイーツライフを！',
+    developer: 'シャトレーゼ',
+    developerId: '%E3%82%B7%E3%83%A3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BC',
+    icon:
+     '//lh3.googleusercontent.com/h97kaiYqFkiKGZKHz9GGBAh6_bUVuC9Ciy9Bom2FqxM5P2b29scqN7FdoSZTK91JCY8=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=kichihug.apl',
+    appId: 'kichihug.apl',
+    title: '毎日ハッピー！気学アプリ「吉ハグ。」',
+    summary:
+     '手軽にいつでもどこでもできる占いアプリ。しかし内容はプロの方も満足できるように。あなたもぜひこの「吉ハグ。」を使って、一緒に幸せに近づいていきましょう。',
+    developer: 'Insight, Inc',
+    developerId: 'Insight,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/zl5UHORfiZRzugZbdmCMDXWMvaiCoggubB-U157An8hYEzLfsSAWb5G-BB6lXwTcx4g=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vivahome.tcss',
+    appId: 'com.vivahome.tcss',
+    title: 'ビバホーム',
+    summary:
+     'Register for free! Purchase history · Point confirmation, product search · Store information etc. Shopping in Viva Home makes it more convenient.',
+    developer: 'ビバホーム',
+    developerId: '%E3%83%93%E3%83%90%E3%83%9B%E3%83%BC%E3%83%A0',
+    icon:
+     '//lh3.googleusercontent.com/1FsrRvcy9W2hb68i1f4Z2-LpqVXqzBxwpVGP2N5PoJkhHkwMW0eMJSEzqgNcnUiILw=w340',
+    score: 2.5,
+    scoreText: ' Rated 2.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yodobashi.coupon',
+    appId: 'com.yodobashi.coupon',
+    title: 'ヨドバシゴールドポイントカード',
+    summary:
+     'Simply log in Yodobashi dot com member ID / password, all of the Android terminal is available as a point card.',
+    developer: 'YODOBASHI CAMERA CO.,LTD.',
+    developerId: 'YODOBASHI+CAMERA+CO.,LTD.',
+    icon:
+     '//lh5.ggpht.com/HmNt-ctBGcnqvRhms17tN1Fg5wp2Z33_yeANWjH-7V1p8NHB_HlMqYIM6Ln0vVVxF0Hc=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.android.chrome',
+    appId: 'com.android.chrome',
+    title: 'Google Chrome: Fast & Secure',
+    summary:
+     'Fast, simple, and secure. Google Chrome browser for Android phones and tablets.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.eposcard.eposcardapp',
+    appId: 'jp.co.eposcard.eposcardapp',
+    title: 'エポスカード公式アプリ',
+    summary:
+     'このアプリは株式会社エポスカードの公式アプリです。 エポスカード会員サイト『エポスNet』の主な機能がご利用いただけます。',
+    developer: '株式会社エポスカード',
+    developerId:
+     '%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%83%9D%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%89',
+    icon:
+     '//lh6.ggpht.com/OtJMod1jPUZHD4ZFpmL3H0x2V7nsTaoSXvzNupGYKX-sr_5jwSY-JKIGAWuo1XKTziBj=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.hardoff.renk.app.official.prd',
+    appId: 'jp.co.hardoff.renk.app.official.prd',
+    title: 'ハードオフ公式アプリ',
+    summary:
+     'プロからオファーが来るアプリ！ハードオフグループが提供する公式アプリです。チェックインしてクーポン獲得、店舗検索、ネットモールで商品を探すこともできます。',
+    developer: 'HARDOFF SP APP',
+    developerId: 'HARDOFF+SP+APP',
+    icon:
+     '//lh3.googleusercontent.com/cd1zEXKtrVxJmurpCZeNMsCUsrpaME8Ph11tcPwAkNLQxmJVoFyHbtnT0jv1tQSd5eM=w340',
+    score: 2.8,
+    scoreText: ' Rated 2.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

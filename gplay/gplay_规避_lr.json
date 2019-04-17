@@ -1,0 +1,273 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.viaviapp.kmtv',
+    appId: 'com.viaviapp.kmtv',
+    title: 'KMTV',
+    summary: 'We are everywhere!',
+    developer: 'MasterApp Dev',
+    developerId: 'MasterApp+Dev',
+    icon:
+     '//lh3.googleusercontent.com/ZEwil6VL8548xnysali11Lp6RxZk1IayERZHK-WaVJxqHarGGpbXXh8m3ml1KbJs--Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orange.myorange.olr',
+    appId: 'com.orange.myorange.olr',
+    title: 'My Orange Liberia',
+    summary:
+     'The free mobile self-care application for Orange Liberia mobile customers.',
+    developer: 'Orange Liberia',
+    developerId: 'Orange+Liberia',
+    icon:
+     '//lh3.googleusercontent.com/9dOm1Sij-Q8U6Gnd3kKJLpwK_VoxrDIuDhS4fYqnwwFvz3Ewthq_XvmB0F8QufR7JZU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=https___wasscehistorytextbook.com_',
+    appId: 'https___wasscehistorytextbook.com_',
+    title: 'WASSCE History Quiz',
+    summary:
+     'This quiz is aimed at West African students taking WASSCE History Paper 1.',
+    developer: 'Bixente Hiribarren',
+    developerId: 'Bixente+Hiribarren',
+    icon:
+     '//lh3.googleusercontent.com/KdsFbnZBtX1OMtxiiY5mWEh6MOYXbpXzMfU_tfClTCPYqRPgrt7B-dd8Rph78WTQ5kk=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.missingyou.greatmind',
+    appId: 'com.missingyou.greatmind',
+    title: 'I Miss You Love Messages',
+    summary:
+     'Love inspires us and moves us. Get the best missing you message plus lots more',
+    developer: 'GreatMindsGub',
+    developerId: 'GreatMindsGub',
+    icon:
+     '//lh3.googleusercontent.com/LqhRX7gj_WB0Z4BQGBA4ITSSOp3bhNXFrV2bdQhwrw8L-Tc85FawYCwDRdnZAJbBgNM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=power.of.prayer.app',
+    appId: 'power.of.prayer.app',
+    title: 'POWER OF PRAYER',
+    summary:
+     'This app features content (including Q&As) on the Power of Prayer',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/GJ9oUKSDJCwnAlIyB1FzDnTk8aoX_NXRA7ODFeEePMBb4-h4V_gxKxsTfos2SSDclpo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.islet.Englishproverbsandmeanings',
+    appId: 'com.islet.Englishproverbsandmeanings',
+    title: 'Proverbs and Meanings',
+    summary:
+     'Here comes the exclusive English Proverbs and its Meanings.',
+    developer: 'Islet Developers',
+    developerId: 'Islet+Developers',
+    icon:
+     '//lh3.ggpht.com/mdjOc7q0sAn4wU-d0OtiaYu2xWZwRc-xMFvVbSYOp5i6PJIKedyOM-0elOW9T9KvAKPW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orange.orangemoneyliberia',
+    appId: 'com.orange.orangemoneyliberia',
+    title: 'Orange Money Liberia',
+    summary:
+     'Orange Liberia proposes this smartphone application for Orange Money',
+    developer: 'Orange Liberia',
+    developerId: 'Orange+Liberia',
+    icon:
+     '//lh3.googleusercontent.com/ffoU_GdpitDznRIGMHG-fJzuFCrvu9IP-mePqBj7wLehWnPLAfJ-bEhlsn4mG6IAH6Qq=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.solar.panel.installation.wiring.diagram',
+    appId: 'com.solar.panel.installation.wiring.diagram',
+    title: 'Solar Panel Installation',
+    summary: 'Download now: solar panel installation diagrams for free.',
+    developer: 'Monik-INC',
+    developerId: 'Monik-INC',
+    icon:
+     '//lh3.googleusercontent.com/lY90IeaTQMGKRrZvn9pksZPVL6S5CYnk5k4RevLmmtxfr74KhLrT_Egkhr_49bx3NQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appsmmb.dreamsmeaning',
+    appId: 'com.appsmmb.dreamsmeaning',
+    title: 'Dreams and their meanings',
+    summary:
+     'What does what I dreamed mean? Download dreams and find out!',
+    developer: 'Apps MMB',
+    developerId: '9145006927110019238',
+    icon:
+     '//lh3.googleusercontent.com/GpMoKybww6akEsKnaukW6BbiPj-3JqZYO1PKBguVpUfZ0CSeuJ3Y37LOdPh2HTZxqAne=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.modernenglishstudio.HowToSpeak',
+    appId: 'com.modernenglishstudio.HowToSpeak',
+    title: 'How to Speak Real English',
+    summary:
+     'You will not find any better English Application than this anywhere.',
+    developer: 'DS&T_Modern English Studio',
+    developerId: 'DS%26T_Modern+English+Studio',
+    icon:
+     '//lh5.ggpht.com/cQvFpBRWzMI1qHvhVYJKFbgKTUaqrey4Z783JaAPoAWiyfEe_jwDVIPqrO97FmbEnsZ1=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=thefirstbookof.adam.and.eve.app',
+    appId: 'thefirstbookof.adam.and.eve.app',
+    title: 'THE FIRST BOOK OF ADAM AND EVE',
+    summary:
+     'This app provides full, organized content on the First Book of Adam and Eve.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/3ENhOqBC75vYReNqa5zd2YSdMUTHrUEqYZXgDD1crmCxbCLqCTK3eMP6Wf9p9sb-aOE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=forgotten.books.of.eden.app',
+    appId: 'forgotten.books.of.eden.app',
+    title: 'THE FORGOTTEN BOOKS OF EDEN',
+    summary:
+     'Contains 4 of the missing books of the bible a.k.a The Forgotten Books of Eden.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/HP6g7wWneNCoDHIhb0_xxMFvmE1EYg_xrswVoAUiA6CjiPfQpWc28dEIzepmG_Hb-w=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dayaapps.liberiaconstitution',
+    appId: 'com.dayaapps.liberiaconstitution',
+    title: 'Liberia Constitution 1986',
+    summary: 'The Constitution of Liberia 1986 app.',
+    developer: 'Daya Apps',
+    developerId: 'Daya+Apps',
+    icon:
+     '//lh3.googleusercontent.com/XdgJ0YZqrWsPUpsEQv2Vba2gk2EoMGqooDIuHSTDF-9iPIgCa_OTqBQvzDrF22jOLpHq=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=the.book.of.adam',
+    appId: 'the.book.of.adam',
+    title: 'THE BOOK OF ADAM',
+    summary:
+     'This Book Of Adam app is translated from the Georgian original.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tUKYys2fvswYtZj4ZK4ZbzMhTq3wj_btCaqc5N_9UxxHKMXJT6QPdSkIDa_doUxnpw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=franol.geleta.fgsystem.yemezmuretenatdebter',
+    appId: 'franol.geleta.fgsystem.yemezmuretenatdebter',
+    title: 'የመዝሙር ጥናት ደብተር',
+    summary:
+     'This app is used to display old & recent amharic worship songs for singers',
+    developer: 'franol geleta',
+    developerId: 'franol+geleta',
+    icon:
+     '//lh3.googleusercontent.com/grDYEODERh-BcwC9uMHFSFEg1a6RSUlYEbHPLVbOb1d0lirZ9z6kK7p1xhvSvDfDm-4P=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=quran.warsh.modified',
+    appId: 'quran.warsh.modified',
+    title: 'Al-Qur\'an Warsh',
+    summary:
+     'Al-Qur\'an app  rubutun hannu na farko a duniya.(FIRST HANDWRITTEN QUR\'AN APP)',
+    developer: 'SAGWARE International',
+    developerId: 'SAGWARE+International',
+    icon:
+     '//lh3.googleusercontent.com/Bv6g2Tub3NugnMzEeXV8tISik6VYr235daETLULBvCCH2uVuCvyY1atDYcHC9eQacLU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true } ]

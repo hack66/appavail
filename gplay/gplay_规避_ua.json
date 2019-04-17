@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playflame.oilhunt',
+    appId: 'com.playflame.oilhunt',
+    title: 'Oil Hunt',
+    summary:
+     'Play as OIL-hungry heroes or monsters in search of that tasty dark stuff!',
+    developer: 'PlayFlame',
+    developerId: '6879926558019835955',
+    icon:
+     '//lh3.googleusercontent.com/4dYVOj5Cd9CjrzfapnQ1EmsbtKFIHyzT5tky6VatmyNcbKZ3HGqPDpVDdZznRAoJ9Q=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bubadu.duddu',
+    appId: 'com.bubadu.duddu',
+    title: 'Duddu - My Virtual Pet',
+    summary: 'Best way to experience why dog is a man’s best friend!',
+    developer: 'Bubadu',
+    developerId: '7263645302164630442',
+    icon:
+     '//lh3.googleusercontent.com/TyOjE-fCRAYiNLpkPLnpqfFP9Hzc9bfEYzuYW4m4Qi4KmVztvn7RAdR1rGgSdIgCIR8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leodesol.games.classic.maze.labyrinth',
+    appId: 'com.leodesol.games.classic.maze.labyrinth',
+    title: 'Mazes & More',
+    summary:
+     'Classic maze/labyrinth game with fun tweaks.  Can you solve all the mazes?',
+    developer: 'Leo De Sol Games',
+    developerId: '8149422968449365069',
+    icon:
+     '//lh3.googleusercontent.com/JchaxYkVuO_jGLOaS2-Ur2HcAFAOOPPYsRm6sraO7E55OqoVK_WlZ5k32iIvF_HyeD8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.iprado.spot',
+    appId: 'ru.iprado.spot',
+    title: 'Spot it: Find the Difference',
+    summary:
+     'Spot it: Find the Difference for Kids! Play a new game spot the difference type!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/WS2WxdvrVjUrcutuG3EWeuAYYeajRQY4eWmnCCFUzDC-NGV0YH3hrqGfWq72yreefFY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mousecity.faraway3',
+    appId: 'com.mousecity.faraway3',
+    title: 'Faraway 3: Arctic Escape',
+    summary:
+     'Faraway 3 is a relaxing adventure escape game full of new puzzles to solve.',
+    developer: 'Snapbreak',
+    developerId: '8610760313453635485',
+    icon:
+     '//lh3.googleusercontent.com/P6xDXCnhMtkbwxtlCbMBpBJr5qkGG0U4UX0GmW-aOV0vfqBe1DsCZHTp9hgKM0wlSRE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hitrock.hideonline',
+    appId: 'com.hitrock.hideonline',
+    title: 'Hide Online - Hunters vs Props',
+    summary:
+     'Hide Online — stunning Hide and Seek action-shooter multiplayer game!',
+    developer: 'HitRock Games',
+    developerId: 'HitRock+Games',
+    icon:
+     '//lh3.googleusercontent.com/QHS5U5TXobCHd9h1k6Qrzn2qpuWgcQuRMFPlzlbT4uU8FtylC_2WDHX2sDEANwnPd2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.anuke.mindustry',
+    appId: 'io.anuke.mindustry',
+    title: 'Mindustry',
+    summary: 'A factory-based sandbox tower defense game.',
+    developer: 'Anuken',
+    developerId: 'Anuken',
+    icon:
+     '//lh3.googleusercontent.com/6zFJGip9oXB0RtO_p25jZqSX8EsRy5Vws2bkzgAMIgA32guRvKzMpj8YMylbcJwanbw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row',
+    appId: 'com.ea.game.pvzfree_row',
+    title: 'Plants vs. Zombies FREE',
+    summary:
+     'Stem a zombie attack on your yard with the help of powerful plants!',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/fK7Va6zSVFjjxlWPG88yBLTQBKaoBzxV0ptcP8h8RW9vFt3M6Tix0xXk4UZAJl15mA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lalapp.waytoslay',
+    appId: 'com.lalapp.waytoslay',
+    title: 'A Way To Slay -  Fight And Turn-Based Puzzle',
+    summary:
+     'This is a bloody, turn-based game. You will face samurai, knights and others!',
+    developer: 'NoTriple-A Games',
+    developerId: '4774180223730898597',
+    icon:
+     '//lh3.googleusercontent.com/oowZsFPQWSFNbqgxj6ckcZH932ZzoAiI5qQ4t0Bz4vaJiZTTTGqwXIH781MAjK5u1XRs=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zzoo.dokdo',
+    appId: 'com.zzoo.dokdo',
+    title: 'DOKDO',
+    summary: 'Go fishing, upgrade your ship.',
+    developer: 'Zzoo',
+    developerId: '6886919362373660592',
+    icon:
+     '//lh3.googleusercontent.com/RzehQaJAL4Rj0IhQwNggjvpmgKAQSOcxJgbxW9BxeGJK8o0prGbMhrT3AWkOy4Tnng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

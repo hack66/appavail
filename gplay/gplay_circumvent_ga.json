@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ua.ers.simpleVpn',
+    appId: 'ua.ers.simpleVpn',
+    title: 'Simple VPN - bypass of blocking sites',
+    summary:
+     'A simple VPN client to bypass the sites blocks and secure Internet traffic',
+    developer: 'Electronic Rescue Service',
+    developerId: '8294402608006584816',
+    icon:
+     '//lh3.googleusercontent.com/l2OTT07qnv4ie7zRNfri-fElVj0b2ocSiZHfr0N3Na1mcHUYjcBl_ohfW-gEb5IWEw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.hotspotcontrol',
+    appId: 'eu.chainfire.hotspotcontrol',
+    title: 'Hotspot Control',
+    summary:
+     'Tiny app that enables or disables Portable Hotspot functionality of Android',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     '//lh4.ggpht.com/rR7RiC1i2_9GsH-ei4Y6O6Gn9K8vLpgcYkPjFZIlRNgjmZeYSF-k9UcdfBGho77e7w=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.StephenGibson.GSCompanionApp',
+    appId: 'com.StephenGibson.GSCompanionApp',
+    title: 'Grimslingers Guides & Tools',
+    summary:
+     'Learn the game, improve set up times and acquire additional content.',
+    developer: 'Stephen S Gibson',
+    developerId: 'Stephen+S+Gibson',
+    icon:
+     '//lh3.googleusercontent.com/VKWleXZEl_ejLEoD3HSecMZ7dGs16PxXJmq1GaAQrUqCuaTC8Z6cOP5eIV0gRh0eIc8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.proxy.unblock.android.easy.app',
+    appId: 'free.vpn.proxy.unblock.android.easy.app',
+    title: 'VPN Easy',
+    summary:
+     'Easy to use Free VPN ProxyUnblock Websites & AppsSecure and Anonymous Surf',
+    developer: 'ZPN',
+    developerId: 'ZPN',
+    icon:
+     '//lh3.googleusercontent.com/9-63ouBNNo-BmrmTerLleWU3odKSWmxi8nPJUz3TFGniHAo47OCn9fYJeTcQvkTrpTg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maker_bestapp.meme.mememaker',
+    appId: 'com.maker_bestapp.meme.mememaker',
+    title: 'Meme, Quote Maker',
+    summary: 'Make Mems  and Quote Pics',
+    developer: 'Shaaban',
+    developerId: 'Shaaban',
+    icon:
+     '//lh3.googleusercontent.com/HpOrgDym7X5qVzYiyPUi4r3tQTGZhFT9PFvkrBuVuiKgc1P4U2hz3kpfve1Kr7Yw01Y=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ambitious.proxy.vpn.fast',
+    appId: 'com.ambitious.proxy.vpn.fast',
+    title: 'FuryBear VPN- Free access to blocked sites & Apps',
+    summary:
+     'Free and unlimited access  to blocked sites & apps with FuryBear VPN',
+    developer: 'Pangolin Tech',
+    developerId: 'Pangolin+Tech',
+    icon:
+     '//lh3.googleusercontent.com/v4yLAHHSpG1a7OswXsSebF6ea3M2uA2vO5w9T9ohCNI_gKX8W0JjWf8TVduKmE4xnQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.tobiasbielefeld.searchbar',
+    appId: 'de.tobiasbielefeld.searchbar',
+    title: 'Simple Search',
+    summary: 'Open source search app with a widget',
+    developer: 'Tobias Bielefeld',
+    developerId: 'Tobias+Bielefeld',
+    icon:
+     '//lh3.googleusercontent.com/XWPVmsAyD4VMvKSzasoc_DpbxL7tPSxLpbZZCk1sYW5gBFkQsBngBBXFFhPjm-Wjdma7=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshua.legalforms',
+    appId: 'com.joshua.legalforms',
+    title: 'Complete Legal Forms',
+    summary:
+     'This apps contains legal forms and agreements to safeguard your legal rights',
+    developer: 'Joshua Inc',
+    developerId: 'Joshua+Inc',
+    icon:
+     '//lh5.ggpht.com/GFsqsT4D0KYbyY-pNLLYkPhQs6zEp8b1phjktdl8sgNOSk-QljRyEMDz_p7WCblLYKI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.habitfactorlite',
+    appId: 'com.habitfactorlite',
+    title: 'Habit Factor® LT, Goals,Habits',
+    summary:
+     '3-9-15, New Update! The only productivity app w/ complementary bestselling book!',
+    developer: 'Equilibrium Enterprises, Inc.',
+    developerId: 'Equilibrium+Enterprises,+Inc.',
+    icon:
+     'https://lh5.ggpht.com/Q2Gv_-KTalLkq8NDR40_ynanl6RXaab_qVxA_cQXtPk5YckQbI5ISberjhgKoag9JXs=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.auradesign.microphoneguard',
+    appId: 'cz.auradesign.microphoneguard',
+    title: 'Microphone Guard (Mute&Block)',
+    summary:
+     'Microphone Guard mutes the internal microphone and make sure that it stay muted.',
+    developer: 'AURADESIGNCZ',
+    developerId: 'AURADESIGNCZ',
+    icon:
+     '//lh5.ggpht.com/_i43tvxCGHSb2lhYyLlQxPnCF9I4A3OCKxNSTHTpfbJoZ-vGYPJ7HYTi3OiGQx2-Y84=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.promobitech.mobilock',
+    appId: 'com.promobitech.mobilock',
+    title: 'MobiLock Kiosk Lockdown Basic',
+    summary:
+     'Turns your Android devices into a Kiosk by locking down the default home screen.',
+    developer: 'ProMobi Technologies',
+    developerId: 'ProMobi+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/KFrZM7yCh05uk7H2s8DvQhAb0kR5s3KcLqhZep02iXnAS8vbM-UJ-4EtjX36UMVV=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.selfdefensebook.android',
+    appId: 'com.selfdefensebook.android',
+    title: 'Self Defense Book',
+    summary:
+     'This application will allow you to know some basics of self-defense.',
+    developer: 'SysWare',
+    developerId: 'SysWare',
+    icon:
+     '//lh3.googleusercontent.com/VRRfJsxtdDB-W3mjA6vI2ob1i-YMGUKxmZqmctXDoC126c401R5X9xbfLfWchm_3AU06=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn_super_speed_free_unblock_proxy_master.proxy.vpn_super_speed_free_unblock_proxy_master',
+    appId:
+     'com.vpn_super_speed_free_unblock_proxy_master.proxy.vpn_super_speed_free_unblock_proxy_master',
+    title: 'VPN Super Speed Free Unblock Proxy Master',
+    summary:
+     'Get VPN Super Speed Free Unblock Proxy Master,VPN Touch Unlimited Proxy Master',
+    developer: 'zealstore',
+    developerId: 'zealstore',
+    icon:
+     '//lh3.googleusercontent.com/WMx_pxLCztiDdc_sx7fMln3wNfPo0ythoz1HHiFekpd4qxILls67KKaS2fAopqlQ7XI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloups.lussier.annie.com.blipsinapp',
+    appId: 'com.bloups.lussier.annie.com.blipsinapp',
+    title: 'Blips!',
+    summary:
+     'Blips makes it possible to learn numeration in an amusing way…',
+    developer: 'Annie Lussier',
+    developerId: 'Annie+Lussier',
+    icon:
+     '//lh3.googleusercontent.com/UaByyoY1lg6UTAXzZX_f_BHAcOD1SFFf8jiYWliZUptXJ6qtENGu6v05q1LsIDUt-6G3=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ie.snowy.thedude',
+    appId: 'ie.snowy.thedude',
+    title: 'Mikrotik Dude Android Client',
+    summary:
+     'An Android client for Mikrotik\'s The Dude Network management platform.',
+    developer: 'Snow Tech Software',
+    developerId: 'Snow+Tech+Software',
+    icon:
+     '//lh3.googleusercontent.com/9MAkFipci1kNs3uwx7keBa7P8yVqDaEraL0ZDbYI65NBDWYjFhdB7hhjkCf_OLuUjKw=w340',
+    score: 1.8,
+    scoreText: ' Rated 1.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn_super_speed_free.free_unblock_proxy_master',
+    appId: 'com.vpn_super_speed_free.free_unblock_proxy_master',
+    title: 'VPN Super Speed - Free unlimited Proxy Master',
+    summary: 'Get VPN Super Speed - Free Unlimited Proxy Master',
+    developer: 'zealstore',
+    developerId: 'zealstore',
+    icon:
+     '//lh3.googleusercontent.com/2W8xzuf3vf495y94mEm7ASzVVeeA0zhTpwQoJjFtLnKJYumDmQ-nITpH1tOb5yrO-Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

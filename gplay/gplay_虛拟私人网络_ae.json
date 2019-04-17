@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.redapplevpn.com',
+    appId: 'us.redapplevpn.com',
+    title: 'RedAppleVPN',
+    summary: 'One tap easy to use VPN',
+    developer: 'GreenAppleVPN',
+    developerId: 'GreenAppleVPN',
+    icon:
+     '//lh3.googleusercontent.com/8MkOWobZS4HlPykEgqDlJqMniGc2UTq6FCFhmd_sfiffJoCXqxuIKBL3e8WswnG2b-3f=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.olovpn.app',
+    appId: 'com.olovpn.app',
+    title: 'OLO VPN - Unlimited Free VPN',
+    summary:
+     'OLO VPN-Unlimited Free VPN, Fast, Secure & Reliable VPN. Access blocked content',
+    developer: 'VPN Expert',
+    developerId: 'VPN+Expert',
+    icon:
+     '//lh3.googleusercontent.com/PLIfaDsTYHI-lTJQg2bq8vrxmIDvw433DC0AGNKGoLX15x8wxrN0YOnANC5TG9s8UnA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shazam.android',
+    appId: 'com.shazam.android',
+    title: 'Shazam',
+    summary: 'GIVE AN ANSWER TO: “WHAT’S THAT SONG?"',
+    developer: 'Apple, Inc.',
+    developerId: 'Apple,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=launcher.walpapers.cool',
+    appId: 'launcher.walpapers.cool',
+    title: 'Melon VPN - Unlimited Free & Fast Security Proxy',
+    summary: 'The best VPN secure Pro.',
+    developer: 'Vego APP 3d',
+    developerId: 'Vego+APP+3d',
+    icon:
+     '//lh3.googleusercontent.com/uPt92KrWgbaDgMBbSpoYFsHullsljsByceepI4GoLC0jDP0VrchE5IvehB8zZHcj=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eagleheart.ferrari',
+    appId: 'com.eagleheart.ferrari',
+    title: 'VPN Ferrari(Free unblock proxy)',
+    summary: 'FerrariVPN is a completely free VPN',
+    developer: 'Dream Man',
+    developerId: 'Dream+Man',
+    icon:
+     '//lh3.googleusercontent.com/NkrPLOhfQkAfxNSQV7jwLvaWxd7hkH6iJGzzSk-8TW7BDeifN8MJ8WdA_3U0ciPRpFaN=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hideme.android.vpn',
+    appId: 'hideme.android.vpn',
+    title: 'hide.me VPN',
+    summary:
+     'World’s fastest VPN used by more than 10 million users, Use It For Free',
+    developer: 'eVenture',
+    developerId: 'eVenture',
+    icon:
+     '//lh3.googleusercontent.com/nAWV1Dzlo3vfp9bp5Q5PMFO3mTpjyAUpoEtiBrkxsFcMinpyjgRjuSKxqFqkniyGRw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sonymobile.sketch',
+    appId: 'com.sonymobile.sketch',
+    title: 'Sketch - Draw & Paint',
+    summary:
+     'Draw, paint, edit photos and have fun with stickers in our creative app.',
+    developer: 'Sony Mobile Communications',
+    developerId: '4851747018805076305',
+    icon:
+     '//lh3.googleusercontent.com/sFUmSLtyuwKYT2-XVhzs9C4deTpLI0nee1us6x3s0vsZ0EKwxM8Tsclc4vOEWUjFM5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note',
+    appId: 'com.socialnmobile.dictapps.notepad.color.note',
+    title: 'ColorNote Notepad Notes',
+    summary:
+     'ColorNote® - Easy to use notepad for notes, shopping list, to-do list, calendar',
+    developer: 'Notes',
+    developerId: 'Notes',
+    icon:
+     '//lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=im.thebot.messenger',
+    appId: 'im.thebot.messenger',
+    title: 'BOTIM - Unblocked Video Call and Voice Call',
+    summary:
+     'BOT - The best free VoIP call app, encrypted and unblocked in all countries',
+    developer: 'Algento Cloud Computing Limited',
+    developerId: 'Algento+Cloud+Computing+Limited',
+    icon:
+     '//lh3.googleusercontent.com/JJNHBkO79yv-eqZ8wxElV3C07D6QSglPkvSgadaOB9L-I3CCKWreCml1oD1yAaBcnmZq=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.getkeepsafe.vpn',
+    appId: 'com.getkeepsafe.vpn',
+    title: 'Keepsafe VPN – Stay Safe on WiFi, Hotspot Networks',
+    summary:
+     'Fast, Reliable and Safe VPN: Protect Online Privacy on WiFi Hotspot Connections',
+    developer: 'Keepsafe',
+    developerId: '7409182767575593474',
+    icon:
+     '//lh3.googleusercontent.com/GLMzzaaTSS-DRZswC8BcwYR50jWs5-JVXh3kMSjUJ9eWtaPl-KuCWIy6qFipcohUK28=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ae.gov.adpolice',
+    appId: 'ae.gov.adpolice',
+    title: 'Abu Dhabi Police',
+    summary:
+     'Abu Dhabi Police application provides various services to public users.',
+    developer: 'Abu Dhabi Police HQ',
+    developerId: 'Abu+Dhabi+Police+HQ',
+    icon:
+     '//lh3.googleusercontent.com/KguIftTco1PHL2CvKoSizTID0Er4OZ9PZCKce_wG8AWiJY8xLVdGhVa8mc4BpJa8vuVK=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.silverdialer.app',
+    appId: 'com.silverdialer.app',
+    title: 'Silver Dialer',
+    summary: 'Silver Dialer is a Smart Mobile app to make VOIP calls',
+    developer: 'REVE SYSTEMS LTD.',
+    developerId: 'REVE+SYSTEMS+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/-YWVGWSX5gl6M7_kUwQ6pwz3f_Q94JQylA_kDjZ1ptdmmVz4DUZvoiyLhG6bHKus7TXo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest',
+    appId: 'org.zwanoo.android.speedtest',
+    title: 'Speedtest by Ookla',
+    summary:
+     'From the makers of Speedtest.net. Take free and accurate speed tests anywhere!',
+    developer: 'Ookla',
+    developerId: 'Ookla',
+    icon:
+     '//lh3.googleusercontent.com/19anvk_uIJld32kBp6nNLpKu_IMzK7h2fXA1jFd4EX4RdNwiiepsU73OhEQS4jbsPptQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile',
+    appId: 'ru.dublgis.dgismobile',
+    title: '2GIS: directory & navigator',
+    summary:
+     'Offline directory with the city map navigator and public transport routes',
+    developer: 'DoubleGIS, LLC',
+    developerId: '5475543677782911277',
+    icon:
+     '//lh3.googleusercontent.com/uDmjcsQa4X_eL7honhGXx71W5ywcYFyeGfWo9mAvr5SlkjLtjNF9eYarR2s31oABSBU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.liv.android',
+    appId: 'com.liv.android',
+    title: 'Liv. - Digital Lifestyle Bank',
+    summary: 'Liv. – Digital Lifestyle Banking',
+    developer: 'Emirates NBD',
+    developerId: 'Emirates+NBD',
+    icon:
+     '//lh3.googleusercontent.com/euPpUUw0JGXIr-TM-YvsOpvHn3Tp8IAsD8mHLkRDXUv81Kz1pRJ2FNxkXyVpr_LpSg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

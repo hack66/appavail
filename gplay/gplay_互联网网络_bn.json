@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.BacaanSholatLengkap',
+    appId: 'com.BacaanSholatLengkap',
+    title: 'Bacaan Sholat',
+    summary:
+     'Reading Prayer: prayer reading application that contains the complete audio lafadz & offline',
+    developer: 'Crown Banana Studio',
+    developerId: 'Crown+Banana+Studio',
+    icon:
+     '//lh3.googleusercontent.com/3jtq0TarKS968WKmhQjkQIUo246uUkgd8mrEm5HBv2k--ogb3GASBirwdOERcvexr_Xk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=reactivephone.msearch',
+    appId: 'reactivephone.msearch',
+    title: 'Smart Search & Web Browser – light & fast engine',
+    summary:
+     '🚀 Fast and easy Web Browser for Android with ad blocking and battery saving! 👍',
+    developer: 'Reactive Phone',
+    developerId: '6883128421109443662',
+    icon:
+     '//lh3.googleusercontent.com/nFsmF3pcqCqwYHFesYyDy7w9lklFlzu2hr-jnPjVQhPLdh-H6pG9U72NugS4iMjUnec=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=intelphone.android',
+    appId: 'intelphone.android',
+    title: 'inexPHONE',
+    summary: 'inexPHONE turns your device into the best internet phone',
+    developer: 'inexPHONE',
+    developerId: 'inexPHONE',
+    icon:
+     '//lh3.googleusercontent.com/bTlLZMScKHCr1EKUf6a5xN-8uAj0eV9UY5XDI4u-F49HA0cVjoRX-QyZXx6nTbVDa2Y=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imsmart.devices',
+    appId: 'com.imsmart.devices',
+    title: '1M Smartphone',
+    summary: '1M WiFi devices control application',
+    developer: '1M SmartHome',
+    developerId: '8863741063787393483',
+    icon:
+     '//lh3.googleusercontent.com/jvCIGPo8_4_-UxknsjOUjibncqmjQTkNNu0KR8tP3HEcJlQKdHNEMMwkfd_WpXj4Df0=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zixdev.pingerantilag',
+    appId: 'com.zixdev.pingerantilag',
+    title: 'PINGER - Anti Lag For All Mobile Game Online',
+    summary:
+     'Lets upgrade your old PINGER to the next PINGER V.2 Anti Lag For GameOnline',
+    developer: 'Zix Dev',
+    developerId: '8279783360420314620',
+    icon:
+     '//lh3.googleusercontent.com/OYHHFoGFE-OueZDU2-CDJPNAr2jW3HqyEH_Zoi98vQs3EMCVIuqtEonLktXP8GtmHdI=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.khalnadj.khaledhabbachi.qibla',
+    appId: 'com.khalnadj.khaledhabbachi.qibla',
+    title: 'Qibla & Compass',
+    summary:
+     'The direction of the Qibla and compass is accurate, simple, light and beautiful',
+    developer: 'khaled habbachi',
+    developerId: 'khaled+habbachi',
+    icon:
+     '//lh3.googleusercontent.com/5yw1Xysu_mqs-DZEYB7-PqiISxrRrUkXc1M0ffsWE7xRpdoD8jrM9jKKtMpebz1l2jM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminder',
+    appId: 'com.comostudio.hourlyreminder',
+    title: 'Talking Alarm Clock -Hourly, Water, Interval,Music',
+    summary:
+     'On time Voice Reminder(0~59m),Interval(1-50m), Alarm, Nap, Only Headset, Battery',
+    developer: 'Comostudio',
+    developerId: 'Comostudio',
+    icon:
+     '//lh3.googleusercontent.com/xEJCC5RsHXEn2VW_Jp9bXZMrg2SN3xTxR0x4MX6eQm40juvNhmxcu67MHzAMzoHt-g=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.flyingfox.supercube_light_free',
+    appId: 'com.flyingfox.supercube_light_free',
+    title: '3D Light Live Wallpaper',
+    summary: 'Beautiful 3D light beam live wallpaper!',
+    developer: 'FlyingFox',
+    developerId: '9091000880931216600',
+    icon:
+     '//lh3.googleusercontent.com/nI4l4JYLzAPm6pEsEd-WUCiyAFFj_6t6uI-FRfNMLqQ_ZTIzcDF5VyXhnAdzywgTV88=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chimewifi.ally',
+    appId: 'com.chimewifi.ally',
+    title: 'AmpedWireless ALLY WiFi System',
+    summary: 'The official app for the ALLY - Smart Wi-Fi System.',
+    developer: 'Chime OS',
+    developerId: 'Chime+OS',
+    icon:
+     '//lh3.googleusercontent.com/QpEVdX5I69Hvavs9-4xzGGryvG1c2OOsEJM03IEfbMHkjS0wk8TvUgrdlvGJHDDMmQ=w340',
+    score: 2.1,
+    scoreText: ' Rated 2.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vtool.speedtest.speedcheck.internet',
+    appId: 'com.vtool.speedtest.speedcheck.internet',
+    title: 'Speed Test App: Internet Speed Test & Speed Check',
+    summary:
+     'Download network speed test app to help you internet speed test of the network',
+    developer: 'VTOOL',
+    developerId: '5193947737244988445',
+    icon:
+     '//lh3.googleusercontent.com/_Stixx62uLh_lBjAg1yHNSPpWv_DyF7r_JKNrp5tF2yAdFc-pJPwuM8TF6TkP5DQ--c=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mikroisp.apps.android.mikrotik.hotspot.voucher.ticket.mikroticket',
+    appId:
+     'com.mikroisp.apps.android.mikrotik.hotspot.voucher.ticket.mikroticket',
+    title: 'MikroTicket - sell your WiFi for time with tickets',
+    summary:
+     'Sell ​​your WiFi for time with tickets or vouchers with the Mikrotik hotspot',
+    developer: 'MikroISP',
+    developerId: 'MikroISP',
+    icon:
+     '//lh3.googleusercontent.com/n5MuHLmwUZK4DHQIF4C3qhTE2g3whU9QgAEE61Ii6QfVFo2m2jpzi_8VNVC07soXcfM=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fm.malayalam.radio',
+    appId: 'fm.malayalam.radio',
+    title: 'Malayalam FM Radio',
+    summary: 'Malayalam FM radio channels listen online',
+    developer: 'Free To Air',
+    developerId: 'Free+To+Air',
+    icon:
+     '//lh3.googleusercontent.com/UdmebGCUqN-U4ZyMue4EBDpu40h55FY2I0RFw526VWHs7x3R7SGltHUBmBH4RdRduyLQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.free.hotspot.secure.vpnify',
+    appId: 'com.vpn.free.hotspot.secure.vpnify',
+    title: 'Free VPN unlimited secure hotspot proxy by vpnify',
+    summary:
+     'vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on Android.',
+    developer: 'VPNIFY',
+    developerId: 'VPNIFY',
+    icon:
+     '//lh3.googleusercontent.com/ZNi9FAJWt3lue_xDi4jLMrux6mDoG3fjcXcmmrPihTbM6-bJhxnfGghs6r_y8WNVmvk=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=nueva.traduccion.VIVIENTE',
+    appId: 'nueva.traduccion.VIVIENTE',
+    title: 'Biblia Nueva Traducción Viviente',
+    summary:
+     'NTV Bible, the ideal study and devotional Bible reading app',
+    developer: 'KJV Bible free',
+    developerId: 'KJV+Bible+free',
+    icon:
+     '//lh3.googleusercontent.com/WJCl0AGNnUlMgBY4nPZbTsmnOUoO2XtJIkqZrjTTvoSHbuMAPxnBTCRv9k_F4CFVqCs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.comostudio.hourlyreminders',
+    appId: 'com.comostudio.hourlyreminders',
+    title: 'Hourly Talking Alarm Clock  Reminder Lite',
+    summary:
+     'Just listen your own sentence(text)  every hour on hours.Simple and Lite Alarm.',
+    developer: 'Comostudio',
+    developerId: 'Comostudio',
+    icon:
+     '//lh3.googleusercontent.com/pQaJM4xn1bw2sbXRwVar3nqYF3fsKQjGujQIuFXd4kcZyg-vDJKUuovD2rym_wjWeek=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myapkapp.infomatic',
+    appId: 'com.myapkapp.infomatic',
+    title: 'Infomatic',
+    summary: 'Infomatic, analyze everything your device can do.',
+    developer: 'MyAPKapp',
+    developerId: '5812201321273469392',
+    icon:
+     '//lh3.googleusercontent.com/mGdYtpTX3QsyPyCKRrD3oJaEaDOVzQ2zl-1ZlavaiCRPs16BV2b9jjwu1jmVW4CZZw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.argopurostudio.kicau.cililin.ngefull',
+    appId: 'com.argopurostudio.kicau.cililin.ngefull',
+    title: 'Kicau Cililin Ngefull OFFLINE',
+    summary:
+     'provide solutions for those of you who have the desire that cililin birds',
+    developer: 'Argopuro Studio',
+    developerId: 'Argopuro+Studio',
+    icon:
+     '//lh3.googleusercontent.com/wK6-1L5-t5Xk2uIAYR6iZMs3FsPavrXNINTD6Fpx-0wKaWUMdgLt0QVpAPctPY7bCBE=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cmptr.rpskh',
+    appId: 'com.cmptr.rpskh',
+    title: '3 month computer course',
+    summary:
+     'Computer knowledge is the basic need in this fast growing world.',
+    developer: 'Clasic Creator',
+    developerId: 'Clasic+Creator',
+    icon:
+     '//lh3.googleusercontent.com/6yzRiqfatpUBbTD_SDqI0-a9HD5_27roNfE6ZEAFR46zI29AI8t0ZId5RHOlvr-5AaI=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.king.wifi.securityboost',
+    appId: 'com.king.wifi.securityboost',
+    title: 'WiFi Security & Boost',
+    summary:
+     'Improve your WiFi Security & boost WiFi speed by clearing apps that consume WiFi',
+    developer: 'Kings & Queens',
+    developerId: 'Kings+%26+Queens',
+    icon:
+     '//lh3.googleusercontent.com/NxCsHuXI7lANnrqSlAXa-OcpZaNvRKpBIQZtGyUWVQusNrxrnOBXDP5u8vaKCobE5A=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xiamapps.portable.wifihotspot.sharing',
+    appId: 'com.xiamapps.portable.wifihotspot.sharing',
+    title: 'Portable WiFi Hotspot',
+    summary:
+     'Turn on Portable WiFi HotspotImprove your Internet sharing experience with ease',
+    developer: 'Xiam Apps',
+    developerId: 'Xiam+Apps',
+    icon:
+     '//lh3.googleusercontent.com/eeAmQ7UFRQjxfjuXP5Lcl1t-KvAeWrjwhiIWYb14Nufc4iXblCbVq8BceHebBMWZbwQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,276 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesvol2free',
+    appId: 'air.com.oranginalplan.weaphonesvol2free',
+    title: 'Weaphones™ Gun Sim Free Vol 2',
+    summary:
+     'Experience how weapons operate with realistic reloading, chambering & stoppages.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh6.ggpht.com/_oHv8WKH6j2l9KyDoprAvGl7QuOR2xyevRh2em1Mp7pqzHmiVNFDqxzNwNAMJtza4uc=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.solar.panel.installation.wiring.diagram',
+    appId: 'com.solar.panel.installation.wiring.diagram',
+    title: 'Solar Panel Installation',
+    summary: 'Download now: solar panel installation diagrams for free.',
+    developer: 'Monik-INC',
+    developerId: 'Monik-INC',
+    icon:
+     '//lh3.googleusercontent.com/lY90IeaTQMGKRrZvn9pksZPVL6S5CYnk5k4RevLmmtxfr74KhLrT_Egkhr_49bx3NQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=franol.geleta.fgsystem.yemezmuretenatdebter',
+    appId: 'franol.geleta.fgsystem.yemezmuretenatdebter',
+    title: 'የመዝሙር ጥናት ደብተር',
+    summary:
+     'This app is used to display old & recent amharic worship songs for singers',
+    developer: 'franol geleta',
+    developerId: 'franol+geleta',
+    icon:
+     '//lh3.googleusercontent.com/grDYEODERh-BcwC9uMHFSFEg1a6RSUlYEbHPLVbOb1d0lirZ9z6kK7p1xhvSvDfDm-4P=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fynsystems.fyngeez',
+    appId: 'com.fynsystems.fyngeez',
+    title: 'Amharic keyboard FynGeez - Ethiopia - fyn ግዕዝ 2',
+    summary:
+     'FynGeez Amharic keyboard + Emoji keyboard,  አማርኛ, Geez typing made easy',
+    developer: 'fyn systems',
+    developerId: '8686777883246727435',
+    icon:
+     '//lh3.googleusercontent.com/K3ucSJe6HomSLZSuyYL8F0a3c_T5iIAsAehrJMLJ1CL9aeZSnQbbvs80pE-jEN-HeraW=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nonstop.gospelvideosongs',
+    appId: 'com.nonstop.gospelvideosongs',
+    title: 'GOSPEL MUSIC & SONGS 2018 : Praise & Worship Songs',
+    summary:
+     'GOSPEL MUSIC & SONGS 2018 : Listen New, Best, Top, Old, Latest Gospel Songs',
+    developer: 'Nonstop Songs & Country Music Videos',
+    developerId: 'Nonstop+Songs+%26+Country+Music+Videos',
+    icon:
+     '//lh3.googleusercontent.com/Lrsn9MeeQHh1-nXEu65vZaFTZGcf0SITGd6bhW71hgD93-t6TDzlRFpViGfJpalqmQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=forgotten.books.of.eden.app',
+    appId: 'forgotten.books.of.eden.app',
+    title: 'THE FORGOTTEN BOOKS OF EDEN',
+    summary:
+     'Contains 4 of the missing books of the bible a.k.a The Forgotten Books of Eden.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/HP6g7wWneNCoDHIhb0_xxMFvmE1EYg_xrswVoAUiA6CjiPfQpWc28dEIzepmG_Hb-w=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=small.business.ideas.dubapps',
+    appId: 'small.business.ideas.dubapps',
+    title: 'Small Business Ideas',
+    summary:
+     'Get inspired by these small business ideas and other resources.',
+    developer: 'Dub Apps',
+    developerId: '6350669391660629382',
+    icon:
+     '//lh3.googleusercontent.com/aVV7YHlfIHsn2OMPutSmwTs6TTDqQ3d3Lb7qG7erIqjS0jDhj_aUFDRfZRttT9CGnEA=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=power.of.prayer.app',
+    appId: 'power.of.prayer.app',
+    title: 'POWER OF PRAYER',
+    summary:
+     'This app features content (including Q&As) on the Power of Prayer',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/GJ9oUKSDJCwnAlIyB1FzDnTk8aoX_NXRA7ODFeEePMBb4-h4V_gxKxsTfos2SSDclpo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=the.book.of.adam',
+    appId: 'the.book.of.adam',
+    title: 'THE BOOK OF ADAM',
+    summary:
+     'This Book Of Adam app is translated from the Georgian original.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tUKYys2fvswYtZj4ZK4ZbzMhTq3wj_btCaqc5N_9UxxHKMXJT6QPdSkIDa_doUxnpw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=thefirstbookof.adam.and.eve.app',
+    appId: 'thefirstbookof.adam.and.eve.app',
+    title: 'THE FIRST BOOK OF ADAM AND EVE',
+    summary:
+     'This app provides full, organized content on the First Book of Adam and Eve.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/3ENhOqBC75vYReNqa5zd2YSdMUTHrUEqYZXgDD1crmCxbCLqCTK3eMP6Wf9p9sb-aOE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=frm.art.sweet.selfie.camera',
+    appId: 'frm.art.sweet.selfie.camera',
+    title: 'Sweet Face Camera',
+    summary:
+     'Get more likes and followers on Snapchat and social network',
+    developer: 'FRM ART',
+    developerId: 'FRM+ART',
+    icon:
+     '//lh3.googleusercontent.com/wmugRPPVxBS8Z6qAJvHIiKQ925EvxUmVgiYGTUhaMBXt-gb7ojn0WJwWmPF8gVEmqw=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.teambestappstore.absworkoutfitness30days',
+    appId: 'com.teambestappstore.absworkoutfitness30days',
+    title: '30 Days Abs Workout Fitness',
+    summary: 'Effective abdominal workout, lower ab exercises',
+    developer: 'teambestappstore',
+    developerId: 'teambestappstore',
+    icon:
+     '//lh3.googleusercontent.com/LgB1xbspQufWR1SYN7oOFYHHj6q_vmIMh01lQf61aOdmU5K41_HxYvAB-GkTj7zYB6V1=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

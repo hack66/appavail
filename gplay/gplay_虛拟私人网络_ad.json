@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.discord',
+    appId: 'com.discord',
+    title: 'Discord - Chat for Gamers',
+    summary:
+     'The #1 Gaming Chat App: Free Voice and Text Chat for Gamers',
+    developer: 'Discord Inc.',
+    developerId: 'Discord+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_4zBNFjA8S9yjNB_ONwqBvxTvyXYdC7Nh1jYZ2x6YEcldBr2fyijdjM2J5EoVdTpnkA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eagleheart.ferrari',
+    appId: 'com.eagleheart.ferrari',
+    title: 'VPN Ferrari(Free unblock proxy)',
+    summary: 'FerrariVPN is a completely free VPN',
+    developer: 'Dream Man',
+    developerId: 'Dream+Man',
+    icon:
+     '//lh3.googleusercontent.com/NkrPLOhfQkAfxNSQV7jwLvaWxd7hkH6iJGzzSk-8TW7BDeifN8MJ8WdA_3U0ciPRpFaN=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cleanmaster.security',
+    appId: 'com.cleanmaster.security',
+    title: 'Security Master - Antivirus, VPN, AppLock, Booster',
+    summary:
+     'Get 💯protection with Antivirus, Free VPN, AppLock, WiFi Security&Booster here!',
+    developer: 'Cheetah Mobile (AppLock & AntiVirus)',
+    developerId: '8544729060931835350',
+    icon:
+     '//lh3.googleusercontent.com/mRmDkPRRuyNmtm-_z_KToVzDfEj8PLa6xBD2xhzHz4oBHmOsWLk0bBFcT_7EdYYVx_0=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.adm',
+    appId: 'com.google.android.apps.adm',
+    title: 'Google Find My Device',
+    summary: 'Find, ring, lock, and erase any lost Android device',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/fVmZ9K4XZ5TnpRWVgLKHMUWlFHzfQ5puOo6ZHKk382yjBp94rHs88cNyt7e7KnqWJEaf=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note',
+    appId: 'com.socialnmobile.dictapps.notepad.color.note',
+    title: 'ColorNote Notepad Notes',
+    summary:
+     'ColorNote® - Easy to use notepad for notes, shopping list, to-do list, calendar',
+    developer: 'Notes',
+    developerId: 'Notes',
+    icon:
+     '//lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium',
+    appId: 'com.melodis.midomiMusicIdentifier.freemium',
+    title: 'SoundHound - Music Discovery & Hands-Free Player',
+    summary:
+     'Music discovery, identification, & voice-controlled player with 300M+ downloads!',
+    developer: 'SoundHound Inc.',
+    developerId: 'SoundHound+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/iJlHsgeSuIVV8IdgnH5bPKnDouWjLc00Sh6UD8eSz5jD7kV011OHx-k1M3W9FnKfaoM=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=launcher.walpapers.cool',
+    appId: 'launcher.walpapers.cool',
+    title: 'Melon VPN - Unlimited Free & Fast Security Proxy',
+    summary: 'The best VPN secure Pro.',
+    developer: 'Vego APP 3d',
+    developerId: 'Vego+APP+3d',
+    icon:
+     '//lh3.googleusercontent.com/uPt92KrWgbaDgMBbSpoYFsHullsljsByceepI4GoLC0jDP0VrchE5IvehB8zZHcj=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.calculator',
+    appId: 'com.asus.calculator',
+    title: 'Calculator - unit converter',
+    summary:
+     'Your most simple, handy, and stylish calculator with unit converter!',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/IpyRT5IkZEGzexL0DkKFSrzyKaL6HUoBm_IbnUXqEeki3xAjO3F3UaYURVFiFkH4bsfu=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.touchtype.swiftkey',
+    appId: 'com.touchtype.swiftkey',
+    title: 'SwiftKey Keyboard',
+    summary:
+     'The Best Swipe & Emoji Keyboard. Customize your keyboard and swipe to type.',
+    developer: 'SwiftKey',
+    developerId: 'SwiftKey',
+    icon:
+     '//lh3.googleusercontent.com/cwGQJjbFjppZ9R-cyvUxjhHRp9C0feDpH0xZ9dvyHKp_az6RNHpf5AntBoA6FUGP1wk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.fitness',
+    appId: 'com.google.android.apps.fitness',
+    title: 'Google Fit: Health and Activity Tracking',
+    summary:
+     'Want to take charge of your health? Let Google Fit help you reach your goals.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/jArSD-kxOa2llPXvqrjRcEJdL4XhjP8-WqEfg9UAlYF8v0qzXAZ0EI5k96l0pf3tDNg=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.filemanager',
+    appId: 'com.asus.filemanager',
+    title: 'File Manager',
+    summary:
+     'Your managing tool for files in the local, microSD, LAN, or Cloud storage',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/lRUKBMe6NXaKbXifj6lL3IFml1gqgY8etG2ylMC5OoVVHllgAh-_NXVca182gvoXN4U=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community',
+    appId: 'com.valvesoftware.android.steam.community',
+    title: 'Steam',
+    summary:
+     'Steam: chat and participate in the Steam community, catch unbeatable Steam sales',
+    developer: 'Valve Corporation',
+    developerId: 'Valve+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/52_DMY5417awaEgJf3_9mWgEuO2t1JfkGab8kM-LD6l5u6cGm_1-GsoQ_IyWFHdbkA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.infraware.office.link',
+    appId: 'com.infraware.office.link',
+    title: 'Polaris Office - Word, Docs, Sheets, Slide, PDF',
+    summary:
+     'Android\'s Best Free Office : Word, Excel, PowerPoint and PDF, TXT + Zip file',
+    developer: 'Infraware Inc.',
+    developerId: 'Infraware+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/F1NUSP_NHGENDFcfIff_qL893195feAnUw8-UReIO1ZdZafLwK_U6hFQx28WV5Q0J8zY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner',
+    appId: 'tw.mobileapp.qrcode.banner',
+    title: 'QR code reader',
+    summary:
+     'Fast , free QR code reader / QR code scanner to scan qr code',
+    developer: 'TWMobile',
+    developerId: 'TWMobile',
+    icon:
+     '//lh6.ggpht.com/ufwUy4SGVTqCs8fcp6Ajxfpae0bNImN1Rq2cXUjWI7jlmNMCsXgQE5C3yUEzBu5Gadkz=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mi.android.globalFileexplorer',
+    appId: 'com.mi.android.globalFileexplorer',
+    title: 'File Manager : free and easily',
+    summary:
+     'Mi File Manager is a free, secure tool for easy and efficient file management.',
+    developer: 'Xiaomi Inc.',
+    developerId: '5113340212256272297',
+    icon:
+     '//lh3.googleusercontent.com/gs4ESpjzABzcBaFvXfgVfsNoehknuHpwVR8PEmx0RoaP5-Fe7srqValAkPgMX3GxivM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.mobilemanager',
+    appId: 'com.asus.mobilemanager',
+    title: 'Mobile Manager',
+    summary:
+     'Get the best system management in one place with Mobile Manager!',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/J5CXR-I1dwkT92vXu8TZTq7pWtPfmRMI4tP4KML2ehVV8j5dhq84K_YqXvmOHLTK5QU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.accuweather.android',
+    appId: 'com.accuweather.android',
+    title: 'AccuWeather: Weather Tracker & Live Forecast Maps',
+    summary:
+     'Get accurate live forecast updates for spring, rain alerts & severe weather news',
+    developer: 'AccuWeather',
+    developerId: 'AccuWeather',
+    icon:
+     '//lh3.googleusercontent.com/nF7ksFYYvng6ZjGIrQNB6es5JebLiFuUqNv6GjWPPAvNTrecKnSy5jHXpFTzW0nWLA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

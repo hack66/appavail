@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=homeworkout.homeworkouts.noequipment',
+    appId: 'homeworkout.homeworkouts.noequipment',
+    title: 'Home Workout - No Equipment',
+    summary:
+     'Home workouts for fast bodybuilding at home - no equipment needed.',
+    developer: 'Leap Fitness Group',
+    developerId: 'Leap+Fitness+Group',
+    icon:
+     '//lh3.googleusercontent.com/Mxu4YhAr45fbX_iBwi4LiRuSDn9G8R-C_i6PF4Oqys6TqQab2Jl7U5w4WGDtoPwhpTk=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gismart.guitar',
+    appId: 'com.gismart.guitar',
+    title: 'Real Guitar Free - Chords, Tabs & Simulator Games',
+    summary:
+     '🎸Guitar Simulator App - Electric & Acoustic Guitar, Ultimate Chords & Tabs ♬',
+    developer: 'Gismart',
+    developerId: '6462287121578018300',
+    icon:
+     '//lh3.googleusercontent.com/ZtaReZ55oIWMV8YDmjEswgFuY2GGuaJbX92eWO-hMmabeUqweyB4R0CZ_OmGiQFrW84=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs',
+    appId: 'com.google.android.apps.docs',
+    title: 'Google Drive',
+    summary: 'Free online storage from Google.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=startek.howwe.music',
+    appId: 'startek.howwe.music',
+    title: 'Howwe Music',
+    summary:
+     'Download Ugandan Music and music videos with \'Howwe Music\' App.',
+    developer: 'Howwe Team',
+    developerId: 'Howwe+Team',
+    icon:
+     '//lh3.googleusercontent.com/GA3eK0roKXvRtdRvakPXpIOwSG4A_tGM7iVJMp6R7ev503HAbkC3t7NyZrk9PqCzzn4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.clapfootgames.vtt3dfree',
+    appId: 'com.clapfootgames.vtt3dfree',
+    title: 'Virtual Table Tennis 3D',
+    summary:
+     'Fast paced table tennis action comes to your Android device!',
+    developer: 'Clapfoot Inc.',
+    developerId: 'Clapfoot+Inc.',
+    icon:
+     'https://lh6.ggpht.com/Y4zECKVAKYW_RKhKYMkXf9VGjP-wHc5_PI3L24v-Yzz6djg1EYnMSUlB7wACa2YwoY4y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ludashi.dualspace',
+    appId: 'com.ludashi.dualspace',
+    title: 'Dual Space - Multiple Accounts & App Cloner',
+    summary:
+     'Create a parallel space in phone to run multi account of same app simultaneously',
+    developer: 'SUPERLITE',
+    developerId: '5718998089519219768',
+    icon:
+     '//lh3.googleusercontent.com/-mQnEzED46naAdQYFdSO62YmG67QopX638HXujq2JNvjMxo3i_wP7BT7Au99QGbVlg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adpog.diary',
+    appId: 'com.adpog.diary',
+    title: 'Diary with lock',
+    summary: 'Create your own personal DIARY with lock.',
+    developer: 'WriteDiary.com',
+    developerId: 'WriteDiary.com',
+    icon:
+     '//lh3.googleusercontent.com/HTX4QtnaIl6JT4jn6gb9MLCvU3fGkpYeyqqfKH_eRfZkO3gEr1EpxEnvjraT4nGWHW4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.photos',
+    appId: 'com.google.android.apps.photos',
+    title: 'Google Photos',
+    summary:
+     'A smarter gallery by Google, with free unlimited photo and video storage.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/TI_HoC8FifuhDdZVRsZOSeT95kumLd0CU_yhdBCG8HuIPR3Jnh962Q72NnWsz425lg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.musixmatch.android.lyrify',
+    appId: 'com.musixmatch.android.lyrify',
+    title: 'Musixmatch - Lyrics for your music',
+    summary: 'All the music you love with lyrics and translations',
+    developer: 'Musixmatch',
+    developerId: 'Musixmatch',
+    icon:
+     '//lh4.ggpht.com/yrUJPyt4kgNtLTnWK42fHteubCfllwm-Hk0uDut2jQr96mkch4-uNwEoQXwVIEtmUeGd=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tubemote.app',
+    appId: 'com.tubemote.app',
+    title: 'TubeMote',
+    summary:
+     'Remote control for YouTube, Twitch, Vimeo, Dailymotion, Soundcloud, and more!',
+    developer: 'TubeMote',
+    developerId: 'TubeMote',
+    icon:
+     'https://lh3.ggpht.com/4gjRTtXxMox7WyylcmTRlQl9YLCG2Kbofs-HvR1HpydYlcHbC45-WzIuTMMknOwt4g=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appstar.callrecorder',
+    appId: 'com.appstar.callrecorder',
+    title: 'Automatic Call Recorder',
+    summary: 'The best way to record your phone calls.',
+    developer: 'Appliqato',
+    developerId: 'Appliqato',
+    icon:
+     '//lh3.googleusercontent.com/5FDNvkkhDmUrJ2WprLpDU8lgsd1AvfDrghk_1QIi7K9P0U0tRDE3Gu02QU1YI_4zINPu=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.safeboda.passenger',
+    appId: 'com.safeboda.passenger',
+    title: 'SafeBoda',
+    summary:
+     'Beat the jam with a boda you can trust. Enjoy your SafeBoda!',
+    developer: 'SafeBoda',
+    developerId: 'SafeBoda',
+    icon:
+     '//lh3.googleusercontent.com/-dv7fwnoZHgxviMP3TLBgPEf-3UxlR2QQ1hx5069TbTvZhBLw1QEeTdLVZv8N7kBKzg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.musicplayer.player.mp3player.white',
+    appId: 'com.musicplayer.player.mp3player.white',
+    title: 'Music Player',
+    summary: 'High quality Mp3 player with Equalizer and Music editor',
+    developer: 'mytechnosound',
+    developerId: 'mytechnosound',
+    icon:
+     '//lh3.googleusercontent.com/8bT783s_yBpfLEDiSjxNUBmC13sWHBdTA4y60UN_ERhx4JjfsMDcy927Aol2t33BTLc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=org.nssf.go',
+    appId: 'org.nssf.go',
+    title: 'NSSF GO',
+    summary: 'Official NSSF Uganda Android Application',
+    developer: 'National Social Security Fund Uganda',
+    developerId: 'National+Social+Security+Fund+Uganda',
+    icon:
+     '//lh3.googleusercontent.com/Gn6e_SmOc86AxRDKbRlvb7woQeUoExRDwKmyDYPaIzcUiMPv7ttO_sboVmKpocINIw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

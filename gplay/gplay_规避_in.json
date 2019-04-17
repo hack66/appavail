@@ -1,0 +1,274 @@
+[ { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nemo.starhalo',
+    appId: 'com.nemo.starhalo',
+    title: 'Welike Status (Hillo) - Status video downloader',
+    summary:
+     'Free download trending WhatsApp status, quotes, shayaris, bollywood clips., etc',
+    developer: 'Welike',
+    developerId: 'Welike',
+    icon:
+     '//lh3.googleusercontent.com/RPR2-m4mHV8RLDxf0rF_rGnH8YmeNyahw8rY66VF29zDr6m6w7OqZkeC1mbpcOR93A=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jio.jioplay.tv',
+    appId: 'com.jio.jioplay.tv',
+    title: 'JioTV- Lok Sabha Elections 2019 & More',
+    summary:
+     'TV Shows, Sports, News, Movies, Music, Infotainment, Devotional & more',
+    developer: 'Reliance Industries Ltd.',
+    developerId: '8426036374624640337',
+    icon:
+     '//lh3.googleusercontent.com/jI_QAS-2fVDoAp7E0A7yIrj7TjWzaW0fM3U6fYNTVp64isdux1U5s8fFtK3bCOut=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.roposo.android',
+    appId: 'com.roposo.android',
+    title: 'Roposo - Fun Videos, Editing, Chat Status, Camera',
+    summary:
+     'Free Video Jokes, Songs, Good Morning Images, New Friends, Chat, 2018 Status',
+    developer: 'Roposo',
+    developerId: 'Roposo',
+    icon:
+     '//lh3.googleusercontent.com/qk3qvlM81CgoESxT_3QTbBk-ET5tHvWdoLq1WlDCfvB3JPPLxwsIEigGfPTjcwoLnjbR=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, SMS, spam block & payments',
+    summary:
+     'Caller ID, SMS & call blocking. Send money, recharge and pay bills with UPI.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/MrtmV-Twhz0eZ3STBaXoo4Zc6nQej-J20r4FXUTQ3MBrkIUOtbbvo9rmRTbR0xhhgA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whereismytrain.android',
+    appId: 'com.whereismytrain.android',
+    title: 'Where is my Train : Indian Railway Train Status',
+    summary:
+     'Highest rated train app - Timetable & running status without internet - No Ads',
+    developer: 'Sigmoid Labs and its Affiliates',
+    developerId: 'Sigmoid+Labs+and+its+Affiliates',
+    icon:
+     '//lh3.googleusercontent.com/C9hFJJagXI83NsVzyhbwaaIsj0dGaqKzg6Uem7TgbKDoVCaQCfhQNDNWSrJvPiZDZQW3=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jio.myjio',
+    appId: 'com.jio.myjio',
+    title: 'MyJio – Recharge, Vouchers, Jio Cricket Play Along',
+    summary: 'Gateway to Jio Digital Life!',
+    developer: 'Reliance Industries Ltd.',
+    developerId: '8426036374624640337',
+    icon:
+     '//lh3.googleusercontent.com/W6-GRr_DiVmMphLSzsH2Z2fGMdlM8ZLjNhKS93ALvLO3Dkfl6RejtMqlARBoA2dCw0Y=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.startv.hotstar',
+    appId: 'in.startv.hotstar',
+    title: 'Hotstar',
+    summary: 'Best TV Shows, Latest Movies and Live Sports',
+    developer: 'Novi Digital',
+    developerId: 'Novi+Digital',
+    icon:
+     '//lh3.googleusercontent.com/f7t_vVv9VIQCSuVb44AmVaqcLpHB2MjWiwaKc_Ih5Sb1ZyCbHGG7PPSTqlaBZS4CTCU=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad',
+    appId: 'com.mxtech.videoplayer.ad',
+    title: 'MX Player',
+    summary:
+     'Powerful video player with advanced hardware acceleration and subtitle supports.',
+    developer: 'J2 Interactive',
+    developerId: 'J2+Interactive',
+    icon:
+     '//lh3.googleusercontent.com/RrTAtnf0tgADSHSZ__haI9hfxZy1M08Ce1S4fzA4aKgSkMYTZrAX54MYNmRVK5lSVqU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tv.accedo.airtel.wynk',
+    appId: 'tv.accedo.airtel.wynk',
+    title: 'Airtel TV: Live TV, News, Movies & TV Shows',
+    summary:
+     'Watch 350+ Live Channels, 10000+ Movies, TV Shows, Personalised News & more',
+    developer: 'Airtel',
+    developerId: '5602309161373665584',
+    icon:
+     '//lh3.googleusercontent.com/CrDi0_CxBTtqoHgYgX4k2zyrnTPQK17Hzj-EhWhQ8bdWLL33z663BhK2RAQoE79fUes=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango',
+    appId: 'com.google.android.apps.youtube.mango',
+    title: 'YouTube Go',
+    summary:
+     'Download and watch your favourite videos without eating up your data',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pqnpzpWfCCHVu6mqwtr-ueJHrYzTUFVzQNIwqqQ8016APeEI8ZxmBzu-q3thtlhwDrVX=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.messenger',
+    appId: 'org.telegram.messenger',
+    title: 'Telegram',
+    summary:
+     'Telegram is a messaging app with a focus on speed and security.',
+    developer: 'Telegram FZ-LLC',
+    developerId: 'Telegram+FZ-LLC',
+    icon:
+     '//lh3.googleusercontent.com/jVXglyWWL5J2y1vRN-7Jy3_ozvvZc4w5486IAkbAIrWcNN_vn7YuIvhc1JDtGq43BqGl=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tv.v18.viola',
+    appId: 'com.tv.v18.viola',
+    title: 'Voot TV Shows Movies Cartoons',
+    summary:
+     'New: Bigg Boss, Roadies Rising, MTV Big F, Untag & more. Watch NOW for FREE',
+    developer: 'Viacom18 Digital Media',
+    developerId: 'Viacom18+Digital+Media',
+    icon:
+     '//lh3.googleusercontent.com/xG9e5xK60y6j9Fj-i5Z_055tYYyVnY3pBRA83sieC5QLR3lMLN6tf-8h5E-Rb5gs7wo=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

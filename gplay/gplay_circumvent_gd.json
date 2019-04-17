@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ua.ers.simpleVpn',
+    appId: 'ua.ers.simpleVpn',
+    title: 'Simple VPN - bypass of blocking sites',
+    summary:
+     'A simple VPN client to bypass the sites blocks and secure Internet traffic',
+    developer: 'Electronic Rescue Service',
+    developerId: '8294402608006584816',
+    icon:
+     '//lh3.googleusercontent.com/l2OTT07qnv4ie7zRNfri-fElVj0b2ocSiZHfr0N3Na1mcHUYjcBl_ohfW-gEb5IWEw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshua.legalforms',
+    appId: 'com.joshua.legalforms',
+    title: 'Complete Legal Forms',
+    summary:
+     'This apps contains legal forms and agreements to safeguard your legal rights',
+    developer: 'Joshua Inc',
+    developerId: 'Joshua+Inc',
+    icon:
+     '//lh5.ggpht.com/GFsqsT4D0KYbyY-pNLLYkPhQs6zEp8b1phjktdl8sgNOSk-QljRyEMDz_p7WCblLYKI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=air.HardTime',
+    appId: 'air.HardTime',
+    title: 'Hard Time (Prison Sim)',
+    summary:
+     'Attempt to survive in a prison where every sentence is a death sentence!',
+    developer: 'MDickie',
+    developerId: '5289992214197329711',
+    icon:
+     '//lh6.ggpht.com/wSVvAfCMe9vdcDagmOvYHZFluxAePDa9ffb__a1TiblnVYDx17hsuEJcjFgF0KvDOfs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.StephenGibson.GSCompanionApp',
+    appId: 'com.StephenGibson.GSCompanionApp',
+    title: 'Grimslingers Guides & Tools',
+    summary:
+     'Learn the game, improve set up times and acquire additional content.',
+    developer: 'Stephen S Gibson',
+    developerId: 'Stephen+S+Gibson',
+    icon:
+     '//lh3.googleusercontent.com/VKWleXZEl_ejLEoD3HSecMZ7dGs16PxXJmq1GaAQrUqCuaTC8Z6cOP5eIV0gRh0eIc8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tapinator.police.carsmash',
+    appId: 'com.tapinator.police.carsmash',
+    title: 'Police Car Smash 2017',
+    summary:
+     'Join the Police - Chase & Smash Thieves in this Amazing Cop Car Smashing Game!',
+    developer: 'Tap2Play, LLC (Ticker: TAPM)',
+    developerId: 'Tap2Play,+LLC+(Ticker:+TAPM)',
+    icon:
+     '//lh3.googleusercontent.com/ks4B7aVQT4y_5W6EURllqWmScAaLKLzulzj4-Zk_5l7IUJ898iZtK1yAdTU-SQjNkFs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ambitious.proxy.vpn.fast',
+    appId: 'com.ambitious.proxy.vpn.fast',
+    title: 'FuryBear VPN- Free access to blocked sites & Apps',
+    summary:
+     'Free and unlimited access  to blocked sites & apps with FuryBear VPN',
+    developer: 'Pangolin Tech',
+    developerId: 'Pangolin+Tech',
+    icon:
+     '//lh3.googleusercontent.com/v4yLAHHSpG1a7OswXsSebF6ea3M2uA2vO5w9T9ohCNI_gKX8W0JjWf8TVduKmE4xnQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.SnakeGame',
+    appId: 'com.mobirix.SnakeGame',
+    title: 'Snakes & Ladders King',
+    summary:
+     'Dice, ladder (= step climb), snakes (= step down) enjoyed by the three rules.',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/JByYcjpQakA6Mv7aWZjj8vl2DQ8n-ziu027-4yy6yy0dzs41rpAcgP9TRMMkHBChefc=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maker_bestapp.meme.mememaker',
+    appId: 'com.maker_bestapp.meme.mememaker',
+    title: 'Meme, Quote Maker',
+    summary: 'Make Mems  and Quote Pics',
+    developer: 'Shaaban',
+    developerId: 'Shaaban',
+    icon:
+     '//lh3.googleusercontent.com/HpOrgDym7X5qVzYiyPUi4r3tQTGZhFT9PFvkrBuVuiKgc1P4U2hz3kpfve1Kr7Yw01Y=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.livesport.FlashScore_com',
+    appId: 'eu.livesport.FlashScore_com',
+    title: 'FlashScore',
+    summary:
+     'Fast and most accurate sports live scores from 30 sports and 5000 competitions.',
+    developer: 'FlashScore',
+    developerId: 'FlashScore',
+    icon:
+     '//lh6.ggpht.com/vYjMcB8uOr8iDF_R8xtAe1GNHEKei8-nIZBBmuZcdp9ROthi5gF6JGvRHb0rxGlIaEd5=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.selfdefensebook.android',
+    appId: 'com.selfdefensebook.android',
+    title: 'Self Defense Book',
+    summary:
+     'This application will allow you to know some basics of self-defense.',
+    developer: 'SysWare',
+    developerId: 'SysWare',
+    icon:
+     '//lh3.googleusercontent.com/VRRfJsxtdDB-W3mjA6vI2ob1i-YMGUKxmZqmctXDoC126c401R5X9xbfLfWchm_3AU06=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=droom.sleepIfUCan',
+    appId: 'droom.sleepIfUCan',
+    title: 'Alarmy - Mission Alarm Clock with Loud Ringtones',
+    summary:
+     '🏆#1 Alarm Clock in 97 Countries✔️Math, Photo & Shake Missions✔️Loud Ringtones',
+    developer: '⏰Alarmy',
+    developerId: '8894199970691315215',
+    icon:
+     '//lh3.googleusercontent.com/X8ldD85IhcCHO7a_h5I4hWU9j6UTWJUzYXKUXoEXkCs1Pn9i9-4I3SE4z3mSavgdHbs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ivymobi.applock.free',
+    appId: 'com.ivymobi.applock.free',
+    title: 'AppLock',
+    summary:
+     'AppLock, small but powerful app lock & privacy guard to lock apps & hide photos',
+    developer: 'IVYMOBILE',
+    developerId: 'IVYMOBILE',
+    icon:
+     '//lh3.googleusercontent.com/6SIRn7L5PvyqiIAcS08BwVEmDb7kN-XVU48ZASp9vB6UUi5HCIueqzq5EN3qYgavVA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.lah9ifree84y',
+    appId: 'com.vpn.lah9ifree84y',
+    title: 'Best Android VPN & Unlimited Freedom Fast & Secure',
+    summary:
+     'Best Android VPN Unlimited Freedom proxy service for Android mobile tablet users',
+    developer: 'Free VPN Studio',
+    developerId: '6101273273449202990',
+    icon:
+     '//lh3.googleusercontent.com/-9t0HCIJabt29CSRjYJG8ouaqMA2DTF84YVm3XiweAGUU_XF5cBg_9g0lOssNocu7bS9=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=air.WR3DFree',
+    appId: 'air.WR3DFree',
+    title: 'Wrestling Revolution 3D',
+    summary:
+     'The biggest 3D wrestling sim on mobiles featuring up to 20 wrestlers onscreen!',
+    developer: 'MDickie',
+    developerId: '5289992214197329711',
+    icon:
+     '//lh3.ggpht.com/xLkXzamdNWidXhhL4ZHQtXFoQ1uTJMFzNYFL91cwAZILzwQVa23ynPgSxB_oA5FgKe4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=pl.lukok.draughts',
+    appId: 'pl.lukok.draughts',
+    title: 'Checkers',
+    summary:
+     '50 millions of downloads 🎂🎉 The most popular ⛃ Checkers for Android!',
+    developer: 'Łukasz Oktaba',
+    developerId: '8116283642168527192',
+    icon:
+     '//lh3.googleusercontent.com/KV2QNyKgfg0lw7mCauGkxsziCf4yNBN-5iKrcIT2dvK1pCe1gru2r-ctoAPg6aIyhpC1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ncs.free.mp3.ringtone.sound.notification.alarm.asphalt.dream.electronic.modern',
+    appId:
+     'com.ncs.free.mp3.ringtone.sound.notification.alarm.asphalt.dream.electronic.modern',
+    title: 'Electronic Music Ringtone Notification',
+    summary: 'Get this free electronic music ringtone apps now!',
+    developer: 'lwplay',
+    developerId: '6789432096264405871',
+    icon:
+     '//lh3.googleusercontent.com/IBwX71so6mlm-N2aXhQaviONoanqhWOk-16GBzXWBEHf7gSLXkG7USs0V-UXzctLtQ=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

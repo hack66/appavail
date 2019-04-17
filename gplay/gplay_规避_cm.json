@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.worldvoice.digipos2',
+    appId: 'com.worldvoice.digipos2',
+    title: 'digiPOS',
+    summary:
+     'Digital Boutique: TopUp, Internet Voucher, Airtime Voucher, Mobile Money',
+    developer: 'WORLD VOICE SPRL',
+    developerId: 'WORLD+VOICE+SPRL',
+    icon:
+     '//lh3.googleusercontent.com/x-RGlf3piaZlSnX-lnoIEIxIDhVUPTffZMemJOhAGdcbBfY8TePzefypmevbun6Gp_-j=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sgcam.prod',
+    appId: 'com.sgcam.prod',
+    title: 'SG CAMEROUN CONNECT',
+    summary:
+     'With the SG Connect application of Cameroon, WIN IN AUTONOMY AND SECURITY!',
+    developer: 'SOCIETE GENERALE CAMEROUN',
+    developerId: 'SOCIETE+GENERALE+CAMEROUN',
+    icon:
+     '//lh3.googleusercontent.com/FIUzyHMbBB-lQUvQKyikfchFm-3Ml2T_CdGZUkTZLDIxyuEuzRyINdNyIniCx0yMVvg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=quran.warsh.modified',
+    appId: 'quran.warsh.modified',
+    title: 'Al-Qur\'an Warsh',
+    summary:
+     'Al-Qur\'an app  rubutun hannu na farko a duniya.(FIRST HANDWRITTEN QUR\'AN APP)',
+    developer: 'SAGWARE International',
+    developerId: 'SAGWARE+International',
+    icon:
+     '//lh3.googleusercontent.com/Bv6g2Tub3NugnMzEeXV8tISik6VYr235daETLULBvCCH2uVuCvyY1atDYcHC9eQacLU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orange.orangemoneycameroun',
+    appId: 'com.orange.orangemoneycameroun',
+    title: 'Orange Money Cameroon',
+    summary:
+     'Orange Cameroon proposes this smartphone application for Orange Money.',
+    developer: 'Orange Cameroun',
+    developerId: 'Orange+Cameroun',
+    icon:
+     '//lh3.googleusercontent.com/CXeo67-diC_8DNfuAYxp5LFr1GsyU1isF0TDbIokddRxRXL4Ll0p8xNZWdjrmPITFg=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=apli.tv.yabadoo',
+    appId: 'apli.tv.yabadoo',
+    title: 'Yabadoo (powered by MTN)',
+    summary:
+     'Enjoy your favorite TV channels and movies without using your internet bundle.',
+    developer: 'APLITV S.A.L. (OFFSHORE)',
+    developerId: 'APLITV+S.A.L.+(OFFSHORE)',
+    icon:
+     '//lh3.googleusercontent.com/6JJKqsq7HvjhWf_spgy0rQZoIdgGgdQuTRgGEa7VomwXxta6J9xGjU1akDHGP43a9mY7=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mozilla.firefox',
+    appId: 'org.mozilla.firefox',
+    title: 'Firefox Browser fast & private',
+    summary:
+     'Get the customizable, private & free mobile browser that syncs across devices.',
+    developer: 'Mozilla',
+    developerId: '7083182635971239206',
+    icon:
+     '//lh3.googleusercontent.com/shH5ALdqmZysSU2F5SF52674W7NFP1xtLBZMuzUR5u6Uotbgql3ATFFFhtkJjBCm4R3i=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kouayim.cmdrug1',
+    appId: 'com.kouayim.cmdrug1',
+    title: 'Med Index',
+    summary:
+     'Application that list the drugs available in Cameroon with their prices ...',
+    developer: 'The GETO Group',
+    developerId: 'The+GETO+Group',
+    icon:
+     '//lh3.googleusercontent.com/4dBrWNscyESrvauFrmfpVmsJxuTZhuiJTWosED0JklVU3zc1QHb9CtJE6BUWh0HQyRA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.missingyou.greatmind',
+    appId: 'com.missingyou.greatmind',
+    title: 'I Miss You Love Messages',
+    summary:
+     'Love inspires us and moves us. Get the best missing you message plus lots more',
+    developer: 'GreatMindsGub',
+    developerId: 'GreatMindsGub',
+    icon:
+     '//lh3.googleusercontent.com/LqhRX7gj_WB0Z4BQGBA4ITSSOp3bhNXFrV2bdQhwrw8L-Tc85FawYCwDRdnZAJbBgNM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android',
+    appId: 'com.linkedin.android',
+    title: 'LinkedIn: Jobs, professional profile, & networking',
+    summary:
+     'Job search, business networking & industry news. Connect & apply on the go.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.afbmobilebanking',
+    appId: 'com.afbmobilebanking',
+    title: 'Afriland Banking',
+    summary: 'Mobile Banking app for AFRILAND FIRST BANK users.',
+    developer: 'Afriland First Bank Cameroon',
+    developerId: 'Afriland+First+Bank+Cameroon',
+    icon:
+     '//lh3.googleusercontent.com/HY03sJGRxz9tAj6hsScM2VPUu1TNgEdseQuGrKB4jo5rMUmk9fTo0X9bMI1k0DGGyg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatsapp.w4b',
+    appId: 'com.whatsapp.w4b',
+    title: 'WhatsApp Business',
+    summary: 'Simple tool for businesses to talk to their customers.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JgGYz6b1TBsreBWZ9W9mfPQWMguIhCA3BiR7nKgE2miAzL1drW4mLL5_q0exDjtTDRg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

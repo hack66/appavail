@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=uk.co.quinny898.game.geoguess',
+    appId: 'uk.co.quinny898.game.geoguess',
+    title: 'GeoGuess: Random Location Game',
+    summary:
+     'GeoGuess - Location guessing! You\'re at a random street view point, but where?',
+    developer: 'KieronQuinn',
+    developerId: '5423209508193504088',
+    icon:
+     '//lh3.googleusercontent.com/YaL3hCW_fQl6ZQdG-CW1BDFXG2dIyqzkgqZ5Totb_O57N1vlKWXtOLUNImebakQsQiww=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.rdr2app',
+    appId: 'com.rockstargames.rdr2app',
+    title: 'RDR2: Companion',
+    summary: 'The official companion app for Red Dead Redemption 2',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/GIqgehgXZ57R7Yz3enoaIzIp8IrXA42ymlHTPQ9EoYi_D0mGO26k6F-_7E7HjRlFmLk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.vdab.uitsprekend',
+    appId: 'be.vdab.uitsprekend',
+    title: 'Uitsprekend',
+    summary:
+     'An app for foreigners who want to improve their pronunciation.',
+    developer: 'VDAB (Vlaamse Dienst)',
+    developerId: 'VDAB+(Vlaamse+Dienst)',
+    icon:
+     '//lh3.googleusercontent.com/jYFvhDPTEb3gdaVx1xPKMI6kwtYqcaGS7bPf25wkNsk6OkmRSzFisrzBi6fs8R1vqOY1=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=canada.free.unlimited.vpn',
+    appId: 'canada.free.unlimited.vpn',
+    title: 'CANADA VPN - Best Free VPN for Android',
+    summary:
+     'Rated as the Best Free VPN for Android for Encrytion & Online Privacy in 2018',
+    developer: 'Secure Vpn',
+    developerId: 'Secure+Vpn',
+    icon:
+     '//lh3.googleusercontent.com/_BtKjKzhUn9_V3HmXcf6HBVwgC5SjOlLUKKeze6wk5s6TUfF11eW--zCGOyNwGriOaOJ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.playwithgames.CityDriverParking',
+    appId: 'com.playwithgames.CityDriverParking',
+    title: 'City Driver: Roof Parking Challenge',
+    summary: 'Extreme driving and parking! Push the limits of your car',
+    developer: 'Play With Games',
+    developerId: 'Play+With+Games',
+    icon:
+     '//lh3.googleusercontent.com/cP8lJJ1hGX_aMYcvCfL36eb4xvgtVFS32bdCU_zvnNb5_Zce8Fx3C1ZhNEmdapYnsg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.scietrex.effport',
+    appId: 'com.scietrex.effport',
+    title: 'Efficient Portfolio',
+    summary:
+     'An app, which calculates the "efficient portfolio" of shares.',
+    developer: 'SCIETREX Scientific Software AG.',
+    developerId: 'SCIETREX+Scientific+Software+AG.',
+    icon:
+     '//lh3.googleusercontent.com/fMsXzWbq5Fb7OE6m8DJDlfU8mOp8c426UtccBcTfo3XDJFZf3Ju_B4HEmgR6BMDFwZWX=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '€6.49',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice',
+    appId: 'com.joaomgcd.autovoice',
+    title: 'AutoVoice',
+    summary:
+     'Automate everything with Google Assistant/Home and Amazon Echo voice commands!',
+    developer: 'joaomgcd',
+    developerId: '8102570190170276456',
+    icon:
+     '//lh3.googleusercontent.com/hoAdukj9I9uqUPu5RHUuhCKltsUo9alFu2mgA4yUy1n2ZOXKA946tPyC4cQD9Xpvx1I=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=eu.chainfire.hotspotcontrol',
+    appId: 'eu.chainfire.hotspotcontrol',
+    title: 'Hotspot Control',
+    summary:
+     'Tiny app that enables or disables Portable Hotspot functionality of Android',
+    developer: 'Chainfire',
+    developerId: 'Chainfire',
+    icon:
+     '//lh4.ggpht.com/rR7RiC1i2_9GsH-ei4Y6O6Gn9K8vLpgcYkPjFZIlRNgjmZeYSF-k9UcdfBGho77e7w=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true } ]

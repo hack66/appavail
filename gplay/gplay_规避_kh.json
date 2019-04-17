@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bizsolution.keyboard',
+    appId: 'com.bizsolution.keyboard',
+    title: 'Phum Keyboard',
+    summary: 'Khmer Unicode keyboard for Android',
+    developer: 'Biz Solution Co., Ltd.',
+    developerId: 'Biz+Solution+Co.,+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/DjJKPXJUIhGbINsCHN0GHECsXeLaqmaptxujrB93hcb8zEvhXTdnRVo7MOQjItXoCfkx=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cherrylee.tienlen_multiplatform',
+    appId: 'com.cherrylee.tienlen_multiplatform',
+    title: 'Tien Len - Southern Poker',
+    summary:
+     'The No.1 game on iOS - App Store Vietnam, is now available on Android -Play now!',
+    developer: 'Cherry\'s Games',
+    developerId: 'Cherry\'s+Games',
+    icon:
+     '//lh3.ggpht.com/eUwr4RahoNDfFnQlbhuurR7NhEPzzkk4lspYaD2s8y53J5tUBwijN1ti0SlSnPMUzw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aliendev.khmersmartkeyboard',
+    appId: 'com.aliendev.khmersmartkeyboard',
+    title: 'Khmer Smart Keyboard',
+    summary: 'Type Khmer Faster with Flick Gesture',
+    developer: 'ALiEN DEV',
+    developerId: 'ALiEN+DEV',
+    icon:
+     '//lh5.ggpht.com/4Iywn-Ohb_f3OosT4vdWVk4jEGGMlXMXN1JHcTyrVdVQROB-YWu9LD60EPPQjZvOfeM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row',
+    appId: 'com.ea.game.pvzfree_row',
+    title: 'Plants vs. Zombies FREE',
+    summary:
+     'Stem a zombie attack on your yard with the help of powerful plants!',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/fK7Va6zSVFjjxlWPG88yBLTQBKaoBzxV0ptcP8h8RW9vFt3M6Tix0xXk4UZAJl15mA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.lottery.somleg',
+    appId: 'co.lottery.somleg',
+    title: 'Khmer Som Leg',
+    summary: 'You will win !!!',
+    developer: 'Khmer App Free',
+    developerId: '8407716751367299061',
+    icon:
+     '//lh3.googleusercontent.com/uEc-ICaybdChoUZL6vf7Jz6NYH-11Khf78T2UuGKFsAUpvnRl0JKgT7Lu-_hGFK8HqQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.shadowfight',
+    appId: 'com.nekki.shadowfight',
+    title: 'Shadow Fight 2',
+    summary: 'Prepare to fight with shadows!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.googleusercontent.com/bsxFGjG3aJeVGyzDJkWN1aEFl35A9LoVOC_gmWFf7FbBwsn1BqpOnB5ZLnDFXF6CHcjw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.multibrains.taxi.driver.passapptaxis',
+    appId: 'com.multibrains.taxi.driver.passapptaxis',
+    title: 'PassApp Driver',
+    summary: 'Driver Application for PassApp.',
+    developer: 'PassApp Technologies',
+    developerId: 'PassApp+Technologies',
+    icon:
+     '//lh3.googleusercontent.com/Tq2UIvqf5vx4foYDFtu3fn5IHsaer9Lp76w_T1fXWhQ0YVCOXdyGGIrmi6tpbDXcJFw=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cheabkunthea.KhmerBacII',
+    appId: 'com.cheabkunthea.KhmerBacII',
+    title: 'វិញ្ញាសាបាក់ឌុប',
+    summary: 'Collections Series disciplines Diploma past',
+    developer: 'CHEAB Kunthea',
+    developerId: '7317026666883798381',
+    icon:
+     '//lh3.googleusercontent.com/KEWCq4Hmqt7r44zHZjyo-cv7iZTA6Pn5Sxo9u5s_PwXgLToZ2wsa1lJ8AAjCuXVwWmI5=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wingmoney.wingpay',
+    appId: 'com.wingmoney.wingpay',
+    title: 'Wing Money',
+    summary:
+     'The Wing App allows users to manage their Wing Accounts on their smartphone.',
+    developer: 'Wing (Cambodia) Limited Specialised Bank',
+    developerId: 'Wing+(Cambodia)+Limited+Specialised+Bank',
+    icon:
+     '//lh3.googleusercontent.com/aAOBfkMHGEoOvMvLkNYEc7KJ-W863_e42bmyKN9sZmdgYAs39M_SA38bjH4jVDM0jzM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad',
+    appId: 'com.mxtech.videoplayer.ad',
+    title: 'MX Player',
+    summary:
+     'Powerful video player with advanced hardware acceleration and subtitle supports.',
+    developer: 'J2 Interactive',
+    developerId: 'J2+Interactive',
+    icon:
+     '//lh3.googleusercontent.com/RrTAtnf0tgADSHSZ__haI9hfxZy1M08Ce1S4fzA4aKgSkMYTZrAX54MYNmRVK5lSVqU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sabayosja.kingofcards',
+    appId: 'com.sabayosja.kingofcards',
+    title: 'King of Cards Khmer',
+    summary:
+     'King of Cards is a collection of popular card games played in Cambodia.',
+    developer: 'SABAY DIGITAL GROUP',
+    developerId: 'SABAY+DIGITAL+GROUP',
+    icon:
+     '//lh3.googleusercontent.com/spCqN146uPglJ685qgCfjqjOejX_kQCU8LSLY7wZOG8psjvFkpekKRUMxwRrHa4DQek=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turner.asmajormayhem',
+    appId: 'com.turner.asmajormayhem',
+    title: 'Major Mayhem',
+    summary:
+     'Guns, grenades, run and gun shooting action! Save the world, and your girlfriend',
+    developer: '[adult swim] games',
+    developerId: '%5Badult+swim%5D+games',
+    icon:
+     '//lh3.googleusercontent.com/LyRyGkeTHipbG8hWbvZ2jhSucGbfzj5TvAubzHJw5iLaPQ5ztMtk31CPR95qzH_QDqzv=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domain.acledabankqr',
+    appId: 'com.domain.acledabankqr',
+    title: 'ACLEDA Unity ToanChet',
+    summary: 'ACLEDA Unity ToanChet',
+    developer: 'ACLEDA Bank Plc.',
+    developerId: 'ACLEDA+Bank+Plc.',
+    icon:
+     '//lh3.googleusercontent.com/ZvhX6NeVNFN7ELUE8haGGcx_26jFy2AWqDQsCLuRnvX6bLlbiNqW0XZSn91eF32FjRc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kode4u.englishkhmertranslator',
+    appId: 'com.kode4u.englishkhmertranslator',
+    title: 'English Khmer Translator',
+    summary:
+     'Translate word or sentences into Khmer language in a few seconds.',
+    developer: 'Kode4U',
+    developerId: 'Kode4U',
+    icon:
+     '//lh3.googleusercontent.com/4KsfY3iXnYCA--lnGcBe8KkTGS0feFfktOHzsQNcRNjWjmYiC2i3zGs0D600hAoC1g=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

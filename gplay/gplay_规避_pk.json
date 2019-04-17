@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.trivzia.live',
+    appId: 'com.trivzia.live',
+    title: 'Trivzia: Pakistan\'s first Live Trivia Game Show',
+    summary:
+     'Pakistan\'s first Live Mobile Game show - Win cash prizes and cash out instantly.',
+    developer: 'Trivzia',
+    developerId: 'Trivzia',
+    icon:
+     '//lh3.googleusercontent.com/uLiiiCfxBxLmp2Fo8RxM6VsqiSCDJHnFhrmy2fEJV_27hphMLIgU9SInWE5ZJymjzw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mscl.kwsbots',
+    appId: 'com.mscl.kwsbots',
+    title: 'KWSB Online Tanker System',
+    summary: 'KWSB Online Tanker System',
+    developer: 'Millennium Systems & Consultants (Pvt.) Ltd.',
+    developerId: 'Millennium+Systems+%26+Consultants+(Pvt.)+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/2MFRWR2teUkAgo5AlFdp7yWvHwXFao0of9ipLAlvSXwkaQFF3yitpCQslQ4RTis6L-Y7=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.menuspring.eet.golootlo',
+    appId: 'com.menuspring.eet.golootlo',
+    title: 'Golootlo - Shopping Discounts Nationwide',
+    summary: 'Discounts on 5000+ Brands across Pakistan.',
+    developer: 'MenuSpring',
+    developerId: 'MenuSpring',
+    icon:
+     '//lh3.googleusercontent.com/f5HfxSi8m-vA86ALNaY0OAQYhrCzSemgOdHhiVciVs9W5v27uJeAHB2xc9UXvPCRVA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatsapp.w4b',
+    appId: 'com.whatsapp.w4b',
+    title: 'WhatsApp Business',
+    summary: 'Simple tool for businesses to talk to their customers.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JgGYz6b1TBsreBWZ9W9mfPQWMguIhCA3BiR7nKgE2miAzL1drW4mLL5_q0exDjtTDRg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.facebook.orca',
+    appId: 'com.facebook.orca',
+    title: 'Messenger – Text and Video Chat for Free',
+    summary:
+     'Be together whenever with a simple way to text, video chat and rally the group.',
+    developer: 'Facebook',
+    developerId: 'Facebook',
+    icon:
+     '//lh3.googleusercontent.com/I9j5jRbLkr5hxxLDN1d_2uj6iZWEtH9cKhRkORcNxPxYjrxMj9eN1Ad2ZNwMnZxFbJo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.bizo.reverse',
+    appId: 'com.mobile.bizo.reverse',
+    title: 'Reverse Movie FX - magic video',
+    summary:
+     'Create reverse magic video! Show your friends a video trick!',
+    developer: 'Bizo Mobile',
+    developerId: '7143198137251857748',
+    icon:
+     '//lh3.googleusercontent.com/6cIM-bTd0uxV0FGy2skU_zQja70nZvJYQi9Be91_d-SeqIMHtUR6desB6SQ74Yh4SQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.PakApps.Noorani_Qaaidah',
+    appId: 'com.PakApps.Noorani_Qaaidah',
+    title: 'Noorani Qaida Colored Offline with Audio, For Kids',
+    summary:
+     'Noorani Qaida Interactive, Elegant Graphics, Offline, According to Tajweed Rules',
+    developer: 'PakApps - Pakistani, Urdu Apps',
+    developerId: 'PakApps+-+Pakistani,+Urdu+Apps',
+    icon:
+     '//lh3.googleusercontent.com/6Atm3M6YyXEmMKeCXz-yXmMtf8H75gH2jxisyJoidkE29OM30cJL1M2-ZxLxs6pKJNPM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.thewahapps.NMAZ_GHUSAL.NAFLINIMAZEN',
+    appId: 'com.thewahapps.NMAZ_GHUSAL.NAFLINIMAZEN',
+    title: 'namaz ka tarika',
+    summary:
+     'nimaz ka trika,full namaz,namaz ka tariqa,namaz full,namaz,namaz ka tarika,',
+    developer: 'TheWahapps',
+    developerId: 'TheWahapps',
+    icon:
+     '//lh3.googleusercontent.com/437wBJyleuYtzGYhigq74bKE6elDAzscoPfpAh3iXKTKACpOsPEzyy8oHq7uj7oRvA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.newappsforall.quranseilaaj',
+    appId: 'com.newappsforall.quranseilaaj',
+    title: 'Quran Se Ilaaj',
+    summary:
+     'This app is about reciting and listening to The Holy Quran to cure ailments.',
+    developer: 'Unique App City',
+    developerId: 'Unique+App+City',
+    icon:
+     '//lh3.ggpht.com/4a-up3nEq_37PLizXYZYmue-3AxcrEVFQa7xeVLLggVX8GVj_MJF9oYuoUXhp4Z0ATgb=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UApps.KhawabNama.Khawab.Tabeer',
+    appId: 'com.UApps.KhawabNama.Khawab.Tabeer',
+    title: 'Khawab Nama Aur Tabeer in Urdu',
+    summary: 'Real khwab Nama Hazrat Yousuf A.S , khwab ki Sachi Tabeer',
+    developer: 'UApps Studio',
+    developerId: '6825537381550491915',
+    icon:
+     '//lh3.googleusercontent.com/XrYlwyg0Sub9fr_SibJYiIZfO4L27pptDm6o95a_7Ix-5UaujHRvwFBu0rtKqc8FBKOd=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

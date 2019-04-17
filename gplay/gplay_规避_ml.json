@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.yomobigroup.chat',
+    appId: 'com.yomobigroup.chat',
+    title: 'Vskit - Short Videos More Fun',
+    summary: 'Watch and share the funny short videos around you',
+    developer: 'Transsnet Media',
+    developerId: 'Transsnet+Media',
+    icon:
+     '//lh3.googleusercontent.com/bHHELVtGGCJr_QzgniCvwSqewirGLXLh7t_8I2_FBy6X8qR5z186G5ICHB4-DBJoQ6k=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.boxita.booster.supercleaner',
+    appId: 'com.boxita.booster.supercleaner',
+    title: 'All Cleaner - Speed Booster, Junk Cleaner',
+    summary:
+     'boost the memory of your phone, clean junk and get system info for free',
+    developer: 'codetips',
+    developerId: 'codetips',
+    icon:
+     '//lh3.googleusercontent.com/lF9aFLBEpQf7n4_YsTLQTqy2rpoxTqSENOFjEpj6AVZQyF3neJQwFYvRn-GrUIP6Ln9X=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.canal.android.afrique.canal',
+    appId: 'com.canal.android.afrique.canal',
+    title: 'myCANAL Afrique, par CANAL+',
+    summary: 'Streaming, movies, series, TV shows CANAL + live / replay',
+    developer: 'GROUPE CANAL+',
+    developerId: '8506791875489011833',
+    icon:
+     '//lh5.ggpht.com/5nqxBYNkKSJ7DubuifZ2fmzYWX2n9mOVYHuw8OkXaaBQCkyxpaqCdmkj5OhvJCnEvr8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hesoft.t2s.plugin.encoder.mp3',
+    appId: 'hesoft.t2s.plugin.encoder.mp3',
+    title: 'T2S plugin: mp3 encoder',
+    summary: 'The plugin enables T2S to export audio file in mp3 format',
+    developer: 'HE SOFT',
+    developerId: 'HE+SOFT',
+    icon:
+     '//lh3.googleusercontent.com/l2_JEXxbge7hiCre3IanTpYng9fn-rn7HRa2_bPbE8lP3VBV8TB2vxpoBkxeTfQAviCy=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hoxxvpn.main',
+    appId: 'com.hoxxvpn.main',
+    title: 'Hoxx VPN',
+    summary:
+     'Hoxx VPN service to unblock blocked websites and change your location for free!',
+    developer: 'HOXX VPN',
+    developerId: 'HOXX+VPN',
+    icon:
+     '//lh3.googleusercontent.com/bVmiL85TFR07XCK8QN-RtChyAnjYpufjGYH8ClxRYK3-OF_ZGcEB3ukJfTJRpXWGVpJ5=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=biz.webcreation.vision_naturelle',
+    appId: 'biz.webcreation.vision_naturelle',
+    title: 'Vision naturelle - Voyance et prédictions',
+    summary:
+     'Ball of Clairvoyance and natural vision of your future. Free.',
+    developer: 'Club Voyance',
+    developerId: 'Club+Voyance',
+    icon:
+     '//lh3.googleusercontent.com/NCydgnGPw69mZoyRuVvdu4Q0Vv6aSdWhOWkGvtBv6fimgfN2M_cgze3EX3BRsP0UNFMm=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jb.gokeyboard.theme.twdigitalfreekeyboard',
+    appId: 'com.jb.gokeyboard.theme.twdigitalfreekeyboard',
+    title: 'Digital Keyboard',
+    summary:
+     'The new Free New Keyboard Theme 2017 is the keyboard background for you!',
+    developer: 'Launcher 2019 - Themes & Apps',
+    developerId: '6554348131548284525',
+    icon:
+     '//lh3.googleusercontent.com/g6x0SeFIprGbTk5qBjmAYhdrMwVdJJRM764Cz6rhDsCQNOaSsOWzerZ0dHNfPhcC8A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=es.com.leonweb.videoamp3',
+    appId: 'es.com.leonweb.videoamp3',
+    title: 'Video to mp3, mp2, aac or wav. Batch converter',
+    summary:
+     'Select multiple video files (mp4, flv, 3gp) and convert to mp3, mp2, aac or wav',
+    developer: 'Rober G.',
+    developerId: 'Rober+G.',
+    icon:
+     '//lh3.googleusercontent.com/Tx-Ro0-zaZewujw6eUi6liSIxNT4W58w2gjhPT72qe_Z6ac8xW0LsK22LOQnLt1fGPM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hapo.android',
+    appId: 'com.hapo.android',
+    title: 'Hapo - Funny Videos, GIFs & Photos',
+    summary:
+     'More LOL short videos, Pics, jokes and memes you can get with the funny friends',
+    developer: 'hapofun',
+    developerId: 'hapofun',
+    icon:
+     '//lh3.googleusercontent.com/K-cAPypVc3bjz-LIHG7B5rXH6IgpJSaW28slAH_efChi0hS-qLCQyjWBa7IT5wghUA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wordsmobile.survival',
+    appId: 'com.wordsmobile.survival',
+    title: 'Last Human Life on Earth',
+    summary:
+     'You are the last human survivor in your city and perhaps the world!',
+    developer: 'Mouse Games',
+    developerId: 'Mouse+Games',
+    icon:
+     '//lh3.googleusercontent.com/kmqu2exp79Px39bbsqL16bTnn6xsEVhdPZLc28-MTpesyRpDM38gYKxXKWAAgeJN8w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=bible.jesusprayerhealing.oracionlabiblia.j2r6h2o41.bi14',
+    appId: 'bible.jesusprayerhealing.oracionlabiblia.j2r6h2o41.bi14',
+    title: 'Daily prayers our daily bread devotional for today',
+    summary:
+     'Read our daily bread devotional, verse of the day and devotion prayer for today',
+    developer: 'Zinnwaldite Tuxedo',
+    developerId: 'Zinnwaldite+Tuxedo',
+    icon:
+     '//lh3.googleusercontent.com/qaVh9xScRoY-80UuaF8Usms89pnpYCW3CLAXI2GYTnTLRFd_CXJkmBmj_8bn0gEXJ4z9=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.godotengine.electronicscenter2019',
+    appId: 'org.godotengine.electronicscenter2019',
+    title: 'Electronic Center 2019',
+    summary:
+     'Electronic Center 2019 brings all the basics of electronics.',
+    developer: 'DinizApp',
+    developerId: 'DinizApp',
+    icon:
+     '//lh3.googleusercontent.com/L8ny_c9aqiVXVweZQIVG_eNygyNQxZeMEsLTbgukocMU9j1hij6O44TF_KVEWH9IQQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.statickidz.traductor',
+    appId: 'com.statickidz.traductor',
+    title: 'Translator Spanish English',
+    summary:
+     'Translator with more than 100 languages. Translate free anywhere Spanish English',
+    developer: 'StaticKidz',
+    developerId: 'StaticKidz',
+    icon:
+     '//lh3.googleusercontent.com/TvHQiuRU83va-f3JTgA0eE9KVgvaM95LQoTH84z4b-bjmkWXKL6Z0J3vBeXVGaybMM0=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=aplus.managementrisques',
+    appId: 'aplus.managementrisques',
+    title: 'Management des Risques',
+    summary: 'Easy access at any time to the best Risk Management',
+    developer: 'APLUS',
+    developerId: 'APLUS',
+    icon:
+     '//lh3.googleusercontent.com/_xvclf2ERjMtIHqkIMx0gREcKTRBg8d6lDB6gDU-HMFTbJ35QwaJ7yI2ZxMJvbT46B0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.syakirayola.africanmanclothingstyles',
+    appId: 'com.syakirayola.africanmanclothingstyles',
+    title: 'African Man Clothing Styles',
+    summary:
+     'This application is an idea for African men\'s clothing 2019, 2020',
+    developer: 'Syakira Yola Studio',
+    developerId: 'Syakira+Yola+Studio',
+    icon:
+     '//lh3.googleusercontent.com/_FoFWeWli2LSHQcp3lHDV5lCsyycKGuN8x8VtmDef-EpsDLOXExMyhlRNTsQXvIvOw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

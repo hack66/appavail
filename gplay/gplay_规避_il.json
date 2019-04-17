@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.qnomy.myvisit.app',
+    appId: 'com.qnomy.myvisit.app',
+    title: 'myVisit - Instant Appointment',
+    summary:
+     'myVisit helps you plan your visit to any service provider on our partners list',
+    developer: 'Q-nomy Inc',
+    developerId: 'Q-nomy+Inc',
+    icon:
+     '//lh4.ggpht.com/szzZXPY9cCUKDDkec_7FSpWd2ydU8ldsRy1C6LaDjFZ7GEuEM9DxDz2mgL89K12q6OYP=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smartschool.webtop',
+    appId: 'com.smartschool.webtop',
+    title: 'Webtop - וובטופ - סמארט סקול',
+    summary:
+     'Smart School, and Top, grades, discipline reports, changes from. Hours, announcements and alerts, webtop',
+    developer: 'Smart School LTD',
+    developerId: 'Smart+School+LTD',
+    icon:
+     '//lh6.ggpht.com/P866kpKIv2euSWjJbCCAWzD9_GA4Mg8Iyz02DqIWXkI_ts6jRv29MgzGvdpWKgZuGJY=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.walla.wallatrivialive',
+    appId: 'com.walla.wallatrivialive',
+    title: 'Quicks - טריוויה בשידור חי',
+    summary: 'Quicks - Israel\'s first mobile game show!',
+    developer: 'Walla! Ltd',
+    developerId: '6475776842838415893',
+    icon:
+     '//lh3.googleusercontent.com/deFBZOolXqF6JGup6qOVz3PkeNqo6RDXMpyGnI0DmWrAF2ANYaEWfCMSN0cmYINWm20=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=il.co.pais.inmanage',
+    appId: 'il.co.pais.inmanage',
+    title: 'מפעל הפיס',
+    summary: 'Today, all lotteries and lottery games in your smartphone!',
+    developer: 'מפעל הפיס',
+    developerId: '%D7%9E%D7%A4%D7%A2%D7%9C+%D7%94%D7%A4%D7%99%D7%A1',
+    icon:
+     '//lh3.googleusercontent.com/YFaCX7rk1m9xsyCy1QOXVGrCaXdPiDyDq-wf7_GJ3vjr92uYUvtkQX1VbR2xQaUpFLM=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wetribu.tribu',
+    appId: 'com.wetribu.tribu',
+    title: 'TRIBU',
+    summary: 'TRIBU - an app to promote volunteering',
+    developer: 'Tribu',
+    developerId: 'Tribu',
+    icon:
+     '//lh3.googleusercontent.com/XH2SBr0ydlWnuXpr1i-fDxBaJ52yFec7ux0U9leNqW7Yd2kEtKtzZ5DVT4T3tw7SkYM=w340',
+    score: 1.7,
+    scoreText: ' Rated 1.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kinkajoo.taki',
+    appId: 'com.kinkajoo.taki',
+    title: 'TAKI',
+    summary: 'Taki - The perfect card game for the whole family !',
+    developer: 'Kinkajoo',
+    developerId: 'Kinkajoo',
+    icon:
+     '//lh3.googleusercontent.com/WsOyuPI-eH1tGOmj_NR0VAg0zwrLqdpXi8mPAznOn3C2dXMg7W7J8K1vWdossJ6k3mo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.walla.wallahamal',
+    appId: 'com.walla.wallahamal',
+    title: 'חמ"ל - חדשות מתפרצות בזמן אמת',
+    summary:
+     'Mercy, all updates and initial reports from the area in front of everyone - including warnings of "red color".',
+    developer: 'Walla! Ltd',
+    developerId: '6475776842838415893',
+    icon:
+     '//lh3.googleusercontent.com/TVanPVM45cZdOI7tZ2G9vwqJPtY4axD5xUyWOuqR0gQClFzywSJ8r6Mb4F6FRl2JxvQ=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.exampleTaioriaFree',
+    appId: 'com.exampleTaioriaFree',
+    title: 'تيئوريا (امتحان نظري) مجانا - תיאוריה',
+    summary:
+     'Taioria study quickly and easily free*** your way to get a driver\'s license quickly and easily ***',
+    developer: 'Mohannad Yaghmour',
+    developerId: 'Mohannad+Yaghmour',
+    icon:
+     '//lh3.googleusercontent.com/YIRqkpZ3fqCKcByxNmAm9-6gDPlk0o2Z-DWIH5rQyF3h7JzJR363sL7tBMqQ307Qfas=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mintmark.WallaVOD',
+    appId: 'com.mintmark.WallaVOD',
+    title: 'VOD !וואלה',
+    summary:
+     'Direct access to a wide range of movies, series and video content lead for the whole family.',
+    developer: 'Walla! Ltd',
+    developerId: '6475776842838415893',
+    icon:
+     '//lh3.googleusercontent.com/XjjVOdaaZSqAgBfXm1Q7Hc49KmLiW1d4_-PPUZT79_h0hWgu9feyAVuxJwHMXoLLWw=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ogemary.smarthome',
+    appId: 'com.ogemary.smarthome',
+    title: 'Switcher V2',
+    summary: 'Control your Boiler With your SmartPhone.',
+    developer: 'M.D.S Wireless Technologies Ltd',
+    developerId: 'M.D.S+Wireless+Technologies+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/sipTEyuWCZCW9ib_SMTlSo8qewEN3g-VoTiYp6XKUi9UCcYPlwQSDaTVyFEqFPYApJw=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.applicaster.il.ch1',
+    appId: 'com.applicaster.il.ch1',
+    title: 'כאן - Kan – Digital radio and television',
+    summary:
+     'Kan – The Israeli Public Broadcasting Corporation broadcasts Digital ,TV, Radio',
+    developer: 'כאן תאגיד השידור הישראלי',
+    developerId:
+     '%D7%9B%D7%90%D7%9F+%D7%AA%D7%90%D7%92%D7%99%D7%93+%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8+%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99',
+    icon:
+     '//lh3.googleusercontent.com/aopsRR5s980hnHe_DW_LcZubsrLdkiCgoiA0lX7roCsflmqgynqQ4dyXodHB7fQKT5E=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goldtouch.ynet',
+    appId: 'com.goldtouch.ynet',
+    title: 'ynet',
+    summary: 'Israel\'s largest news and media portal',
+    developer: 'yit',
+    developerId: 'yit',
+    icon:
+     '//lh3.ggpht.com/LB7LuEGqomUmDITSkev4n6nQxLQ94-22-fwyEVzRuGAdZhCRRG1R53LevqVdaFec-hjL=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=tfilon.tfilon',
+    appId: 'tfilon.tfilon',
+    title: 'Tfilon - A free smart Siddur',
+    summary: 'A smart siddur - for free!',
+    developer: 'אורי הולנדר',
+    developerId:
+     '%D7%90%D7%95%D7%A8%D7%99+%D7%94%D7%95%D7%9C%D7%A0%D7%93%D7%A8',
+    icon:
+     'https://lh3.ggpht.com/3dfbEotj8XN1EsiUhHDykNl_32gugpcxbwQUNwWP8DYiAEPT4dfb7QcLjLzHC6ZAhqg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=il.co.mitug.WhereBus',
+    appId: 'il.co.mitug.WhereBus',
+    title: 'איפה בוס - אוטובוסים בזמן אמת',
+    summary:
+     'All the information necessary for public transportation in Israel.Up-to-date information about your card.',
+    developer: 'Mitug Distributed Systems Ltd',
+    developerId: 'Mitug+Distributed+Systems+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/Wc5o6MndBctf7CHwP-aISuU96QuolagW2FQ_lXgaxqfuN8rUQo3OqWcY998y5O-Jk6I=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=il.co.bezeq.be',
+    appId: 'il.co.bezeq.be',
+    title: 'Be Bezeq',
+    summary: 'ניהול חכם של האינטרנט בבית.',
+    developer: 'Bezeq',
+    developerId: 'Bezeq',
+    icon:
+     '//lh3.googleusercontent.com/aLbqa1i-_YhZxf9VrJB73G-GGXnhtPHe7SnLnLqy8rZ9CQwi827stlxiqadeuHCEaZOH=w340',
+    score: 2.7,
+    scoreText: ' Rated 2.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ps.coupon',
+    appId: 'com.ps.coupon',
+    title: 'ToysRUsIL',
+    summary: 'Toys R Us Israel Coupon app',
+    developer: 'ToysRUs Israel - טויס אר אס ישראל',
+    developerId:
+     'ToysRUs+Israel+-+%D7%98%D7%95%D7%99%D7%A1+%D7%90%D7%A8+%D7%90%D7%A1+%D7%99%D7%A9%D7%A8%D7%90%D7%9C',
+    icon:
+     '//lh3.ggpht.com/T5FPfw2WWVb28KiqhNz9sojBSVIfPytrhWiCDQ7ohgSfluPqVwGUKauQ1yGFNERkuA=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moblin.superpharm',
+    appId: 'com.moblin.superpharm',
+    title: 'סופר-פארם: קופונים ומבצעים',
+    summary:
+     'The largest offers app in Israel, over 2.5 million downloads, now in a new version!',
+    developer: 'Super-Pharm',
+    developerId: 'Super-Pharm',
+    icon:
+     'https://lh5.ggpht.com/P_VpxdW-xVJQdX5PPHGdAbzgBMK7fYyZ1uBt34PxWkjFRcyu-nsVZM4uG7a_bmD_fLE=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

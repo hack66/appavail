@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hideme.android.vpn',
+    appId: 'hideme.android.vpn',
+    title: 'hide.me VPN',
+    summary:
+     'World’s fastest VPN used by more than 10 million users, Use It For Free',
+    developer: 'eVenture',
+    developerId: 'eVenture',
+    icon:
+     '//lh3.googleusercontent.com/nAWV1Dzlo3vfp9bp5Q5PMFO3mTpjyAUpoEtiBrkxsFcMinpyjgRjuSKxqFqkniyGRw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privatevpn.fast.secure.vpn2019',
+    appId: 'com.privatevpn.fast.secure.vpn2019',
+    title: 'TURI VPN: Private VPN & Fast Secure VPN',
+    summary:
+     'TURI VPN Private VPN & Fast Secure VPN a vpn defender and private incognito mode',
+    developer: 'Apex Valley Apps',
+    developerId: 'Apex+Valley+Apps',
+    icon:
+     '//lh3.googleusercontent.com/fymVtpCpPO_iu1P-q1Cpe4ENNOzEBszxPFBRRCqb-IMCpUaXc4sZetgwC1V6vU31Gz0=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.shazam.android',
+    appId: 'com.shazam.android',
+    title: 'Shazam',
+    summary: 'GIVE AN ANSWER TO: “WHAT’S THAT SONG?"',
+    developer: 'Apple, Inc.',
+    developerId: 'Apple,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/mwTU9-4NX-_QlATb6lILSinKI47wAtOM38GjPYRPQSsQOG2hVRY4h9OfEhDxpf8ADQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eagleheart.ferrari',
+    appId: 'com.eagleheart.ferrari',
+    title: 'VPN Ferrari(Free unblock proxy)',
+    summary: 'FerrariVPN is a completely free VPN',
+    developer: 'Dream Man',
+    developerId: 'Dream+Man',
+    icon:
+     '//lh3.googleusercontent.com/NkrPLOhfQkAfxNSQV7jwLvaWxd7hkH6iJGzzSk-8TW7BDeifN8MJ8WdA_3U0ciPRpFaN=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=launcher.walpapers.cool',
+    appId: 'launcher.walpapers.cool',
+    title: 'Melon VPN - Unlimited Free & Fast Security Proxy',
+    summary: 'The best VPN secure Pro.',
+    developer: 'Vego APP 3d',
+    developerId: 'Vego+APP+3d',
+    icon:
+     '//lh3.googleusercontent.com/uPt92KrWgbaDgMBbSpoYFsHullsljsByceepI4GoLC0jDP0VrchE5IvehB8zZHcj=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sonymobile.sketch',
+    appId: 'com.sonymobile.sketch',
+    title: 'Sketch - Draw & Paint',
+    summary:
+     'Draw, paint, edit photos and have fun with stickers in our creative app.',
+    developer: 'Sony Mobile Communications',
+    developerId: '4851747018805076305',
+    icon:
+     '//lh3.googleusercontent.com/sFUmSLtyuwKYT2-XVhzs9C4deTpLI0nee1us6x3s0vsZ0EKwxM8Tsclc4vOEWUjFM5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.getkeepsafe.vpn',
+    appId: 'com.getkeepsafe.vpn',
+    title: 'Keepsafe VPN – Stay Safe on WiFi, Hotspot Networks',
+    summary:
+     'Fast, Reliable and Safe VPN: Protect Online Privacy on WiFi Hotspot Connections',
+    developer: 'Keepsafe',
+    developerId: '7409182767575593474',
+    icon:
+     '//lh3.googleusercontent.com/GLMzzaaTSS-DRZswC8BcwYR50jWs5-JVXh3kMSjUJ9eWtaPl-KuCWIy6qFipcohUK28=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.metanetworks.agent',
+    appId: 'com.metanetworks.agent',
+    title: 'Meta Networks Agent',
+    summary:
+     'Meta Networks agent provide connectivity to the Meta Networks-as-a-Service.',
+    developer: 'Meta Networks',
+    developerId: 'Meta+Networks',
+    icon:
+     '//lh3.googleusercontent.com/5i7KEaYsck7TSewStBDUgIqeEQhe_1bHtsQBz1T0r8l-unBJoBsSFXH3ejgWC4gIfb0=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note',
+    appId: 'com.socialnmobile.dictapps.notepad.color.note',
+    title: 'ColorNote Notepad Notes',
+    summary:
+     'ColorNote® - Easy to use notepad for notes, shopping list, to-do list, calendar',
+    developer: 'Notes',
+    developerId: 'Notes',
+    icon:
+     '//lh3.ggpht.com/IDOtRhsZLSG3EFxWxmWREMPa42_SNQvl9-x4FBu5dn9aJMjpVtMx_GoNdnQwEIp_7gsV=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.translate',
+    appId: 'com.google.android.apps.translate',
+    title: 'Google Translate',
+    summary: 'The world is closer than ever with over 100 languages',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.asus.calculator',
+    appId: 'com.asus.calculator',
+    title: 'Calculator - unit converter',
+    summary:
+     'Your most simple, handy, and stylish calculator with unit converter!',
+    developer: 'ZenUI, ASUS Computer Inc.',
+    developerId: '6704106470901776285',
+    icon:
+     '//lh3.googleusercontent.com/IpyRT5IkZEGzexL0DkKFSrzyKaL6HUoBm_IbnUXqEeki3xAjO3F3UaYURVFiFkH4bsfu=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs',
+    appId: 'com.google.android.apps.docs.editors.docs',
+    title: 'Google Docs',
+    summary: 'Create and edit documents on the go.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh4.ggpht.com/-wROmWQVYTcjs3G6H0lYkBK2nPGYsY75Ik2IXTmOO2Oo0SMgbDtnF0eqz-BRR1hRQg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.phonscre.ios.appleiphon',
+    appId: 'com.phonscre.ios.appleiphon',
+    title: 'USA VPN Master- Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'Fast USA VPN professional brings a high speed and encrypted VPN affiliation.',
+    developer: 'Vego APP 3d',
+    developerId: 'Vego+APP+3d',
+    icon:
+     '//lh3.googleusercontent.com/CUoEe_wk87YxZhPEr7Bd5ZR2vndUOUnbm--vLFJtbNMJLnAkBho_xFia6B9fZBWReIg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imdb.mobile',
+    appId: 'com.imdb.mobile',
+    title: 'IMDb Movies & TV',
+    summary:
+     'IMDb - the world’s most popular source for movies, TV shows, and celebrities.',
+    developer: 'IMDb',
+    developerId: 'IMDb',
+    icon:
+     '//lh3.googleusercontent.com/IKW5EWVX4qUYF6LPP1_O1sWiZsMblSQVnBrtkMAd07Br69lEApDez9yzFe09iAgJAg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cn.wps.moffice_eng',
+    appId: 'cn.wps.moffice_eng',
+    title: 'WPS Office - Word, Docs, PDF, Note, Slide & Sheet',
+    summary:
+     'All-in-one Free Mobile Office Suite App: Word,PDF,Powerpoint,Excel,Docs and Note',
+    developer: 'Kingsoft Office Software Corporation Limited',
+    developerId: '6181440280366444424',
+    icon:
+     '//lh3.googleusercontent.com/7-CBOICJrtltP-Ndzq-c8Vugt1FTsy2vw-SZUZ5ov0BY7XgDrVeltTwtyhjVbxh943M=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.touchtype.swiftkey',
+    appId: 'com.touchtype.swiftkey',
+    title: 'SwiftKey Keyboard',
+    summary:
+     'The Best Swipe & Emoji Keyboard. Customize your keyboard and swipe to type.',
+    developer: 'SwiftKey',
+    developerId: 'SwiftKey',
+    icon:
+     '//lh3.googleusercontent.com/cwGQJjbFjppZ9R-cyvUxjhHRp9C0feDpH0xZ9dvyHKp_az6RNHpf5AntBoA6FUGP1wk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

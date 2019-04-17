@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylinkhelper',
+    appId: 'com.google.android.apps.kids.familylinkhelper',
+    title: 'Google Family Link for children & teens',
+    summary:
+     'Download this app to your child/teen’s device to use Family Link.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pYLy_HV2fhacywOg55k41PGk2dm8fLvvJIbRNEPipWUE-yXvhS99VAQw7wvaKndrOh0=w340',
+    score: 2,
+    scoreText: ' Rated 2.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=sk.slsp.georgego',
+    appId: 'sk.slsp.georgego',
+    title: 'George Go Slovensko',
+    summary:
+     'I´m George and I´m bringing the new smart banking to your smartphone or tablet',
+    developer: 'Slovenská sporiteľňa, a.s.',
+    developerId: 'Slovensk%C3%A1+sporite%C4%BE%C5%88a,+a.s.',
+    icon:
+     '//lh3.googleusercontent.com/pXrYns_BsmfmVF3SE6OcwIT7SKcirfucjMSNEuKPjlbm4yoRlkwPPvFyG3WnZLizh00=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.tumblr',
+    appId: 'com.tumblr',
+    title: 'Tumblr',
+    summary:
+     'Tumblr is where your interests connect you with your people.',
+    developer: 'Tumblr, Inc.',
+    developerId: 'Tumblr,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Y5r-v7yrNUFMB9pabx19tTfVNYUK0TED7i6NRrzdfWFtDHkLZCAnJR-gJ012HtS2r3Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medium.reader',
+    appId: 'com.medium.reader',
+    title: 'Medium',
+    summary:
+     'A place where everyone has a story to share & the best ones are delivered to you',
+    developer: 'A Medium Corporation',
+    developerId: 'A+Medium+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/qF9y0xIiYo_dk0JpryEl-lT2wJMDmz7groOBXqkalFg1SWPLklhuAUp0jIjoSLxDEi4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro',
+    appId: 'com.groundspeak.geocaching.intro',
+    title: 'Geocaching®',
+    summary:
+     'This app has everything you need to begin your geocaching adventure.',
+    developer: 'Groundspeak Inc.',
+    developerId: 'Groundspeak+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/6zRsomkLxwya9yiXd9GKQS8_VrZpY0A83CWqChkDkF7GFx8-MDtvkwc-ZZpuvjSWJzg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest',
+    appId: 'org.zwanoo.android.speedtest',
+    title: 'Speedtest by Ookla',
+    summary:
+     'From the makers of Speedtest.net. Take free and accurate speed tests anywhere!',
+    developer: 'Ookla',
+    developerId: 'Ookla',
+    icon:
+     '//lh3.googleusercontent.com/19anvk_uIJld32kBp6nNLpKu_IMzK7h2fXA1jFd4EX4RdNwiiepsU73OhEQS4jbsPptQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.duolingo',
+    appId: 'com.duolingo',
+    title: 'Duolingo: Learn Languages Free',
+    summary:
+     'Learn English, Spanish, French, German, Italian and more languages for free.',
+    developer: 'Duolingo',
+    developerId: '6957685454452609502',
+    icon:
+     '//lh3.googleusercontent.com/Yfps1k5jfeCC6j3ahm1s6dyUrSHusfk_1WDSTRjSNpZA49iYSKd_uljgs9UScBXgISOX=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloomberg.android.plus',
+    appId: 'com.bloomberg.android.plus',
+    title: 'Bloomberg: Market & Financial News',
+    summary:
+     'Get the latest stock market, financial, business news and more.',
+    developer: 'Bloomberg LP CM',
+    developerId: 'Bloomberg+LP+CM',
+    icon:
+     '//lh3.googleusercontent.com/r-yyb3SfVQm6K73DbtKTwOKOTUwBrjhR1oxv7yH0QcPfxrAbZqCGrZzeWWbHsT2Pf6IA=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.explore.web.browser',
+    appId: 'com.explore.web.browser',
+    title: 'Web Browser & Explorer',
+    summary:
+     'A fast, secure, and smart Mobile Browser, the best Web Browser.',
+    developer: 'Mobile_V5',
+    developerId: 'Mobile_V5',
+    icon:
+     '//lh3.googleusercontent.com/KJcrI0IdRB38CDqY4CwAAnk2twWacZlE4wFjnQxr-nLvVO6mXvgdWViwakKE6-xBhcs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpn.unblock.proxy',
+    appId: 'com.freevpn.unblock.proxy',
+    title: 'Free VPN Unlimited Proxy - Proxy Master',
+    summary:
+     'Best VPN to proxy site and Apps, Protect WiFi security & privacy',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/3cdPPD8YLq9FcZib10MeTvAP2lu6vShNPgPgq1jwrY_5EaENibxkdZhyOGvp2SDNkZQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=cz.destil.settleup',
+    appId: 'cz.destil.settleup',
+    title: 'Settle Up - Group Expenses',
+    summary: 'Sharing expenses with friends?',
+    developer: 'Step Up Labs',
+    developerId: '7657242945003750925',
+    icon:
+     '//lh3.googleusercontent.com/OMj6kfA3h1rYbXH34ra6Ah80HQXCzafshNVKGQKp0C4JCGpqCbod7IDrtS_kx0MMjzs=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kaweapp.webexplorer',
+    appId: 'com.kaweapp.webexplorer',
+    title: 'Web Explorer',
+    summary:
+     'Explore the internet with this light and feature packed browser.',
+    developer: 'Kawe Apps',
+    developerId: 'Kawe+Apps',
+    icon:
+     '//lh3.googleusercontent.com/YmMGcgeO7Km9-J9vFRByov5sb7OUKetnKs8pTi0JZMDj3GVJ61GMTcTlHB7u9uHDHag=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pinterest',
+    appId: 'com.pinterest',
+    title: 'Pinterest',
+    summary:
+     'Explore lifestyle inspiration: new recipes, creative wedding tips & design ideas',
+    developer: 'Pinterest',
+    developerId: 'Pinterest',
+    icon:
+     '//lh3.googleusercontent.com/uOjFCUkQ4w56akZTg_AAGYsyiFd1UB3-Rd8KYDoiIpD05VzkTz647PO3B_2v9sPg2BM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink',
+    appId: 'com.google.android.apps.kids.familylink',
+    title: 'Google Family Link for parents',
+    summary:
+     'Stay in the loop as your child explores on their compatible devices.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/H_pTz59Knfkh3_Y3EyFJ3twqz3bHyeZGsvAPZ-hYa9CKxteNonFj3BsDGeBj-cvO4ts=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.alohamobile.browser',
+    appId: 'com.alohamobile.browser',
+    title: 'Aloha Browser - private fast browser with free VPN',
+    summary:
+     'Private and secure web browser with video downloads + free unlimited VPN',
+    developer: 'Aloha Mobile',
+    developerId: '7944373301068016862',
+    icon:
+     '//lh3.googleusercontent.com/cSvkDxJRDXybsuhSvyaX14VwEbEGFn43y8kbmb1z74h823lr6yuReFZyucs9n5f2104=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=mobi.mgeek.TunnyBrowser',
+    appId: 'mobi.mgeek.TunnyBrowser',
+    title: 'Dolphin Browser - Fast, Private & Adblock🐬',
+    summary:
+     'Best web browser with flash player, fast download, ad blocker & incognito mode.',
+    developer: 'Dolphin Browser',
+    developerId: '6599001017670379452',
+    icon:
+     '//lh3.googleusercontent.com/o9t-BM8E2kXbsdCUH_4iT_NBtL7gxOVLOAm-O2c3NYf5Ow3UA3yza-WuuDGhed2tvw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer.classic',
+    appId: 'com.farproc.wifi.analyzer.classic',
+    title: 'Wifi Analyzer Classic',
+    summary: 'Turns your android phone into a Wi-Fi analyzer!',
+    developer: 'farproc',
+    developerId: 'farproc',
+    icon:
+     '//lh3.googleusercontent.com/v7gAaEcXP4dHHomRpk4VXniZFgD8t__Rxxm2zOiZlBn6H-n5dIo-mYmlM1GvTplzPsw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.plexapp.android',
+    appId: 'com.plexapp.android',
+    title: 'Plex',
+    summary:
+     'Plex magically organizes your media libraries and streams them to any device',
+    developer: 'Plex, Inc.',
+    developerId: '5779761635682790559',
+    icon:
+     '//lh3.ggpht.com/-PbN6troneoQjhH839rZA3p-yIXYneJkIT8j7Z--F97MAONmt04VfiiAd6ZRvZHy=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.sweatco.app',
+    appId: 'in.sweatco.app',
+    title: 'Sweatcoin Pays You To Get Fit',
+    summary:
+     'Turn your steps to \'sweat coins\' - digital currency to make you fit and active!',
+    developer: 'Sweatco Ltd',
+    developerId: 'Sweatco+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/2G0BofokJNL-92f9t7Z_5_uh593ywcuZ2uHPKOq7WpGyLy4ufv67km1m9a70-2fJJw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true } ]

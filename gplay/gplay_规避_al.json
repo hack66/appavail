@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=telekom.al.mytelekom',
+    appId: 'telekom.al.mytelekom',
+    title: 'My Telekom',
+    summary:
+     'Bëjeni tuajin komunikimin me aplikacionin My Telekom. Çaste që na lidhin.',
+    developer: 'Telekom Albania',
+    developerId: 'Telekom+Albania',
+    icon:
+     '//lh3.googleusercontent.com/vJptW6hIbsaY7ldcL3DPjO-tHuBGC_vy2TJZa7Yz65vnEOdSg-TUHoGBQ8DFYDn4UQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.peacock.flashlight',
+    appId: 'com.peacock.flashlight',
+    title: 'Flashlight',
+    summary:
+     '🏅 The World\'s #1 Flashlight. 🌟🌟🌟🌟🌟  The Brightest & Fastest Flashlight🔦 .',
+    developer: 'Lighthouse, Inc.',
+    developerId: 'Lighthouse,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/PLBCCl6gq8evyvgCSN4rT2uVfhjHoouHfnz_w6grWF7gOunpsPXfCsed_EKC-4Rbw1aj=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=al.myvodafone.android',
+    appId: 'al.myvodafone.android',
+    title: 'My Vodafone (AL)',
+    summary: 'My Vodafone duhet të jetë përditshmëria jote.',
+    developer: 'Vodafone Albania Sh.A.',
+    developerId: 'Vodafone+Albania+Sh.A.',
+    icon:
+     '//lh3.googleusercontent.com/m_oSFh7n90hVVRzLrVaREBqqa3td1xcR8gb4h_xQEHkNMC1BB47K56YP7SSGnk9sdA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dimcoms.checkers',
+    appId: 'com.dimcoms.checkers',
+    title: 'Checkers',
+    summary: 'Amazing graphics and very small app size',
+    developer: 'English Checkers',
+    developerId: 'English+Checkers',
+    icon:
+     '//lh3.googleusercontent.com/cVfgo87clbc3B2lHSk05GdSP6PJYikmLXITe7-kRIq5AS6jVS6jOrOQLvI0gSywt7cyQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.goodcatchgames.mrbeanhillclimb',
+    appId: 'com.goodcatchgames.mrbeanhillclimb',
+    title: 'Mr Bean - Special Delivery',
+    summary:
+     'Deliver boxes stacked on Mr Bean’s green car in this awesome driving game.',
+    developer: 'Good Catch',
+    developerId: '8383543423823353834',
+    icon:
+     '//lh3.googleusercontent.com/o6xHwL4McbcFaOcfhBAkDh3fmPuoNOlIGDnoy3fJmGMeTyM2UqeKMtCU7I9kD0SZWgDo=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mgc.RopeHero.ViceTown',
+    appId: 'com.mgc.RopeHero.ViceTown',
+    title: 'Rope Hero: Vice Town',
+    summary: 'Action-packed adventures of Rope Hero in Vice Town.',
+    developer: 'Naxeex LLC',
+    developerId: '4904364455782296418',
+    icon:
+     '//lh3.googleusercontent.com/bXxqqWwRR8JC2CA6rrZkiFfs-x5DO4DJHCrWzdTnhGgQSW_uhy-W6I5V0ZRBUfEG6q4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.edujoy.Masha.Bear',
+    appId: 'com.edujoy.Masha.Bear',
+    title: 'Masha and the Bear. Games & Activities',
+    summary:
+     'Learn the professions and have fun playing with Masha and her friends.',
+    developer: 'AppQuiz',
+    developerId: 'AppQuiz',
+    icon:
+     '//lh3.googleusercontent.com/gnZWFkKLdIkDusEgmbWyDHQi_nTtuDpYKRolMmVwdPc7PAmPd87aUaEPgWxGge3uO3U=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=jpark.AOS5',
+    appId: 'jpark.AOS5',
+    title: 'Anger of stick 5 : zombie',
+    summary: '\'AngerOfStick\'  The world\'s most popular action game',
+    developer: 'J-PARK',
+    developerId: 'J-PARK',
+    icon:
+     '//lh3.googleusercontent.com/CoNmalI7mJIzoIovoE7hsd1PGU2glF74g_2LacHy56P_g_-VPmTWWi5oPdgxlyVjEdo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club',
+    appId: 'com.moonfrog.ludo.club',
+    title: 'Ludo Club - Fun Dice Game',
+    summary:
+     'The best Ludo game of 2018 is here! JOIN THE CLUB and play with friends!!',
+    developer: 'Moonfrog',
+    developerId: '5236132833572659868',
+    icon:
+     '//lh3.googleusercontent.com/CBh5Ts0J5KJJjy7xEYnMMWxMAxMAwxSzI9BT_vNsR3J1DDVnN3DVOIa1MR9nKgrWsg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary:
+     'Netflix is the leading subscription service for watching TV episodes and movies.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.mango',
+    appId: 'com.google.android.apps.youtube.mango',
+    title: 'YouTube Go',
+    summary:
+     'Download and watch your favourite videos without eating up your data',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/pqnpzpWfCCHVu6mqwtr-ueJHrYzTUFVzQNIwqqQ8016APeEI8ZxmBzu-q3thtlhwDrVX=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.apex_designs.payback2',
+    appId: 'net.apex_designs.payback2',
+    title: 'Payback 2 - The Battle Sandbox',
+    summary:
+     'Payback 2 includes everything from tank battles to high speed helicopter races!',
+    developer: 'Apex Designs Entertainment Ltd',
+    developerId: 'Apex+Designs+Entertainment+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/7GHoQF-7XHbDaQuZI03pXk5ijp48tr-weYdKuOZFhs8UKyTf-z9sVSvmg_JVRdo-9vE=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM',
+    appId: 'com.gameloft.android.ANMP.GloftA8HM',
+    title: 'Asphalt 8: Airborne',
+    summary:
+     'A gravity-defying arcade racing experience full of real dream cars and bikes.',
+    developer: 'Gameloft SE',
+    developerId: '4826827787946964969',
+    icon:
+     '//lh3.googleusercontent.com/eYQiR40GImqwXzOPpZL3quOQpzN8cbBcgeQ-KBFcWLPWquAcTHmyCuE3wLTcxmb3mA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

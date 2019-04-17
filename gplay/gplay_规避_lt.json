@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.ea.gp.simsmobile',
+    appId: 'com.ea.gp.simsmobile',
+    title: 'The Sims™ Mobile',
+    summary: 'Play with life.',
+    developer: 'ELECTRONIC ARTS',
+    developerId: '6605125519975771237',
+    icon:
+     '//lh3.googleusercontent.com/bPKeWXaJjU7a0wCQCM9ygnh1i8DCuEAXlQ_oVUszu-4clXLq10KxPyY547W_suJovA=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobirix.connectfour',
+    appId: 'com.mobirix.connectfour',
+    title: '4 in a row king',
+    summary: 'easy rule, use brain, all ages enjoy board games!',
+    developer: 'mobirix',
+    developerId: '4864673505117639552',
+    icon:
+     '//lh3.googleusercontent.com/Zr0HM8o9cKRv_nmxOrKG8LGY8SQy5tN4BK7awfSQGny8yHlRWcHwvRCke-xt8tEFVUHQ=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dramaton.slime',
+    appId: 'com.dramaton.slime',
+    title: 'Super Slime Simulator - Satisfying Slime App',
+    summary:
+     'Enjoy the magic of slime on your mobile device: stretch, squish and pop!',
+    developer: 'Dramaton',
+    developerId: 'Dramaton',
+    icon:
+     '//lh3.googleusercontent.com/YfZBtR6aG3A9YbwMxuuhrPZCRM65z-HfFoAoFrszhT649J3tICDJM2aEdk1mxRbpLbM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.anuke.mindustry',
+    appId: 'io.anuke.mindustry',
+    title: 'Mindustry',
+    summary: 'A factory-based sandbox tower defense game.',
+    developer: 'Anuken',
+    developerId: 'Anuken',
+    icon:
+     '//lh3.googleusercontent.com/6zFJGip9oXB0RtO_p25jZqSX8EsRy5Vws2bkzgAMIgA32guRvKzMpj8YMylbcJwanbw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobile.sanitex.promocashcarry',
+    appId: 'com.mobile.sanitex.promocashcarry',
+    title: 'Promo Cash&Carry',
+    summary:
+     'Promo Cash&Carry mobile application – all the latest news & offers 24/7.',
+    developer: 'SANITEX Mobile',
+    developerId: 'SANITEX+Mobile',
+    icon:
+     '//lh3.googleusercontent.com/TU6vxvKQCYsYLCaFmgPsiPPsE8ZWjTAp60EtB3zT7jCSjVSRi0QRgevrsna439H1gk2T=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lt.mokomes.skaityti',
+    appId: 'lt.mokomes.skaityti',
+    title: 'Mokomes Skaityti',
+    summary: 'Play and learn to read',
+    developer: 'WalSoft',
+    developerId: 'WalSoft',
+    icon:
+     '//lh6.ggpht.com/cvPAuGN4tDQB8NjSdGpFtnH3lu30GNXGzQ28JqpSdvt3TnBd0aXJ7Dqf-xDipvU1lsnJ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.miniclip.bowmasters',
+    appId: 'com.miniclip.bowmasters',
+    title: 'Bowmasters',
+    summary: 'A brand new version of the world-famous game with bowmen.',
+    developer: 'Miniclip.com',
+    developerId: '5933611429942957630',
+    icon:
+     '//lh3.googleusercontent.com/iw0yy7JCUpgMXgI4umxaOMeocpZ4V8_M1cVl0acJhJzQVu3gFC4Po3H50IFxePUuk6Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.iprado.spot',
+    appId: 'ru.iprado.spot',
+    title: 'Spot it: Find the Difference',
+    summary:
+     'Spot it: Find the Difference for Kids! Play a new game spot the difference type!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/WS2WxdvrVjUrcutuG3EWeuAYYeajRQY4eWmnCCFUzDC-NGV0YH3hrqGfWq72yreefFY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.crossfield.namsterlife',
+    appId: 'com.crossfield.namsterlife',
+    title: 'Hamster Life',
+    summary:
+     '9 million downloads! This is a super healing free app game「Hamster Life」',
+    developer: 'Cross Field Inc.',
+    developerId: '8349232061000500898',
+    icon:
+     '//lh3.googleusercontent.com/92nYyJo0pQ89AHDZ4cLrVzImwbvCb-E1XG9jXsP5ndPd7iNioGFgnBzgVyKKfTUB2Yc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.granny',
+    appId: 'com.dvloper.granny',
+    title: 'Granny',
+    summary: 'Granny keeps you locked in her house.',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hyperbeard.kleptodogs',
+    appId: 'com.hyperbeard.kleptodogs',
+    title: 'KleptoDogs',
+    summary:
+     'Woof woof! KleptoCats are back! But this time it\'s... DOGS?!?',
+    developer: 'HyperBeard',
+    developerId: 'HyperBeard',
+    icon:
+     '//lh3.googleusercontent.com/Sg9s7g4vQlNeWEmouHNdY9DJtXmyOwqxZLs38tdfMN7qeC9CWqDiy7azWg7yqNT6nQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.raidit.kontrole.keleiviu.raiditapp',
+    appId: 'com.raidit.kontrole.keleiviu.raiditapp',
+    title: 'Raidit - keliauk viešuoju transportu be rūpesčių',
+    summary:
+     'Letters - Tell Where Your Passenger Control 🚨, Stoppers and Lost Items',
+    developer: 'Raid Group',
+    developerId: 'Raid+Group',
+    icon:
+     '//lh3.googleusercontent.com/EUb7eiCJ1SXlMyWdxrKOKERI4DQjTHVk3J_BsimT5flbthdiEziVSypR-k8oSO2kag=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kongregate.mobile.thetrail.google',
+    appId: 'com.kongregate.mobile.thetrail.google',
+    title: 'The Trail',
+    summary: 'The Trail will lead you to adventure and fortune!',
+    developer: 'Kongregate',
+    developerId: '7580247376460930437',
+    icon:
+     '//lh3.googleusercontent.com/a1wH1AJWf2sk_YIR6xuQGuMbMYuRihxM6aNGN9SJ4MmMGbFoJ1xVm4SBrLePsu7CP-om=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mgae.comlolsurprise.ballpop',
+    appId: 'com.mgae.comlolsurprise.ballpop',
+    title: 'L.O.L. Surprise Ball Pop',
+    summary:
+     'The L.O.L. Surprise dolls make their debut in this matching ball pop game!',
+    developer: 'MGA Entertainment',
+    developerId: '7977425518165110203',
+    icon:
+     '//lh3.googleusercontent.com/cMGBIQt-Tc3EqMA0YLZ4bwhybxk4PaIM59lJ6yQwiMoatfqYhToVnbshc5dhJxUR9Q=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mousecity.faraway3',
+    appId: 'com.mousecity.faraway3',
+    title: 'Faraway 3: Arctic Escape',
+    summary:
+     'Faraway 3 is a relaxing adventure escape game full of new puzzles to solve.',
+    developer: 'Snapbreak',
+    developerId: '8610760313453635485',
+    icon:
+     '//lh3.googleusercontent.com/P6xDXCnhMtkbwxtlCbMBpBJr5qkGG0U4UX0GmW-aOV0vfqBe1DsCZHTp9hgKM0wlSRE=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lt.ito.pildyk_main',
+    appId: 'lt.ito.pildyk_main',
+    title: 'Mano PILDYK',
+    summary:
+     'Programėlė MANO PILDYK – viskas vienoje vietoje, patogiai ir greitai!',
+    developer: 'Tele2 LT',
+    developerId: 'Tele2+LT',
+    icon:
+     '//lh3.googleusercontent.com/zwc1AwdS5SUwmpX8rRxnVzewZmLxGKckUN76NDsKq5WieDxoD2xt1JBIzmWyVaLIS4M=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.outfit7.talkingtom2free',
+    appId: 'com.outfit7.talkingtom2free',
+    title: 'Talking Tom Cat 2',
+    summary:
+     'The original Talking Tom Cat is back - and better than ever.',
+    developer: 'Outfit7 Limited',
+    developerId: '5630538819012062144',
+    icon:
+     '//lh3.googleusercontent.com/dD2lX7G1ci_uEPuS3kh9KqkMVMFwdSd5GVGYm4zC8KvH4v36v7p_cY662KBw7ZflNgO6=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=lt.policija.app',
+    appId: 'lt.policija.app',
+    title: 'ePolicija',
+    summary:
+     'ePolicija can be used to inform the Lithuanian police about the offense',
+    developer: 'ePolicija.lt',
+    developerId: 'ePolicija.lt',
+    icon:
+     '//lh3.googleusercontent.com/v248XOEzqln33hMTb7ZA6Sn3QL-nQUhzThIlthscwQHDruZ5wNzxscmQGlsOjaDIF7Th=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.glaznev.innocent',
+    appId: 'com.glaznev.innocent',
+    title: 'I Am Innocent',
+    summary:
+     'An original detective game about serial killings with puzzle elements.',
+    developer: 'Guts United',
+    developerId: 'Guts+United',
+    icon:
+     '//lh3.googleusercontent.com/0B4KFSDfqNdgy29r6gV3CxY6EoWEzAsJiE-vdiIlKE2kCY5AZpRuNmpbTBve0iOQKo4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

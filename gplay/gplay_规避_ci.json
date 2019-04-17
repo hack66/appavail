@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mediasoft.bni',
+    appId: 'com.mediasoft.bni',
+    title: 'BNIONLINE',
+    summary: 'BNI online',
+    developer: 'MEDIASOFT LAFAYETTE',
+    developerId: 'MEDIASOFT+LAFAYETTE',
+    icon:
+     '//lh3.googleusercontent.com/WtRn86EF3n5071P2YPc0F0xHffg7sJ8cluNs6WHYrVhVyJwOq7C4vSTSyd_PxJiEZmKH=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.canal.android.afrique.canal',
+    appId: 'com.canal.android.afrique.canal',
+    title: 'myCANAL Afrique, par CANAL+',
+    summary: 'Streaming, movies, series, TV shows CANAL + live / replay',
+    developer: 'GROUPE CANAL+',
+    developerId: '8506791875489011833',
+    icon:
+     '//lh5.ggpht.com/5nqxBYNkKSJ7DubuifZ2fmzYWX2n9mOVYHuw8OkXaaBQCkyxpaqCdmkj5OhvJCnEvr8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.irokotv.plus',
+    appId: 'com.irokotv.plus',
+    title: 'IROKO+, vos séries sur mobile',
+    summary:
+     'Iroko +, the best of Nollywood Novelas and always with you!',
+    developer: 'iROKO',
+    developerId: '6557175979521918248',
+    icon:
+     '//lh3.googleusercontent.com/0mGgLOghXguVz_C60pFTSdddydIsKYPj0OSJ3rssdpLQ09tyU3Hfyk7Q2VEjk1a8sg=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=quran.warsh.modified',
+    appId: 'quran.warsh.modified',
+    title: 'Al-Qur\'an Warsh',
+    summary:
+     'Al-Qur\'an app  rubutun hannu na farko a duniya.(FIRST HANDWRITTEN QUR\'AN APP)',
+    developer: 'SAGWARE International',
+    developerId: 'SAGWARE+International',
+    icon:
+     '//lh3.googleusercontent.com/Bv6g2Tub3NugnMzEeXV8tISik6VYr235daETLULBvCCH2uVuCvyY1atDYcHC9eQacLU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.andromo.dev765151.app913977',
+    appId: 'com.andromo.dev765151.app913977',
+    title: 'Mai Zamani Nura M Inuwa 2019',
+    summary: 'Mai Zamani Mp3 Offline',
+    developer: 'Hausa Film - Hausa Song App Maker',
+    developerId: 'Hausa+Film+-+Hausa+Song+App+Maker',
+    icon:
+     '//lh3.googleusercontent.com/sn7FC4dyLiHRCRaKG2SJ2PtjqkfrjQ4Vgngt1OkaNPy9xbEpIa6I1B81GnrsGtXh3w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.mozilla.firefox',
+    appId: 'org.mozilla.firefox',
+    title: 'Firefox Browser fast & private',
+    summary:
+     'Get the customizable, private & free mobile browser that syncs across devices.',
+    developer: 'Mozilla',
+    developerId: '7083182635971239206',
+    icon:
+     '//lh3.googleusercontent.com/shH5ALdqmZysSU2F5SF52674W7NFP1xtLBZMuzUR5u6Uotbgql3ATFFFhtkJjBCm4R3i=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.linkedin.android',
+    appId: 'com.linkedin.android',
+    title: 'LinkedIn: Jobs, professional profile, & networking',
+    summary:
+     'Job search, business networking & industry news. Connect & apply on the go.',
+    developer: 'LinkedIn',
+    developerId: '6860682062931868151',
+    icon:
+     '//lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.whatsapp.w4b',
+    appId: 'com.whatsapp.w4b',
+    title: 'WhatsApp Business',
+    summary: 'Simple tool for businesses to talk to their customers.',
+    developer: 'WhatsApp Inc.',
+    developerId: 'WhatsApp+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/JgGYz6b1TBsreBWZ9W9mfPQWMguIhCA3BiR7nKgE2miAzL1drW4mLL5_q0exDjtTDRg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.EricBROU.Zouglou',
+    appId: 'com.EricBROU.Zouglou',
+    title: 'Musique Zouglou Côte d\'Ivoire, Zouglou ivoirien',
+    summary:
+     '❤❤❤❤❤ All new products made in Ivory Coast; Zouglou audio mp3 and video',
+    developer: 'Eric BROU',
+    developerId: 'Eric+BROU',
+    icon:
+     '//lh3.googleusercontent.com/0OygPNCyMsPy6fCHmRB_FNVLlBHU-JICM7jo1o0CYcA3u95pD8k0BWSG-dfv2FRdCbg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.EricBROU.Bonjour_2017',
+    appId: 'com.EricBROU.Bonjour_2017',
+    title: 'Bonjour 2019 Côte d\'Ivoire',
+    summary:
+     'All the humor videos of Hello 2019, 2018, 2017, 2016, 2015, 2014,2013 ...',
+    developer: 'Eric BROU',
+    developerId: 'Eric+BROU',
+    icon:
+     '//lh3.googleusercontent.com/wDZkx2e7SRrPeE3hlstyFLQWjXk0k0UBsi1qEZ_0nHydAqdBOSMq_Tn9rtDIl1CjNh4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nkorosolocorp.apprendrelebaoule',
+    appId: 'com.nkorosolocorp.apprendrelebaoule',
+    title: 'Apprendre le Baoulé',
+    summary: 'Learn otherwise Baoulé',
+    developer: 'NKSL Brain',
+    developerId: '6696722913415250048',
+    icon:
+     '//lh3.googleusercontent.com/DaPpMzdU0ddUnt3J-4t0BjvnpzFlErleN5Rehn0_Ouv5cQLgXKT3XlTD8CPUfNkzMA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ivoire.bouffe',
+    appId: 'com.ivoire.bouffe',
+    title: 'Ivory Food',
+    summary:
+     'Ivoire Bouffe is an application valuing the Ivorian culinary tourism.',
+    developer: 'WENOV',
+    developerId: '8836577647035589919',
+    icon:
+     '//lh4.ggpht.com/HUKT3SNQHuA4VQIPQ3_BP9Ni4aMwmHukRQ27aUmgDd6tmQ-ZMZNMK3tol6mMhEsZKVc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ym.lejuristeivoirien',
+    appId: 'ym.lejuristeivoirien',
+    title: 'Le Juriste Ivoirien (LJI)',
+    summary: 'The faithful companion of the lawyer',
+    developer: 'E-MINDS',
+    developerId: 'E-MINDS',
+    icon:
+     '//lh3.googleusercontent.com/PulZWDr3NOIK6AnE2mPiGd0c1Gh8bZ1_2V0QMxRXG6YvpPk25OFlazTnVFf7OK9Zv0Y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

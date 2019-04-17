@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app',
+    appId: 'com.goldenfrog.vyprvpn.app',
+    title: 'VPN: Best Private & Secure VyprVPN',
+    summary:
+     'Get safe & secure web encryption. Unlimited access & fast internet speeds.',
+    developer: 'Golden Frog, GmbH',
+    developerId: 'Golden+Frog,+GmbH',
+    icon:
+     '//lh6.ggpht.com/bUKcEXACKYe4ZYqD8jVZgqLyolZ4vjpVV4M83A8F3ai3tZzP2m97L7iyqsbte6ssUzJb=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.privateinternetaccess.android',
+    appId: 'com.privateinternetaccess.android',
+    title: 'VPN by Private Internet Access',
+    summary:
+     'Private Internet Access® VPN: change your IP address + browse privately.',
+    developer: 'Private Internet Access',
+    developerId: 'Private+Internet+Access',
+    icon:
+     '//lh3.googleusercontent.com/54YUiBVnmtckft3QLhQgjtmXaRDSIX_T5ZiLhUA8oVlnhvi65-KQ_Lr23q9GcUYZsjs=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bestfreewifi.wifihotspot1',
+    appId: 'com.bestfreewifi.wifihotspot1',
+    title: 'Free WiFi Connect Internet Connection Find Hotspot',
+    summary:
+     '🏆Connect Free WiFi hotspot, free wifi network manager,analyzer, finder wifi map',
+    developer: 'MobileToolingStation',
+    developerId: 'MobileToolingStation',
+    icon:
+     '//lh3.googleusercontent.com/oS6bN_5v0zSWjRnWm7Y3JUjV1exw1X5FAvLDvsaaV5uz3kD24joK7pY4xjOx7EziQ9g=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mentisco.freewificonnect',
+    appId: 'com.mentisco.freewificonnect',
+    title: 'Free WiFi Connect',
+    summary: 'Complete Wifi solution for all wifi related problems.',
+    developer: 'Mentisco',
+    developerId: 'Mentisco',
+    icon:
+     '//lh3.googleusercontent.com/9AaIgJlnQTkJe996fSmBibFoRVlkLvo1loAyOaVbSe1dRNrYQ_Xr5DrbS5UQYeufG70=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.usenetserver.vpn',
+    appId: 'com.usenetserver.vpn',
+    title: 'UsenetServer VPN',
+    summary:
+     'VPN Encryption for Android | Anonymous IP Address Protection  | Wi-Fi Safety',
+    developer: 'UsenetServer',
+    developerId: 'UsenetServer',
+    icon:
+     '//lh3.googleusercontent.com/tPnk8Z1L8poZMfU4TqqdKVh0ZpGIQda_XPP5Cp72MaoWk9X3fTdGVErZtFDnOfss1ko=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.referencehunt.virtualprivatenetworking',
+    appId: 'com.referencehunt.virtualprivatenetworking',
+    title: 'Virtual private networking',
+    summary:
+     'well categorized app to reach knowledge about Virtual private networking',
+    developer: 'referencehunt',
+    developerId: 'referencehunt',
+    icon:
+     '//lh3.googleusercontent.com/3B2-Tn2s1-JLUpKGt2i9P6zCuryR-Mi5qProyA-JL0cGfjHNI6UixMTZ_CS-sUb9YhQ=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unique.privatevpn',
+    appId: 'com.unique.privatevpn',
+    title: 'VPN - super fast Private VPN',
+    summary:
+     'VPN - Super Fast VPN: Web Proxy & secure Private network to Unblock websites',
+    developer: 'UniqueApps Developers',
+    developerId: 'UniqueApps+Developers',
+    icon:
+     '//lh3.googleusercontent.com/0YZ42q0MbBJf8xn7iafxqVSnB1o6wD238GkwrplqwFFc1fx704fTCd3tvKkblIou3OyB=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hero.browser4g.internet',
+    appId: 'hero.browser4g.internet',
+    title: '4G Internet Browser - Fast',
+    summary: 'Fastest Web Browser for Android.Enjoy the speed of 4G🌎',
+    developer: 'ACE Dev Team.',
+    developerId: 'ACE+Dev+Team.',
+    icon:
+     '//lh3.googleusercontent.com/JafZOpy5UVEAOueKX5teqwSQvIrMalWhiy4C5AhYoZjvDYUUjrrZY5PO5sJoQOUH46c=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.norwoodsystems.worldwifi',
+    appId: 'com.norwoodsystems.worldwifi',
+    title: 'World WiFi',
+    summary:
+     'Find and securely connect to millions of Wi-Fi hotspots around the world.',
+    developer: 'Norwood Systems',
+    developerId: 'Norwood+Systems',
+    icon:
+     '//lh3.googleusercontent.com/92Z-UnWYG-So2_kMyWCirU_o0oRZ8Ks2zWCPTSj7QYdmI19ALMJC8mvctGE3OEgAudo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.simplexsolutionsinc.vpn_unlimited',
+    appId: 'com.simplexsolutionsinc.vpn_unlimited',
+    title: 'KeepSolid VPN Unlimited | Free VPN for Android',
+    summary:
+     'Fast VPN for streaming, torrenting and unblock all websites. 7-day free trial.',
+    developer: 'KeepSolid Inc',
+    developerId: '8251855146399047359',
+    icon:
+     '//lh3.googleusercontent.com/BHJCVFI-ralxc5Rct2iTYqGEP4DSFXW95_73DNghjgFW0BSbzJb4zSedjQOinKA2Ee_z=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vmkoom.wifimap.connection.hotspot.wifianalyzer.password.anywhere',
+    appId:
+     'com.vmkoom.wifimap.connection.hotspot.wifianalyzer.password.anywhere',
+    title: 'Free Wifi Connection Anywhere & Mobile Hotspot',
+    summary:
+     'WIFI Connect for Find, connect, manage wireless networks Portable Wifi Hotspot',
+    developer: '48 Dev Studio',
+    developerId: '48+Dev+Studio',
+    icon:
+     '//lh3.googleusercontent.com/qgdqqbbqPQ4kGhZ7IXg56cxrysqU36FTG_WvBg8Do_r6O2-KY6KqgwW9SQpNQmqWoWo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nezdroid.internetspeedmaster',
+    appId: 'com.nezdroid.internetspeedmaster',
+    title: 'Internet Speed Master',
+    summary: 'Speed up and boost your connection',
+    developer: 'nez droid',
+    developerId: 'nez+droid',
+    icon:
+     '//lh5.ggpht.com/LDEfgONyYQzx-fQQbhCF_UR6JTjp217He7_Vza899n_AHFv3nf2vwmyTd8xZ3gNidA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.getmusicbee.musicbeewifisync',
+    appId: 'com.getmusicbee.musicbeewifisync',
+    title: 'MusicBee Wifi Sync (Unreleased)',
+    summary:
+     'Synchronizes files from your computer over a Wi-Fi connection',
+    developer: 'Steven Mayall',
+    developerId: 'Steven+Mayall',
+    icon:
+     '//lh3.googleusercontent.com/FHf-279TE8JoMOr3ps8JKV49IgvGnQD5qNdErHw8MZRW3KcKMtWAoO3TPZp9o-RQEby7=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kerala.anet',
+    appId: 'com.kerala.anet',
+    title: 'Advanced Networking | Offline Networking',
+    summary: 'This is an Advanced Networking Tutorials.',
+    developer: 'Kerala Android Applications',
+    developerId: 'Kerala+Android+Applications',
+    icon:
+     '//lh3.googleusercontent.com/IbXKbGaZ4o5SCx44og14fkSgXM2N7TV_fT883kwNWPxDU3el6GvvZ24uadTft5hJ3IE=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.co.vtopia.vtap',
+    appId: 'kr.co.vtopia.vtap',
+    title: 'VTOPIA VPN',
+    summary:
+     'Which it is a VPN service that supports fast fixed / dynamic IP connection is available in the environment.',
+    developer: 'VTOPIA',
+    developerId: 'VTOPIA',
+    icon:
+     '//lh3.googleusercontent.com/ewP63iaA-5Tt-d-t-TY7PyLscv7UCs-u1-UQMQ-eCjtpb-7y1_13L09BZW9ycwUpo40=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=linna.vpn.nigeria',
+    appId: 'linna.vpn.nigeria',
+    title: 'Nigeria VPN - Free•Fast•Unblock•Proxy',
+    summary: 'Unblock your favorite website',
+    developer: 'APPS LINNA NNR',
+    developerId: 'APPS+LINNA+NNR',
+    icon:
+     '//lh3.googleusercontent.com/vW11qAH8Ujb1nPnMBJWJ7xE8KWYA9iCMzTWdg5EItmepQjy4lPlGm5mJesSnovdFniw=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.free.proxy.unblock',
+    appId: 'com.vpn.free.proxy.unblock',
+    title: 'Storm VPN-free unlimited VPN& WIFI privacy secure',
+    summary:
+     'Storm VPN proxy offers you a free  access to get info without privacy revealed.',
+    developer: 'Free VPN Go',
+    developerId: 'Free+VPN+Go',
+    icon:
+     '//lh3.googleusercontent.com/0KXjHK9TahoJdW0XwRa50DL4tRRvkfvuDQB37oasIqfPR3xDxnIThCMvvhqkmBGdu0s=w340',
+    score: 3.3,
+    scoreText: ' Rated 3.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creative.infotech.internetspeedmeter',
+    appId: 'com.creative.infotech.internetspeedmeter',
+    title: 'Internet Speed Meter Live',
+    summary:
+     'Live Internet Speed  Dow. And Up. Speed In Screen Lock And Notification Bar',
+    developer: 'Creative Infotech',
+    developerId: '8528911163188240129',
+    icon:
+     '//lh3.googleusercontent.com/BuII53J4BnCvjs40_XumxlTesb4YfQYPCFo7juk3oDML0IVAT54k_fiO7ifWn2EaSd4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

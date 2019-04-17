@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.rocket.tools.clean.antivirus.master',
+    appId: 'com.rocket.tools.clean.antivirus.master',
+    title: 'Antivirus Free 2019 - Scan & Remove Virus, Cleaner',
+    summary:
+     'Mobile Security with Antivirus, Virus cleaner, Phone cleaner, AppLock.',
+    developer: 'Hyper Speed',
+    developerId: '7702189469562675193',
+    icon:
+     '//lh3.googleusercontent.com/DtoMiG4PsV_O6uYz9EHPU4fUnB86lWLLYIxDQ7FuuGTE50vHSI9WaHCrJVb_sdNF42U=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=cn.xender',
+    appId: 'cn.xender',
+    title: 'Share Music & Transfer Files - Xender',
+    summary: '#1 Transfer Tool! Zero Data Usage! Real Fast!',
+    developer: 'Xender Team',
+    developerId: 'Xender+Team',
+    icon:
+     '//lh3.googleusercontent.com/kxUkPDFfl1J6lV_sXy_ZuSdMKw9ug4CPJABhVt-5s_2jLXv4iW2Purl89EyIo6WGk_I=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.microsoft.office.word',
+    appId: 'com.microsoft.office.word',
+    title: 'Microsoft Word: Write, Edit & Share Docs on the Go',
+    summary:
+     'Powerful mobile writing app. Use Office to easily create, share & edit documents',
+    developer: 'Microsoft Corporation',
+    developerId: '6720847872553662727',
+    icon:
+     '//lh3.ggpht.com/j6aNgkpGRXp9PEinADFoSkyfup46-6Rb83bS41lfQC_Tc2qg96zQ_aqZcyiaV3M-Ai4=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.transsion.hilauncher',
+    appId: 'com.transsion.hilauncher',
+    title: 'HiOS Launcher - 2019Wallpaper, Theme, Cool,Smart',
+    summary:
+     'HiOS official LauncherMassive wallpapers and themesIntelligent sorting icons',
+    developer: 'Shalltry Group',
+    developerId: 'Shalltry+Group',
+    icon:
+     '//lh3.googleusercontent.com/gaisLBWT3BqgOkwtQwtp2qb7O81_wSggQJShMJ5YlSu2ZE06U_3hhTEVARi5AWvjdQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smule.singandroid',
+    appId: 'com.smule.singandroid',
+    title: 'Smule - The #1 Singing App',
+    summary:
+     'Enjoy karaoke on your phone. Sing karaoke with top artists & friends!',
+    developer: 'Smule',
+    developerId: 'Smule',
+    icon:
+     '//lh3.googleusercontent.com/wXgP-TP1RMD2g3Eyv725lmwDlv-qo6gd4TadAR-u4COAODUJi4uNTM2EnqwPflLdNg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.videolan.vlc',
+    appId: 'org.videolan.vlc',
+    title: 'VLC for Android',
+    summary:
+     'VLC for Android is the best open source video and music player, fast and easy!',
+    developer: 'Videolabs',
+    developerId: '6364851808230428105',
+    icon:
+     '//lh3.ggpht.com/8BDSUv0P-kr9Kik7weOSet4Au_BlBpM0SmM8dUDdYQOceErGCLroJlhVoSL7cPP14YE=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=kik.android',
+    appId: 'kik.android',
+    title: 'Kik',
+    summary: 'Connect with all your friends',
+    developer: 'Kik Interactive',
+    developerId: 'Kik+Interactive',
+    icon:
+     '//lh3.googleusercontent.com/eM5gWdpF7jihE9GmI5xeexqQzCJJg9X91ctpm4yw7XkXKapJgS4ERyV4X_g5tW4fjVYo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.vector',
+    appId: 'com.nekki.vector',
+    title: 'Vector',
+    summary:
+     'The best parkour-inspired action game! Vector lets you break free and run!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.ggpht.com/xmS71FxyVML5KIdYCZXd8R5eSbEQFiLsUEq-qe9CLPm7Sy-CdCOYcXkPgdVPT3_ZQWI=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.kms.free',
+    appId: 'com.kms.free',
+    title: 'Kaspersky Mobile Antivirus: AppLock & Web Security',
+    summary:
+     '🚀 Free Android antivirus to remove viruses and protect data privacy 🚀',
+    developer: 'Kaspersky Lab',
+    developerId: '4802704994144789464',
+    icon:
+     '//lh3.googleusercontent.com/mXybE3eeMDBvsQp2hSNza-P9O6mpbSRQEu_GJpuBoHoTpNQdgzC_Kww1Wm_EL0RDVwM=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.truecaller',
+    appId: 'com.truecaller',
+    title: 'Truecaller: Caller ID, spam blocking & call record',
+    summary:
+     'Identify unknown calls, block spam calls and SMS, and record important calls.',
+    developer: 'True Software Scandinavia AB',
+    developerId: '5383913004303935162',
+    icon:
+     '//lh3.googleusercontent.com/sRmOaGKtn9ByTyHyEjPHLOqcgSdROfqiF7-q3P0B_8AkPywuZm-CDt1pX9z8Oob4Y3Od=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=smart.calculator.gallerylock',
+    appId: 'smart.calculator.gallerylock',
+    title: 'Photo,Video Locker-Calculator',
+    summary:
+     'Keep Safe and Hide Pictures, Videos and Lock apps behind Calculator!',
+    developer: 'Photo and video applications',
+    developerId: 'Photo+and+video+applications',
+    icon:
+     '//lh3.googleusercontent.com/Uw9PEWK_wbjphGgBpLkT3nsaNYyHRc9tFwiqlUW1O2tQc4ajMjs_T3dH1g71SRw4UA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leo.appmaster',
+    appId: 'com.leo.appmaster',
+    title: 'Private Zone - AppLock, Video & Photo Vault',
+    summary:
+     '#1 Privacy Guard. Hide apps, hide photos, hide videos. Lock app, Lock screen.',
+    developer: 'Leomaster(AppLock & Privacy)',
+    developerId: '7779055847293676395',
+    icon:
+     '//lh3.googleusercontent.com/guNYlEwf6kskVidkTiBUJ_14VeX54P3dYAvhdAIAHJAeOWbhFXkJMRXtddK7bI9_0Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.jaumo',
+    appId: 'com.jaumo',
+    title: 'Jaumo Dating, Flirt & Live Video',
+    summary:
+     '#1 Dating Experience. Chat & Flirt. 30 Million Singles. 150000 new every day.',
+    developer: 'Jaumo',
+    developerId: '6485779010633223428',
+    icon:
+     '//lh3.googleusercontent.com/S9JkhygmGaUkqlXtmI882ZngxZiO9Y3S8zpQ58d2945dzG_tqhlD3G1XqXyOYJh2cdg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=media.music.musicplayer',
+    appId: 'media.music.musicplayer',
+    title: 'Music Player - Audio Player',
+    summary:
+     'Free download music player - audio player, equalizer, bass boost, sound changer',
+    developer: 'Mobile_V5',
+    developerId: 'Mobile_V5',
+    icon:
+     '//lh3.googleusercontent.com/UYzcJ0QNcyrjIgUrIbjJ432eApE7JerKtyIp97ph8iZiEKWXwGQgm3MI58ywWLnnFgcP=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.netqin.ps',
+    appId: 'com.netqin.ps',
+    title: 'Vault-Hide Pics & Videos,App Lock, Free backup',
+    summary:
+     'Hide pictures, videos; lock app; private browser; cloud backup💋',
+    developer: 'NQ Mobile Security (NYSE:NQ)',
+    developerId: '7247166036233706422',
+    icon:
+     '//lh4.ggpht.com/_lV9mTAwnUQUCdvbv2cAvhUhDrCNv2oVsQqpJI-AOAhOhjMl5hxO4I0kOz7dqqjIYw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.android.chrome',
+    appId: 'com.android.chrome',
+    title: 'Google Chrome: Fast & Secure',
+    summary:
+     'Fast, simple, and secure. Google Chrome browser for Android phones and tablets.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/nYhPnY2I-e9rpqnid9u9aAODz4C04OycEGxqHG5vxFnA35OGmLMrrUmhM9eaHKJ7liB-=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.apps.photos',
+    appId: 'com.google.android.apps.photos',
+    title: 'Google Photos',
+    summary:
+     'A smarter gallery by Google, with free unlimited photo and video storage.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/TI_HoC8FifuhDdZVRsZOSeT95kumLd0CU_yhdBCG8HuIPR3Jnh962Q72NnWsz425lg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.star.mobile.video',
+    appId: 'com.star.mobile.video',
+    title: 'StarTimes ON - Video & Live TV & Football',
+    summary:
+     'Nollywood & African TV & catch up, movies & series & shows & Euro football',
+    developer: 'StarTimes Group',
+    developerId: 'StarTimes+Group',
+    icon:
+     '//lh3.googleusercontent.com/gd5EvYvUPICvduAeVk5Eb_KnmV_50ozB4Jiiu18RLs617YKldypazDLSP4g-nqP-_d5p=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=iflix.play',
+    appId: 'iflix.play',
+    title: 'iflix',
+    summary:
+     'iflix - Stream or download from a massive library of shows & movies.',
+    developer: 'iflix Sdn Bhd',
+    developerId: 'iflix+Sdn+Bhd',
+    icon:
+     '//lh3.googleusercontent.com/eA-tBkSEB_YinDrnVvt7xIK_9zkPl0xCgw2jAi-AvgwjtKEdmOfJ7sSz3izHwaMBzA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

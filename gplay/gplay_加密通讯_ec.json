@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.onelab.securecomm',
+    appId: 'com.onelab.securecomm',
+    title: 'Letstalk IM',
+    summary: 'Secured Private Communication',
+    developer: 'Letstalk Technology Limited',
+    developerId: 'Letstalk+Technology+Limited',
+    icon:
+     '//lh3.googleusercontent.com/lWDecY_vFcvXNs2HDhAD6oi6c-qLvqb7MbN87mL7epwYo2GfcKSJnPvWLLvRmQOIBTL_=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=im.metoo',
+    appId: 'im.metoo',
+    title: '密兔(metoo)—社交 聊天 工作 与全球华人安全交流',
+    summary:
+     'Mi Rabbit is the next generation instant messaging app that focuses on secure chat, secure socialization, and high-intensity privacy protection.',
+    developer: 'MeToo IM',
+    developerId: 'MeToo+IM',
+    icon:
+     '//lh3.googleusercontent.com/jxl_53LLEN_k6SqswnVPmw42Kpola3wnQTj7VIiDKQ_7FTLHvL6Qnxh8pugeD63w_kY=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.gramunofficial',
+    appId: 'ru.gramunofficial',
+    title: 'Русский Телеграмм (unofficial)',
+    summary:
+     'This unofficial Russian version Telegram without advertising and payment.',
+    developer: 'Bounnex',
+    developerId: 'Bounnex',
+    icon:
+     '//lh3.googleusercontent.com/4CnApYhRj6ExUtnOYDXOJ-YqiDmCoCeDgvmozCxnSwIKNqAiZaRDs-lw0PaWZtAyVQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.messenger',
+    appId: 'org.telegram.messenger',
+    title: 'Telegram',
+    summary:
+     'Telegram is a messaging app with a focus on speed and security.',
+    developer: 'Telegram FZ-LLC',
+    developerId: 'Telegram+FZ-LLC',
+    icon:
+     '//lh3.googleusercontent.com/jVXglyWWL5J2y1vRN-7Jy3_ozvvZc4w5486IAkbAIrWcNN_vn7YuIvhc1JDtGq43BqGl=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.eSandesh.messenger',
+    appId: 'org.eSandesh.messenger',
+    title: 'eSandesh',
+    summary:
+     'eSandesh is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'eSandesh',
+    developerId: 'eSandesh',
+    icon:
+     '//lh3.googleusercontent.com/9vbcY7BMWw-KPTlVLcabMmP9UJQVn3eiiS8f7hZw2CtTDWdPCsyTdgh8pQv-3HbxGCU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wLovogrammessenger_8830034',
+    appId: 'com.wLovogrammessenger_8830034',
+    title: 'Lovogram Messenger',
+    summary:
+     'Lovogram is a messaging app with a focus on security and speed',
+    developer: 'Jarkaz Ibrahim',
+    developerId: 'Jarkaz+Ibrahim',
+    icon:
+     '//lh3.googleusercontent.com/YQqe7p7dSINjiJ4EWSlbWp6WAHIaelNwx_q0Rl9onhrpMr01IpvdLvDQ9KRum8RsspY=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.SMAPP',
+    appId: 'com.SMAPP',
+    title: 'Signal Plus Messenger (Unofficial)',
+    summary:
+     'Signal makes privacy simple. Send text, photos, and group messages for free!',
+    developer: 'SMAPP. Inc',
+    developerId: '8056939003961992454',
+    icon:
+     '//lh3.googleusercontent.com/Az8O5nCD6p7cIlby6F3WOIZOBp76Y-s7ft3QzIzxRqWmhgN1xvAwsugM_b9XQK43XRQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.telepost.msg',
+    appId: 'ru.telepost.msg',
+    title: 'Телепост',
+    summary:
+     'Telep - messenger-based API telegram. Improved user interface and functions',
+    developer: 'TelegrApp',
+    developerId: 'TelegrApp',
+    icon:
+     '//lh3.googleusercontent.com/OqP0BfwS_dxKPfJX2T8XE65tudKfPahiX_9fOCzktlL4QEPvJqFi3yqpPrO9M_lZ3A=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.thunderdog.challegram',
+    appId: 'org.thunderdog.challegram',
+    title: 'Telegram X',
+    summary:
+     'Instant messaging — simple, fast, secure, and synced across all your devices.',
+    developer: 'Telegram LLC',
+    developerId: 'Telegram+LLC',
+    icon:
+     '//lh3.googleusercontent.com/Zmol9WVk6mjWE38P6wc3Aaz9mQn-VFhviKllLP4kiplfW4xIEjgYmKUalZcFsOOnDQ=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.cool.telegra.messenger',
+    appId: 'org.cool.telegra.messenger',
+    title: 'Plus Messenger 2019 - Advance Telegram\'s Features',
+    summary: 'Plus Messenger 2019 - Advance Telegram\'s Features',
+    developer: '',
+    developerId: undefined,
+    icon:
+     '//lh3.googleusercontent.com/rWLK_fTitCRK_ny2whzID57wJBEYK5U70Naq2mmE9b6veOACFuC-YwsVD435GsjD_Ds=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nodeads.messenger',
+    appId: 'com.nodeads.messenger',
+    title: 'Hola Messenger',
+    summary:
+     'Unofficial Telegram client with the possibility of live broadcasts',
+    developer: 'Node ADS',
+    developerId: 'Node+ADS',
+    icon:
+     '//lh3.googleusercontent.com/rclluN88MLSF3Z1Mtxj8uOgKB7i67FmFApDuzoEV7nIEpie7_ZigGikAPCr30yIkLMg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.russiatelegram',
+    appId: 'com.russiatelegram',
+    title: 'Pусский Tелеграмм - неофициальная',
+    summary:
+     'unofficial version (telegrams) / The UNOFFICIAL version of the telegram.',
+    developer: 'wizardsoft',
+    developerId: 'wizardsoft',
+    icon:
+     '//lh3.googleusercontent.com/YWTrwSJV7uStVdD64mrlVXcpg4_DIwJzn0VQ9IQt7lvhhUoJEZkONB2jXMS4FFPpVSqf=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dstukalov.watelegramstickers',
+    appId: 'com.dstukalov.watelegramstickers',
+    title: 'Unofficial telegram stickers for WhatsApp',
+    summary: 'Use telegram sticker packs in your WhatsApp chats',
+    developer: 'Stukalov',
+    developerId: 'Stukalov',
+    icon:
+     '//lh3.googleusercontent.com/NLTYevkA9i3uZvVi9qp6PW0lDRuYi9xMK9pjuJTel0R2rcZvPrM59sK3Za2lJzm0s4Y=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.wMessengerTR_8493846',
+    appId: 'com.wMessengerTR_8493846',
+    title: 'Courier 2019',
+    summary: 'Pure instant messaging',
+    developer: 'uygulamagelistirici',
+    developerId: 'uygulamagelistirici',
+    icon:
+     '//lh3.googleusercontent.com/MyVFWAFkXdBDd0ms_A_7L8lCuobKr7e2HKfiMgr0xw93JMDWSZpgmW_7dRxXB_4BxVw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=telegram.messenger.elegram',
+    appId: 'telegram.messenger.elegram',
+    title: 'Elegram - Unofficial Telegram',
+    summary:
+     '¸¸.* ⓔⓛⓔⓖⓡⓐⓜ *.¸¸Advanced anti-filter unofficial Telegram, with many features',
+    developer: 'One Billion',
+    developerId: 'One+Billion',
+    icon:
+     '//lh3.googleusercontent.com/PWIiwDWR_n2i_CnNUjhSG5ljBTwAKdYG9V9Rcx7C35IX8exbkqblNLTFiTYXaxGBifmh=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ir.ilmili.telegraph',
+    appId: 'ir.ilmili.telegraph',
+    title: 'Telegraph Messenger',
+    summary:
+     'Telegraph is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'ILMILI',
+    developerId: 'ILMILI',
+    icon:
+     '//lh3.googleusercontent.com/XAOaMieo1cc7NM2GSKpW-p9ZaztS7gE8tdRpwuNHDSS-9VTI-3IgTEYIUKyRLghxFg8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gulugulu.app',
+    appId: 'com.gulugulu.app',
+    title: 'GULUGULU',
+    summary:
+     'GULUGULU-Unrivalled Vector Encryption Communication Application',
+    developer: 'NEW BLOCK TECHNOLOGY SDN. BHD.',
+    developerId: 'NEW+BLOCK+TECHNOLOGY+SDN.+BHD.',
+    icon:
+     '//lh3.googleusercontent.com/QpEfBl5CjdLpS5-7MHADyjLgANiuzNJBc18UJkNdNYYoitVy62sfTeU0LcskP1HRjpw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegramnova.messenger',
+    appId: 'org.telegramnova.messenger',
+    title: 'TeleNova ✪',
+    summary: 'More than 200 million active users in four years.',
+    developer: 'ЧП "New Ideas"',
+    developerId: '%D0%A7%D0%9F+%22New+Ideas%22',
+    icon:
+     '//lh3.googleusercontent.com/YDasCAc31StYgJS8_ebrVhRpiH569I7NeeLtSMMBZLEVh5xyfmSzKXeVIDlRF-cF0cc=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.telegram.BifToGram',
+    appId: 'org.telegram.BifToGram',
+    title: 'BGram',
+    summary:
+     'BGram is an UNOFFICIAL messaging app that uses Telegram\'s API',
+    developer: 'Biftor',
+    developerId: 'Biftor',
+    icon:
+     '//lh3.googleusercontent.com/D2RuGE4XY2QcUiibe2lHd2wTcRcyOEaTgdI7Rtl_NwdzmtD6P_qz4OPLd6znnJOw2Fk=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=se.kanal5play',
+    appId: 'se.kanal5play',
+    title: 'Dplay',
+    summary:
+     'With Dplay you can stream content from eleven of Sweden\'s most popular channels.',
+    developer: 'Discovery Digital Apps',
+    developerId: 'Discovery+Digital+Apps',
+    icon:
+     '//lh3.googleusercontent.com/y5oTe5YML3Wh36ieWucd5AcW7JwCAhvuBcPJIfSX92uopILvzN-ooemMezizk1-GFwk=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.prankster.app',
+    appId: 'com.prankster.app',
+    title: 'Prankster Busring Live',
+    summary:
+     'Busring in real time with phrases recorded by Swedish humor elite!',
+    developer: 'Net 2-Net Group',
+    developerId: 'Net+2-Net+Group',
+    icon:
+     '//lh3.googleusercontent.com/OzwQP8_beMjvJ1uRdha2h5VU4O5CtkD_YrdM6ajbUJ6GHO6O0T1QnHXEeXvzipNbtQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.ljungh.lexin',
+    appId: 'net.ljungh.lexin',
+    title: 'Lexin Lexikon',
+    summary: 'Facilitate the use of Lexin (http://lexin2.nada.kth.se).',
+    developer: 'Kenneth Ljungh',
+    developerId: 'Kenneth+Ljungh',
+    icon:
+     '//lh3.googleusercontent.com/fkiHXQutHWeYIzva6JCfbH0AT1sUa2hrqefIVmWotMDTJFprywiQNkpuBrx7UngP8W4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=se.iis.bbk',
+    appId: 'se.iis.bbk',
+    title: 'Bredbandskollen',
+    summary: 'Bredbandskollen lets you measure your internet speed',
+    developer: 'Internetstiftelsen i Sverige',
+    developerId: 'Internetstiftelsen+i+Sverige',
+    icon:
+     '//lh3.googleusercontent.com/SwrOXX3zhTYdPWdjM1CI1dNa8c64uhYpW_3-p0FImOo4stccGxZgr_4jVYHVOJXQvT4=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Axiellmedia.LibraryApp',
+    appId: 'com.Axiellmedia.LibraryApp',
+    title: 'Biblio',
+    summary: 'The library\'s all digital books in one app',
+    developer: 'Axiell Media AB',
+    developerId: 'Axiell+Media+AB',
+    icon:
+     '//lh3.googleusercontent.com/MnKj-COrMN0a825ECWbaYZg50ZCklNvgoX8HLmmvJok1Gjtlls3uv04I_7sq-tUN6Gw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.mecenat.app',
+    appId: 'se.mecenat.app',
+    title: 'Mecenat',
+    summary:
+     'Your Mecenat card and thousands of student discounts in your pocket!',
+    developer: 'Mecenat',
+    developerId: 'Mecenat',
+    icon:
+     '//lh3.googleusercontent.com/kkzIpSrbPzusWfoR9gvzRvj4ZJIvPawCpbDKfaA1MnMKwNt3bVag0xpWZlpD1R08vxDJ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.myklarnamobile',
+    appId: 'com.myklarnamobile',
+    title: 'Klarna - Smoooth Shopping',
+    summary: 'Shopping should be fun, easy and smoooth.',
+    developer: 'Klarna Bank AB (publ)',
+    developerId: 'Klarna+Bank+AB+(publ)',
+    icon:
+     '//lh3.googleusercontent.com/nwSURVwjZ2GzNtgPXx-VowWukHBf281miWZxxPwBcxh0zSzTl5ELPUnjCTZ77Vey1Fg=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.nordea.mobilebank',
+    appId: 'se.nordea.mobilebank',
+    title: 'Nordea Mobile - Sweden',
+    summary:
+     'Nordea’s  app for convenient banking services in your mobile phone.',
+    developer: 'Nordea Bank Abp',
+    developerId: 'Nordea+Bank+Abp',
+    icon:
+     '//lh3.googleusercontent.com/MGp50teWUl4F9McEjdNraq86BeUPLw_qqIosDMlzVo-KqsY0LpjsK9FpY1WH4jhR6fo=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.svt.sprakplay',
+    appId: 'se.svt.sprakplay',
+    title: 'SVT Språkplay',
+    summary:
+     'Watch SVT’s programs with selectable subtitles and get language support',
+    developer: 'Sveriges Television AB',
+    developerId: 'Sveriges+Television+AB',
+    icon:
+     '//lh3.googleusercontent.com/CQDhL14--0M_OrOAjmiPkuIQ-YLa8ZrlBYeELJK5f2PkSeTWTBBZv_zk-wjEpMDPEjFa=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.flarie.app',
+    appId: 'com.flarie.app',
+    title: 'Flarie - Play and win',
+    summary: 'Play games and win prizes',
+    developer: 'Flarie',
+    developerId: 'Flarie',
+    icon:
+     '//lh3.googleusercontent.com/Cl8NEM0NiI2zC2iFAFHwCcBC-1I1-KPUSJsJkjUHyCOHVWe3hFhGIYWGjCdrpB0qcnw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik',
+    appId: 'com.vaesttrafik.vaesttrafik',
+    title: 'Västtrafik To Go',
+    summary:
+     'Buy your single and period tickets in our new app Västtrafik To Go.',
+    developer: 'Västtrafik',
+    developerId: 'V%C3%A4sttrafik',
+    icon:
+     '//lh3.googleusercontent.com/lfa19qYBnSRHuqt9xTFUAAAPUnPMrZkEilN53qV279Yd2Ne4ZPn9b-pNGVVo43p9luQ=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=svt.se.barnkanalen',
+    appId: 'svt.se.barnkanalen',
+    title: 'SVT Barnkanalen',
+    summary:
+     'With Kids Channel app, you can see the SVT children\'s programs when and where it suits you best.',
+    developer: 'Sveriges Television AB',
+    developerId: 'Sveriges+Television+AB',
+    icon:
+     '//lh3.googleusercontent.com/Ri162xni4XWIrNPMFsL8xOfo1ykhf_dpo0BAh7LZoiBI8DKAiARMviMW8D01AftcHw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ordbok.lexin.offline',
+    appId: 'ordbok.lexin.offline',
+    title: 'Lexin Svensk Lexikon Ordbok',
+    summary:
+     'Lexin - offline dictionary with 20 languages!People Anglo-Swedish dictionary is with!',
+    developer: 'Swedish Language 🇸🇪',
+    developerId: 'Swedish+Language+%F0%9F%87%B8%F0%9F%87%AA',
+    icon:
+     '//lh3.googleusercontent.com/SVu5OnpiACZUC1NdpzoPkA2Xhfh5mMZRkEm6VHy3b9fdzVMjrJeQIW0PV-7UD_o1zY8=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dvloper.slendrinacellarfree',
+    appId: 'com.dvloper.slendrinacellarfree',
+    title: 'Slendrina:The Cellar (Free)',
+    summary: 'Slender like Horror game',
+    developer: 'DVloper',
+    developerId: 'DVloper',
+    icon:
+     '//lh3.googleusercontent.com/SJYjLpRMxHRlvOFi1SlTSKhsJaLIRIlKfdZZbuJl2uD9qwCl45RvItftgzPo1pRElVk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.folktandvarden.rockamunnen',
+    appId: 'se.folktandvarden.rockamunnen',
+    title: 'Rocka Munnen',
+    summary:
+     'Rock mouth makes brushing fun for both children and parents!',
+    developer: 'Folktandvården Sverige',
+    developerId: 'Folktandv%C3%A5rden+Sverige',
+    icon:
+     '//lh3.googleusercontent.com/XP-SEGSzInNx_NdJP7U-ttXyaJhZhVt3iDGqKj9sS5eqZcvbSqTlb8xldl5jKO4LIg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.appcorn.Blocket',
+    appId: 'se.appcorn.Blocket',
+    title: 'Blocket - Köp & sälj begagnat',
+    summary: 'The block - Buy and sell used stuff',
+    developer: 'Blocket',
+    developerId: 'Blocket',
+    icon:
+     '//lh3.googleusercontent.com/KLV7EZyzxdom4Se_88LsfseD-w5JPcEo-tXZx8kRDGVxn53ms-B4LIWJ5aqABcBHkGUk=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=se.viento.pinchos',
+    appId: 'se.viento.pinchos',
+    title: 'Pinchos - The app restaurant',
+    summary:
+     'A tapas generating app? Of course! Collect bonus at Pinchos through the app.',
+    developer: 'Pinchos',
+    developerId: 'Pinchos',
+    icon:
+     '//lh3.googleusercontent.com/wPF2TH5J5PvKF45aM19WAjTksChD_RKWjln0l38a0E-B1Yx7YnfSknTZD46ThauUqoA=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qliro.qliro',
+    appId: 'com.qliro.qliro',
+    title: 'Qliro – Borrow, Save, Pay',
+    summary:
+     'Forget about long bank and OCR-numbers, pay directly in the app with BankID.',
+    developer: 'Qliro',
+    developerId: 'Qliro',
+    icon:
+     '//lh3.googleusercontent.com/UTTwpUkffVoyzC0C6GMFaiZtwAvnuAcF9YSON-pzD-xLpWTGzhGyIo2jxkhYkwPLE1BO=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bankid.bus',
+    appId: 'com.bankid.bus',
+    title: 'BankID säkerhetsapp',
+    summary:
+     'Identify yourself with Mobile BankID on your mobile phone or tablet.',
+    developer: 'Finansiell ID-Teknik BID AB',
+    developerId: 'Finansiell+ID-Teknik+BID+AB',
+    icon:
+     'https://lh6.ggpht.com/QGeOZgi3N6keTZiFoEgEI60crCX2apUv6Tne-iqhLLIZ5J9mg5AzA6VOae6z6RIOZA=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

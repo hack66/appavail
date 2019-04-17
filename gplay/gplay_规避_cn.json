@@ -1,0 +1,275 @@
+[ { url: 'https://play.google.com/store/apps/details?id=com.psiphon3',
+    appId: 'com.psiphon3',
+    title: 'Psiphon',
+    summary: 'Access Everything on the Open Internet with Psiphon',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/0oKVc23bR7thrpvWt9EGMlBauWyM-zQDaE2xtY8dZ4r1mdqqUJm5jFPyIHd0ZZ-4Cw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.luojilab.player',
+    appId: 'com.luojilab.player',
+    title: '得到—知识就在得到',
+    summary: 'Building a life together university',
+    developer: '得到',
+    developerId: '%E5%BE%97%E5%88%B0',
+    icon:
+     '//lh3.googleusercontent.com/rCBQyXACuQgEAW-wI-JAATu8siN4MyQrQMOfWtQrMUg21FuG5YPHnEcxfw6LdU-tP74=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.c3ntro.mobileoffice.android',
+    appId: 'com.c3ntro.mobileoffice.android',
+    title: 'C3ntro Mobile Office',
+    summary:
+     'C3ntro Mobile Office is a simple non-VoIP client end-users That Enables',
+    developer: 'C3NTRO TELECOM',
+    developerId: 'C3NTRO+TELECOM',
+    icon:
+     '//lh3.googleusercontent.com/yKa9gl4BJeCC47gn3CZ8JQda1p6EFf2DrURlncAgZWMwLKkVjZR8LthAXCSNBkPj4w=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.riegl.vziseries',
+    appId: 'com.riegl.vziseries',
+    title: 'RIEGL VZ-i Series',
+    summary:
+     'Control your RIEGL VZ-i Series laser scanner system remotely',
+    developer: 'RIEGL International',
+    developerId: 'RIEGL+International',
+    icon:
+     '//lh3.googleusercontent.com/EmrNsB1oHdg9iyORLayv69Xjrfp0YHalPOmiKHZOmR1xfl0P70wrphxzkSIiAH1WP2s=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pausedrinkapp',
+    appId: 'com.pausedrinkapp',
+    title: 'Pause...drink! drinking game.',
+    summary:
+     'Pause...drink! is the drinking game to get your party started.',
+    developer: 'Philip Sole',
+    developerId: '7889235613603720774',
+    icon:
+     '//lh3.googleusercontent.com/AGlEGc5JZv9jISsGdLRPucxnaupq9FtTL-yl1pEewQglMk-TAb9wrT7_QkOoin9kYm0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.medawaresolutions.mvivapro',
+    appId: 'com.medawaresolutions.mvivapro',
+    title: 'mViva For Providers',
+    summary:
+     'mViva® For Providers mHealth, teleHealth Platform by MedAware Solutions',
+    developer: 'MedAware Solutions, Inc.',
+    developerId: 'MedAware+Solutions,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/Zasj0d5_NSRjtTG5Js2Pu_LuDbOgDYuEIeRwQmfB8zm1hpI-lYKzaZFTz7RrcH-8gg=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.co.genova.posmo',
+    appId: 'jp.co.genova.posmo',
+    title: 'POSMO',
+    summary:
+     'Those who use during, is an application that allows you to post an article from Android phone, and you can post photos of GENOVA CMS product is "POSMO" app.',
+    developer: '株式会社GENOVA',
+    developerId: '%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEGENOVA',
+    icon:
+     '//lh6.ggpht.com/G55T5OFXAGX-VYOnfVkp_DAleNqz_edUvsWk1l9mAv02D0O_JAeb3jmbu2EtNf53NTk=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sec.free.vpn',
+    appId: 'com.sec.free.vpn',
+    title: 'Secure VPN - Unlimited Free & Super VPN Proxy',
+    summary:
+     'Unlimited free secure VPN, Unblock sites, protect privacy, WiFi hostpot security',
+    developer: 'SEC VPN',
+    developerId: '6775855609088963020',
+    icon:
+     '//lh3.googleusercontent.com/zI1ytRPQBsXpbuMM-cGdx0XQdNCutEHPIQ2M71Oksos_4g4cDdeXd9ENHp6IrX5hww8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=io.github.naco_siren.gmgard',
+    appId: 'io.github.naco_siren.gmgard',
+    title: 'GmGard - Gentlemen\'s Garden',
+    summary:
+     'Asgard for the gods, Midgard for the humans, and GmGard for the gentlemen!',
+    developer: 'Naco Siren',
+    developerId: 'Naco+Siren',
+    icon:
+     '//lh3.googleusercontent.com/sXP96_8FAL4Y41F2dZ7LlVrVMwu47xyfmZl_sLE6NAEIIRiRjrxNprMqj4vTI6NhB6w=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rockstargames.rdr2app',
+    appId: 'com.rockstargames.rdr2app',
+    title: 'RDR2: Companion',
+    summary: 'The official companion app for Red Dead Redemption 2',
+    developer: 'Rockstar Games',
+    developerId: '7086639890153802127',
+    icon:
+     '//lh3.googleusercontent.com/GIqgehgXZ57R7Yz3enoaIzIp8IrXA42ymlHTPQ9EoYi_D0mGO26k6F-_7E7HjRlFmLk=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=admin.chicken.asuper.relieve_my_back_super',
+    appId: 'admin.chicken.asuper.relieve_my_back_super',
+    title: 'Relieve My Back',
+    summary:
+     'Please Do NOT install the app unless you have an invitation code!',
+    developer: 'RelieveMyBack',
+    developerId: 'RelieveMyBack',
+    icon:
+     '//lh3.googleusercontent.com/2AT5rooFh99CEmNktVY4xDJo9EHFui7ozEtYEunMStopNSJrGwWiiZJRLiDaJ5vCYA=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=in.nitishverma.nmaptutorial',
+    appId: 'in.nitishverma.nmaptutorial',
+    title: 'Nmap Tutorial Offline',
+    summary:
+     'This tutorial provides a entry level understanding of Nmap.',
+    developer: 'Nitish Kumar Verma',
+    developerId: 'Nitish+Kumar+Verma',
+    icon:
+     '//lh3.googleusercontent.com/nEYgVGHPk-ToanXYRHuSGPaf1dZoo3dRJZ09Q8sPjzNRbkQyHkiCZGcaFiIjr3OQ6hM=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chk.permanentclock',
+    appId: 'com.chk.permanentclock',
+    title: 'YACO - Important System Infos always visible',
+    summary:
+     'Important data (date/time, battery, GPS, data connection...) always in view!',
+    developer: 'Christian Kaiser',
+    developerId: 'Christian+Kaiser',
+    icon:
+     '//lh3.googleusercontent.com/ss32V3YJK1DsgNcEdAhtLtNTxWNfAHU-SopTwqYtzWuht75qKndyJz_64Xaj--Hdzk0=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]

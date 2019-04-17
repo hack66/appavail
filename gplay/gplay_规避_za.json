@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=nu.bi.moya',
+    appId: 'nu.bi.moya',
+    title: 'Moya Messenger #datafree',
+    summary:
+     'All-in-one #datafree messenger, content browser and live scores',
+    developer: 'bi.Nu',
+    developerId: 'bi.Nu',
+    icon:
+     '//lh3.googleusercontent.com/V5eQZqFBCkeUCof7h9smrhuzFLtrXR7Pj7d0ATB46BmS_6wpXQbsOmH2mGKblu338Rs=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=events.sportstake.sportstake.app',
+    appId: 'events.sportstake.sportstake.app',
+    title: 'Sportstake 13',
+    summary: 'Sportstake 13 fixtures. Sportstake 13 results.',
+    developer: '49\'s',
+    developerId: '49\'s',
+    icon:
+     '//lh3.googleusercontent.com/T_oK6tqfSQIptWVgMuYmyMsRpEedgTqmeDj_nYk2Ct8oGWp7hnkAlVCSecVqHcI06Q=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=co.za.smartgecko.Flitskaarte.free',
+    appId: 'co.za.smartgecko.Flitskaarte.free',
+    title: 'Free 500+ Afrikaans flitskaarte',
+    summary:
+     'Help you to assist your children to improve their words and the pronunciation',
+    developer: 'SMART GECKO SOFTWARE DEVELOPMENT (PTY) LTD',
+    developerId: 'SMART+GECKO+SOFTWARE+DEVELOPMENT+(PTY)+LTD',
+    icon:
+     '//lh3.googleusercontent.com/Ubnsbjg_CYxQXtT1nvxEmM4FbmjdHgcF1o5hwodb-SLKhXeS3ykjXJCXAsPBFFR0mQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ng.icilongo',
+    appId: 'com.ng.icilongo',
+    title: 'Icilongo Levangeli',
+    summary:
+     'A digital version of  the Christian hymnal, Icilongo Levangeli',
+    developer: 'Kazi Apps',
+    developerId: 'Kazi+Apps',
+    icon:
+     '//lh3.googleusercontent.com/HLu7DhCwx3jGTlrvg8mwmuzrqYa_KG7lCq1TU1Pbziz8muM6S1l0dmCSt2nO0jSBz-6P=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.barclays.absa.banking',
+    appId: 'com.barclays.absa.banking',
+    title: 'Absa Banking App',
+    summary:
+     'We continuously added even more features to your favourite banking app.',
+    developer: 'Absa Bank Limited.',
+    developerId: 'Absa+Bank+Limited.',
+    icon:
+     '//lh3.googleusercontent.com/TWniANGZ493FEtzEU5k7RE_zircyGmWpGZFyeC2YtcIm0Jtfa8Cwe6wFtcOAKkalsWM=w340',
+    score: 3.2,
+    scoreText: ' Rated 3.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.smargecko.rympies',
+    appId: 'com.smargecko.rympies',
+    title: '20 Kinderrympies in Afrikaans',
+    summary:
+     'The collection favorite nursery rhymes with colorful illustrations',
+    developer: 'SMART GECKO SOFTWARE DEVELOPMENT (PTY) LTD',
+    developerId: 'SMART+GECKO+SOFTWARE+DEVELOPMENT+(PTY)+LTD',
+    icon:
+     '//lh3.googleusercontent.com/IbHLilp7Ls_NXKVfHRSBTfNoNYx1xPMZjv7EihBZVQnfCUrRgqKfxIw1wJOro2Ug90w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom',
+    appId: 'com.ashwhale.sepush.eskom',
+    title: 'EskomSePush - Load Shedding App',
+    summary:
+     '"The best load shedding app"Get load shedding push notifications',
+    developer: 'Ashwhale',
+    developerId: 'Ashwhale',
+    icon:
+     '//lh3.googleusercontent.com/hLwwh3aghSRE-F95xJ8jgTwktG6EhXtH6bIKI_MY40i6p9WnxIx_uo4h006v5OlBjUZu=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ugen.co.za.thunee',
+    appId: 'ugen.co.za.thunee',
+    title: 'Thunee',
+    summary:
+     'Thunee is a popular trick-taking card game that originated in South Africa.',
+    developer: 'Ugen Govender',
+    developerId: 'Ugen+Govender',
+    icon:
+     '//lh3.googleusercontent.com/N5vPtMv6l2q9mbvtVN9vme7t272X003N1Aec5EiOS3LhUq761iE6gxawhUs7PIyPc0M=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=fasting.and.prayer',
+    appId: 'fasting.and.prayer',
+    title: 'FASTING AND PRAYER - 40 DAYS DEVOTIONAL',
+    summary:
+     'This app will help inspire and motivate you in your fasting and prayer goals.',
+    developer: 'Garden of Serenity',
+    developerId: 'Garden+of+Serenity',
+    icon:
+     '//lh3.googleusercontent.com/tGQ2Qdpkz-qWi2Y6IfYRtId8POj85qmRaeuHscmaEmSbkfH0-WSV9Msc-cC5SWIF6Vzo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=za.org.bmedia.apkliedboek',
+    appId: 'za.org.bmedia.apkliedboek',
+    title: 'APK Sangbundel',
+    summary:
+     'The songbook of the Afrikaanse Protestantse Kerk (South Africa)',
+    developer: 'Bybel-Media',
+    developerId: 'Bybel-Media',
+    icon:
+     '//lh3.googleusercontent.com/Qla0F_tm6GND-ugFsip9n9CLHyYGb57aZBFUOwR9ATZhYbHUFvp6z00qGeY-V1TQo31S=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dstvmobile.android',
+    appId: 'com.dstvmobile.android',
+    title: 'DStv Now',
+    summary:
+     'DStv Now is the home of DStv on the go! Watch live TV, DStv Catch Up and more 📺',
+    developer: 'MultiChoice Support Services (Pty) Ltd',
+    developerId: 'MultiChoice+Support+Services+(Pty)+Ltd',
+    icon:
+     '//lh3.googleusercontent.com/UwD-EGxY3QpUmys-YE-Tej8fpu3aPfPrUNuIQCrjyW7D04dcgs82dLtQ2Ei35Gn5ag=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=za.co.immedia.fabrik.izwi',
+    appId: 'za.co.immedia.fabrik.izwi',
+    title: 'Izwi98FM',
+    summary:
+     'Enjoy live-streaming, podcasts, news & chats on the Izwi LoMzansi app!',
+    developer: 'immedia',
+    developerId: 'immedia',
+    icon:
+     '//lh3.googleusercontent.com/cmQpZO8nxyD2G4lWVLE4dyibptVU4dRbCWsn7oxtaCIFVSRNG9wFWYJKbjtqKtP517g=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=za.co.adt.securehome.android',
+    appId: 'za.co.adt.securehome.android',
+    title: 'Fidelity ADT Secure Home',
+    summary:
+     'Fidelity ADT Secure Home App, remote control of your home & business security.',
+    developer: 'Inhep Digital Security',
+    developerId: 'Inhep+Digital+Security',
+    icon:
+     '//lh3.googleusercontent.com/HIPvOQeJyUoRTAHXkcFAtnwYBAHW8s4dCBRTS7oG7XnP2BPwHUleDm4j6bkJUycRGRc=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=capitecbank.remote.prd',
+    appId: 'capitecbank.remote.prd',
+    title: 'Capitec Remote Banking',
+    summary:
+     'Capitec Remote Banking is a secure cellphone app for Capitec Bank clients.',
+    developer: 'Capitec Bank',
+    developerId: 'Capitec+Bank',
+    icon:
+     '//lh3.googleusercontent.com/4aiLhkXiqGLjHp2BsJGsJoQLU3zWeVbZGheXYWIP92dbvlT-4NHO_Je0q-wrg7kF_Cys=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.slavesoftruth.amagama',
+    appId: 'com.slavesoftruth.amagama',
+    title: 'Amagama Okuhlabelela',
+    summary: 'This is the official Amagama Okuhlabelela, a Zulu Hymnal.',
+    developer: 'Rofhiwa Ramphabana',
+    developerId: 'Rofhiwa+Ramphabana',
+    icon:
+     '//lh3.googleusercontent.com/GPmpWjvxUMfO_gaMNVGDAEqItjYu6X3Wgy4nUaMU2MN8KeZdN9eAmpQWuDldR1uBEKc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nhlakaniphonkosi.k53southafricam',
+    appId: 'com.nhlakaniphonkosi.k53southafricam',
+    title: 'K53 South Africa',
+    summary:
+     'K53 South Africa is the most popular FREE Learner’s license app in South Africa.',
+    developer: 'K53 South Africa',
+    developerId: 'K53+South+Africa',
+    icon:
+     '//lh3.googleusercontent.com/QYe6X6FRVtXpklsPuPcFVzt4GOnVjMqlHo8hxAAPEnz1wWHWxDzUUofe8JtpGBxFOQtF=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.abisoft.loadsheddingnotifier',
+    appId: 'com.abisoft.loadsheddingnotifier',
+    title: 'Load Shedding Notifier',
+    summary:
+     'Eskom load shedding status monitor and notifier (South Africa)',
+    developer: 'abisoft',
+    developerId: 'abisoft',
+    icon:
+     '//lh4.ggpht.com/Eugo_iErjdn4GN2L4wRLv9PPyecrnu8gJjWe0Wbl53ktBLhkjxu3LhaQmo-W5oCTKw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=za.co.intellicard.simplestudentapp',
+    appId: 'za.co.intellicard.simplestudentapp',
+    title: 'IntelliCell',
+    summary:
+     'IntelliCell can be used by students to manage their Intellimali allowances',
+    developer: 'Intellimali',
+    developerId: 'Intellimali',
+    icon:
+     '//lh3.googleusercontent.com/sDLYhyYwk70MImPz-jn3xCC3w7EyUcnDAnERKpYWk4qBcKRZSgScyfGxuJmobirHHN4=w340',
+    score: 2.2,
+    scoreText: ' Rated 2.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.hyyp247.home',
+    appId: 'com.hyyp247.home',
+    title: 'HYYP Home',
+    summary:
+     'HYYP Home App, remote control of your home, business and monitoring security.',
+    developer: 'Inhep Digital Security',
+    developerId: 'Inhep+Digital+Security',
+    icon:
+     '//lh3.googleusercontent.com/42WJDlCkWCoH9yAQ1-bq3L269jufutIbZ_-mGlK_fB1y9Ag-tjvhF8clVfFvuFEP9frR=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

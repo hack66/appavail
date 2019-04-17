@@ -1,0 +1,272 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=qa.ooredoo.android',
+    appId: 'qa.ooredoo.android',
+    title: 'Ooredoo Qatar',
+    summary:
+     'Enables Ooredoo customers to manage their accounts through this application.',
+    developer: 'Ooredoo Qatar',
+    developerId: 'Ooredoo+Qatar',
+    icon:
+     '//lh3.googleusercontent.com/k_SV-SkjUmdB8N5CU0jBBcn9RA9abl-6l5cel_cCgx2eappN1dhKrEz5KAjI6HpW-No=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.itelmobiledialer.dialer',
+    appId: 'com.revesoft.itelmobiledialer.dialer',
+    title: 'iTel Mobile Dialer Express',
+    summary:
+     'iTel Mobile Dialer Express, enabling VoIP Calls, SMS, Mobile Top Up and more.',
+    developer: 'REVE SYSTEMS LTD.',
+    developerId: 'REVE+SYSTEMS+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/FxVO4tmAGRfxfbFqM2bumz5Y8FPwsymS1MJLAZ8UtM0DUKGywcBj7-LFZg6YNLRvGgtX=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=qa.vodafone.myvodafone',
+    appId: 'qa.vodafone.myvodafone',
+    title: 'My Vodafone (Qatar)',
+    summary:
+     'Introducing the My Vodafone AppEverything you need in the palm of your hand!',
+    developer: 'Vodafone QA',
+    developerId: 'Vodafone+QA',
+    icon:
+     '//lh3.googleusercontent.com/eKp1SJLDRSOPauGxCtfvF7cFPucc-gQVAO_61_Nkk984M3yuX5fuy8UZMr0O588_zw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vipera.ts.starter.Metrash2',
+    appId: 'com.vipera.ts.starter.Metrash2',
+    title: 'Metrash2',
+    summary:
+     'Metrash2 offers the residents of Qatar an easy way to access MOI services.',
+    developer: 'Ministry Of Interior - Qatar',
+    developerId: 'Ministry+Of+Interior+-+Qatar',
+    icon:
+     'https://lh4.ggpht.com/kwWT_uEduIie6YpnkjuiydJAeekDdr_Y3cqyqfItGLEHyoHN3S40otVMCPz4AQKkIyU=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.aswat.carrefourqatar',
+    appId: 'com.aswat.carrefourqatar',
+    title: 'Carrefour Qatar',
+    summary:
+     'Get discounts while shopping at Carrefour.Let’s go, start saving!',
+    developer: 'Carrefour Development Team',
+    developerId: 'Carrefour+Development+Team',
+    icon:
+     '//lh3.googleusercontent.com/WDjsaplNXKyTfMCeWSJzTlCy3MRceoZjO73eadbTnzxxLtV97BPbhqdBUsDiW3CPd5Dw=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vox.mosippro',
+    appId: 'com.vox.mosippro',
+    title: 'MoSIP Mobile Dialer',
+    summary: 'A feature rich mobile VoIP dialer.',
+    developer: 'VOXVALLEY TECHNOLOGIES PTE LTD',
+    developerId: 'VOXVALLEY+TECHNOLOGIES+PTE+LTD',
+    icon:
+     '//lh3.googleusercontent.com/M3zUVQsTzHAL0yqLZeAdJhemkQXDvoJmUyLkH2pCbB9Cwh1OabVluTEbLchk5YZF57kC=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.alkoot',
+    appId: 'com.alkoot',
+    title: 'Alkoot Global Care',
+    summary: 'Access your Policy & Claim information anytime anywhere',
+    developer: 'Vidal Healthcare Services Pvt Ltd.',
+    developerId: 'Vidal+Healthcare+Services+Pvt+Ltd.',
+    icon:
+     '//lh3.googleusercontent.com/R74ERkqXDBFZGc1QFb-21zfruof7PeCYj7FVgd5ePa3Zax6S7n1iv3206KUxad8UbA=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.cbq.CBMobile',
+    appId: 'com.cbq.CBMobile',
+    title: 'CBQ Mobile',
+    summary: 'Commercial Bank of Qatar-Mobile Banking Services',
+    developer: 'Commercial Bank of Qatar',
+    developerId: 'Commercial+Bank+of+Qatar',
+    icon:
+     '//lh3.googleusercontent.com/1il15_SxIhfuk0fsBUpkFv6FJ1of6Q1P1-RaPqixd0gJOMnMXo65l3z46gUdDaUEHg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.fonogulf.rooby_19106_new',
+    appId: 'com.revesoft.mobiledialer.fonogulf.rooby_19106_new',
+    title: 'Rooby Dialer',
+    summary: 'Rooby Dialer',
+    developer: 'Voiz Communication',
+    developerId: 'Voiz+Communication',
+    icon:
+     '//lh6.ggpht.com/F9NPGQtvC06j1RIifjildTnZsKtLu61uTyhTFbizJV_zm2DOG7YLC6kvb8SKF_ah4ec=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unlimited.turbo.qatarvpn',
+    appId: 'com.unlimited.turbo.qatarvpn',
+    title: 'Qatar VPN - Unlimited Free & Fast Security Proxy',
+    summary:
+     'forever free , unblock website , apps , videos , WiFi hotspot security , proxy',
+    developer: 'Free Worldwide VPN',
+    developerId: 'Free+Worldwide+VPN',
+    icon:
+     '//lh3.googleusercontent.com/BWtgsjilbSEtl0yPWcKy35kVRjXyE1F2WypdOh7PHnzSzkIsKxhWiBsIq-Qyc6Kv5ULs=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.qpay.myapplication',
+    appId: 'com.qpay.myapplication',
+    title: 'QPAY – WPS',
+    summary: 'Bringing you the future of mobile banking!',
+    developer: 'QPAY International Corporation',
+    developerId: 'QPAY+International+Corporation',
+    icon:
+     '//lh3.googleusercontent.com/9WK_69jDrb19LK41NqN2J7BoPxvZ1vBirbbjQnvU2VFPdA3qWrLlkVmFSTjv-53u6HEi=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.revesoft.mobiledialer.honest.done',
+    appId: 'com.revesoft.mobiledialer.honest.done',
+    title: 'Donvoip',
+    summary: 'Make Best Voip Call',
+    developer: 'Liyana Telecom',
+    developerId: 'Liyana+Telecom',
+    icon:
+     '//lh5.ggpht.com/iORIOlorh9N_TwuOqzIKqISrOefQI_sfyHRbbm_N391c0pkEkZZJgZbAxh2PfahWP2w=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.agerigna.keyboard',
+    appId: 'com.agerigna.keyboard',
+    title: 'Agerigna Amharic Keyboard - የመጀመሪያው ነጻ የአማርኛ ኪቦርድ',
+    summary:
+     'Agerigna አገርኛ Keyboard - a No 1. easy and fast አማርኛ, ትግርኛ, Oromiffa Keyboard',
+    developer: 'Agerigna Co., Ltd',
+    developerId: '9181995351721820592',
+    icon:
+     '//lh3.googleusercontent.com/gIdaB2YLfmOpkCk4mhSa3Lo9pM16bUhRB3GgFQiAmC5ame_HPLsQJmiDZtl3x-BuXmw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

@@ -1,0 +1,273 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.goodcatchgames.mrbeanhillclimb',
+    appId: 'com.goodcatchgames.mrbeanhillclimb',
+    title: 'Mr Bean - Special Delivery',
+    summary:
+     'Deliver boxes stacked on Mr Bean’s green car in this awesome driving game.',
+    developer: 'Good Catch',
+    developerId: '8383543423823353834',
+    icon:
+     '//lh3.googleusercontent.com/o6xHwL4McbcFaOcfhBAkDh3fmPuoNOlIGDnoy3fJmGMeTyM2UqeKMtCU7I9kD0SZWgDo=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moonfrog.ludo.club',
+    appId: 'com.moonfrog.ludo.club',
+    title: 'Ludo Club - Fun Dice Game',
+    summary:
+     'The best Ludo game of 2018 is here! JOIN THE CLUB and play with friends!!',
+    developer: 'Moonfrog',
+    developerId: '5236132833572659868',
+    icon:
+     '//lh3.googleusercontent.com/CBh5Ts0J5KJJjy7xEYnMMWxMAxMAwxSzI9BT_vNsR3J1DDVnN3DVOIa1MR9nKgrWsg=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mgc.RopeHero.ViceTown',
+    appId: 'com.mgc.RopeHero.ViceTown',
+    title: 'Rope Hero: Vice Town',
+    summary: 'Action-packed adventures of Rope Hero in Vice Town.',
+    developer: 'Naxeex LLC',
+    developerId: '4904364455782296418',
+    icon:
+     '//lh3.googleusercontent.com/bXxqqWwRR8JC2CA6rrZkiFfs-x5DO4DJHCrWzdTnhGgQSW_uhy-W6I5V0ZRBUfEG6q4=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=telekom.al.mytelekom',
+    appId: 'telekom.al.mytelekom',
+    title: 'My Telekom',
+    summary:
+     'Bëjeni tuajin komunikimin me aplikacionin My Telekom. Çaste që na lidhin.',
+    developer: 'Telekom Albania',
+    developerId: 'Telekom+Albania',
+    icon:
+     '//lh3.googleusercontent.com/vJptW6hIbsaY7ldcL3DPjO-tHuBGC_vy2TJZa7Yz65vnEOdSg-TUHoGBQ8DFYDn4UQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chillingo.robberybobfree.android.row',
+    appId: 'com.chillingo.robberybobfree.android.row',
+    title: 'Robbery Bob',
+    summary:
+     'Play as Bob, the hapless burglar intent on changing his ways.',
+    developer: 'Level Eight AB',
+    developerId: 'Level+Eight+AB',
+    icon:
+     '//lh3.googleusercontent.com/oojEzXAk52vIZwKvn8l21rhgA88MEVAqJdtUgDTT_oyr232a72JrguxvQbjC34MVEzY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tencent.ig',
+    appId: 'com.tencent.ig',
+    title: 'PUBG MOBILE',
+    summary: 'WINNER WINNER CHICKEN DINNER!Official PUBG on Mobile!',
+    developer: 'Tencent Games',
+    developerId: '8638120915920097780',
+    icon:
+     '//lh3.googleusercontent.com/LWTYG2vtR2LglsyL-tCvy_B08toYN1ewwQGMqIgrVA1sFEUFlhWHb3CYjb2ZLl8w9MA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically',
+    appId: 'com.zhiliaoapp.musically',
+    title: 'TikTok',
+    summary: 'Short Videos For You',
+    developer: 'musical.ly',
+    developerId: 'musical.ly',
+    icon:
+     '//lh3.googleusercontent.com/iBYjvYuNq8BB7EEEHktPG1fpX9NiY7Jcyg1iRtQxO442r9CZ8H-X9cLkTjpbORwWDG9d=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=jpark.AOS5',
+    appId: 'jpark.AOS5',
+    title: 'Anger of stick 5 : zombie',
+    summary: '\'AngerOfStick\'  The world\'s most popular action game',
+    developer: 'J-PARK',
+    developerId: 'J-PARK',
+    icon:
+     '//lh3.googleusercontent.com/CoNmalI7mJIzoIovoE7hsd1PGU2glF74g_2LacHy56P_g_-VPmTWWi5oPdgxlyVjEdo=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.surpax.ledflashlight.panel',
+    appId: 'com.surpax.ledflashlight.panel',
+    title: 'Super-Bright LED Flashlight',
+    summary:
+     'Light up the dark using the brightest flashlight & torch for Android!',
+    developer: 'ONE App Essentials.',
+    developerId: 'ONE+App+Essentials.',
+    icon:
+     '//lh3.googleusercontent.com/6I_xYtoPC1sqe1iZcOrphhhFvm7uAu-nCUFh_WQJZvToD9LuJ78mKBgZnIbs9YEpKHU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.creativeimpulse.games.buukvi',
+    appId: 'com.creativeimpulse.games.buukvi',
+    title: 'Bukvi',
+    summary:
+     'Funny letter tracing game that educates! Macedonian language/alphabet only.',
+    developer: 'Woom Woom',
+    developerId: '9136901015336626363',
+    icon:
+     '//lh3.googleusercontent.com/hdFDOSIIj9--HhtNlfuw2vOHXfyG0IP8cX34Cf_fWD2RiupDjsqK3dpJnZoiL-Q5Bw=w340',
+    score: 4.9,
+    scoreText: ' Rated 4.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.honeti.multiplication',
+    appId: 'com.honeti.multiplication',
+    title: 'Multiplication Table IQ',
+    summary:
+     'Intelligent method for learning the basics of math. Innovative repetition method',
+    developer: 'HONETi',
+    developerId: '8381242180722924728',
+    icon:
+     '//lh3.googleusercontent.com/FOqO4WNV6Z8GzfsabyHnLB6Vm43KTY5qmScRVt-DrNQL4mEBpHhI0I2rKljItCdsK4Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nekki.shadowfight',
+    appId: 'com.nekki.shadowfight',
+    title: 'Shadow Fight 2',
+    summary: 'Prepare to fight with shadows!',
+    developer: 'NEKKI',
+    developerId: '7514532260246976284',
+    icon:
+     '//lh3.googleusercontent.com/bsxFGjG3aJeVGyzDJkWN1aEFl35A9LoVOC_gmWFf7FbBwsn1BqpOnB5ZLnDFXF6CHcjw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.one1line.onetouch.onestroke.dotgame',
+    appId: 'com.one1line.onetouch.onestroke.dotgame',
+    title: '1LINE – One Line with One Touch',
+    summary:
+     'Daily exercise for your brain. Connect the dots with one line! Fun mind game.',
+    developer: 'X-Flow',
+    developerId: '4677399971720148178',
+    icon:
+     '//lh3.googleusercontent.com/kLuDP6CmQ7ZrjuE4pK2v6wPkb7P9nRf--0UAmzVaisyIk_m4xh_7SMDr6pC1rYCKDg=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.telekom.telekommk',
+    appId: 'com.telekom.telekommk',
+    title: 'Telekom MK',
+    summary:
+     'Telekom MK e aplikacija za upravuvanje so vashata Telekom smetka',
+    developer: 'Makedonski Telekom AD Skopje',
+    developerId: 'Makedonski+Telekom+AD+Skopje',
+    icon:
+     '//lh6.ggpht.com/uWuufcWJa7MTdq7kxOIgd0IQhyNn3DAu_domxT5TG2iLjM8cHEH55fb0peDUlsJCwI4=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.leodesol.games.classic.maze.labyrinth',
+    appId: 'com.leodesol.games.classic.maze.labyrinth',
+    title: 'Mazes & More',
+    summary:
+     'Classic maze/labyrinth game with fun tweaks.  Can you solve all the mazes?',
+    developer: 'Leo De Sol Games',
+    developerId: '8149422968449365069',
+    icon:
+     '//lh3.googleusercontent.com/JchaxYkVuO_jGLOaS2-Ur2HcAFAOOPPYsRm6sraO7E55OqoVK_WlZ5k32iIvF_HyeD8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turborocketgames.wildcraft',
+    appId: 'com.turborocketgames.wildcraft',
+    title: 'WildCraft: Animal Sim Online 3D',
+    summary:
+     'Explore the wild world with custom animals. Play this free online simulator game',
+    developer: 'Turbo Rocket Games',
+    developerId: '6804371481370659921',
+    icon:
+     '//lh3.googleusercontent.com/3fp2B459bCUBPM1b9uVBbeB5Gse2PNDLd9W5ySIP6ZZHAuUiAiLWHqO1WtQfEb16CiE=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=mk.com.stb',
+    appId: 'mk.com.stb',
+    title: 'm-banking by Stopanska banka',
+    summary:
+     'This m-banking app gives you 24/7 access to public&personal banking information',
+    developer: 'Stopanska banka AD – Skopje',
+    developerId: 'Stopanska+banka+AD+%E2%80%93+Skopje',
+    icon:
+     '//lh5.ggpht.com/W05endEh8TbX0bvWjbMHHhq0ENdYjNHoEaxBrswFY-Cw9KG4-ZIsAPv_8CjRbCaRXA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ru.iprado.spot',
+    appId: 'ru.iprado.spot',
+    title: 'Spot it: Find the Difference',
+    summary:
+     'Spot it: Find the Difference for Kids! Play a new game spot the difference type!',
+    developer: 'Arclite Systems',
+    developerId: '7105367870106447069',
+    icon:
+     '//lh3.googleusercontent.com/WS2WxdvrVjUrcutuG3EWeuAYYeajRQY4eWmnCCFUzDC-NGV0YH3hrqGfWq72yreefFY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.winkypinky.babybellabraidedhairsalon',
+    appId: 'air.com.winkypinky.babybellabraidedhairsalon',
+    title: 'Little Bella Braided Hair Salon',
+    summary:
+     'Play this game and find how to create a braided hairstyle for this baby girl.',
+    developer: 'winkypinky',
+    developerId: '5641067919817566915',
+    icon:
+     '//lh3.googleusercontent.com/Y6h1ZrrZ3IfTMc2yUgClIvm91drTRY77-_-CiFtiOdjUPzgiogWGS-UPay4MDFPEQ-g=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

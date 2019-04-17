@@ -1,0 +1,277 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.NetworkGlobal.testSpeed',
+    appId: 'com.NetworkGlobal.testSpeed',
+    title: 'Internet Speed Test  - Wifi & 4G, 3G Speed check',
+    summary:
+     'Speedtest is new App helps to measure and verify the download speed andupload',
+    developer: 'GLOBAL NETWORK',
+    developerId: 'GLOBAL+NETWORK',
+    icon:
+     '//lh3.googleusercontent.com/yKikDwkL7qEKmVUCi2lzsw0mn-hodOsyQjXT3ijAMi4onziKadrsVj6J5iVbTF00ppCJ=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bestfreewifi.wifihotspot1',
+    appId: 'com.bestfreewifi.wifihotspot1',
+    title: 'Free WiFi Connect Internet Connection Find Hotspot',
+    summary:
+     '🏆Connect Free WiFi hotspot, free wifi network manager,analyzer, finder wifi map',
+    developer: 'MobileToolingStation',
+    developerId: 'MobileToolingStation',
+    icon:
+     '//lh3.googleusercontent.com/oS6bN_5v0zSWjRnWm7Y3JUjV1exw1X5FAvLDvsaaV5uz3kD24joK7pY4xjOx7EziQ9g=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mentisco.freewificonnect',
+    appId: 'com.mentisco.freewificonnect',
+    title: 'Free WiFi Connect',
+    summary: 'Complete Wifi solution for all wifi related problems.',
+    developer: 'Mentisco',
+    developerId: 'Mentisco',
+    icon:
+     '//lh3.googleusercontent.com/9AaIgJlnQTkJe996fSmBibFoRVlkLvo1loAyOaVbSe1dRNrYQ_Xr5DrbS5UQYeufG70=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vmkoom.wifimap.connection.hotspot.wifianalyzer.password.anywhere',
+    appId:
+     'com.vmkoom.wifimap.connection.hotspot.wifianalyzer.password.anywhere',
+    title: 'Free Wifi Connection Anywhere & Mobile Hotspot',
+    summary:
+     'WIFI Connect for Find, connect, manage wireless networks Portable Wifi Hotspot',
+    developer: '48 Dev Studio',
+    developerId: '48+Dev+Studio',
+    icon:
+     '//lh3.googleusercontent.com/qgdqqbbqPQ4kGhZ7IXg56cxrysqU36FTG_WvBg8Do_r6O2-KY6KqgwW9SQpNQmqWoWo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freevpnintouch',
+    appId: 'com.freevpnintouch',
+    title: 'VPN Free - Betternet Hotspot VPN & Private Browser',
+    summary:
+     'Get Betternet Hotspot VPN, the free VPN master to unblock & browse anonymously!',
+    developer: 'Betternet LLC',
+    developerId: 'Betternet+LLC',
+    icon:
+     '//lh3.googleusercontent.com/RW_anUB_CGfwB-bDzLfhlxc3AKXwc_f8r2GC3afwkmttkaFmeQBOJxfNh5EdwIm9_w=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mcu.iVMSHD',
+    appId: 'com.mcu.iVMSHD',
+    title: 'iVMS-4500 HD',
+    summary: 'iVMS-4500 HD is a video surveillance software',
+    developer: 'HIKVISION HQ',
+    developerId: 'HIKVISION+HQ',
+    icon:
+     '//lh3.googleusercontent.com/QC1LPbtB8CXuGljhOwUn639lmbWZBgNeJSJbJk5siA8spFtytgLMIycZiE0v2Z2TGA=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=smart.soft.netmaster',
+    appId: 'smart.soft.netmaster',
+    title: 'Network Master - Data Usage & Boost',
+    summary:
+     'Top Network analyzer tool with internet speed, Data Usage, internet speed.',
+    developer: 'Soft Network. Inc',
+    developerId: 'Soft+Network.+Inc',
+    icon:
+     '//lh3.googleusercontent.com/n7Z4M5Y4XLZlEMRy1eczSqowtA_ecYfJMU2EK-1hs8_Zowl9xo7kO-D6eogxlumrqt0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appzula.fastprivatevpn',
+    appId: 'com.appzula.fastprivatevpn',
+    title: 'Super Fast VPN Hotspot - X Private VPN',
+    summary:
+     'X VPN Free Unlimited VPN Proxy - VPN Unlocked Webiste ,Unlimited Fast VPN',
+    developer: 'Zalyrisku',
+    developerId: 'Zalyrisku',
+    icon:
+     '//lh3.googleusercontent.com/vRu3aAZkU10cEaDRI4mjQ3Mgi3-PJZEIDMY2ykiXU0RJ69OJBnKGfGTh5o6CAIZ3nNg=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.appworld.wifi.free',
+    appId: 'com.appworld.wifi.free',
+    title: 'Free WiFi Internet - Data Usage Monitor',
+    summary:
+     'Free internet WiFi Hotspot search free WiFi & Data Usage over Mobile and Wifi.',
+    developer: 'AppWorld Infotech',
+    developerId: '8866873010000587086',
+    icon:
+     '//lh3.googleusercontent.com/8ehpkSTZigPXFVIOF7lkOvpL81UreBzyBXGQIbFXltWht2gU5103OI6uVuEobNDY9Il3=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.unique.privatevpn',
+    appId: 'com.unique.privatevpn',
+    title: 'VPN - super fast Private VPN',
+    summary:
+     'VPN - Super Fast VPN: Web Proxy & secure Private network to Unblock websites',
+    developer: 'UniqueApps Developers',
+    developerId: 'UniqueApps+Developers',
+    icon:
+     '//lh3.googleusercontent.com/0YZ42q0MbBJf8xn7iafxqVSnB1o6wD238GkwrplqwFFc1fx704fTCd3tvKkblIou3OyB=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.free.ap.freehotspot.personal.mobilehotspotfree',
+    appId: 'com.free.ap.freehotspot.personal.mobilehotspotfree',
+    title: 'Free Wifi Hotspot Portable - Fast Network Anywhere',
+    summary:
+     'Fast WiFi Hotspot Portable Unlimited Broadcast Network Signal On Mobile anytime',
+    developer: '48 Dev Studio',
+    developerId: '48+Dev+Studio',
+    icon:
+     '//lh3.googleusercontent.com/Gfs4m7UFV3aJS6ebexdarORHpEeNrVg37UFd0ezC5N2LMjBMcmsVlAtTyJYgsJLK-tS5=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.norwoodsystems.worldwifi',
+    appId: 'com.norwoodsystems.worldwifi',
+    title: 'World WiFi',
+    summary:
+     'Find and securely connect to millions of Wi-Fi hotspots around the world.',
+    developer: 'Norwood Systems',
+    developerId: 'Norwood+Systems',
+    icon:
+     '//lh3.googleusercontent.com/92Z-UnWYG-So2_kMyWCirU_o0oRZ8Ks2zWCPTSj7QYdmI19ALMJC8mvctGE3OEgAudo=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.sifitich.internetspeedfaster',
+    appId: 'com.sifitich.internetspeedfaster',
+    title: 'Internet Speed Faster - prank',
+    summary:
+     'Internet Speed master is a tool to help you improve internet connection.',
+    developer: 'sifitich',
+    developerId: 'sifitich',
+    icon:
+     '//lh3.googleusercontent.com/wXiGECauDRE7w_x-_Kz-Jehd2laWEfsCKnwSNC0TxHksCi5EZaZoH-fJQLyfzXp4E8cA=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nperf.tester',
+    appId: 'com.nperf.tester',
+    title: 'Speed test 3G, 4G LTE, WiFi & network coverage map',
+    summary:
+     'Network speed test & internet coverage – Speed Test for wifi, 2G, 3G, 4G and LTE',
+    developer: 'nPerf.com',
+    developerId: 'nPerf.com',
+    icon:
+     '//lh3.googleusercontent.com/YHu3ttW0HZ7Jo3nFFdmRb1RQkn61Ol0Yj42zYQibZn0S-AqwxW0JHjywFnrEbGdNztc9=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.nav.utilapp.vpn.hotspot2019',
+    appId: 'com.nav.utilapp.vpn.hotspot2019',
+    title: 'Oneclick VPN - Unlimited VPN Proxy & Wifi Security',
+    summary:
+     'Free VPN Proxy with unlimited bandwidth. Access Blocked Websites And Apps Easily',
+    developer: 'Green Jelly Studio',
+    developerId: 'Green+Jelly+Studio',
+    icon:
+     '//lh3.googleusercontent.com/IkcAf1NcSWlR7_5rii082Fr4BFiSS6MeBfh5kn9CFX59K4Xq6zSi9TDEy0DnaHmFa7Y7=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.freewebnet.wificon4',
+    appId: 'com.freewebnet.wificon4',
+    title: 'Free WiFi Connect Internet',
+    summary: 'WiFi Connect Manager is the best Wi-Fi scanner, manager',
+    developer: 'meewansa123',
+    developerId: 'meewansa123',
+    icon:
+     '//lh3.googleusercontent.com/cNvz_58K2Gs9cDMBNCNrT8m7DOasNKBpXdRWBew-IctyBcr67Bd-OI32h68rdYhzZQ=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.albapks.wifisearchfreeopen',
+    appId: 'com.albapks.wifisearchfreeopen',
+    title: 'Wifi Search Free Open',
+    summary: 'Find with one click all open networks near you.',
+    developer: 'ALBAPPS',
+    developerId: 'ALBAPPS',
+    icon:
+     '//lh3.googleusercontent.com/9MolLAztsdZZLEz0NT-MD4XtOV5e_53dzyayI4XKRI2YRJRCNt7Y-d1dO6BRjb72wD21=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.superfree.apps.vpn2019',
+    appId: 'com.superfree.apps.vpn2019',
+    title: 'Instant VPN - Free Unlimited Hotspot Wifi Security',
+    summary:
+     'Instantly Access Blocked Websites and Apps. Free, Full Speed VPN. Wifi Security.',
+    developer: 'Green Jelly Studio',
+    developerId: 'Green+Jelly+Studio',
+    icon:
+     '//lh3.googleusercontent.com/Hz_woHdmcb3NH0DbREyrSCkKtYFP7UN95PGBG-gsVxZyTGKketX66S5b6qU2gN5OnZA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bullguard.bullguardvpn',
+    appId: 'com.bullguard.bullguardvpn',
+    title: 'BullGuard VPN | Unlimited WiFi Internet Privacy',
+    summary:
+     'BullGuard VPN | Unlimited VPN - WiFi Internet Privacy and Security',
+    developer: 'BullGuard',
+    developerId: 'BullGuard',
+    icon:
+     '//lh3.googleusercontent.com/WzyIZgaXoujyRJO31_TY6oxjUYIxoL1-KazeNiH7oXmDEWqRyZ9YNhW_vYWJYa_NUOo=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true } ]

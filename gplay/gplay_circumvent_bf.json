@@ -1,0 +1,279 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=droom.sleepIfUCan',
+    appId: 'droom.sleepIfUCan',
+    title: 'Alarmy - Mission Alarm Clock with Loud Ringtones',
+    summary:
+     '🏆#1 Alarm Clock in 97 Countries✔️Math, Photo & Shake Missions✔️Loud Ringtones',
+    developer: '⏰Alarmy',
+    developerId: '8894199970691315215',
+    icon:
+     '//lh3.googleusercontent.com/X8ldD85IhcCHO7a_h5I4hWU9j6UTWJUzYXKUXoEXkCs1Pn9i9-4I3SE4z3mSavgdHbs=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.android',
+    appId: 'org.torproject.android',
+    title: 'Orbot: Proxy with Tor',
+    summary:
+     'Enhance your privacy, break through firewalls and communicate more safely.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=kr.core.technology.wifi.hotspot',
+    appId: 'kr.core.technology.wifi.hotspot',
+    title: 'Portable Wi-Fi hotspot',
+    summary:
+     'Turn on Portable Wi-Fi hotspot. Improve your mobile computing experience.',
+    developer: 'CORE TECHNOLOGY',
+    developerId: 'CORE+TECHNOLOGY',
+    icon:
+     '//lh3.googleusercontent.com/xSYRwRJ7hlzvjwuBUisRABjBC3oIj_jTvo-ypOVJ1QPyacZSTcqEqo1yU03myaUATA=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lf.real.extreme.suv.offroad.drive.games.free',
+    appId: 'com.lf.real.extreme.suv.offroad.drive.games.free',
+    title: 'Crazy OffRoad Prado Driving',
+    summary:
+     'Let’s feel the thrill of Adventure and a real driving test challenge 2018.',
+    developer: 'GAMBIT Inc.',
+    developerId: '5869957277875533641',
+    icon:
+     '//lh3.googleusercontent.com/lrlBGLYPCFmXAQ6Z7jYiowQK8FoLj_G9q0JkYu6TfBOs6-5jzK_9nDLALVHh3FE4mHPw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gonowfull.watchlivefootballmatchesfreeguideeasy',
+    appId: 'com.gonowfull.watchlivefootballmatchesfreeguideeasy',
+    title: 'Watch Live Football Matches Free Guide Easy',
+    summary:
+     'Watch live football matches free guide easy Football for free live streaming',
+    developer: 'Dubaiper',
+    developerId: 'Dubaiper',
+    icon:
+     '//lh3.googleusercontent.com/ATT9eWLmgVMJ7ddpJqmNB6x8WKGWKxo5DLvCMpe7jjYKr_pTWsqJxQThSas_l1pwcQ=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.infoweise.parentalcontrol.secureteen',
+    appId: 'com.infoweise.parentalcontrol.secureteen',
+    title: 'SecureTeen Parental Control - Screen time manager',
+    summary:
+     'Ultimate parental control app with screen time controls and internet filter',
+    developer: 'Infoweise Pty Ltd',
+    developerId: 'Infoweise+Pty+Ltd',
+    icon:
+     '//lh4.ggpht.com/HiotrZuRzHWTR2i0poeY_MdLuY5kZlT0AgHtIeCO0jllFy0k1y9dB7ycL8zPHG0NfQ=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=jp.komakuro.book53806',
+    appId: 'jp.komakuro.book53806',
+    title: 'Suburban Residences',
+    summary:
+     'Read "Suburban Residences and how to Circumvent Them" by Jane Ellen Panton!',
+    developer: 'Komakuro',
+    developerId: '4629229048264581235',
+    icon:
+     '//lh3.googleusercontent.com/DB4BmAqK6dgwjd5oryQ4--EWfe4PPPaqBpuXdjDvhLHoaIeql6Gv1t4j2_AwENiXnf4=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.thundervpn',
+    appId: 'free.unblock.proxy.unlimited.thundervpn',
+    title: 'Thunder VPN proxy--ultra secure VPN·Free VPN Proxy',
+    summary:
+     'Unlimited FREE VPN Proxy,Free unblock&Secure and Fast free VPN Download',
+    developer: 'Appmob5',
+    developerId: 'Appmob5',
+    icon:
+     '//lh3.googleusercontent.com/kk7VubMoKr3ejFoEaz4lz8EQsxT8K8o9U2FviIT6PqvDFfmmFQKbCtL7izdgXgiBTpk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloups.lussier.annie.com.blipsintegral',
+    appId: 'com.bloups.lussier.annie.com.blipsintegral',
+    title: 'Blips! Integral',
+    summary:
+     'Blips makes it possible to learn numeration in an amusing way…',
+    developer: 'Annie Lussier',
+    developerId: 'Annie+Lussier',
+    icon:
+     '//lh3.googleusercontent.com/Mzd0G_NwcTup8kT7vMM9tKAWVvTZb5oZL7A8tAyM50R3Kpk5V3px5TEPSuAZjeRXfV4=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '€9.29',
+    free: false },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.supervpn.freevpn',
+    appId: 'com.supervpn.freevpn',
+    title: 'Hotspot VPN - Super Free VPN Unlimited Proxy',
+    summary:
+     'Best VPN proxy,Protect privacy,Wifi Security,Unblock any site,Video call',
+    developer: 'Hotspot VPN( Proxy & Security )',
+    developerId: 'Hotspot+VPN(+Proxy+%26+Security+)',
+    icon:
+     '//lh3.googleusercontent.com/ZMzLcdNkvRymqkjzAZM9A87T6uX0UKWKp6SXqzABXJZQZ9Vrj2wLFcXpmA18rNAn4g=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.unlimited.justvpn',
+    appId: 'free.vpn.unblock.proxy.unlimited.justvpn',
+    title: 'JustVPN - Free Unlimited VPN & Proxy',
+    summary:
+     'Access the world for free with JustVPN - Unblock anything without limits!',
+    developer: 'JustVPN',
+    developerId: 'JustVPN',
+    icon:
+     '//lh3.googleusercontent.com/FHsR1Is_wDWxkY66Z6kGvttJ4HN3OIRuMq8Dkm7tnFHvfuZZCbU9IvLTQSlhrBoipg=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.woodenhouse.Jangkric',
+    appId: 'com.woodenhouse.Jangkric',
+    title: 'wooden house',
+    summary:
+     'application that contains a collection of images wooden house',
+    developer: 'Jangkric',
+    developerId: 'Jangkric',
+    icon:
+     '//lh3.googleusercontent.com/PRcYCIj_RScblvCIvvM1g8sHCoVU9Z2SxQg2swPig045f1JwinpeYjelTpfaGkNzJLU=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hideme.android.vpn',
+    appId: 'hideme.android.vpn',
+    title: 'hide.me VPN',
+    summary:
+     'World’s fastest VPN used by more than 10 million users, Use It For Free',
+    developer: 'eVenture',
+    developerId: 'eVenture',
+    icon:
+     '//lh3.googleusercontent.com/nAWV1Dzlo3vfp9bp5Q5PMFO3mTpjyAUpoEtiBrkxsFcMinpyjgRjuSKxqFqkniyGRw=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ufovpn.free.unblock.proxy.vpn',
+    appId: 'ufovpn.free.unblock.proxy.vpn',
+    title: 'UFO VPN - Best Free VPN Proxy & Secure WiFi Master',
+    summary:
+     'Best Free Unlimited VPN for Secure WiFi Hotspots & Accessing Internet Anonymous',
+    developer: 'DreamFii（Mobile VPN & Clean）',
+    developerId: 'DreamFii%EF%BC%88Mobile+VPN+%26+Clean%EF%BC%89',
+    icon:
+     '//lh3.googleusercontent.com/dZ2D5wbPK7IYFsVuuKqt3gjOi6P-tMfJm_Fuf4OT8NJxCSY2nrGI4bY1kMFTI3xPiTY=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

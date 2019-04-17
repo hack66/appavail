@@ -1,0 +1,275 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=ua.ers.simpleVpn',
+    appId: 'ua.ers.simpleVpn',
+    title: 'Simple VPN - bypass of blocking sites',
+    summary:
+     'A simple VPN client to bypass the sites blocks and secure Internet traffic',
+    developer: 'Electronic Rescue Service',
+    developerId: '8294402608006584816',
+    icon:
+     '//lh3.googleusercontent.com/l2OTT07qnv4ie7zRNfri-fElVj0b2ocSiZHfr0N3Na1mcHUYjcBl_ohfW-gEb5IWEw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.joshua.legalforms',
+    appId: 'com.joshua.legalforms',
+    title: 'Complete Legal Forms',
+    summary:
+     'This apps contains legal forms and agreements to safeguard your legal rights',
+    developer: 'Joshua Inc',
+    developerId: 'Joshua+Inc',
+    icon:
+     '//lh5.ggpht.com/GFsqsT4D0KYbyY-pNLLYkPhQs6zEp8b1phjktdl8sgNOSk-QljRyEMDz_p7WCblLYKI=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.StephenGibson.GSCompanionApp',
+    appId: 'com.StephenGibson.GSCompanionApp',
+    title: 'Grimslingers Guides & Tools',
+    summary:
+     'Learn the game, improve set up times and acquire additional content.',
+    developer: 'Stephen S Gibson',
+    developerId: 'Stephen+S+Gibson',
+    icon:
+     '//lh3.googleusercontent.com/VKWleXZEl_ejLEoD3HSecMZ7dGs16PxXJmq1GaAQrUqCuaTC8Z6cOP5eIV0gRh0eIc8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ambitious.proxy.vpn.fast',
+    appId: 'com.ambitious.proxy.vpn.fast',
+    title: 'FuryBear VPN- Free access to blocked sites & Apps',
+    summary:
+     'Free and unlimited access  to blocked sites & apps with FuryBear VPN',
+    developer: 'Pangolin Tech',
+    developerId: 'Pangolin+Tech',
+    icon:
+     '//lh3.googleusercontent.com/v4yLAHHSpG1a7OswXsSebF6ea3M2uA2vO5w9T9ohCNI_gKX8W0JjWf8TVduKmE4xnQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=hssb.android.free.app',
+    appId: 'hssb.android.free.app',
+    title: 'Hotspot Shield Basic - Free VPN Proxy & Privacy',
+    summary:
+     'Hotspot Shield Free version of VPN proxy - unlimited, no signup, no restrictions',
+    developer: 'AnchorFree GmbH',
+    developerId: '6875401605969588379',
+    icon:
+     '//lh3.googleusercontent.com/Rwrbgt41qsL_ZZ8yXnIDvnBvHVtxlolXeviTklObxah4kgeAmmcl8myZ_zirTo6l5A=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ashgeek.quietontime',
+    appId: 'com.ashgeek.quietontime',
+    title: 'SmartMute',
+    summary: 'Mute as you wish. Mute your phone for a period of time.',
+    developer: 'ASHGEEK',
+    developerId: 'ASHGEEK',
+    icon:
+     '//lh3.googleusercontent.com/KB05ieLZzMyHyPl5c8VBcJiHCvy44pwZNeCR9j2xzz-qavTm0aFMLcWNuEh3FitoYWk=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turbovpn.hotspot_savagevpn.vpn.free_nordvpn_expressvpn_vpnfree',
+    appId:
+     'com.turbovpn.hotspot_savagevpn.vpn.free_nordvpn_expressvpn_vpnfree',
+    title: 'Turbo VPN Proxy Fast Unlimited Free VPN Proxy Free',
+    summary:
+     'Get Free Turbo VPN proxy Fast Unlimited Free VPN Proxy VPN with unlimited speed.',
+    developer: 'Googlx X VPN',
+    developerId: 'Googlx+X+VPN',
+    icon:
+     '//lh3.googleusercontent.com/bB2zFquys_r8VZc__vropa8zHm54iBHUNr9rg9KMFAN_ooA8p2hm_RofeG3A3S5GSw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.lah9ifree84y',
+    appId: 'com.vpn.lah9ifree84y',
+    title: 'Best Android VPN & Unlimited Freedom Fast & Secure',
+    summary:
+     'Best Android VPN Unlimited Freedom proxy service for Android mobile tablet users',
+    developer: 'Free VPN Studio',
+    developerId: '6101273273449202990',
+    icon:
+     '//lh3.googleusercontent.com/-9t0HCIJabt29CSRjYJG8ouaqMA2DTF84YVm3XiweAGUU_XF5cBg_9g0lOssNocu7bS9=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.selfdefensebook.android',
+    appId: 'com.selfdefensebook.android',
+    title: 'Self Defense Book',
+    summary:
+     'This application will allow you to know some basics of self-defense.',
+    developer: 'SysWare',
+    developerId: 'SysWare',
+    icon:
+     '//lh3.googleusercontent.com/VRRfJsxtdDB-W3mjA6vI2ob1i-YMGUKxmZqmctXDoC126c401R5X9xbfLfWchm_3AU06=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ncs.free.mp3.ringtone.sound.notification.alarm.asphalt.dream.electronic.modern',
+    appId:
+     'com.ncs.free.mp3.ringtone.sound.notification.alarm.asphalt.dream.electronic.modern',
+    title: 'Electronic Music Ringtone Notification',
+    summary: 'Get this free electronic music ringtone apps now!',
+    developer: 'lwplay',
+    developerId: '6789432096264405871',
+    icon:
+     '//lh3.googleusercontent.com/IBwX71so6mlm-N2aXhQaviONoanqhWOk-16GBzXWBEHf7gSLXkG7USs0V-UXzctLtQ=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eurovpn.android',
+    appId: 'com.eurovpn.android',
+    title: '5 Euro VPN - Best Android app for Online Privacy!',
+    summary:
+     '5 Euro VPN: The cheapest premium VPN around secures and protecting your privacy.',
+    developer: '5 Euro VPN',
+    developerId: '5+Euro+VPN',
+    icon:
+     '//lh3.googleusercontent.com/mr8TTb2cmMjq4uXdwio-7MbZOHD8gS3R7cCLcKgu2OOGrliwiLrFESSppUW0MANoEmU=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.niall.collideoscope',
+    appId: 'com.niall.collideoscope',
+    title: 'Collide-o-Scope',
+    summary:
+     'RSA Collideoscope – A fun Driving game with a serious message',
+    developer: 'Cipherhex Technology',
+    developerId: '6001783372173233868',
+    icon:
+     '//lh3.googleusercontent.com/BXVp9w_J8SntN5RIHzz84KdPQUAwJlhdrpAQSyAz32_N2WG7fosA5Q8q6zSFY6PAEzy3=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maker_bestapp.meme.mememaker',
+    appId: 'com.maker_bestapp.meme.mememaker',
+    title: 'Meme, Quote Maker',
+    summary: 'Make Mems  and Quote Pics',
+    developer: 'Shaaban',
+    developerId: 'Shaaban',
+    icon:
+     '//lh3.googleusercontent.com/HpOrgDym7X5qVzYiyPUi4r3tQTGZhFT9PFvkrBuVuiKgc1P4U2hz3kpfve1Kr7Yw01Y=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.warpvpn.apps.warpvpn',
+    appId: 'com.warpvpn.apps.warpvpn',
+    title: 'WarpVPN',
+    summary: 'VPN',
+    developer: 'WarpVPN, LLC',
+    developerId: 'WarpVPN,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/52Au8RubQvXJyxKd3FqXXHzKISuyPk2oay7PlHlLFibvKrzJD0fTLt7W0Mo0gnMd8Js=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.vguillou.etickettile',
+    appId: 'me.vguillou.etickettile',
+    title: 'E-ticket tile',
+    summary: 'A Quick Settings tile for easy e-ticket scanning',
+    developer: 'Vincent Guillou',
+    developerId: 'Vincent+Guillou',
+    icon:
+     '//lh3.googleusercontent.com/vImW0MkgVvIT3bUijO2qkUT6W1sUrJNAEPOo1EKQpDRh0q2BCgA9B2FT6qJY-Dj4t08=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tapinator.police.carsmash',
+    appId: 'com.tapinator.police.carsmash',
+    title: 'Police Car Smash 2017',
+    summary:
+     'Join the Police - Chase & Smash Thieves in this Amazing Cop Car Smashing Game!',
+    developer: 'Tap2Play, LLC (Ticker: TAPM)',
+    developerId: 'Tap2Play,+LLC+(Ticker:+TAPM)',
+    icon:
+     '//lh3.googleusercontent.com/ks4B7aVQT4y_5W6EURllqWmScAaLKLzulzj4-Zk_5l7IUJ898iZtK1yAdTU-SQjNkFs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn_super_speed_free.free_unblock_proxy_master',
+    appId: 'com.vpn_super_speed_free.free_unblock_proxy_master',
+    title: 'VPN Super Speed - Free unlimited Proxy Master',
+    summary: 'Get VPN Super Speed - Free Unlimited Proxy Master',
+    developer: 'zealstore',
+    developerId: 'zealstore',
+    icon:
+     '//lh3.googleusercontent.com/2W8xzuf3vf495y94mEm7ASzVVeeA0zhTpwQoJjFtLnKJYumDmQ-nITpH1tOb5yrO-Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bloups.lussier.annie.com.blipsinapp',
+    appId: 'com.bloups.lussier.annie.com.blipsinapp',
+    title: 'Blips!',
+    summary:
+     'Blips makes it possible to learn numeration in an amusing way…',
+    developer: 'Annie Lussier',
+    developerId: 'Annie+Lussier',
+    icon:
+     '//lh3.googleusercontent.com/UaByyoY1lg6UTAXzZX_f_BHAcOD1SFFf8jiYWliZUptXJ6qtENGu6v05q1LsIDUt-6G3=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true } ]

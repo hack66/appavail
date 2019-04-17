@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.smartapp.easyproxyforandroid',
+    appId: 'com.smartapp.easyproxyforandroid',
+    title: 'Easy代理(免费翻墙不用ROOT)',
+    summary: 'Easy proxy server based on GAE, safe and efficient',
+    developer: 'Sagittarius Developer',
+    developerId: 'Sagittarius+Developer',
+    icon:
+     '//lh6.ggpht.com/zmkm59ifICaxKsffutYYGr1RpPoL5e2__VCtD3u5K3IU35REeNKgO0-aucPmnbxqL342=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.jp.apps.sorariku.kaijyodairishi',
+    appId: 'net.jp.apps.sorariku.kaijyodairishi',
+    title: '海事代理士試験　海事代理士　口術試験　海技士　',
+    summary:
+     '海事代理士（かいじだいりし）を題材とした非公式の無料学習アプリです。司法書士、行政書士や社会保険労務士の海事版「海の司法書士」、「海の行政書士」と呼ばれます',
+    developer: 'SORARIKU',
+    developerId: 'SORARIKU',
+    icon:
+     '//lh3.googleusercontent.com/J71JMnzS_zdGxdgEXDptATkKZ_RI-YX4YbxjBHjhUNUfvMygzwCf15AZ6Jy2yNT8yu0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.proxydroid',
+    appId: 'org.proxydroid',
+    title: 'ProxyDroid',
+    summary: 'Use Proxy on Your Android',
+    developer: 'Max Lv',
+    developerId: 'Max+Lv',
+    icon:
+     'https://lh4.ggpht.com/hj9y8V4RFDk2h3DCqxHaDulTGWRS_PDUokCSgQIjcvKCtn7T0rdQYw1bbxPuFr3n__8=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.xfx.surfvpn',
+    appId: 'com.xfx.surfvpn',
+    title: 'Surf VPN - Best Free Unlimited Proxy',
+    summary:
+     'Surf VPN is a revolutionary VPN service specially designed for mobile devices.',
+    developer: 'XSoft inc',
+    developerId: 'XSoft+inc',
+    icon:
+     '//lh3.googleusercontent.com/T7RqnXmxBR3rjqsJ-OFgeOAV_9dgoVTupYTpYDEOase8_Zfr7F1CLK73KXA5t5mpjtI=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.qq.fq2',
+    appId: 'com.qq.fq2',
+    title: 'VPN proxy shadowsockt FreeVPN',
+    summary: 'LightVPN provide the most professional services',
+    developer: 'dengtahelper',
+    developerId: 'dengtahelper',
+    icon:
+     '//lh3.googleusercontent.com/d66fDmBqZVKV9jHRFm1MQUvX4GT1t3dKiraOPpimrDrMr5AafFhHH01JZ2fZvPEW90Q=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.telegramproxy.telegramproxy',
+    appId: 'com.telegramproxy.telegramproxy',
+    title: 'Telegram proxy - MTProto &Socks proxy for telegram',
+    summary:
+     'Get the latest active proxies for the telegram every 1 hour and Connect.',
+    developer: 'AP Dev',
+    developerId: 'AP+Dev',
+    icon:
+     '//lh3.googleusercontent.com/xKfO6vmt7PP8ShzrRc7yVndFSGIVD1w6sk1Qr34wjAIx5_PTQgmbrtomabnTzSK5ERgN=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.torproject.android',
+    appId: 'org.torproject.android',
+    title: 'Orbot: Proxy with Tor',
+    summary:
+     'Enhance your privacy, break through firewalls and communicate more safely.',
+    developer: 'The Tor Project',
+    developerId: 'The+Tor+Project',
+    icon:
+     '//lh3.googleusercontent.com/iGAZ0rWvU-gGFiQrI4Vfb9AI3wn2kx0p1n7dtsPX9AJVASx18Bn5m6uGu2Tr8_8n35E=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evozi.injector',
+    appId: 'com.evozi.injector',
+    title: 'HTTP Injector - (SSH/Proxy/VPN)',
+    summary:
+     'VPN app to browse the Internet privately and securely with custom header. 🛡',
+    developer: 'Evozi',
+    developerId: '4853239506290481783',
+    icon:
+     '//lh3.googleusercontent.com/XIsfKV130h_8RRoy6P4fqG5nZXFB0Uhcew1Q_QLLil1rKXo25a25ETq4-yD81nQ_GBM=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.skyvpn.app',
+    appId: 'me.skyvpn.app',
+    title: 'SkyVPN-Best Free VPN Proxy for Secure WiFi Hotspot',
+    summary:
+     'Fast VPN MasterUnblock sites/appsBypass school WiFi restrictionGlobal servers',
+    developer: 'Sentry SkyVPN Security Technology',
+    developerId: 'Sentry+SkyVPN+Security+Technology',
+    icon:
+     '//lh3.googleusercontent.com/AT06D3hD4e2vdBDdCLtqJCOAyIi7AP_eGV8f-LfNaYpR6cuVD6gUtJKJ8L3GYEy9fX4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.makeroid.tsangchiwai.hkproperty',
+    appId: 'com.makeroid.tsangchiwai.hkproperty',
+    title: '香港地產代理考試溫習 廣告版Estate Agents/Salespersons Exam(ADs)',
+    summary:
+     'Hong Kong real estate agent exam review materials ad Estate Agents / Salespersons Qualifying Examination With ADs',
+    developer: 'Calvin Tsang',
+    developerId: 'Calvin+Tsang',
+    icon:
+     '//lh3.googleusercontent.com/rX7cXZZkEgdV1DNaTYGVvVxA-o3-ApExni-BiaJ3-bYe3z2MOt2gb5QPEDcgDudHnkHH=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.github.shadowrocket',
+    appId: 'com.github.shadowrocket',
+    title: 'ShadowRocket',
+    summary:
+     'Free scientific online proxy service using CN2 high-speed security node',
+    developer: 'ShadowRocket',
+    developerId: 'ShadowRocket',
+    icon:
+     '//lh3.googleusercontent.com/YEDYi5F_2-sqeUh2po-cB7iLBRBtTDsxVi5PS9afwj1T8m6oGtfhJn-yi4MnS317rw=w340',
+    score: 3.5,
+    scoreText: ' Rated 3.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.sandroproxy.drony',
+    appId: 'org.sandroproxy.drony',
+    title: 'Drony',
+    summary:
+     'You need proxy authentication on non rooted android device?Firewall traffic?',
+    developer: 'sandrob',
+    developerId: 'sandrob',
+    icon:
+     '//lh3.googleusercontent.com/D2S-r1IHLNhzjoxYwvMrB4xFgWOSbLLemv05R3ZbUZYgkTpv_g9nBH14Xr75o-6J9Sw=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.icecoldapps.proxyserver',
+    appId: 'com.icecoldapps.proxyserver',
+    title: 'Proxy Server',
+    summary:
+     'Run your own free proxy server (HTTP and HTTPS)! Including tunneling!',
+    developer: 'Ice Cold Apps',
+    developerId: '6016125024942124441',
+    icon:
+     'https://lh5.ggpht.com/2LyGEVjGEq_zWt4YG9wF4-NNPM61lj2Gi3rcddhMcRTGNC0iutbbc2RwmqsebP1-0u0=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.young.ss',
+    appId: 'com.young.ss',
+    title: 'HumBirdVPN-蜂鸟VPN-完全免费的科学上网助手',
+    summary:
+     'Hummingbird VPN is a completely free (no paid entry) science online / over the wall tool APP',
+    developer: 'FreeVPNService',
+    developerId: 'FreeVPNService',
+    icon:
+     '//lh3.googleusercontent.com/R7zk-sGPTU2MtU1ijQYBdt5s1rUgqGVmDHYYGrQ3UDt_WwobTuPv3tIyHIIDotkltcBV=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.adi.ufunr',
+    appId: 'com.adi.ufunr',
+    title: 'UfunR - 免费回国VPN，帮助海外华人访问国内应用。',
+    summary:
+     'Free permanent return to China VPN to help overseas Chinese access domestic applications.',
+    developer: 'ABCT网络科技有限公司',
+    developerId:
+     'ABCT%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/bNKfu_f1tYGhGY-WeS4FFgbCDwBzJ920OwH1VNZYFyjZfxyBvvpU_i8kx6zDvHPHSe-H=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.fast.psiphon.unblock.proxy.vpn_master.thunder_vpn',
+    appId: 'free.fast.psiphon.unblock.proxy.vpn_master.thunder_vpn',
+    title: 'Super VPN Master – Fast & Unlimited Free VPN Proxy',
+    summary:
+     'VPN Master is a blazing-fast VPN client provide unlimited free VPN proxy service',
+    developer: 'Free Unlimited Fast Super VPN Master',
+    developerId: 'Free+Unlimited+Fast+Super+VPN+Master',
+    icon:
+     '//lh3.googleusercontent.com/b7CImRyl9xXYPx6iRYu8svTxt-qRaT-M1nIn2o3zsviwmJy9SUv7PQdoDJVt2ZfrsWA=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.vpn.master.pro',
+    appId: 'free.vpn.unblock.proxy.vpn.master.pro',
+    title: 'VPN Proxy Master - free unblock VPN & security VPN',
+    summary:
+     'Free & unlimited vpn client to unblock sites, bypass apps & secure wifi hotspot',
+    developer: 'Innovative Connecting',
+    developerId: 'Innovative+Connecting',
+    icon:
+     '//lh3.googleusercontent.com/xuUyPj1RJY0qwm4luHUyEUpsMrqUZK6qxXZhNqD15yMc39fnAYsvwnXE5UVI5EsuSy1N=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.evanhe.proxymanager',
+    appId: 'com.evanhe.proxymanager',
+    title: 'Proxy Manager',
+    summary: 'Unlimit network access using proxy',
+    developer: 'Yotta Studio',
+    developerId: 'Yotta+Studio',
+    icon:
+     'https://lh3.ggpht.com/pSAIjNNu_4-UPvz_Z8sJolJp45uBV22Upv1EewJcTXetvy-q6pTXbPs_BXTn4wcUdbs=w340',
+    score: 3.8,
+    scoreText: ' Rated 3.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.browser.android.mobile.web.fast.magic',
+    appId: 'com.browser.android.mobile.web.fast.magic',
+    title: 'Proxy Browser - Unlock Every Website',
+    summary:
+     'A free and secure proxy browser to bypass all firewalls anonymously.',
+    developer: 'Clean Mobile Team',
+    developerId: 'Clean+Mobile+Team',
+    icon:
+     '//lh3.googleusercontent.com/DXxDoFYw5HFFsdOu_HnJOjGjTkzfgtbAyJgX1n_32rg5wgfb8xSkCv-qmP9hmoqZ32o=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.kmvpn11',
+    appId: 'com.vpn.kmvpn11',
+    title: 'ACT VPN – Unlimited Free VPN & Fast VPN Proxy',
+    summary: '100% free VPN! High VPN speed',
+    developer: 'VPN 翻墙',
+    developerId: 'VPN+%E7%BF%BB%E5%A2%99',
+    icon:
+     '//lh3.googleusercontent.com/jmXt0IaLOd-8Xy3UFEr_G3kVU2kvnDwjUhxtaybV0ipXD8Lfwtgg7_KJYs7kKlDp4kBe=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true } ]

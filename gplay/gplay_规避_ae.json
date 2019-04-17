@@ -1,0 +1,274 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.olovpn.app',
+    appId: 'com.olovpn.app',
+    title: 'OLO VPN - Unlimited Free VPN',
+    summary:
+     'OLO VPN-Unlimited Free VPN, Fast, Secure & Reliable VPN. Access blocked content',
+    developer: 'VPN Expert',
+    developerId: 'VPN+Expert',
+    icon:
+     '//lh3.googleusercontent.com/PLIfaDsTYHI-lTJQg2bq8vrxmIDvw433DC0AGNKGoLX15x8wxrN0YOnANC5TG9s8UnA=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.telepacket.TpSmart',
+    appId: 'com.telepacket.TpSmart',
+    title: 'TP Smart',
+    summary:
+     'Offers VoIP Calls from mobile phones to any landline or mobile devices.',
+    developer: 'TelePacket',
+    developerId: 'TelePacket',
+    icon:
+     '//lh3.googleusercontent.com/J0kAA3qEb9il2GnxIKhe-UV4OvU0QRNYtOAXMy6heXsWtrN3iCOqL1-YsVml-fusECQ=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.grameenvpn.vpn',
+    appId: 'com.grameenvpn.vpn',
+    title: 'GRAMEEN VPN',
+    summary:
+     'GRAMEEN VPNEasy and fast connected service imo,whatsapp,skype',
+    developer: 'GRAMEEN VPN',
+    developerId: 'GRAMEEN+VPN',
+    icon:
+     '//lh3.googleusercontent.com/4Pl1Lwh731rQwVRsGayqcbvQCNWwLxN-XuBy2ZIcBCr7OnQofVHPQsA5dktzmIppMQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.botchanger.vpn',
+    appId: 'com.botchanger.vpn',
+    title: 'Bot Changer VPN - Free VPN Proxy & Wi-Fi Security',
+    summary:
+     'Trusted Ultra Fast Proxy VPN Solution. For support email support@botchanger.com',
+    developer: 'Bot Changer, Inc.',
+    developerId: 'Bot+Changer,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/4nsU1T9rujDq6tsrSa_PHHOs0zO1kg8vyoQRGfzLuNKfTKd859SsR7ardvJLjUMbHQ=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tunnelguru.toofan',
+    appId: 'com.tunnelguru.toofan',
+    title: 'TOOFAN  Tunnel',
+    summary: 'A Lightweight High Speed HTTP Tunnel for Android',
+    developer: 'TunnelGuru',
+    developerId: '5817217708477261883',
+    icon:
+     '//lh3.googleusercontent.com/gxrimCIxnwzPz-CW9qCg-vD2UG2dJfKhql7sF9kUxF7-c0-PWyLbOtd2RyQ-w7DxS3ED=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tinker.row.calls',
+    appId: 'com.tinker.row.calls',
+    title: 'Tinker',
+    summary: 'Stay in touch with friends and family around the world',
+    developer: 'go central',
+    developerId: 'go+central',
+    icon:
+     '//lh3.googleusercontent.com/TmIZHmYM4usDsNh2w6HA7tX1ZVVAX6shYzSmj7maSPhwCIVKQNFJDlTwgtP9RhPeAvc=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.kempa.newlife',
+    appId: 'com.kempa.newlife',
+    title: 'Tree',
+    summary: 'Tree shades you from sniffers',
+    developer: 'Kempa',
+    developerId: 'Kempa',
+    icon:
+     '//lh3.googleusercontent.com/h2LOD264Gssmuv4EAXrDRCvcEfR5f41r0bRq6Mg4PZVDjJaH0uzeCYCb4cNbRhHzsJE=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=us.redapplevpn.com',
+    appId: 'us.redapplevpn.com',
+    title: 'RedAppleVPN',
+    summary: 'One tap easy to use VPN',
+    developer: 'GreenAppleVPN',
+    developerId: 'GreenAppleVPN',
+    icon:
+     '//lh3.googleusercontent.com/8MkOWobZS4HlPykEgqDlJqMniGc2UTq6FCFhmd_sfiffJoCXqxuIKBL3e8WswnG2b-3f=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.agerigna.keyboard',
+    appId: 'com.agerigna.keyboard',
+    title: 'Agerigna Amharic Keyboard - የመጀመሪያው ነጻ የአማርኛ ኪቦርድ',
+    summary:
+     'Agerigna አገርኛ Keyboard - a No 1. easy and fast አማርኛ, ትግርኛ, Oromiffa Keyboard',
+    developer: 'Agerigna Co., Ltd',
+    developerId: '9181995351721820592',
+    icon:
+     '//lh3.googleusercontent.com/gIdaB2YLfmOpkCk4mhSa3Lo9pM16bUhRB3GgFQiAmC5ame_HPLsQJmiDZtl3x-BuXmw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dubizzle.horizontal',
+    appId: 'com.dubizzle.horizontal',
+    title: 'dubizzle',
+    summary:
+     'Download dubizzle to buy a house, sell a car or find a job.',
+    developer: 'dubizzle.com',
+    developerId: 'dubizzle.com',
+    icon:
+     '//lh3.googleusercontent.com/XPlC3CR5IbEOT_1mXrkxCdbOkZeXzRDDeoIXm7wMPSQBeisQRF0FCfL8l_AFd58-tEGR=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.savagevpn.android',
+    appId: 'com.savagevpn.android',
+    title: 'Savage VPN - Unlimited Free VPN',
+    summary:
+     'Simple, Easy to use. The Best FREE VPN with Premium Unlimited VPN features.',
+    developer: 'SavageVPN',
+    developerId: 'SavageVPN',
+    icon:
+     '//lh3.googleusercontent.com/gOr9JSgScpR1wyZ0mFhHZfs4z9BsfDuHkLUWmcZVphpHrIMKN0JZF6h2f0vAtaIg3Q=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=ae.gov.mol',
+    appId: 'ae.gov.mol',
+    title: 'MOHRE',
+    summary:
+     'Ministry Of Human Resources and Emiratisation Mobile Application',
+    developer: 'Ministry of Human Resources and Emiratisation',
+    developerId: 'Ministry+of+Human+Resources+and+Emiratisation',
+    icon:
+     '//lh3.googleusercontent.com/RC2shpZT2U4qwL_PkCf38mgw8VNFLv8sQfwlfRV41tkyb05YYPGOTizLeWic5-k-6x0=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fab.personalbanking',
+    appId: 'com.fab.personalbanking',
+    title: 'FAB Mobile',
+    summary:
+     'Here it is! The new, secure and easy to use official FAB Mobile Banking App.',
+    developer: 'First Abu Dhabi Bank',
+    developerId: 'First+Abu+Dhabi+Bank',
+    icon:
+     '//lh3.googleusercontent.com/rqKQnITcfS8nQ2ArDssaWlt2-m22ywGgb6ocdBJlywmxs6zH7sWbO-gugRt2fWYzKxc=w340',
+    score: 3.1,
+    scoreText: ' Rated 3.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.odiosingle.calls',
+    appId: 'com.odiosingle.calls',
+    title: 'Odiodialer',
+    summary:
+     'Odio Dialer gives you low cost international calls you can rely on.',
+    developer: 'Odio Dialer',
+    developerId: 'Odio+Dialer',
+    icon:
+     '//lh3.googleusercontent.com/HUpvCBjOyyP9_lHmH2J9T-NOYdGEaEUGpiav3Yjs8jn9ySgwnrYRcx5hF1g3NO4law=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.rta.rtadubai',
+    appId: 'com.rta.rtadubai',
+    title: 'RTA Dubai',
+    summary:
+     'RTA Dubai is the RTA’s mobile interactive based application for Dubai.',
+    developer: 'Roads and Transport Authority',
+    developerId: 'Roads+and+Transport+Authority',
+    icon:
+     '//lh3.googleusercontent.com/dgWixS2iZbCzTZqvLf3l2WIFS0pM5eA_yfDJF936Ek1LjKu4lYlQCgVf0iCAwH93-yLf=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.dot.darbmobile',
+    appId: 'com.dot.darbmobile',
+    title: 'Darb',
+    summary:
+     'Darb is a transportation services map application for the Emirate of Abu Dhabi.',
+    developer: 'Abu Dhabi Department of Transport (DOT)',
+    developerId: 'Abu+Dhabi+Department+of+Transport+(DOT)',
+    icon:
+     '//lh3.googleusercontent.com/hl0A9dTJ8r4IuMvexbdEHK7dHK7luj5_2S5WPeWUCuV2dEym8-O7l7sVzOSwgbBcNu4=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mireo.rtasmartdrive',
+    appId: 'com.mireo.rtasmartdrive',
+    title: 'RTA Smart Drive',
+    summary:
+     'Get live traffic updates for Dubai with Smart Drive - your navigation companion!',
+    developer: 'RTA-ITS',
+    developerId: 'RTA-ITS',
+    icon:
+     '//lh5.ggpht.com/2Ljb9f0qofgDeAurXJA4jf803yaqBUq_yh6uHwBQHqjA0fuM9uMPYAzusbRQzL2NNsc=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.silverdialer.app',
+    appId: 'com.silverdialer.app',
+    title: 'Silver Dialer',
+    summary: 'Silver Dialer is a Smart Mobile app to make VOIP calls',
+    developer: 'REVE SYSTEMS LTD.',
+    developerId: 'REVE+SYSTEMS+LTD.',
+    icon:
+     '//lh3.googleusercontent.com/-YWVGWSX5gl6M7_kUwQ6pwz3f_Q94JQylA_kDjZ1ptdmmVz4DUZvoiyLhG6bHKus7TXo=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

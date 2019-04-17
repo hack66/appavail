@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=ua.ers.simpleVpn',
+    appId: 'ua.ers.simpleVpn',
+    title: 'Simple VPN - bypass of blocking sites',
+    summary:
+     'A simple VPN client to bypass the sites blocks and secure Internet traffic',
+    developer: 'Electronic Rescue Service',
+    developerId: '8294402608006584816',
+    icon:
+     '//lh3.googleusercontent.com/l2OTT07qnv4ie7zRNfri-fElVj0b2ocSiZHfr0N3Na1mcHUYjcBl_ohfW-gEb5IWEw=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=me.vguillou.etickettile',
+    appId: 'me.vguillou.etickettile',
+    title: 'E-ticket tile',
+    summary: 'A Quick Settings tile for easy e-ticket scanning',
+    developer: 'Vincent Guillou',
+    developerId: 'Vincent+Guillou',
+    icon:
+     '//lh3.googleusercontent.com/vImW0MkgVvIT3bUijO2qkUT6W1sUrJNAEPOo1EKQpDRh0q2BCgA9B2FT6qJY-Dj4t08=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger',
+    appId: 'com.frostnerd.dnschanger',
+    title: 'DNS Changer (No Root - IPv6 - All connections)',
+    summary:
+     'Change the used DNS servers without root. Supports IPv6, 2G/3G/4G and Ethernet.',
+    developer: 'Frostnerd.com',
+    developerId: 'Frostnerd.com',
+    icon:
+     '//lh3.googleusercontent.com/Lx0XZtYCsmPU3hQNEp3lstlAcVkyE0rVCHPMkI1z9kMrh-cV7JivF6Znjc4TEJybCs4=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.protoolapps.openvpn',
+    appId: 'com.protoolapps.openvpn',
+    title: 'Krack Quick Fix - VPN Free Privacy Forever',
+    summary: 'Right now the only quick solution for krack vulnerability',
+    developer: 'Pro Tool Apps',
+    developerId: '9150161450388079451',
+    icon:
+     '//lh3.googleusercontent.com/cyAh4S28X_0xE_LdxmMvg7XfMMlu9heQ5dvsFTzwGL2w4pFOcDeTYv-lBC4k_vJl9O8=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.tapinator.police.carsmash',
+    appId: 'com.tapinator.police.carsmash',
+    title: 'Police Car Smash 2017',
+    summary:
+     'Join the Police - Chase & Smash Thieves in this Amazing Cop Car Smashing Game!',
+    developer: 'Tap2Play, LLC (Ticker: TAPM)',
+    developerId: 'Tap2Play,+LLC+(Ticker:+TAPM)',
+    icon:
+     '//lh3.googleusercontent.com/ks4B7aVQT4y_5W6EURllqWmScAaLKLzulzj4-Zk_5l7IUJ898iZtK1yAdTU-SQjNkFs=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.gunner.fps.shooter.id',
+    appId: 'com.gunner.fps.shooter.id',
+    title: 'Gunner FPS Shooter',
+    summary:
+     'Destroy the enemy, complete the mission, get the reward, become the best shooter',
+    developer: 'FIRE GAME',
+    developerId: 'FIRE+GAME',
+    icon:
+     '//lh3.googleusercontent.com/uquuGLizVm_MPQx66rcyrH6MJiqUxrRzm8ZcxYp738fsvx4vU4m3-o1abHyrgEyYqG7Y=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.devloperinc.fastfreevpn',
+    appId: 'com.devloperinc.fastfreevpn',
+    title: 'Fast Free VPN Unlimited Proxy Master',
+    summary:
+     'Use unlimeted fast VPN network with Fast Free VPN Unlimited Proxy Master.',
+    developer: 'Devloper inc',
+    developerId: 'Devloper+inc',
+    icon:
+     '//lh3.googleusercontent.com/Hn-FfS4GSLJXrQOPbgTxLdrw0VtRGfESOdmO4ZGNs5ko2JnBVMy7f8jmLv9BjSUklEI=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.bti.myPiano',
+    appId: 'com.bti.myPiano',
+    title: 'My Piano',
+    summary: 'The best virtual Piano for Android™',
+    developer: 'Trajkovski Labs',
+    developerId: '4855130611498364316',
+    icon:
+     '//lh3.googleusercontent.com/DAqNVCk_JIaXSblRiykfNJQ4gBxiAmWjZYkeMWus2dKZc90CPmQoCX8GVebuVsTq1g=w340',
+    score: 4.1,
+    scoreText: ' Rated 4.1 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.lah9ifree84y',
+    appId: 'com.vpn.lah9ifree84y',
+    title: 'Best Android VPN & Unlimited Freedom Fast & Secure',
+    summary:
+     'Best Android VPN Unlimited Freedom proxy service for Android mobile tablet users',
+    developer: 'Free VPN Studio',
+    developerId: '6101273273449202990',
+    icon:
+     '//lh3.googleusercontent.com/-9t0HCIJabt29CSRjYJG8ouaqMA2DTF84YVm3XiweAGUU_XF5cBg_9g0lOssNocu7bS9=w340',
+    score: 3.9,
+    scoreText: ' Rated 3.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.antiterrorism.shooter.as',
+    appId: 'com.antiterrorism.shooter.as',
+    title: 'Anti-Terrorism Shooter',
+    summary:
+     'Join the battlefield, show your excellent combat skills, destroy the enemy',
+    developer: 'FIRE GAME',
+    developerId: 'FIRE+GAME',
+    icon:
+     '//lh3.googleusercontent.com/pTfecaVX6Ttb3acmh28TllpdcBRPXmOX2ot31DJYn-6vi5tECbcJbqk8UjbmA_loQg=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.StephenGibson.GSCompanionApp',
+    appId: 'com.StephenGibson.GSCompanionApp',
+    title: 'Grimslingers Guides & Tools',
+    summary:
+     'Learn the game, improve set up times and acquire additional content.',
+    developer: 'Stephen S Gibson',
+    developerId: 'Stephen+S+Gibson',
+    icon:
+     '//lh3.googleusercontent.com/VKWleXZEl_ejLEoD3HSecMZ7dGs16PxXJmq1GaAQrUqCuaTC8Z6cOP5eIV0gRh0eIc8=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.swat.sniper.army.mission.lu',
+    appId: 'com.swat.sniper.army.mission.lu',
+    title: 'SWAT Sniper Army Mission',
+    summary:
+     'Well trained elite sniper, dangerous task, aiming, shooting, killing. fight.',
+    developer: 'LuGame',
+    developerId: 'LuGame',
+    icon:
+     '//lh3.googleusercontent.com/tsItieAWHVJwlOCGtmjVmhWgKp4sMdHFTrE_pN5WsbYpjjQvaothyIgUzJw3xpn2Hpk=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.ambitious.proxy.vpn.fast',
+    appId: 'com.ambitious.proxy.vpn.fast',
+    title: 'FuryBear VPN- Free access to blocked sites & Apps',
+    summary:
+     'Free and unlimited access  to blocked sites & apps with FuryBear VPN',
+    developer: 'Pangolin Tech',
+    developerId: 'Pangolin+Tech',
+    icon:
+     '//lh3.googleusercontent.com/v4yLAHHSpG1a7OswXsSebF6ea3M2uA2vO5w9T9ohCNI_gKX8W0JjWf8TVduKmE4xnQ=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=ge.bog.mobilebank',
+    appId: 'ge.bog.mobilebank',
+    title: 'BOG mBank - Mobile Banking',
+    summary: 'mbank - mobile bank application of Bank of Georgia',
+    developer: 'Bank of Georgia',
+    developerId: 'Bank+of+Georgia',
+    icon:
+     '//lh3.googleusercontent.com/Wuaewhww0MZJxz72uLFzqcZlWu8zJJ2rl9YEpkYB4jtlXdVwSmBTcYYF5qZHlcqFZAU=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.turbovpn.hotspot_savagevpn.vpn.free_nordvpn_expressvpn_vpnfree',
+    appId:
+     'com.turbovpn.hotspot_savagevpn.vpn.free_nordvpn_expressvpn_vpnfree',
+    title: 'Turbo VPN Proxy Fast Unlimited Free VPN Proxy Free',
+    summary:
+     'Get Free Turbo VPN proxy Fast Unlimited Free VPN Proxy VPN with unlimited speed.',
+    developer: 'Googlx X VPN',
+    developerId: 'Googlx+X+VPN',
+    icon:
+     '//lh3.googleusercontent.com/bB2zFquys_r8VZc__vropa8zHm54iBHUNr9rg9KMFAN_ooA8p2hm_RofeG3A3S5GSw=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.oranginalplan.weaphonesfree',
+    appId: 'air.com.oranginalplan.weaphonesfree',
+    title: 'Weaphones™ Gun Sim Free Vol 1',
+    summary:
+     'Weaphones is the ultimate firearms simulator for your phone or tablet.',
+    developer: 'OranginalPlan',
+    developerId: 'OranginalPlan',
+    icon:
+     '//lh4.ggpht.com/MGLNbiFliVDHb3CRpdp_JeVCc9bQMR_XSQA_cyJjSDl6Yr1g2XcUY8f4wbvWIpRixn4=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.vpn.aechefree72y',
+    appId: 'com.vpn.aechefree72y',
+    title: 'Free Unlimited VPN Network Cloud WIFI WPS WPA',
+    summary:
+     'Free Unlimited VPN Network Cloud WIFI WPS WPA  No root access needed',
+    developer: 'Free VPN Studio',
+    developerId: '6101273273449202990',
+    icon:
+     '//lh3.googleusercontent.com/BuNfdFuCIneT85o40JWu04TrTOaX92ccp3QlCj-fKbZd5No0A3tjtZ27m8kap17CwbU=w340',
+    score: 3.7,
+    scoreText: ' Rated 3.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mobiloids.word.game.chef.diary_georgian',
+    appId: 'com.mobiloids.word.game.chef.diary_georgian',
+    title: 'იპოვე სიტყვები  მზარეულის დღიური',
+    summary:
+     'Connect the letters, make up the words, open the whole crossword',
+    developer: 'Mobiloids',
+    developerId: '5273672954439712672',
+    icon:
+     '//lh3.googleusercontent.com/8I4wm1uFlVDuGHREtrToMW8ijDCs1ZYSbv1-Obx20vEaGsNXK6OaeruO4dbvRUJpvDPc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.warpvpn.apps.warpvpn',
+    appId: 'com.warpvpn.apps.warpvpn',
+    title: 'WarpVPN',
+    summary: 'VPN',
+    developer: 'WarpVPN, LLC',
+    developerId: 'WarpVPN,+LLC',
+    icon:
+     '//lh3.googleusercontent.com/52Au8RubQvXJyxKd3FqXXHzKISuyPk2oay7PlHlLFibvKrzJD0fTLt7W0Mo0gnMd8Js=w340',
+    score: 3.4,
+    scoreText: ' Rated 3.4 stars out of five stars ',
+    priceText: '',
+    free: true } ]

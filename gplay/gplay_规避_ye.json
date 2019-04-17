@@ -1,0 +1,278 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.psiphon3.subscription',
+    appId: 'com.psiphon3.subscription',
+    title: 'Psiphon Pro - The Internet Freedom VPN',
+    summary:
+     'Access everything on the Internet with Psiphon Pro, the free VPN with a purpose.',
+    developer: 'Psiphon Inc.',
+    developerId: 'Psiphon+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/_iiNmMETMP9ofhZFa-PPqQk39cOP5yzXH6olnXc8ZwhQ9YH4KwDdstLEcTEODESUSg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.KuraimiBank',
+    appId: 'com.KuraimiBank',
+    title: 'Kuraimi Jawal Application',
+    summary:
+     'The Application is a modern means of accessing your account at AlKuraimi Bank',
+    developer: 'Alkuraimi Islamic Microfinance Bank',
+    developerId: 'Alkuraimi+Islamic+Microfinance+Bank',
+    icon:
+     '//lh3.googleusercontent.com/1bJajQkSb7_SOkOX7ngMFOak9QkFJkT2lfmmBqyb72dJaZi2rbVTHvmloJdD-DLfWqY=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.UCMobile.intl',
+    appId: 'com.UCMobile.intl',
+    title: 'UC Browser – Video Downloader, Watch Video Offline',
+    summary:
+     'Qucikly download videos you like. Watch them offline! Anytime! Anywhere!',
+    developer: 'UCWeb Inc.',
+    developerId: '5209823851140033458',
+    icon:
+     '//lh3.googleusercontent.com/bL1Zk0mf6c_v9RjezXIX3-OKYPKDNuPZ3RXtGDkNAXdSF8fwZ7lj_3LBTtfdaUDkNw=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.domobile.applock',
+    appId: 'com.domobile.applock',
+    title: 'AppLock',
+    summary:
+     '400 million downloaded AppLock. Lock apps, protect privacy. Best AppLock 2019 🔒',
+    developer: 'DoMobile Lab',
+    developerId: '8013309201265156122',
+    icon:
+     'https://lh5.ggpht.com/YAU4DdvU_Tj40BtrB__z-ZaIpBMgRJI4An_TnbmAGshWWSQJmqF9BFpGWmKUx7jVIQ=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.eng_amran',
+    appId: 'com.eng_amran',
+    title: 'اسعار العملات في اليمن والذهب: اسعار الصرف اليوم',
+    summary:
+     'Currency and gold exchange in the local market in Yemen prices (the price of cashiers) at the price of buying and selling',
+    developer: 'eng-amran',
+    developerId: 'eng-amran',
+    icon:
+     '//lh3.googleusercontent.com/2dmgJPSe8Kfx4er5h6u736gs0ECSm0e-ukjjDbsf6uOIAiBM_RxvQbhjN0o6B821tHqw=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.krm.amflos',
+    appId: 'com.krm.amflos',
+    title: 'تطبيق ام فلوس',
+    summary:
+     'Electronic Service Abralhatv Mobile allows the use of mobile access to financial services',
+    developer: 'Alkuraimi Islamic Microfinance Bank',
+    developerId: 'Alkuraimi+Islamic+Microfinance+Bank',
+    icon:
+     '//lh3.googleusercontent.com/T9fHfV4wxhM7s8mhpN2MPVFcumxU6n7U48IHg4Lnoy7yXfw-2ewJsiGHyIBmHipr9w4=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.imo.android.imoim',
+    appId: 'com.imo.android.imoim',
+    title: 'imo free video calls and chat',
+    summary: 'Message and video call your family and friends for free!',
+    developer: 'imo.im',
+    developerId: 'imo.im',
+    icon:
+     '//lh3.googleusercontent.com/tm_N1osJGfifuRlMfEip4kZFD5QCtd42CYYEhUsxABzIoEn6Nb9UXjRVmjoeKvMFUCzF=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=free.unblock.proxy.unlimited.turbovpn',
+    appId: 'free.unblock.proxy.unlimited.turbovpn',
+    title: 'Turbo VPN proxy-A Fast Unlimited Free VPN Proxy',
+    summary:
+     'Free VPN Client  is a lightning-fast app provide free VPN proxy service',
+    developer: 'appmobyu',
+    developerId: 'appmobyu',
+    icon:
+     '//lh3.googleusercontent.com/tmV8hkba4HXvExYISW6jlJtzhngAFaFaKq2iWKyZGvJBEnE_4FRn5kHNm9OagvEJ9ao=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.northghost.touchvpn',
+    appId: 'com.northghost.touchvpn',
+    title: 'Touch VPN -Free Unlimited VPN Proxy & WiFi Privacy',
+    summary:
+     'Unblock sites with Touch VPN - the free, fast & secured VPN! Surf freely now!',
+    developer: 'TouchVPN Inc.',
+    developerId: 'TouchVPN+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/1Jr6xFWEV8YStEYjUzQcbpsMhzRnLDqwaZluGNoTAn1QFAOp5-zK3K9KciFc0Rru9Ng=w340',
+    score: 4.5,
+    scoreText: ' Rated 4.5 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps',
+    appId: 'com.lenovo.anyshare.gps',
+    title: 'SHAREit - Transfer & Share',
+    summary:
+     'SHAREit, fastest cross-platform transfer app with free online videos & music',
+    developer: 'SHAREit Technologies Co.Ltd',
+    developerId: 'SHAREit+Technologies+Co.Ltd',
+    icon:
+     '//lh3.googleusercontent.com/ysu5GolL__ix8gbLyrqdHgHE9QbLdxtTJyieI2vTmIQG6HABERb_7Abh48T1v1FXxRK8=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.threestar.gallery',
+    appId: 'com.threestar.gallery',
+    title: 'Gallery',
+    summary:
+     'Best 3D gallery,photo effect gallery,live best video,excellent 3D style,3D album',
+    developer: 'SB studio',
+    developerId: 'SB+studio',
+    icon:
+     '//lh3.googleusercontent.com/Sy_9xv0fpbnc6bJgYM_DGj7-BhleftZgjbeFmvcN5eMGnoizMl2igd5IfJEq82xKZw8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=all.video.downloader.allvideodownloader',
+    appId: 'all.video.downloader.allvideodownloader',
+    title: 'All Video Downloader 2019',
+    summary:
+     'Free video downloader to fast download all videos from social webs.',
+    developer: 'InShot Inc.',
+    developerId: 'InShot+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/OJEDr4R18LJEWtP9BAoW_URAK9u5o-y7k6u6wFk9z99bK-K1gCsXk0xd40Hq8lQwxWlW=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yemenbalancenet',
+    appId: 'com.yemenbalancenet',
+    title: 'رصيد يمن نت - ADSl',
+    summary:
+     'Application to know Yemen Net balance and benefit from YemenNet services',
+    developer: 'Randa Amer',
+    developerId: 'Randa+Amer',
+    icon:
+     '//lh3.googleusercontent.com/xNJOh9wAWWmR2J0eaP6HltoRtciYpd6nP0hK3FfPjtiWOC4xN9J8rWnAaZFvHj3k2w=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url: 'https://play.google.com/store/apps/details?id=com.wagbat',
+    appId: 'com.wagbat',
+    title: 'Wagbat وجبات - Food delivery',
+    summary:
+     'Order from the best restaurants in Yemen – delivered fast, right to your door',
+    developer: 'Wagbat',
+    developerId: 'Wagbat',
+    icon:
+     '//lh3.googleusercontent.com/nD_6J69fAGcOcBdTOH5rA8LLJKMfgsQfY7RkkXrQfYBc5SC-6Kkq37JD2-0lqCzCQw=w340',
+    score: 4.6,
+    scoreText: ' Rated 4.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn',
+    appId: 'com.fast.free.unblock.secure.vpn',
+    title: 'Secure VPN – A high speed, ultra secure VPN',
+    summary:
+     'Secure VPN – A high speed, ultra secure, lightning fast VPN',
+    developer: 'Signal Lab',
+    developerId: '6481577571535301345',
+    icon:
+     '//lh3.googleusercontent.com/Zc-JF30sqOGzgcYXHvAn3DfjaD9vc9UXnHZvdy4AifTQaISCKKqEsuGXFo2s0pWnIA=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.agerigna.keyboard',
+    appId: 'com.agerigna.keyboard',
+    title: 'Agerigna Amharic Keyboard - የመጀመሪያው ነጻ የአማርኛ ኪቦርድ',
+    summary:
+     'Agerigna አገርኛ Keyboard - a No 1. easy and fast አማርኛ, ትግርኛ, Oromiffa Keyboard',
+    developer: 'Agerigna Co., Ltd',
+    developerId: '9181995351721820592',
+    icon:
+     '//lh3.googleusercontent.com/gIdaB2YLfmOpkCk4mhSa3Lo9pM16bUhRB3GgFQiAmC5ame_HPLsQJmiDZtl3x-BuXmw=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.moaath.stepsforsuccess',
+    appId: 'com.moaath.stepsforsuccess',
+    title: 'المناهج الدراسية اليمنية اساسي',
+    summary:
+     'The application of the basic curriculum of the Yemeni stage',
+    developer: 'Ministry of education',
+    developerId: 'Ministry+of+education',
+    icon:
+     '//lh3.googleusercontent.com/tk3paajpexlvFVanWDiRjxnL7lCps1eyzZLQJFeqp0c2U0CvWsM0XO5hyByaFSSX5Fk=w340',
+    score: 4,
+    scoreText: ' Rated 4.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.google.android.youtube',
+    appId: 'com.google.android.youtube',
+    title: 'YouTube',
+    summary:
+     'Enjoy your favorite videos and channels with the official YouTube app.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon:
+     '//lh3.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.yementele.daleel.yemenphone.online',
+    appId: 'com.yementele.daleel.yemenphone.online',
+    title: 'يمن فون - دليل الهاتف اليمني اونلاين',
+    summary:
+     'Yemen Online Directory, Search by Number for all Yemeni Networks',
+    developer: 'دليل الهاتف اليمني',
+    developerId:
+     '%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81+%D8%A7%D9%84%D9%8A%D9%85%D9%86%D9%8A',
+    icon:
+     '//lh3.googleusercontent.com/lHb4kaw6vIoredfI7qJIYuWLI7oQBy58EN3CnmMad8QtriBx-FQXMALxk9xL_cu16TBd=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.twitter.android',
+    appId: 'com.twitter.android',
+    title: 'Twitter',
+    summary: 'What\'s happening?',
+    developer: 'Twitter, Inc.',
+    developerId: 'Twitter,+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true } ]

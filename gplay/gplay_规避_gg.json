@@ -1,0 +1,276 @@
+[ { url:
+     'https://play.google.com/store/apps/details?id=com.hexin.plat.android.supremacy',
+    appId: 'com.hexin.plat.android.supremacy',
+    title: '同花顺至尊版-免费炒股 股票软件',
+    summary: 'Flush Extreme Edition, investment easier',
+    developer: '浙江核新同花顺网络信息股份有限公司',
+    developerId:
+     '%E6%B5%99%E6%B1%9F%E6%A0%B8%E6%96%B0%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8',
+    icon:
+     '//lh3.googleusercontent.com/od8q_Z7INbMW9Dr4qtZdCjNt9S9bYjQvQO4ABN2C7SRfyFU6DA5qgOL9hcWu690jYTg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.brainium.blackjack',
+    appId: 'com.brainium.blackjack',
+    title: 'Blackjack',
+    summary:
+     'Play the classic Blackjack casino game free, and feel the thrill of winning big!',
+    developer: 'Brainium Studios',
+    developerId: '9200952197196338626',
+    icon:
+     '//lh4.ggpht.com/9n8paiE9nfV380CK45QjdgRZ4xCVOx_LH8Ic3t-ITwjVVlCtrUOaQOv19CLFBnHCbb8=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.orisuchy.overWhatsapp',
+    appId: 'com.orisuchy.overWhatsapp',
+    title: 'overWhatsapp',
+    summary:
+     'An app that helps circumvent the annoying limitations of Wattsap',
+    developer: 'Ori Suchy',
+    developerId: 'Ori+Suchy',
+    icon:
+     '//lh3.googleusercontent.com/fFXMytcCYq4Eo3MbArc1HQFkjrV5mMT119M7UWLJmoY7myzLiQFrcqwNbIBOUCrhgw=w340',
+    score: undefined,
+    scoreText: undefined,
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.contentwatch.ghoti.cp.browser',
+    appId: 'com.contentwatch.ghoti.cp.browser',
+    title: 'Net Nanny for Android (2013)',
+    summary:
+     'The award-winning Net Nanny® parental controls available for Android',
+    developer: 'ContentWatch, Inc.',
+    developerId: 'ContentWatch,+Inc.',
+    icon:
+     'https://lh4.ggpht.com/xcsLrs4C4tjU1yi5j3VGMngqYWcxEjbuL1pZ3M9nbSREijiTjXpG65rYmeTyFdZs4w=w340',
+    score: 2.4,
+    scoreText: ' Rated 2.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=org.greatfire.freebrowser',
+    appId: 'org.greatfire.freebrowser',
+    title: 'FreeBrowser',
+    summary:
+     'FreeBrowser lets you access blocked websites without the need for a VPN or proxy',
+    developer: 'Greatfire.org',
+    developerId: 'Greatfire.org',
+    icon:
+     '//lh3.googleusercontent.com/FRJFrij37swZBUtqssRaIMZwbvddI-IhHroFb_n2HNhp93IdS1U7lE3OiXsYUhU3koLH=w340',
+    score: 4.2,
+    scoreText: ' Rated 4.2 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers',
+    appId: 'com.schneider_electric.eCommissionSmartXControllers',
+    title: 'eCommission SmartX Controllers',
+    summary:
+     'Enables configuration, programming, and commissioning of MP Series controllers.',
+    developer: 'Schneider Electric SE',
+    developerId: '5176424536227611426',
+    icon:
+     '//lh3.googleusercontent.com/59J_qPN17mzSArpRM2RW01FlAe1B4u53ZvzY3bR4o3Epofnd76nTP1CgSbgRT7J10OMz=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=air.com.pixelstudio8.venom.angry.crash.rush.io.online',
+    appId: 'air.com.pixelstudio8.venom.angry.crash.rush.io.online',
+    title: 'Venom Angry Crashy Rush Online',
+    summary:
+     'Venom.io is amazing online game, you must eat other snake or will be eaten',
+    developer: 'Pixel Studio 8',
+    developerId: 'Pixel+Studio+8',
+    icon:
+     '//lh3.googleusercontent.com/4DTg3Pr3Oj9v0RX-CqvOx4OO493ObAh8k_vlOmYdm3_BR4fi1UJDP_S4s31KJAvBqV0=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.Meditation.app',
+    appId: 'com.Meditation.app',
+    title: 'Breethe - Guided Meditation and Mindfulness',
+    summary:
+     'How to meditate, breathe, relax, relieve stress, anxiety, be calm & sleep better',
+    developer: 'Breethe',
+    developerId: 'Breethe',
+    icon:
+     '//lh3.googleusercontent.com/mcpal3vP3IPbzJlMRZaNF1TfBz906VgjIT_4qqUGH0zkiOGC3kcZx6MvKJC94zsgwN8=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.chk.permanentclock',
+    appId: 'com.chk.permanentclock',
+    title: 'YACO - Important System Infos always visible',
+    summary:
+     'Important data (date/time, battery, GPS, data connection...) always in view!',
+    developer: 'Christian Kaiser',
+    developerId: 'Christian+Kaiser',
+    icon:
+     '//lh3.googleusercontent.com/ss32V3YJK1DsgNcEdAhtLtNTxWNfAHU-SopTwqYtzWuht75qKndyJz_64Xaj--Hdzk0=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=afcethiopia.lifetruths',
+    appId: 'afcethiopia.lifetruths',
+    title: 'የህይወት እዉነታ -- Ethiopian Life Truths',
+    summary:
+     'የህይወት እዉነታ  Ethiopian Life Truths is an app of 200 amazing life articles',
+    developer: 'Hailemichael Yihun',
+    developerId: '4732824418136294157',
+    icon:
+     '//lh3.googleusercontent.com/tYOEUJpdu2iMvIg7BnZiutOOsJEyTAvyMCvdBRkRzW9J-qUS1Z1sly4aAwpzrIjBdQ=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.mjzj.reactnative',
+    appId: 'com.mjzj.reactnative',
+    title: '卖家之家 - 跨境电商卖家都在用',
+    summary: 'Home sellers end mobile App Released!',
+    developer: 'Datartisan Inc.',
+    developerId: 'Datartisan+Inc.',
+    icon:
+     '//lh3.googleusercontent.com/4UTi90-bKhf71qentC9X-lyrxI2_V1q7ZlEYb1tCUiEurhX6QDBNwS4d-MkB3VQP1g=w340',
+    score: 3,
+    scoreText: ' Rated 3.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.betsegaw.tenaye',
+    appId: 'com.betsegaw.tenaye',
+    title: 'Tenaye (ጤናዬ)',
+    summary:
+     'Informs about Contraception, HIV/AIDS, Pregnancy, and Mental Health Issues',
+    developer: 'Betsegaw Lemma Amersho',
+    developerId: 'Betsegaw+Lemma+Amersho',
+    icon:
+     '//lh3.googleusercontent.com/wnqRSstqsLQt6Nm6UyGPMnBajMyqgJx3332iVJlb-AdmnWUj_Ho0lexRJG44BHnEmA=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.versos.amarico',
+    appId: 'com.versos.amarico',
+    title: 'ተረትና ምሳሌ',
+    summary: 'Examples and numbers',
+    developer: 'Apps stars',
+    developerId: 'Apps+stars',
+    icon:
+     '//lh3.googleusercontent.com/K81HFDzH_dE8fDqWXDEmDdr5w32eN9BUWk4gz97zmRG97ndWDystBbgl_v0AZATsyQE=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=be.holofarm.immunoT',
+    appId: 'be.holofarm.immunoT',
+    title: 'Immuno-T',
+    summary: 'a story in motion',
+    developer: 'HOLOFARM',
+    developerId: 'HOLOFARM',
+    icon:
+     '//lh3.googleusercontent.com/yaBt0qnzaq9i75rWnV-OrmPgAjjpHFGk8zHuo8yvBhsJG2TqBZxASB3WuK0w_gKKpDU=w340',
+    score: 4.4,
+    scoreText: ' Rated 4.4 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.onemonkey.vectorparkour',
+    appId: 'com.onemonkey.vectorparkour',
+    title: 'Vector Parkour',
+    summary:
+     'Steal the suit for the Vector Agent in this addictive free runner adventure',
+    developer: 'One Monkey Games',
+    developerId: 'One+Monkey+Games',
+    icon:
+     '//lh3.googleusercontent.com/0WOlaO2tvneYP4WTjCoTUYyCIq0i6xczIBxFPzIpzVZ1-Vo9T0-feJMQxMWGJog1Vw=w340',
+    score: 2.9,
+    scoreText: ' Rated 2.9 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.pausedrinkapp',
+    appId: 'com.pausedrinkapp',
+    title: 'Pause...drink! drinking game.',
+    summary:
+     'Pause...drink! is the drinking game to get your party started.',
+    developer: 'Philip Sole',
+    developerId: '7889235613603720774',
+    icon:
+     '//lh3.googleusercontent.com/AGlEGc5JZv9jISsGdLRPucxnaupq9FtTL-yl1pEewQglMk-TAb9wrT7_QkOoin9kYm0=w340',
+    score: 5,
+    scoreText: ' Rated 5.0 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.maheenapps.fastvpnpro',
+    appId: 'com.maheenapps.fastvpnpro',
+    title: 'Fast VPN Pro',
+    summary: 'Fast VPN Pro, Connect easy',
+    developer: 'maheenApps',
+    developerId: 'maheenApps',
+    icon:
+     '//lh3.googleusercontent.com/-wZR5DR9U-WMUeRb2_AAS2gzJ2hlhHsxVkVq5Q11wj6VeGWJagDnby-AW2tmHqwwBLU=w340',
+    score: 4.7,
+    scoreText: ' Rated 4.7 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=net.overplay.vpn',
+    appId: 'net.overplay.vpn',
+    title: 'OverPlay VPN',
+    summary:
+     'The best privacy protection is the one you don’t even have to think about.',
+    developer: 'Overplay, Inc',
+    developerId: 'Overplay,+Inc',
+    icon:
+     '//lh3.googleusercontent.com/7gEqLX9AxE_1uYP5ZDj0a2_c4LmxoMmZKik7-fJ2V83Mz05zC24w0cOg21_B4mSeMSOp=w340',
+    score: 3.6,
+    scoreText: ' Rated 3.6 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=com.jebb.ethiopia_amharic_teretenakumneger',
+    appId: 'com.jebb.ethiopia_amharic_teretenakumneger',
+    title: 'ተረትና ቁም-ነገር_Ethiopian Teret',
+    summary:
+     'Best Ethiopian Fables in Amharic with morals crafted with pictures and music.',
+    developer: 'JEBB Appz',
+    developerId: 'JEBB+Appz',
+    icon:
+     '//lh3.googleusercontent.com/YwRKYHHXZaPU1LxH45Y9cvZJKFLVM9ptxzkRHJ4U5SxXpvnsF-PzbeK5dtSh-Kn6jyg=w340',
+    score: 4.3,
+    scoreText: ' Rated 4.3 stars out of five stars ',
+    priceText: '',
+    free: true },
+  { url:
+     'https://play.google.com/store/apps/details?id=de.daneben.timevalut',
+    appId: 'de.daneben.timevalut',
+    title: 'time lock for images',
+    summary:
+     'Hides images for a preset time. Once hidden, there is no way to see them early',
+    developer: 'Moritz Both',
+    developerId: 'Moritz+Both',
+    icon:
+     '//lh3.googleusercontent.com/SYz7imnVyBvlBtHt7TsS9JdixsyJw085BxtPNs8x1V-yARdU8NDFsJixKU_Xn_5k63rz=w340',
+    score: 4.8,
+    scoreText: ' Rated 4.8 stars out of five stars ',
+    priceText: '',
+    free: true } ]
