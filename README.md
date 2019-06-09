@@ -7,9 +7,9 @@ the paper *Shedding Light on Mobile App Store Censorship*.
 
 ```
 .
-├── AppStoreCensorship.pdf           - The actual paper
-├── LICENSE.md                       - License file
 ├── AppStoreCensorship.pdf           - The published report
+├── docs/                            - Presentation files and notes
+├── LICENSE.md                       - License file
 ├── README.md                        - This documentation file
 ├── gplay                            - Google Play Store measurements
 ├── gplay_app.js                     - Google Play app ID search script
@@ -34,6 +34,15 @@ Modeling, Adaptation and Personalization Adjunct (UMAP’19 Adjunct), June 9–1
 2019, Larnaca, Cyprus. ACM, New York, NY, USA, 6 pages.
 https://doi.org/10.1145/3314183.3324965
 ```
+
+## Presentation
+
+The paper has been presented at ACM UMAP,
+[APPS2019](https://web.archive.org/web/20190609090122/http://appsworkshop.cs.ucy.ac.cy/programme.php)
+on June the 9th, 2019.
+
+The presentation can be found on the following link:
+https://hack66.github.io/appavail
 
 ## License
 
