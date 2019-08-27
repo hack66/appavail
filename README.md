@@ -25,6 +25,11 @@ the paper *Shedding Light on Mobile App Store Censorship*.
     └── apk                          - Tencent MyApp apk files
 ```
 
+## Reading the paper
+
+You can read the complete paper here:
+[AppStoreCensorship.pdf](AppStoreCensorship.pdf)
+
 ## Citing the paper
 
 ```
